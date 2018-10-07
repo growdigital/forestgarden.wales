@@ -11,13 +11,12 @@ author:
   email: hello@growdigital.org
 taxonomies:
   tag: tags
-
 params:
   description: Forest garden tours & design, based in West Wales
   publisher: Forest Garden Wales
   publisherLogo: assets/img/logo.png
-  publisherLogoWidth: 90
-  publisherLogoHeight: 90
+  publisherLogoWidth: 220
+  publisherLogoHeight: 220
   email: helo@forestgarden.wales
   facebook: Forest-Garden-Wales
   fbapp_id: 181804962563660
