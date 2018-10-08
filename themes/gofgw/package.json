@@ -1,37 +1,19 @@
 {
-  "name": "go",
-  "description": "Minimal Hugo blog theme for Indiego starter kit",
+  "name": "gofgw",
+  "description": "Shiny Hugo theme for Forest Garden Wales",
   "author": "Jake Rayson <hello@growdigital.org>",
   "license": "(MIT OR GPL-3.0)",
   "private": false,
   "version": "0.1.9",
-  "homepage": "https://www.indiego.org.uk/",
-  "repository": "https://github.com/growdigital/indiego",
+  "homepage": "https://www.forestgarden.wales/",
+  "repository": "https://github.com/growdigital/forestgarden.wales",
   "bugs": {
-    "url": "https://github.com/growdigital/indiego/issues"
+    "url": "https://github.com/growdigital/forestgarden.wales/issues"
   },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "hugo",
-    "hugo-theme",
-    "hugo-blog",
-    "hugo-boilerplate",
-    "social",
-    "indieweb",
-    "posse",
-    "bem",
-    "bem-methodology",
-    "modular-css",
-    "microformats",
-    "schema-org",
-    "twitter",
-    "facebook",
-    "opengraph",
-    "google-plus"
-  ],
   "devDependencies": {
     "browser-sync": "^2.24.4",
     "del": "^3.0.0",
