@@ -1,4 +1,4 @@
-# go
+# gofgw
 
-Absolute bare minimum Modular CSS theme for Indiego.
+Shiny new theme for Forest Garden Wales
 
