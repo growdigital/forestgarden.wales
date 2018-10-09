@@ -1,7 +1,7 @@
 name: gofgw
 license: (MIT OR GPL-3.0)
 licenselink: https://github.com/growdigital/forestgarden.wales/blob/master/LICENSE.md
-description: Bare minimum template for Indiego with modular CSS pipeline
+description: Shiny new theme for Forest Garden Wales
 homepage: https://www.forestgarden.wales/
 tags:
 - hugo-theme
