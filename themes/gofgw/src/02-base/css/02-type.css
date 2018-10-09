@@ -5,37 +5,38 @@
 /* Headings */
 h1, h2, h3, h4, h5 {
   font-weight: 500;
+  margin-bottom: 0.5rem
 }
 
 h1 {
   line-height: 1.1;
-  margin-bottom: 0.3em;
+  margin-bottom: 0.3rem;
 }
 
 p {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.5rem;
 }
 
 pre {
-  margin: 0.5em 0;
-  padding: 1em;
-  border-radius: 0.3125em;
+  margin: 0.5rem 0;
+  padding: 1rem;
+  border-radius: 0.3125rem;
 }
 
 code {
-  border-radius: 0.0625em;
-  padding: 0 0.2em;
+  border-radius: 0.0625rem;
+  padding: 0 0.2rem;
 }
 
 blockquote {
-  padding: 0.2em 1em 0 1em;
+  padding: 0.2rem 1rem 0 1rem;
   font-size: larger;
   font-style: italic;
 }
 
 /* Faux utility headings */
 .u-h1 {
-  font-size: 2em !important;
+  font-size: 2rem !important;
 }
 
 /* Code */

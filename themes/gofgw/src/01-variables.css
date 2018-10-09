@@ -6,12 +6,22 @@
   /* Colors
      ======================================================================== */
 
-  /* --indigo: #4b0082; */
+  --blue_sky: #78affc;
+  --brown: #635134;
+  --brown_choc: #4a3d29;
+  --brown_pale: #75613d;
+  --green: #6e9c2a;
+  --green_pale: #d2e0af;
+  --grey_head: #7c7575;
+  --grey_text: #4A4A4A;
+  --khaki: #555632;
+  --orange: #eb4b2d;
+  --magnolia: #f6fce6;
 
-  /* Base variables, adapated from SUIT CSS
+  /* Base variables, adpated from SUIT CSS
      ======================================================================== */
 
-  --base_font: sans-serif;
+  --base_font: serif;
   --base_fontsize: 16px;
   --base_lineheight: 1.5;
 }

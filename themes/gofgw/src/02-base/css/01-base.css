@@ -15,8 +15,8 @@
 
 /* Apply variables */
 html {
-  background-color: white;
-  color: black;
+  background-color: var(--magnolia);
+  color: var(--grey_text);
   font-family: var(--base_font);
   font-size: var(--base_fontsize);
   line-height: var(--base_lineheight);
@@ -70,7 +70,7 @@ iframe {
 
 /* Nicely margined lists */
 ol, ul {
-  margin: 0.5rem 0 1rem 1.5rem;
+  margin: 0 0 1rem 1.5rem;
   padding: 0;
 }
 
