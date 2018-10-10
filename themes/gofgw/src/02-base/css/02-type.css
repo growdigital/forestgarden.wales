@@ -34,11 +34,6 @@ blockquote {
   font-style: italic;
 }
 
-/* Faux utility headings */
-.u-h1 {
-  font-size: 2rem !important;
-}
-
 /* Code */
 code, pre {
   font-family: 'Menlo', 'Andale Mono', 'Monaco', 'Consolas', 'Lucida Console',

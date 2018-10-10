@@ -1,3 +1,28 @@
 /* ==========================================================================
    Header
    ========================================================================== */
+
+.header {
+  background-color: white;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.header__h1 {
+  font-size: 1.6875rem;
+}
+
+.header__h1 a:link,
+.header__h1 a:visited {
+  color: var(--orange);
+  text-decoration: none;
+}
+
+.header__h1 a:hover {
+  text-decoration: underline;
+}
+
+.header__logo {
+  border-radius: 3.75rem;
+  height: auto;
+  width: 3.75rem;
+}
