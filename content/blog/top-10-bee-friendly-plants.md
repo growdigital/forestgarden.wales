@@ -1,15 +1,15 @@
 ---
-title: "Top 10 bee friendly plants for the #ForestGarden"
+title: Top 10 bee friendly plants for the forest garden
 date: 2018-09-25T10:44:01+01:00
-description: "Bring a splash of colour to your forest garden with some stalwart “system plants”, providing a much needed boost of all-year-round nectar and pollen for your friendly pollinators and predators 🐝"
+description: Bring a splash of colour to your forest garden with some stalwart “system plants”, providing a much needed boost of all-year-round nectar and pollen for your friendly pollinators and predators 🐝
 tags: 
 - ForestGarden
 - BeeFriendly
 - Pollinator
-image: "https://farm2.staticflickr.com/1849/29851000577_b307baab64_z_d.jpg"
-imageAlt: "Close up of purple drooping comfrey flowers"
-imageCap: "Comfrey (Bocking 14), a fantastic bee plant, mulch plant and all-round thuggish good guy"
-draft: true
+image: https://farm2.staticflickr.com/1849/29851000577_b307baab64_z_d.jpg
+imageAlt: Close up of purple drooping comfrey flowers
+imageCap: Comfrey (Bocking 14), a fantastic bee plant, mulch plant and all-round thuggish good guy
+draft: false
 ---
 
 The whole idea behind a forest garden is that it works _with_ nature, to be as self-sustaining as possible. This means encouraging as much wildlife as possible so that all the crops are pollinated and all the pests are naturally controlled by predators. So a productive forest garden is, by definition, a wildlife friendly garden.
@@ -24,23 +24,25 @@ The criteria for choosing the plants are threefold:
 
 That last one isn’t so scientific. So, in no particular order, with the common name, flowering period and photo:
 
-* [Erica carnea](https://www.rhs.org.uk/Plants/89384/i-Erica-carnea-i-Loughrigg/Details) (Winter Heath), Jan-Apr
-  
-* [Lamium purpureum](https://pfaf.org/user/Plant.aspx?LatinName=Lamium+purpureum) (Purple Deadnettle), Jan-Dec
-  
+* [Erica carnea](https://www.rhs.org.uk/Plants/89384/i-Erica-carnea-i-Loughrigg/Details) (Winter Heath), Jan-Apr  
+  {{< figure src="https://farm2.staticflickr.com/1951/31370641848_c2cd865e29_z_d.jpg" alt="Small pink heather flowers blossoming through snow" caption="I’m not a fan of heather, reminds me of rockeries & old age BUT it’s not all about me. Fantastic for very early nectar & pollen. By H. Zell CC BY-SA 3.0" >}}
+* [Lamium purpureum](https://pfaf.org/user/Plant.aspx?LatinName=Lamium+purpureum) (Purple Deadnettle), Jan-Dec  
+  {{< figure src="https://farm2.staticflickr.com/1911/31370641258_1373625b25_z_d.jpg" alt="Lots of mauve flowers on dead nettle in grass" caption="It’s a weed, I hear you cry! But no, it is a beautiful, beneficial and easy to grow plant. CC BY-SA 3.0" >}}
 * [Lythrum salicaria](https://pfaf.org/user/Plant.aspx?LatinName=Lythrum+salicaria) (Purple Loosestrife), Jun-Sep
-  
-* [Glechoma hederacea](https://pfaf.org/user/Plant.aspx?LatinName=Glechoma+hederacea) (Alefoot), Mar-Jun
-  
+  {{< figure src="https://farm2.staticflickr.com/1902/31370640018_8d5fb80218_z_d.jpg" alt="Spires of purple flowers against pond" caption="Stunning, architectural plant of damp places and ponds. By Smiley.toerist CC BY-SA 3.0" >}}
+* [Glechoma hederacea](https://pfaf.org/user/Plant.aspx?LatinName=Glechoma+hederacea) (Alefoot), Mar-Jun  
+  {{< figure src="https://farm1.staticflickr.com/832/40762351925_d7b29968c9_z_d.jpg" alt="Low blanket of green round leaves and haze of blue flowers" caption="Commonly known as Alefoot, this is one of my favourite ground cover plants, with a glorious sheen of bee friendly flowers in early summer" >}}
 * [Symphytum ibericum](https://www.rhs.org.uk/Plants/75444/i-Symphytum-ibericum-i/Details) (Dwarf Comfrey), May-Sep
-  
-* [Caltha palustris](https://pfaf.org/user/Plant.aspx?LatinName=Caltha+palustris) (Marsh Marigold), Jan-Dec
-  
+  {{< figure src="https://farm1.staticflickr.com/944/41912940381_6a36f8d9de_z_d.jpg" alt="Close up of pale, pink tipped comfrey flowers" caption="A beautiful stalwart ground cover plant, great mineral accumulator and just delightful, delicately hued nodding flowers." >}}
+* [Caltha palustris](https://pfaf.org/user/Plant.aspx?LatinName=Caltha+palustris) (Marsh Marigold), Jan-Dec  
+  {{< figure src="https://farm2.staticflickr.com/1968/31370642368_546557ec47_z_d.jpg" alt="Bright yellow flowers of marsh marigold" caption="An-all-year-rounder, likes a damp spot, loved by pollinators. By Stefan.lefnaer CC BY-SA 4.0" >}}
 * [Borago officinalis](https://pfaf.org/user/Plant.aspx?LatinName=Borago+officinalis) (Borage), May-Aug
-  {{< figure src="https://pfaf.org/Admin/PlantImages/BoragoOfficinalis2.jpg" alt="" caption="Did you know that the borage flower can re-fill depleted nectar in 5 minutes? Nectar powerhouse!" >}}  
-* [Linaria vulgaris](https://pfaf.org/user/Plant.aspx?LatinName=Linaria+vulgaris) (Toadflax), Jul-Oct
+  {{< figure src="https://farm2.staticflickr.com/1949/31370642578_2274bf3b28_z_d.jpg" alt="Close up of bright blue Borage flower" caption="Did you know that the Borage flower can re-fill depleted nectar in 5 minutes? Nectar powerhouse! CC BY-SA 3.0" >}}  
+* [Linaria vulgaris](https://pfaf.org/user/Plant.aspx?LatinName=Linaria+vulgaris) (Toadflax), Jul-Oct  
+  {{< figure src="https://farm2.staticflickr.com/1906/31370640378_861f7e77dd_z_d.jpg" alt="Close up of light yellow pea like flowers against grass" caption="Toadflax, likes sun and well drained soil, interesting to see how we’ll get on By David Remahl (= User:Chmod007)" >}}
 * [Reseda luteola](https://pfaf.org/USER/Plant.aspx?LatinName=Reseda+luteola) (European Mignonette, Dyer’s Rocket), Jun-Oct
-  {{< figure src="https://pfaf.org/Admin/PlantImages/ResedaLuteola.jpg" alt="" caption="I have to love any plant which is called Bastard Rocket. Plus it is fragrant and you can make a dye from the roots" >}}
+  {{< figure src="https://farm2.staticflickr.com/1936/31370638068_0620d17519_z_d.jpg" alt="Long stemmed green flowered small plant in very dry soil, mountain bay backdrop" caption="I have to love any plant which is called Bastard Rocket. Plus it is fragrant and you can make a dye from the roots. By Tigerente CC BY-SA 3.0" >}}
 * [Ulex europeaus](https://pfaf.org/user/Plant.aspx?LatinName=Ulex+europaeus) (Gorse), Jan-Dec
-  
-A lot of the information is from Martin Crawford’s [Creating a Forest Garden](), Appendix 3, the ever-awesome [Plants for a Future]() website and the [RHS plant finder]().
+  {{< figure src="https://farm1.staticflickr.com/868/41826726632_b93af9bb52_z_d.jpg" alt="Close up of bright yellow Gorse flowers" caption="Gorse is super useful as a windbreak & keep-things-out hedge, you can make wine from the flowers & it’s a nitrogen fixer. Interesting challenge to incorporate it into a garden design." >}}
+
+A lot of the information is from Martin Crawford’s [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/), Appendix 3, the ever-awesome [Plants for a Future](https://pfaf.org/) website and the [RHS website](https://www.rhs.org.uk/).
