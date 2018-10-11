@@ -3,6 +3,11 @@
    ========================================================================== */
 
 .header {
+  border-bottom: 1px solid var(--mag_plus);
+  text-align: center;
+}
+
+.header__card {
   background-color: white;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
 }
@@ -23,6 +28,7 @@
 
 .header__logo {
   border-radius: 3.75rem;
+  display: inline;
   height: auto;
   width: 3.75rem;
 }

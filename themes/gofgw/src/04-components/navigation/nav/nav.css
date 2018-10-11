@@ -1,3 +1,22 @@
 /* ==========================================================================
    Nav
    ==========================================================================*/
+
+.nav__list {
+  display: flex;
+  justify-content: center;
+}
+
+.nav__list > * {
+  margin: 0 0.5rem;
+}
+
+.nav a:link,
+.nav a:visited {
+  color: var(--grey_head);
+  text-decoration: none;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}

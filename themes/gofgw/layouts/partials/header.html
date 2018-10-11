@@ -1,5 +1,5 @@
 <header class="header" role="banner">
-  <div class="h-card">
+  <div class="h-card header__card">
     <a href="/" title="Link to home page">
       <img class="u-photo header__logo" src="/assets/img/logo.svg" alt="{{ .Site.Title }} logo">
     </a>
@@ -12,7 +12,7 @@
   </div>
   <nav class="nav">
     {{ $currentPage := . }}
-    <ol class="o-list-bare">
+    <ol class="o-list-bare nav__list">
       {{ range .Site.Menus.main }}
       <li>
         <a class="{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}is-active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
