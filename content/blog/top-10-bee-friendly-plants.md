@@ -24,7 +24,7 @@ The criteria for choosing the plants are threefold:
 
 That last one isn’t so scientific. So, in no particular order, with the common name, flowering period and photo:
 
-* [Erica carnea](https://www.rhs.org.uk/Plants/89384/i-Erica-carnea-i-Loughrigg/Details) (Winter Heath), Jan-Apr  
+1. [Erica carnea](https://www.rhs.org.uk/Plants/89384/i-Erica-carnea-i-Loughrigg/Details) (Winter Heath), Jan-Apr  
   {{< figure src="https://farm2.staticflickr.com/1951/31370641848_c2cd865e29_z_d.jpg" alt="Small pink heather flowers blossoming through snow" caption="I’m not a fan of heather, reminds me of rockeries & old age BUT it’s not all about me. Fantastic for very early nectar & pollen. By H. Zell CC BY-SA 3.0" >}}
 * [Lamium purpureum](https://pfaf.org/user/Plant.aspx?LatinName=Lamium+purpureum) (Purple Deadnettle), Jan-Dec  
   {{< figure src="https://farm2.staticflickr.com/1911/31370641258_1373625b25_z_d.jpg" alt="Lots of mauve flowers on dead nettle in grass" caption="It’s a weed, I hear you cry! But no, it is a beautiful, beneficial and easy to grow plant. CC BY-SA 3.0" >}}
