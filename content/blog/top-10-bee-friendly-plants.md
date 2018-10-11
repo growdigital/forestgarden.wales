@@ -37,9 +37,9 @@ That last one isn’t so scientific. So, in no particular order, with the common
 * [Caltha palustris](https://pfaf.org/user/Plant.aspx?LatinName=Caltha+palustris) (Marsh Marigold), Jan-Dec  
   {{< figure src="https://farm2.staticflickr.com/1968/31370642368_546557ec47_z_d.jpg" alt="Bright yellow flowers of marsh marigold" caption="An-all-year-rounder, likes a damp spot, loved by pollinators. By Stefan.lefnaer CC BY-SA 4.0" >}}
 * [Borago officinalis](https://pfaf.org/user/Plant.aspx?LatinName=Borago+officinalis) (Borage), May-Aug
-  {{< figure src="https://farm2.staticflickr.com/1949/31370642578_2274bf3b28_z_d.jpg" alt="Close up of bright blue Borage flower" caption="Did you know that the Borage flower can re-fill depleted nectar in 5 minutes? Nectar powerhouse! <a href="https://commons.wikimedia.org/w/index.php?curid=1796104">CC BY-SA 3.0</a>" >}}  
+  {{< figure src="https://farm2.staticflickr.com/1949/31370642578_2274bf3b28_z_d.jpg" alt="Close up of bright blue Borage flower" caption="Did you know that the Borage flower can re-fill depleted nectar in 5 minutes? Nectar powerhouse! CC BY-SA 3.0" >}}  
 * [Linaria vulgaris](https://pfaf.org/user/Plant.aspx?LatinName=Linaria+vulgaris) (Toadflax), Jul-Oct  
-  {{< figure src="https://farm2.staticflickr.com/1906/31370640378_861f7e77dd_z_d.jpg" alt="Close up of light yellow pea like flowers against grass" caption="Toadflax, likes sun and well drained soil, interesting to see how we’ll get on By David Remahl (= User:Chmod007)</a>" >}}
+  {{< figure src="https://farm2.staticflickr.com/1906/31370640378_861f7e77dd_z_d.jpg" alt="Close up of light yellow pea like flowers against grass" caption="Toadflax, likes sun and well drained soil, interesting to see how we’ll get on By David Remahl (= User:Chmod007)" >}}
 * [Reseda luteola](https://pfaf.org/USER/Plant.aspx?LatinName=Reseda+luteola) (European Mignonette, Dyer’s Rocket), Jun-Oct
   {{< figure src="https://farm2.staticflickr.com/1936/31370638068_0620d17519_z_d.jpg" alt="Long stemmed green flowered small plant in very dry soil, mountain bay backdrop" caption="I have to love any plant which is called Bastard Rocket. Plus it is fragrant and you can make a dye from the roots. By Tigerente CC BY-SA 3.0" >}}
 * [Ulex europeaus](https://pfaf.org/user/Plant.aspx?LatinName=Ulex+europaeus) (Gorse), Jan-Dec
