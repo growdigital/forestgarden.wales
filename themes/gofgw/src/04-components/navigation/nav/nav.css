@@ -11,6 +11,11 @@
   margin: 0 0.5rem;
 }
 
+.nav a {
+  line-height: 2rem;
+  padding: 0 .25rem .25rem;
+}
+
 .nav a:link,
 .nav a:visited {
   color: var(--grey_head);
@@ -18,5 +23,11 @@
 }
 
 .nav a:hover {
-  text-decoration: underline;
+  border-bottom: 2px solid var(--green);
+  color: var(--orange);
+  text-decoration: none;
+}
+
+.nav .is-active {
+  border-bottom: 2px solid var(--green);
 }
