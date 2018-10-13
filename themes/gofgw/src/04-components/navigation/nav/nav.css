@@ -11,6 +11,8 @@
   margin: 0 0.5rem;
 }
 
+/* nav links */
+
 .nav a {
   line-height: 2rem;
   padding: 0 .25rem .25rem;
@@ -22,7 +24,8 @@
   text-decoration: none;
 }
 
-.nav a:hover {
+.nav a:hover,
+.nav a:active {
   border-bottom: 2px solid var(--green);
   color: var(--orange);
   text-decoration: none;
@@ -30,4 +33,10 @@
 
 .nav .is-active {
   border-bottom: 2px solid var(--green);
+}
+
+.nav .is-active:hover,
+.nav .is-active:active {
+  color: var(--grey_head);
+  cursor: default;
 }
