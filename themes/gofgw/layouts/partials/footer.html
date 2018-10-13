@@ -1,5 +1,17 @@
 <footer class="footer" id="footer" role="contentinfo">
-  <div class="social">
+  <section>
+    <h2>Footer navigation</h2>
+    <nav class="nav">
+      {{ $currentPage := . }}
+      <ul class="o-list-bare">
+        {{- range .Site.Menus.secondary -}}
+        <li><a class="{{ if or ($currentPage.IsMenuCurrent " secondary " .) ($currentPage.HasMenuCurrent "secondary" .) }}is-active{{ end }}"
+            href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+  </section>
+  <section class="social">
     <h2>Social</h2>
     <ol class="o-list-bare">
       <li>
@@ -15,15 +27,15 @@
         <a href="{{ .Site.Params.baseURL }}/index.xml">RSS</a>
       </li>
     </ol>
-  </div>
-  <div class="contact">
+  </section>
+  <section class="contact">
     <h2>Contact</h2>
     <ol class="o-list-bare">
       <li>Telephone: <a href="tel:{{ .Site.Params.tel }}" rel="me">{{ .Site.Params.tel }}</a></li>
       <li>Email: <a href="mailto:{{ .Site.Params.email }}" rel="me">{{ .Site.Params.email }}</a></li>
     </ol>
-  </div>
-  <div class="credit">
+  </section>
+  <section class="credit">
     <p>
       <small>Built by
         <a href="https://www.growdigital.org/">Jake Rayson</a> with
@@ -37,5 +49,5 @@
         <a href="https://choosealicense.com/licenses/gpl-3.0/">GPL v3</a>
       </small>
     </p>
-  </div>
+  </section>
 </footer>
