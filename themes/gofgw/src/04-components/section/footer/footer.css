@@ -6,3 +6,7 @@
   background-color: var(--brown_choc);
   color: white;
 }
+
+.footer__menu {
+  background-color: var(--brown);
+}

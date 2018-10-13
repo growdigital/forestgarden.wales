@@ -31,16 +31,16 @@
 .navsec a:hover,
 .navsec a:active {
   border-bottom: 2px solid var(--green);
-  color: var(--green);
+  color: var(--green_pale);
   text-decoration: none;
 }
 
 .navsec .is-active {
-  border-bottom: 2px solid var(--orange);
+  border-bottom: 2px solid var(--green_pale);
 }
 
 .navsec .is-active:hover,
 .navsec .is-active:active {
-  color: var(--grey_head);
+  color: white;
   cursor: default;
 }
