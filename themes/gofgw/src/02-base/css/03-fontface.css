@@ -41,7 +41,7 @@
  */
 
 body {
-  font-family: serif;
+  font-family: Georgia, serif;
 }
 
 .sans {
@@ -49,26 +49,26 @@ body {
 }
 
 .fonts-loaded body {
-  font-family: IBMPlexSerif, serif;
+  font-family: IBMPlexSerif, Georgia, serif;
 }
 
 .fonts-loaded strong {
-  font-family: IBMPlexSerifBold, serif;
+  font-family: IBMPlexSerifBold, Georgia, serif;
   font-weight: 700;
 }
 
 .fonts-loaded em {
-  font-family: IBMPlexSerifItalic, serif;
+  font-family: IBMPlexSerifItalic, Georgia, serif;
   font-style: italic;
 }
 
 .fonts-loaded strong em,
 .fonts-loaded em strong {
-  font-family: IBMPlexSerifBoldItalic, serif;
+  font-family: IBMPlexSerifBoldItalic, Georgia, serif;
   font-weight: 700;
   font-style: italic;
 }
 
 .fonts-loaded .sans {
-  font-family: Montserrat;
+  font-family: Montserrat, sans-serif;
 }
