@@ -1,0 +1,46 @@
+/* ==========================================================================
+   Nav secondary
+   ==========================================================================*/
+
+.navsec__container {
+  border-bottom: 2px solid var(--brown_pale);
+}
+
+.navsec__list {
+  display: flex;
+  justify-content: center;
+}
+
+.navsec__list > * {
+  margin: 0 0.5rem;
+}
+
+/* nav links */
+
+.navsec a {
+  line-height: 2rem;
+  padding: 0 .25rem .25rem;
+}
+
+.navsec a:link,
+.navsec a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.navsec a:hover,
+.navsec a:active {
+  border-bottom: 2px solid var(--green);
+  color: var(--green);
+  text-decoration: none;
+}
+
+.navsec .is-active {
+  border-bottom: 2px solid var(--orange);
+}
+
+.navsec .is-active:hover,
+.navsec .is-active:active {
+  color: var(--grey_head);
+  cursor: default;
+}

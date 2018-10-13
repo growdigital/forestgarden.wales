@@ -1,32 +1,33 @@
 <footer class="footer" id="footer" role="contentinfo">
-  <section>
-    <h2>Footer navigation</h2>
-    <nav class="nav">
-      {{ $currentPage := . }}
-      <ul class="o-list-bare">
-        {{- range .Site.Menus.secondary -}}
-        <li><a class="{{ if or ($currentPage.IsMenuCurrent " secondary " .) ($currentPage.HasMenuCurrent "secondary" .) }}is-active{{ end }}"
-            href="{{ .URL }}">{{ .Name }}</a></li>
-        {{ end }}
-      </ul>
-    </nav>
-  </section>
-  <section class="social">
-    <h2>Social</h2>
-    <ol class="o-list-bare">
-      <li>
-        <a href="https://twitter.com/{{ .Site.Params.twitter }}" rel="me">Twitter</a>
-      </li>
-      <li>
-        <a href="https://www.facebook.com/{{ .Site.Params.facebook  }}" rel="me">Facebook</a>
-      </li>
-      <li>
-        <a href="https://plus.google.com/{{ .Site.Params.googleplus }}" rel="me">Google+</a>
-      </li>
-      <li>
-        <a href="{{ .Site.Params.baseURL }}/index.xml">RSS</a>
-      </li>
-    </ol>
+  <section class="menu">
+    <div class="navsec__container">
+      <nav class="navsec">
+        {{ $currentPage := . }}
+        <ul class="o-list-bare navsec__list">
+          {{- range .Site.Menus.secondary -}}
+          <li><a class="{{ if or ($currentPage.IsMenuCurrent " secondary " .) ($currentPage.HasMenuCurrent "secondary" .) }}is-active{{ end }}"
+              href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </nav>
+    </div>
+    <div class="social">
+      <h2 class="u-hiddenvisually">Social</h2>
+      <ol class="o-list-bare">
+        <li>
+          <a href="https://twitter.com/{{ .Site.Params.twitter }}" rel="me">Twitter</a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/{{ .Site.Params.facebook  }}" rel="me">Facebook</a>
+        </li>
+        <li>
+          <a href="https://plus.google.com/{{ .Site.Params.googleplus }}" rel="me">Google+</a>
+        </li>
+        <li>
+          <a href="{{ .Site.Params.baseURL }}/index.xml">RSS</a>
+        </li>
+      </ol>
+    </div>
   </section>
   <section class="contact">
     <h2>Contact</h2>
@@ -49,5 +50,8 @@
         <a href="https://choosealicense.com/licenses/gpl-3.0/">GPL v3</a>
       </small>
     </p>
+  </section>
+  <section class="smallprint">
+
   </section>
 </footer>
