@@ -7,7 +7,7 @@
   color: white;
 }
 
-.footer a:link,
+/* .footer a:link,
 .footer a:visited {
   color: var(--blue_sky);
   text-decoration: none;
@@ -16,14 +16,25 @@
 .footer a:hover,
 .footer a:active {
   text-decoration: underline;
-}
+} */
 
 .footer__menu {
   background-color: var(--brown);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.4);
+  padding-bottom: 1rem;
 }
 
 .footer__contact {
   line-height: 2;
   margin-bottom: 1rem;
+}
+
+.footer__credit {
+  padding: 2rem 0 4rem;
+}
+
+.footer__credit > * {
+  max-width: 30rem;
+  margin: 0 auto 1rem;
+  text-align: center;
 }
