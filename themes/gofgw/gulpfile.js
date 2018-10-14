@@ -27,7 +27,8 @@ const	paths = {
     './src/05-utilities/**/**/*.js',
 	],
 	img: [
-		'./src/**/**/*.+(png|jpg|svg|ico)',
+    '!./src/04-components/graphics/icon/icon.svg',
+    './src/**/**/*.+(png|jpg|svg|ico)',
 		'./src/**/**/**/*.+(png|jpg|svg|ico)'
 	]
 };

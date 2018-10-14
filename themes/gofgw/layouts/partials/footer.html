@@ -76,26 +76,53 @@
         </li>
       </ol>
     </div>
-  </section>
-  <section class="contact">
-    <h2>Contact</h2>
-    <ol class="o-list-bare">
-      <li>Telephone: <a href="tel:{{ .Site.Params.tel }}" rel="me">{{ .Site.Params.tel }}</a></li>
-      <li>Email: <a href="mailto:{{ .Site.Params.email }}" rel="me">{{ .Site.Params.email }}</a></li>
-    </ol>
+    <div class="contact">
+      <h2 class="u-hiddenvisually">Contact</h2>
+      <ol class="o-list-bare">
+        <li>Email: <a href="mailto:{{ .Site.Params.email }}" rel="me">{{ .Site.Params.email }}</a></li>
+        <li>Phone: <a href="tel:{{ .Site.Params.tel }}" rel="me">{{ .Site.Params.tel }}</a></li>
+      </ol>
+    </div>
+    <div class="rss">
+      <h2 class="u-hiddenvisually">RSS</h2>
+      <ol class="o-list-bare rss">
+        <li>
+          <a href="{{ .Permalink }}blog/index.xml">
+            <figure class="icon__figure">
+              <svg class="icon icon--rss" aria-hidden="true">
+                <use xlink:href="#icon-rss" />
+              </svg>
+              <figcaption>Blog feed</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="{{ .Permalink }}/index.xml">
+            <figure class="icon__figure">
+              <svg class="icon icon--rss" aria-hidden="true">
+                <use xlink:href="#icon-rss" />
+              </svg>
+              <figcaption>News feed</figcaption>
+            </figure>
+          </a>
+        </li>
+      </ol>
+    </div>
   </section>
   <section class="credit">
     <p>
-      <small>Built by
+      <small>Designed &amp; built by
         <a href="https://www.growdigital.org/">Jake Rayson</a> with
         <a href="https://gohugo.io/">Hugo</a>, deployed by
         <a href="https://www.netlify.com/">Netlify</a>
       </small>
     </p>
     <p>
-      <small>&copy; Jake Rayson 2017-18, license
+      <small>Website copyright &copy; Jake Rayson 2017-18,
+        <a href="https://github.com/growdigital/forestgarden.wales">theme</a> license
         <a href="https://choosealicense.com/licenses/mit/">MIT</a> &amp;
-        <a href="https://choosealicense.com/licenses/gpl-3.0/">GPL v3</a>
+        <a href="https://choosealicense.com/licenses/gpl-3.0/">GPL v3</a>,
+        content license <a href="">Attribution-NonCommercial-ShareAlike 4.0 International</a>
       </small>
     </p>
   </section>

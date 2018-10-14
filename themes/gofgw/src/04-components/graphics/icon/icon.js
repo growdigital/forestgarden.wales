@@ -15,7 +15,7 @@ var supportsSvg =  document.implementation.hasFeature("http://www.w3.org/TR/SVG1
 if (supportsSvg) {
   // Add svg class to body
   document.body.classList.add("svg");
-  var url = "/assets/images/icon.svg"
+  var url = "/assets/img/icon.svg"
   var xhr = new XMLHttpRequest();
 
   xhr.onload = function() {
@@ -30,7 +30,6 @@ if (supportsSvg) {
 } else {
   document.body.classList.add("no-svg");
 }
-
 
 /**
  * TODO:
