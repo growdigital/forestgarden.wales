@@ -1,0 +1,19 @@
+/* ==========================================================================
+   Social links
+   ==========================================================================*/
+
+.social__list {
+  display: flex;
+  justify-content: center;
+}
+
+.social__list a:link,
+.social__list a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.social__list a:hover,
+.social__list a:active {
+  text-decoration: underline;
+}

@@ -2,7 +2,7 @@
    Nav secondary
    ==========================================================================*/
 
-.navsec__container {
+.navsec__wrap {
   border-bottom: 2px solid var(--brown_pale);
 }
 
