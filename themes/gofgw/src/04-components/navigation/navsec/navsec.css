@@ -4,6 +4,8 @@
 
 .navsec__wrap {
   border-bottom: 2px solid var(--brown_pale);
+  margin-bottom: 1rem;
+  padding-top: 0.25rem;
 }
 
 .navsec__list {

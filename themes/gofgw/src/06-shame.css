@@ -17,3 +17,12 @@
  * list-bare.css example of CSS object in /src/modules/objects/,
  * used in header.html and footer.html
  */
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+.social__list {
+  margin-bottom: 1rem;
+}

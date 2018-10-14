@@ -7,6 +7,10 @@
   justify-content: center;
 }
 
+.social__list > * {
+  margin: 0 .5rem;
+}
+
 .social__list a:link,
 .social__list a:visited {
   color: white;
