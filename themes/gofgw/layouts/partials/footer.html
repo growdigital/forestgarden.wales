@@ -15,7 +15,7 @@
       <h2 class="u-hiddenvisually">Social</h2>
       <ol class="o-list-bare social__list">
         <li>
-          <a href="https://twitter.com/{{ .Site.Params.twitter }}" aria-label="Twitter" rel="me">
+          <a href="https://twitter.com/{{ .Site.Params.twitter }}" aria-label="Twitter" title="Twitter" rel="me">
             <figure class="icon__figure">
               <svg class="icon icon--footer icon--twitter" aria-hidden="true">
                 <use xlink:href="#icon-twitter" />
@@ -25,7 +25,7 @@
           </a>
         </li>
         <li>
-          <a href="https://www.facebook.com/{{ .Site.Params.facebook }}" aria-label="Facebook" rel="me">
+          <a href="https://www.facebook.com/{{ .Site.Params.facebook }}" aria-label="Facebook" title="Facebook" rel="me">
             <figure class="icon__figure">
               <svg class="icon icon--footer icon--facebook" aria-hidden="true">
                 <use xlink:href="#icon-facebook" />
@@ -35,7 +35,7 @@
           </a>
         </li>
         <li>
-          <a href="https://{{ .Site.Params.wordpress }}.wordpress.com/" aria-label="Wordpress" rel="me">
+          <a href="https://{{ .Site.Params.wordpress }}.wordpress.com/" aria-label="Wordpress" title="Wordpress" rel="me">
             <figure class="icon__figure">
               <svg class="icon icon--footer icon--wordpress" aria-hidden="true">
                 <use xlink:href="#icon-wordpress" />
@@ -45,7 +45,7 @@
           </a>
         </li>
         <li>
-          <a href="https://www.tripadvisor.co.uk/{{ .Site.Params.tripadvisor }}" aria-label="TripAdvisor" rel="me">
+          <a href="https://www.tripadvisor.co.uk/{{ .Site.Params.tripadvisor }}" aria-label="TripAdvisor" title="TripAdvisor" rel="me">
             <figure class="icon__figure">
               <svg class="icon icon--footer icon--tripadvisor" aria-hidden="true">
                 <use xlink:href="#icon-tripadvisor" />
@@ -55,7 +55,7 @@
           </a>
         </li>
         <li>
-          <a href="https://www.pinterest.co.uk/{{ .Site.Params.pinterest }}" aria-label="Pinterest" rel="me">
+          <a href="https://www.pinterest.co.uk/{{ .Site.Params.pinterest }}" aria-label="Pinterest" title="Pinterest" rel="me">
             <figure class="icon__figure">
               <svg class="icon icon--footer icon--pinterest" aria-hidden="true">
                 <use xlink:href="#icon-pinterest" />
@@ -65,7 +65,7 @@
           </a>
         </li>
         <li>
-          <a href="https://plus.google.com/{{ .Site.Params.googleplus }}" aria-label="Google+" rel="me">
+          <a href="https://plus.google.com/{{ .Site.Params.googleplus }}" aria-label="Google+"title="Google+" rel="me">
             <figure class="icon__figure">
               <svg class="icon icon--footer icon--google" aria-hidden="true">
                 <use xlink:href="#icon-google" />
@@ -83,12 +83,12 @@
         <li>Phone: <a href="tel:{{ .Site.Params.tel }}" rel="me">{{ .Site.Params.tel }}</a></li>
       </ol>
     </div>
-    <div class="footer__rss">
+    <div class="rss">
       <h2 class="u-hiddenvisually">RSS</h2>
-      <ol class="o-list-bare rss flex">
+      <ol class="o-list-bare rss__list flex">
         <li>
           <a href="{{ .Permalink }}blog/index.xml">
-            <figure class="icon__figure">
+            <figure class="icon__figure flex">
               <svg class="icon icon--footer icon--rss" aria-hidden="true">
                 <use xlink:href="#icon-rss" />
               </svg>
@@ -98,7 +98,7 @@
         </li>
         <li>
           <a href="{{ .Permalink }}/index.xml">
-            <figure class="icon__figure">
+            <figure class="icon__figure flex">
               <svg class="icon icon--footer icon--rss" aria-hidden="true">
                 <use xlink:href="#icon-rss" />
               </svg>

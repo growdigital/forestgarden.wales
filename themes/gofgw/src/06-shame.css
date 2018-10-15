@@ -26,3 +26,11 @@
 .social__list {
   margin-bottom: 1rem;
 }
+
+.rss__list > * {
+  margin: 0 1rem;
+}
+
+.rss .rss__list a {
+  color: white;
+}
