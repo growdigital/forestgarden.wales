@@ -19,19 +19,19 @@
 
 /* nav links */
 
-.navsec a {
+.navsec .navsec__list a {
   line-height: 2rem;
   padding: 0 .25rem .25rem;
 }
 
-.navsec a:link,
-.navsec a:visited {
+.navsec .navsec__list a:link,
+.navsec .navsec__list a:visited {
   color: white;
   text-decoration: none;
 }
 
-.navsec a:hover,
-.navsec a:active {
+.navsec .navsec__list a:hover,
+.navsec .navsec__list a:active {
   border-bottom: 2px solid var(--green);
   color: var(--green_pale);
   text-decoration: none;

@@ -15,16 +15,35 @@
 
 .icon {
   fill: currentColor;
-  width: 1.5em;
-  height: 1.5em;
-  vertical-align: -0.15em;
+  width: 1.6875rem;
+  height: 1.6875rem;
+  vertical-align: -0.15rem;
 }
+
+/* Footer icons, nice 'n' white */
+/* .icon--footer {
+  fill: white;
+}
+
+.icon--footer:hover {
+  color: var(--green_pale);
+  opacity: .3;
+} */
 
 /* Icon figure used without margins, as a container for image and caption */
 .icon__figure {
   margin: 0;
   text-align: center;
 }
+
+.footer .icon__figure {
+  color: white;
+}
+
+.footer .icon__figure:hover {
+  color: var(--orange);
+}
+
 
 /* Hide icon figcaption if svg detected and icons file found
    TODO: temp -- incorporate with @extend ??? */
