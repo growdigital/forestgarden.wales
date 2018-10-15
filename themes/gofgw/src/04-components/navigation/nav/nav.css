@@ -2,6 +2,12 @@
    Nav
    ==========================================================================*/
 
+.nav {
+  font-family: Montserrat, sans-serif;
+  font-size: .875rem;
+  text-transform: uppercase;
+}
+
 .nav__list {
   display: flex;
   justify-content: center;
