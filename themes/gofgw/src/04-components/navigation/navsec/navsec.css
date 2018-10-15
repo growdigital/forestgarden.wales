@@ -2,6 +2,13 @@
    Nav secondary
    ==========================================================================*/
 
+.navsec {
+  font-family: Montserrat, sans-serif;
+  font-size: .875rem;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
 .navsec__wrap {
   border-bottom: 2px solid var(--brown_pale);
   margin-bottom: 1rem;

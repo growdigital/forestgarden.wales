@@ -44,14 +44,6 @@
   color: var(--orange);
 }
 
-.footer .icon__figure figcaption,
-.footer .icon__figure figcaption:hover
-{
-  color:white;
-  text-decoration: none;
-
-}
-
 /* Hide icon figcaption if svg detected and icons file found
    TODO: temp -- incorporate with @extend ??? */
 .svg .icons .u-js-hiddenvisually {

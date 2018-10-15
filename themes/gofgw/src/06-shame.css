@@ -31,6 +31,8 @@
   margin: 0 1rem;
 }
 
-.rss .rss__list a {
-  color: white;
+.rss .rss__list a,
+.rss .rss__list figcaption,
+.rss .rss__list a:hover {
+  color: white !important;
 }
