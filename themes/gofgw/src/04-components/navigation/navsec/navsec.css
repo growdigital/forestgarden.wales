@@ -39,13 +39,13 @@
 
 .navsec .navsec__list a:hover,
 .navsec .navsec__list a:active {
-  border-bottom: 2px solid var(--green);
+  border-bottom: 2px solid var(--orange);
   color: var(--green_pale);
   text-decoration: none;
 }
 
 .navsec .is-active {
-  border-bottom: 2px solid var(--green_pale);
+  border-bottom: 2px solid var(--orange);
 }
 
 .navsec .is-active:hover,
