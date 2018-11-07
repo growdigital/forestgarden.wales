@@ -12,7 +12,13 @@ Forest gardening is a productive, low maintenance, wildlife friendly way to gard
 
 The benefits of a forest garden and many, varied and joyous:
 
-* **Biodiversity** – the idea of a forest garden is to **[work with nature](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/)** to create edible crops, so that all the nutrients, minerals, pollinators and pest predators are encouraged to make a home.
+* **Biodiversity** – a forest garden **[works with nature](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/)** to create edible crops, so that all the nutrients, minerals, pollinators and pest predators are encouraged to make a home.
 * **Low maintenance** – with nature doing the heavy lifting, a forest garden is relatively low maintenance. The majority of plants are perennial, so there’s minimal watering. There is a permanent living ground cover, so weeding is passing affair. The greatest amount of work is mowing the grass paths and harvesting the crops.
 * **Small carbon footprint** – with all nutrients and 
-* **Resilient** – 
+* **Resilience** – 
+
+low maintenance
+productive
+wildlife friendly by default
+small carbon footprint
+resilient
