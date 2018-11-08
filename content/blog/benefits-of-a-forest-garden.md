@@ -1,5 +1,5 @@
 ---
-title: "Four benefits of a #ForestGarden"
+title: "Benefits of a forest garden"
 date: 2018-10-20T18:22:59+01:00
 description: ""
 tags: 
