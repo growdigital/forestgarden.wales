@@ -59,3 +59,5 @@ Specifically, it will be **arbuscular mycorrhizal fungi (AMF)**:
 1. **Trees from seed:** add inoculant layer ⅓ way down in pot
 2. **Pre-grown trees:** add spade-full of inoculant to bottom of hole
 3. **Crops:** pinch of inoculant into any hole, or sprinkle in bottom of drill
+
+You may also like the blog post [Plants that make mycorrhizal associations](https://www.forestgarden.wales/blog/list-mycorrhizal-associations/) on this website.
