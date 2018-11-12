@@ -14,7 +14,7 @@ draft: false
 
 I have a love/hate relationship with social media. On the one hand, it has opened up completely new gardening and wildlife worlds, via groups such as [#GdnBloggers](https://www.facebook.com/groups/gdnbloggers/?ref=bookmarks). On the other, it has aided & abetted Donald Trump and Brexit.
 
-But forest garden courses and design services don’t promote themselves, so I have taken to bulk auto-scheduling my blog posts. This simply means that I write a single blog post once a wekk, then using a 3rd party service, I write multiple social media posts for predefined times.
+But forest garden courses and design services don’t promote themselves, so I have taken to _bulk auto-scheduling my blog posts_. This simply means that I write a single blog post once a week, then using a 3rd party service, I schedule multiple social media posts at predefined times linking to the original article.
 
 The service I use is called [Buffer](https://buffer.com/) (together with [Bulk Buffer](https://www.bulkbuffer.com/app)). It costs about £12 per month, which is fairly pricey, though considering that most of my work comes from my website, it’s a reasonable cost. There are similar services such as [Hootsuite](https://hootsuite.com), [Crowdfire](https://www.crowdfireapp.com), [Stacker](https://www.getstacker.com) and [dlvr.it](https://dlvrit.com).
 
