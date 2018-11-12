@@ -1,46 +1,27 @@
 ---
-title: "My social media garden blog experiment"
+title: "My social media blog experiment"
 date: 2018-11-10T15:50:58Z
-description: ""
+description: "Is bulk auto-scheduling akin to spam, or is it a useful tool for promoting your blog?"
 tag: 
   - ForestGarden
   - social
   - blog
-image: ""
-imageAlt: ""
-imageCap: ""
-draft: true
+image: "https://i.postimg.cc/v81Q4jbm/Screen-Shot-2018-11-12-at-17-07-31.png"
+imageAlt: "Screenshot of bulk auto-scheduling service"
+imageCap: "Screenshot from Buffer, showing calendar view of automated posts"
+draft: false
 ---
 
-Love/hate social media. 
+I have a love/hate relationship with social media. On the one hand, it has opened up completely new gardening and wildlife worlds, via groups such as [#GdnBloggers](https://www.facebook.com/groups/gdnbloggers/?ref=bookmarks). On the other, it has aided & abetted Donald Trump and Brexit.
 
-I need website to promote forest garden courses & tours.
+But forest garden courses and design services don’t promote themselves, so I have taken to bulk auto-scheduling my blog posts. This simply means that I write a single blog post once a wekk, then using a 3rd party service, I write multiple social media posts for predefined times.
 
-Your website at the centre. Flickr and Google+ as recent examples of stuff going down
+The service I use is called [Buffer](https://buffer.com/) (together with [Bulk Buffer](https://www.bulkbuffer.com/app)). It costs about £12 per month, which is fairly pricey, though considering that most of my work comes from my website, it’s a reasonable cost. There are similar services such as [Hootsuite](https://hootsuite.com), [Crowdfire](https://www.crowdfireapp.com), [Stacker](https://www.getstacker.com) and [dlvr.it](https://dlvrit.com).
 
-Publish Once, Syndicate Site Elsewhere
-POSSE
+I found out such things existed after going on a free [Business Wales social media workshop](https://wales.business-events.org.uk/en/events/superfast-business-wales-sell-more-with-social-media/), ably run by Angus from [Web Adept](https://webadeptuk.com). 
 
-Good news, easy to do with hosted WordPress, and bit less easy but doable with self-hosted WordPress with plugin.
+The other key takeaway from the workshop was to host all your blog content on your own website and then **syndicate** to your social media platforms. This way, you keep control of your content. Otherwise, the social media platform can simply change it’s terms & conditions, and you won’t be able to access your content any more. This happened to me with Flickr – I have over 2,000 photos on the service, and they recently announced they were [limiting their free service](http://blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/).
 
-I use static site generator, called Hugo. Way more complicated to set up but as it's my trade, it's what I do. Set up starter kit called Indiego to enable POSSE
+This way of controlling your content is called [Publish Once, Syndicate Site Elsewhere](https://indieweb.org/POSSE), and the good news is that it’s easy to do with [hosted WordPress.com sites](https://en.support.wordpress.com/connect/) and fairly easy to do with self-hosted WordPress sites using eg [Social Network Auto-Poster](https://wordpress.org/plugins/social-networks-auto-poster-facebook-twitter-g/). For my bespoke website, I use a free service called [IFTT](https://ifttt.com/).
 
-Website generates RSS feed. stands for Really Simple Syndication or Rich Site Summary
-news feed.
-Then that is piped to your social media networks. I use a free service called IFTT. 
-
-BUT
-
-problem is, only published once. and the thing with social media is that it's 24/7/365. Isn't it just.
-
-So, you can schedule your posts multiple times
-
-Went on free social media course by welsh government, chap called Angus.
-
-Main takeaway: write one blog post per week (4-5 hours), then write summaries to automatically schedule (1 hour). 2-3 times per day, over 1 week
-
-I ended up spending $15 per month with Buffer, and using BulkBuffer for the auto scheduling
-
-BUT
-
-is this spamming?
+**But…** I do have misgivings, whether people might see it as some sort of spamming. Personally, I like to get reminders from people that I follow, particularly because of the linear, time-based nature of social media posts. Maybe some people will find it irritating. This is the nature of the experiment!
