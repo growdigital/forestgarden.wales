@@ -1,10 +1,16 @@
 ---
 title: "How to make your own mycorrhizal fungi"
 date: 2018-01-29
-description: "You can make your own arbuscular mycorrhizal fungi inoculant, like rootgrow™, for adding to roots for healthier plants"
-image: ""
-imageAlt: ""
-imageCap: ""
+description: "You can make your own arbuscular mycorrhizal fungi inoculant, like rootgrow™, for adding to roots for healthier plants. Notes & photos kindly from Antony & Emma of @HyphaeShroomery. Photos copyright @HyphaeShroomery."
+tags: 
+  - ForestGarden
+  - mycorrhizal
+  - fungi
+  - inoculant
+  - DIY
+image: "https://i.postimg.cc/8kfKR9Bn/bait-plants.jpg"
+imageAlt: "Close up of top of white woven sack with plants growing out the top"
+imageCap: "Bait plants growing in woven sack, multiplying the mycorrhizal fungi & ready for harvest"
 draft: false
 ---
 
@@ -27,6 +33,8 @@ Specifically, it will be **arbuscular mycorrhizal fungi (AMF)**:
 3. **Method:** Clear away about half square metre of the vegetation underneath your target plant. Dig down to a depth of about 25cm collecting the soil and as many fine roots as possible. It is better, but not essential, to collect from under several different trees and shrubs.
 4. With stony soil, sieve it to get rid of large stones.
 
+{{< figure src="https://i.postimg.cc/XvPyj2PT/01-mix-starter-compost.jpg" alt="Person mixing soil in plastic bucket" caption="Mixing the starter soil with peat-free compost to improve fertility and eke out the soil" >}}
+
 ## 2. Multiply mycorrhiza
 
 1. Position pots where they can be inspected, watered and left alone.
@@ -36,14 +44,20 @@ Specifically, it will be **arbuscular mycorrhizal fungi (AMF)**:
 5. Sow seeds closer than normal, alternating the species.
 6. Keep regularly watered.
 
+{{< figure src="https://i.postimg.cc/SxDM5QfQ/02-seed.jpg" alt="Hand holding mixed seed over bag" caption="Mixture of grassy and legume seed" >}}
+
 ## 3. Harvest
 
 1. Ten days before using inoculant, cut down bait plants at base of the stem and stop watering.
 2. This kills the plant and tricks fungus into producing spores.
 3. After the ten days, pull up roots, chop into 1cm pieces, mix back into soil.
 
+{{< figure src="https://i.postimg.cc/KvLW2w1g/03-bait-plants.jpg" alt="Close up of plants growing in white fertiliser bag" caption="You can also recycle woven plastic sacks to grow bait plants" >}}
+
 ## 4. Using inoculant
 
 1. **Trees from seed:** add inoculant layer ⅓ way down in pot
 2. **Pre-grown trees:** add spade-full of inoculant to bottom of hole
 3. **Crops:** pinch of inoculant into any hole, or sprinkle in bottom of drill
+
+You may also like the blog post [Plants that make mycorrhizal associations](https://www.forestgarden.wales/blog/list-mycorrhizal-associations/) on this website.

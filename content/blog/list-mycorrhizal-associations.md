@@ -8,7 +8,7 @@ imageCap: "Banner image from Radical Mycology website"
 draft: false
 ---
 
-Edited notes from the [Radical Mycology](https://radicalmycology.com/) [book](http://www.chthaeus.com/Radical-Mycology-by-Peter-McCoy-p/b-rmp.htm) by [Peter McCoy](https://radicalmycology.com/peters-bio/). Handy knowledge when [making your own mycorrhizal inoculant](https://www.forestgarden.wales/blog/how-to-make-your-own-mycorrhizal-fungi/).
+Edited notes from the [Radical Mycology](https://radicalmycology.com/) [book](http://www.chthaeus.com/Radical-Mycology-by-Peter-McCoy-p/b-rmp.htm) by [Peter McCoy](https://radicalmycology.com/peters-bio/). Handy knowledge when [making your own mycorrhizal inoculant](https://www.forestgarden.wales/blog/make-your-own-mychorrizal-inoculum/).
 
 1. [Arbuscular (endo)mycorrhizal](#arbuscular-endo-mycorrhizal-plants-80-90-)
 2. [Non-mycorrhizal](non-mycorrhizal-plants-5-)
