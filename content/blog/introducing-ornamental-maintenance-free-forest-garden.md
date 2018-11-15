@@ -12,7 +12,7 @@ Yes, you _can_ have it all, beauty _and_ utility. Well, this is what I’m hopin
 
 {{< figure src="https://i.postimg.cc/Y00kYk9X/OFG-panorama.jpg" alt="Panorama of mown field bordered with trees" caption="The greenfield site of the Ornamental Forest Garden" >}}
 
-It’s a one acre, greenfield site (previously used as unfertilised rough pasture for cows), with bordered with established trees and a track to the south and west, open to the neighbour’s field to the north and abutting the house and garden to the east. 
+It’s a one acre, greenfield site (previously used as unfertilised rough pasture for cows), bordered by established trees and a track to the south and west, open to the neighbour’s field to the north and abutting the house and garden to the east. 
 
 {{< figure src="https://i.postimg.cc/bwNJPhL6/OFG-screenshot.png" alt="Screenshot of CAD drawing" caption="The beginnings of the OFG plan" >}}
 
