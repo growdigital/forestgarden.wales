@@ -2,13 +2,15 @@
 title: "Introducing the OFG: Ornamental Forest Garden!"
 date: 2018-11-12T19:05:44Z
 description: "I’m on a mission to prove that a forest garden can be as aesthetically beautiful as it is productive, wildlife friendly & low maintenance."
-image: "https://i.postimg.cc/Y00kYk9X/OFG-panorama.jpg"
-imageAlt: "Panorama of mown field bordered with trees"
-imageCap: "The greenfield site of the Ornamental Forest Garden"
+image: "https://i.postimg.cc/MGH715XD/quince-blossom.jpg"
+imageAlt: "Sunset over close up of white pink blossom"
+imageCap: "The quince blossom in the first forest garden"
 draft: false
 ---
 
 Yes, you _can_ have it all, beauty _and_ utility. Well, this is what I’m hoping to prove with the Ornamental Forest Garden. 
+
+{{< figure src="https://i.postimg.cc/Y00kYk9X/OFG-panorama.jpg" alt="Panorama of mown field bordered with trees" caption="The greenfield site of the Ornamental Forest Garden" >}}
 
 It’s a one acre, greenfield site (previously used as unfertilised rough pasture for cows), with bordered with established trees and a track to the south and west, open to the neighbour’s field to the north and abutting the house and garden to the east. 
 
