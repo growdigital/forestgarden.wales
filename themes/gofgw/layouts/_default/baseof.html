@@ -2,13 +2,13 @@
 <html lang="{{ .Site.LanguageCode }}">
 {{ partial "metahead.html" . }}
 <body>
-  <div class="grid">
     {{ partial "header.html" . }}
-    {{ block "main" . }}
-    {{ end }}
-    {{ partial "aside.html" . }}
+    <div class="grid">
+      {{ block "main" . }}
+      {{ end }}
+      {{ partial "aside.html" . }}
+    </div>
     {{ partial "footer.html" . }}
-  </div>
 <script src="/assets/app.js"></script>
 </body>
 </html>
