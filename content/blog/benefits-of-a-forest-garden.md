@@ -1,7 +1,7 @@
 ---
 title: "Benefits of a forest garden"
 date: 2018-10-20T18:22:59+01:00
-description: ""
+description: "TL;DR low maintenance, productive, biodiversity, resilient 🙂"
 tags: 
   - ForestGarden
 image: "https://farm2.staticflickr.com/1923/31281175558_a96840faaa_z_d.jpg"
