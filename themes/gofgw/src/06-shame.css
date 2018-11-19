@@ -70,5 +70,12 @@
 
 .grid {
   display: grid;
-  grid-template-columns: 1fr 200px;
+  grid-template-columns: 18rem 1fr;
+  margin: 0 auto;
+  max-width: 80%;
 }
+
+main
+ {
+  order: 2;
+ }

@@ -2,6 +2,9 @@
 title: "Introducing the OFG: Ornamental Forest Garden!"
 date: 2018-11-12T19:05:44Z
 description: "I’m on a mission to prove that a forest garden can be as aesthetically beautiful as it is productive, wildlife friendly & low maintenance."
+tags:
+  - ForestGarden
+  - OFG
 image: "https://i.postimg.cc/MGH715XD/quince-blossom.jpg"
 imageAlt: "Sunset over close up of white pink blossom"
 imageCap: "The quince blossom in the first forest garden"
