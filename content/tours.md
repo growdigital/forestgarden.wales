@@ -12,19 +12,19 @@ draft: false
 
 {{< figure src="https://farm1.staticflickr.com/799/26465730067_f657ece88c_z_d.jpg" alt="Misty view on a sunny morning across pond, young orchard to establised trees" caption="Early morning looking eastward across the Wildlife Pond and newly established forest garden" >}}
 
-On the **first Saturday of each month** (May to September inclusive), we offer a 3 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. This includes a presentation plus coffee & cake and is for anyone interested in learning more about forest gardening.
-
-You can buy tickets for £10 from **[forestgardenwales.eventbrite.co.uk](https://forestgardenwales.eventbrite.co.uk)**
-
-> Forest gardening is a productive and practical garden system using trees, shrubs and perennial plants, designed to be stable, sustainable and low-maintenance.
+On the **first Saturday of each month** (May to September inclusive), we offer a 2.5 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. This includes a presentation plus coffee & cake and is for anyone interested in learning more about forest gardening.
 
 The dates for your diary are:
 
-1. Saturday 5th May
-2. Saturday 2nd June
-3. Saturday 7th July
-4. Saturday 4th August
-5. Saturday 1st September
+1. Saturday 4th May 2019
+2. Saturday 1st June 2019
+3. Saturday 6th July 2019
+4. Saturday 3rd August 2019
+5. Saturday 7th September 2019
+
+You can buy tickets for £20 from **[forestgardenwales.eventbrite.co.uk](https://forestgardenwales.eventbrite.co.uk)**
+
+> Forest gardening is a productive and practical garden system using trees, shrubs and perennial plants, designed to be stable, sustainable and low-maintenance.
 
 ## Included in the tour
 
