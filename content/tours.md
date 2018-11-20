@@ -65,7 +65,10 @@ Please note, **BOOKING IS ESSENTIAL**. Wellies and waterproofs highly recommende
 
 ## Private tours
 
+_These dates are unavailable as they have been booked._
+
 * 1st June, [Llechryd & District Gardening Club](https://www.facebook.com/LlechrydDGC/)
 
+## Directions
 
 For directions, see [www.forestgarden.wales/contact](/contact/)
