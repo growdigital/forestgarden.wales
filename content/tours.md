@@ -28,7 +28,7 @@ You can buy tickets for £20 from **[forestgardenwales.eventbrite.co.uk](https:/
 
 ## Included in the tour
 
-* 40 minute presentation on an introduction to forest gardening
+* 30 minute presentation on an introduction to forest gardening
 * Coffee and homemade cake
 * Beautiful wooded hillside location
 * Opportunity to buy selected forest garden plants
@@ -57,10 +57,15 @@ You can buy tickets for £20 from **[forestgardenwales.eventbrite.co.uk](https:/
 6. Coffee & homemade cake
 7. Exit via plant shop
 
-**Tickets £10 each, booking essential from [Eventbrite](https://www.eventbrite.co.uk/e/forest-garden-wales-tour-tickets-45399232326).**
+**Tickets £20 each, booking essential from [Eventbrite](https://www.eventbrite.co.uk/e/forest-garden-wales-tour-tickets-45399232326).**
 
 Please note, **BOOKING IS ESSENTIAL**. Wellies and waterproofs highly recommended. Also, at the very least, a mild interest in gardening is a prerequisite: the garden is in its early stages and indifferent individuals will only see twigs.
 
 **_For group bookings on different dates, please email Jake [helo@forestgarden.wales](mailto:helo@forestgarden.wales) or phone/text on [07398&nbsp;474&nbsp;064](tel:+447398474064)._**
+
+## Private tours
+
+* 1st June, [Llechryd & District Gardening Club](https://www.facebook.com/LlechrydDGC/)
+
 
 For directions, see [www.forestgarden.wales/contact](/contact/)
