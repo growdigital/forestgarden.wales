@@ -1,10 +1,12 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
-description: ""
-image: ""
-imageAlt: ""
-imageCap: ""
-draft: false
+description: 
+tags: 
+- ForestGarden
+image: 
+imageAlt: 
+imageCap: 
+draft: true
 ---
 
