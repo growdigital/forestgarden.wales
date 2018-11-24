@@ -49,6 +49,7 @@
 
 /* grid */
 
+/* full bleed images from Tyler Sticka & Rachel Andrew */
 /*.grid {
   display: grid;
   grid-gap: 20px;
@@ -68,6 +69,8 @@
 }
 */
 
+
+/* my stab at it */
 /*.grid {
   display: grid;
   grid-template-columns: 18rem 1fr;
@@ -79,3 +82,26 @@ main {
   order: 2;
 }
 */
+
+.header, .footer {
+  display: grid;
+  grid-template-columns: minmax(1em, 1fr) 10fr minmax(1em, 1fr);
+}
+
+.header__card, .footer__menu {
+  grid-column: span 3;
+}
+
+.nav {
+  grid-column: span 3;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 10fr 1fr;
+}
+
+.grid > * {
+  grid-column: 2 / 3;
+}
+
