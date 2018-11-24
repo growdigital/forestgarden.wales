@@ -3,7 +3,7 @@ title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
 description: 
 tags: 
-- IndieGo
+- ForestGarden
 image: 
 imageAlt: 
 imageCap: 
