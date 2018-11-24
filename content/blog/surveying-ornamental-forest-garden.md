@@ -13,6 +13,8 @@ imageCap:
 draft: true
 ---
 
+
+
 The map is not the territory
 https://en.wikipedia.org/wiki/Alfred_Korzybski
 
