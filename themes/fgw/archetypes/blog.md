@@ -4,6 +4,7 @@ date: {{ .Date }}
 description: 
 tags: 
 - ForestGarden
+- gdnbloggers
 image: 
 imageAlt: 
 imageCap: 
