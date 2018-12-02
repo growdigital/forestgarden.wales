@@ -1,7 +1,7 @@
 ---
 title: Now is the best time for hardwood cuttings
 date: 2018-11-28T21:28:34Z
-description: A gentle reminder to myself & others to propagate large quantities of hardwood cuttings – they’re so simple & quick, and the rewards are bountiful
+description: A gentle reminder to myself & others to propagate large quantities of hardwood cuttings – they’re so simple & quick, and the rewards are bountiful.
 tags: 
 - ForestGarden
 - gdnbloggers
