@@ -14,7 +14,7 @@ A newly established forest garden in beautiful Ceredigion, near Newcastle Emlyn 
 
 {{< figure src="/img/northface.jpg" alt="Photo of hedge, oak tree, polytunnel and freshly scythed grass path" caption="North boundary mixed windbreak hedge and grass path" >}}
 
-We have a well-developed 1 acre site with wildlife pond, polytunnel & propagation beds, a 0.5 acre coppice and a 1 acre “greenfield site” which will be the new OMG! (Ornamental Maintenance-free Garden!).
+We have a well-developed 1 acre site with wildlife pond, polytunnel & propagation beds, a 0.5 acre coppice and a 1 acre “greenfield site” which will be the new OFG! (Ornamental Forest Garden!).
 
 ## What is forest gardening?
 
