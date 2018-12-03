@@ -12,7 +12,13 @@ imageCap: Final forest garden outline planting plan
 draft: false
 ---
 
-I’m proud to have finished my first paid forest garden design. It was a remote job, which I chanced upon via Facebook. 
+I’m proud to have finished my first paid forest garden design. It was a remote job, which I chanced upon via Facebook. The client wanted an outline forest garden plan made, saying:
+
+> “I intend to convert my ⅓ acre seaside patch to a mini forest garden”. 
+
+They seemed to be very pleased with the result, which is always a relief and very satisfying!
+
+> “I'm just delighted with the plan! It's everything I wanted and much more.”
 
 It was all done remotely, so I traced the plot in [Inkscape](https://inkscape.org) from the satellite view in [Google Maps](https://www.google.co.uk/maps), and then exported the paths to a <abbr title="Computer Aided Design">CAD</abbr> format. Because I exported the measurement scale as well, it was relatively easy to scale it up to lifesize in [QCAD](https://qcad.org/en/). 
 
