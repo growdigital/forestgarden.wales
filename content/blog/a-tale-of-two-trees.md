@@ -5,12 +5,12 @@ description: ""
 tags: 
 - ForestGarden
 - Italian Alder
-image: "https://farm2.staticflickr.com/1844/44699895611_de2baf85a3_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543866190/established-alnus-cordata_44699676041_o.jpg"
 imageAlt: "Young tree in front of young hedge"
 imageCap: ""
 draft: true
 ---
 
-{{< figure src="https://farm2.staticflickr.com/1868/29724284487_0c87308d2a_z_d.jpg" alt="Tree trunk of young tree with rabbit guard lying on grass" caption="" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1543866459/alnus-tree-trunk-dead-29724284487.jpg" alt="Tree trunk of young tree with rabbit guard lying on grass" caption="" >}}
 
-{{< figure src="https://farm2.staticflickr.com/1860/44651588292_7675eed5dd_z_d.jpg" alt="Newly planted tree with cardboard mulch mat" caption="" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543866192/new-alnus-cordata-planted_44651588292_o.jpg" alt="Newly planted tree with cardboard mulch mat" caption="" >}}
