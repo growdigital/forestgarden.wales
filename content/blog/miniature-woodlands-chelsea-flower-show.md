@@ -11,7 +11,7 @@ imageCap: Martin Crawford’s forest garden at Dartington. Now that’s a miniat
 draft: false
 ---
 
-Very interesting news article in the [@Telegraph](https://twitter.com/Telegraph) by [Helena Horton](https://www.telegraph.co.uk/authors/helena-horton/) [@horton_official](https://twitter.com/horton_official), titled ['Miniature woodlands' which help beat pollution set to overshadow traditional gardens at Chelsea Flower Show](https://www.telegraph.co.uk/news/2018/11/28/miniature-woodlands-help-beat-pollution-set-overshadow-traditional/). What’s particularly interesting is the fact that tree and wildlife gardening is making inroads into established, ‘traditional’ gardening circles and newspapers.
+Very interesting news article in the [@Telegraph](https://twitter.com/Telegraph) by [Helena Horton](https://www.telegraph.co.uk/authors/helena-horton/) [@horton_official](https://twitter.com/horton_official), entitled ['Miniature woodlands' which help beat pollution set to overshadow traditional gardens at Chelsea Flower Show](https://www.telegraph.co.uk/news/2018/11/28/miniature-woodlands-help-beat-pollution-set-overshadow-traditional/). What’s particularly interesting is the fact that tree and wildlife gardening is making inroads into established, ‘traditional’ gardening circles and newspapers.
 
 There is more of an emphasis on ameliorating the effects of pollution, not so much about the carbon capturing or productive qualities of trees but still, it is all very welcome. Forest gardening isn’t mentioned by name but it is a natural evolution of these ideas*, as it’s a multi-layered way of gardening that utilises trees and is beneficial to wildlife _by design_ (as well as being productive and low maintenance).
 
