@@ -11,9 +11,9 @@ imageCap: Martin Crawford’s forest garden at Dartington. Now that’s a miniat
 draft: false
 ---
 
-Very interesting news article in the [@Telegraph](https://twitter.com/Telegraph) by [Helena Horton](https://www.telegraph.co.uk/authors/helena-horton/) [@horton_official](https://twitter.com/horton_official), titled ['Miniature woodlands' which help beat pollution set to overshadow traditional gardens at Chelsea Flower Show](https://www.telegraph.co.uk/news/2018/11/28/miniature-woodlands-help-beat-pollution-set-overshadow-traditional/). It’s the fact that tree and wildlife gardening is making inroads into established, ‘traditional’ gardening circles and newspapers.
+Very interesting news article in the [@Telegraph](https://twitter.com/Telegraph) by [Helena Horton](https://www.telegraph.co.uk/authors/helena-horton/) [@horton_official](https://twitter.com/horton_official), titled ['Miniature woodlands' which help beat pollution set to overshadow traditional gardens at Chelsea Flower Show](https://www.telegraph.co.uk/news/2018/11/28/miniature-woodlands-help-beat-pollution-set-overshadow-traditional/). What’s particularly interesting is the fact that tree and wildlife gardening is making inroads into established, ‘traditional’ gardening circles and newspapers.
 
-There is an emphasis on ameliorating the effects of pollution, not so much about the carbon capturing or productive qualities of trees but still, it is very welcome. Forest gardening isn’t mentioned by name but it is a natural evolution of these ideas*, as it’s a multi-layered way of gardening that utilises trees and is beneficial to wildlife _by design_ (as well as being productive and low maintenance).
+There is more of an emphasis on ameliorating the effects of pollution, not so much about the carbon capturing or productive qualities of trees but still, it is all very welcome. Forest gardening isn’t mentioned by name but it is a natural evolution of these ideas*, as it’s a multi-layered way of gardening that utilises trees and is beneficial to wildlife _by design_ (as well as being productive and low maintenance).
 
 I’m planning an [Ornamental Forest Garden](https://www.forestgarden.wales/blog/introducing-ornamental-maintenance-free-forest-garden/) that will hopefully help more traditional gardeners transition to a forest garden way of gardening.
 
