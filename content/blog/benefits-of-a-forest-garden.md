@@ -4,7 +4,7 @@ date: 2018-10-20T18:22:59+01:00
 description: "TL;DR low maintenance, productive, biodiversity, resilient 🙂"
 tags: 
   - ForestGarden
-image: "https://farm2.staticflickr.com/1923/31281175558_a96840faaa_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543873237/rhus-typhina-autumn-colour-31281175558.jpg"
 imageAlt: "Close up of red autumn leaves on tree"
 imageCap: "The glorious autumn colour of Rhus typhina laciniata in the forest garden"
 draft: false
