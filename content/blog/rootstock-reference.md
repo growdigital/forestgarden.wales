@@ -2,7 +2,7 @@
 title: "Rootstock reference"
 date: 2017-12-26
 description: "Quick reference for fruiting tree rootstocks"
-image: "https://farm5.staticflickr.com/4636/24453546047_966ab79f99_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1543958990/rootstocks-24453546047.png"
 imageAlt: "Illustration comparing different rootstock heights in relation to person"
 imageCap: "Rootstocks explained illustration, I think from Johnstown Garden Centre"
 draft: false

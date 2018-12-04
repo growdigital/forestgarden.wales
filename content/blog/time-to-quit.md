@@ -5,7 +5,7 @@ description: "Sometimes, failure is the best option"
 tags: 
 - ForestGarden
 - GdnBloggers
-image: "https://farm2.staticflickr.com/1845/43356338845_f173422d61_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543959737/cornus-hedge-43356338845.jpg"
 imageAlt: "Big clouds behind row of trees, telephone line and small green hedge"
 imageCap: "Full steam ahead #ForestGarden!"
 draft: false
