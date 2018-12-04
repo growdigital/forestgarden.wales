@@ -12,7 +12,7 @@ draft: false
 
 A newly established forest garden in beautiful Ceredigion, near Newcastle Emlyn in West Wales, bordering Pembrokeshire and Carmarthenshire.
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1542708802/quince-blossom_t7ciyy.jpg" alt="Photo of quince blossom in late evening sun" caption="Cydonia oblonga (Quince) in blossom in the forest garden" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543929583/view-from-windy-corner-over-polytunnel-42802795151.jpg" alt="View over polytunnel and house to valley beyond" caption="View over the polytunnel from north west corner of the forest garden" >}}
 
 We have a well-developed 1 acre site with wildlife pond, polytunnel & propagation beds, a 0.5 acre coppice and a 1 acre “greenfield site” which will be the new OFG! (Ornamental Forest Garden!).
 
