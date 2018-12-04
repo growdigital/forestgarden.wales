@@ -5,9 +5,9 @@ description: Thankfully there is a shift in traditional gardening toward trees &
 tags: 
 - ForestGarden
 - gdnbloggers
-image: https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543914440/telegraph-pRoTc9cU58jmpgzbsx.jpg
-imageAlt: 3D illustration of woodland garden with grey silo
-imageCap: Artist’s impression of miniature woodland garden. What is that grey tank? Rainwater harvesting? Image copyright RHS, taken from Telegraph article.
+image: https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543873983/toona-sinensis-41164041491.jpg
+imageAlt: Jungly forest garden, with spiky leafed plant and opposing leaf tree
+imageCap: Martin Crawford’s forest garden at Dartington. Now that’s a miniature woodland!
 draft: false
 ---
 
