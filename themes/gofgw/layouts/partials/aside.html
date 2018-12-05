@@ -1,4 +1,4 @@
-<aside role="complementary">
+<aside class="breakout" role="complementary">
   <section>
     <h2><a href="/blog/">Blog posts</a></h2>
     <ul>
@@ -17,7 +17,7 @@
       {{ range first 4 (where .Site.RegularPages "Section" "status") }}
       <li>
         <a href="{{ .Permalink }}">
-          {{ substr (.Content | markdownify) 0 40 }}…
+          {{ substr (.Content | plainify | htmlUnescape | markdownify ) 0 40 }}…
         </a>
       </li>
       {{ end }}

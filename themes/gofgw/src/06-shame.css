@@ -51,6 +51,7 @@
  * ---- */
 
 /* Grid that enables breakout of full bleed images */
+
 .breakout {
   display: grid;
   grid-template-columns:
@@ -67,8 +68,20 @@
   grid-column: full;
 }
 
-@media (min-width: 40em) {
-  .breakout > figure {
-    grid-column: main;
+/* Unset breakout grid */
+@media (min-width: 46em) {
+  .breakout {
+    display: block;
   }
+
+  main, aside {
+    margin: 0 auto;
+    max-width: 46em;
+  }
+
 }
+
+/* breakpoints */
+
+/*
+no full bleed, 46em = 736 pixels */
