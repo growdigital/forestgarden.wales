@@ -33,7 +33,7 @@
 
 .header__h1 a:link,
 .header__h1 a:visited {
-  color: var(--orange);
+  color: var(--red);
   text-decoration: none;
 }
 

@@ -10,11 +10,6 @@ imageCap:
 draft: false
 ---
 
-* Talks
-* OMG diary
+wtf
 
-## Aside
-
-* shop
-* blog…
-* status…
+## heading

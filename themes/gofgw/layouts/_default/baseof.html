@@ -3,11 +3,9 @@
 {{ partial "metahead.html" . }}
 <body>
     {{ partial "header.html" . }}
-    <div class="grid">
-      {{ block "main" . }}
-      {{ end }}
-      {{ partial "aside.html" . }}
-    </div>
+    {{ block "main" . }}
+    {{ end }}
+    {{ partial "aside.html" . }}
     {{ partial "footer.html" . }}
 <script src="/assets/app.js"></script>
 </body>
