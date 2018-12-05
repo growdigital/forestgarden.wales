@@ -13,3 +13,5 @@ draft: false
 wtf
 
 ## heading
+
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543960547/bumblebee-rosa-rugosa-flower-29680293497.jpg" alt="text" caption="text" >}}

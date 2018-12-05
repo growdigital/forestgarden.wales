@@ -58,3 +58,11 @@
     [main-start] minmax(0, 40em) [main-end]
     minmax(1em, 1fr) [full-end];
 }
+
+.breakout > * {
+  grid-column: main;
+}
+
+.breakout > figure {
+  grid-column: full;
+}
