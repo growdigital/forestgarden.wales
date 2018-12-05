@@ -1,16 +1,28 @@
 ---
-title: "Design"
-menu: "main"
+title: Design
+menu: main
 date: 2018-02-09T19:21:11Z
-image: ""
-imageAlt: ""
-imageCap: ""
+image: https://res.cloudinary.com/growdigital/image/upload/v1543789181/final-plan-fgrp.jpg
+imageAlt: CAD forest garden plan
+imageCap: An example of a forest garden outline planting plan
 draft: false
 ---
 
-# Design service
+# Forest garden design service
 
-We offer a bespoke design service and you can choose the elements that suit your needs:
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1543789181/final-plan-fgrp.jpg" alt="CAD forest garden plan" caption="“I’m just delighted with the plan! It’s everything I wanted and much more.” – Sandra from County Dublin" >}}
+
+We offer a remote forest garden service which costs £100. This is the design process:
+
+1. Free initial Skype call to see if the service is suitable.
+2. We create a basic plan from satellite imagery. 
+3. The client provides physical measurements, the basic plan is edited.
+4. A sketch is created, showing paths, areas, lightfall and rudimentary planting ideas.
+5. When the elements are agreed on, we create a final outline planting plan, in PDF and CAD format.
+
+The process takes a couple of days.
+
+We also offer on-site:
 
 1. Consultancy
 2. Site survey
@@ -19,4 +31,4 @@ We offer a bespoke design service and you can choose the elements that suit your
 5. Groundwork
 6. Sourcing and planting
 
-**_Please email Jake [hello@forestgarden.wales](mailto:hello@forestgarden.wales) or phone on [07398&nbsp;474&nbsp;064](tel:+447398474064) to arrange an estimate._**
+**Please email Jake [hello@forestgarden.wales](mailto:hello@forestgarden.wales) or phone on [07398&nbsp;474&nbsp;064](tel:+447398474064) to arrange an estimate.**

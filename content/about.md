@@ -24,8 +24,5 @@ The benefits derived from a forest garden include:
 * Pollinator friendly flowers
 * Soil fertility
 
-We started our own forest garden 3 years ago when we moved to West Wales and want to share our experience and passion.
+We started our own forest garden in 2015 when we moved to West Wales and want to share our experience and passion.
 
-## Expertise
-
-As relative newcomers to forest gardening, we are lucky to be able to draw on the expertise of local arboculturist James Archer and garden designer Angela Siminson.

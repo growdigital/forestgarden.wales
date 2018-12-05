@@ -12,15 +12,16 @@ draft: false
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544027745/misty-wildlife-pond-26465730067.jpg" alt="Misty view on a sunny morning across pond, young orchard to establised trees" caption="Early morning looking eastward across the Wildlife Pond and newly established forest garden" >}}
 
-On the **first Saturday of each month** (May to September inclusive), we offer a 2.5 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. This includes a presentation _and_ coffee & cake. It’s for anyone interested in learning more about forest gardening.
+On the **first Saturday of each month** (May to September inclusive, except June), we offer a 2.5 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. This includes a presentation _and_ coffee & cake. It’s for anyone interested in learning more about forest gardening.
 
 The dates for your diary are:
 
-1. Saturday 4th May 2019
-2. Saturday 1st June 2019
-3. Saturday 6th July 2019
-4. Saturday 3rd August 2019
-5. Saturday 7th September 2019
+1. Saturday 6th April 2019 
+2. Saturday 4th May 2019
+3. Saturday 15th June 2019 **3rd Saturday**
+4. Saturday 6th July 2019
+5. Saturday 3rd August 2019
+6. Saturday 7th September 2019
 
 The tour runs from 10am to 12:30pm.
 
@@ -43,7 +44,7 @@ You can buy tickets for £20 from **[forestgardenwales.eventbrite.co.uk](https:/
 2. Half an acre of newly planted coppice, designed for firewood, poles and posts
 3. One acre greenfield site of the planned Ornamental Maintenance-free Garden (OMG); discussion of windbreaks, access, utilities, fencing and planning
 4. Shrub propagation area & chickens
-5. The main attraction: a one acre pasture field started 3 years ago. 
+5. The main attraction: a one acre pasture field started in the winter of 2015. 
   * Fruit Triangle
   * Ground cover propagation area
   * Polytunnel & raised beds for annuals
@@ -59,7 +60,7 @@ You can buy tickets for £20 from **[forestgardenwales.eventbrite.co.uk](https:/
 6. Coffee & homemade cake
 7. Exit via plant shop
 
-**Tickets £20 each, booking essential from [Eventbrite](https://www.eventbrite.co.uk/e/forest-garden-wales-tour-tickets-45399232326).**
+**Tickets £20 each, booking essential from [Eventbrite](https://forestgardenwales.eventbrite.co.uk).**
 
 Please note, **BOOKING IS ESSENTIAL**. Wellies and waterproofs highly recommended. Also, at the very least, a mild interest in gardening is a prerequisite: the garden is in its early stages and indifferent individuals will only see twigs.
 
