@@ -4,9 +4,9 @@ menu:
   main:
     weight: 20
 date: 2018-02-09T19:21:11Z
-image: ""
-imageAlt: ""
-imageCap: ""
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543929583/view-from-windy-corner-over-polytunnel-42802795151.jpg"
+imageAlt: "View over polytunnel and house to valley beyond"
+imageCap: "View over the polytunnel from north west corner of the forest garden"
 draft: false
 ---
 
