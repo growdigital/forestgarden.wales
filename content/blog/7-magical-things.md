@@ -2,7 +2,7 @@
 title: "7 Magical Things about Forest Gardens"
 date: 2018-06-24T21:19:15+01:00
 description: "With @GWandShows highlighting the benefits of #meadows, rain gardens & #plasticfree, have a look at the magic a #ForestGarden can provide 🙂"
-image: "https://farm2.staticflickr.com/1731/41717565655_a6ba026741_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543865735/hover-fly-on-valeriana-officinalis-in-propagation-bed_41717565655_o.jpg"
 imageAlt: "Hover fly on pale pink composite flower"
 imageCap: "Hover fly on Valeriana officinalis in the Forest Garden Wales propagation bed"
 draft: false

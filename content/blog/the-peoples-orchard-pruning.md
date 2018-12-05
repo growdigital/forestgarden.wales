@@ -2,7 +2,7 @@
 title: "The People’s Orchard pruning and planting workshop"
 date: 2018-01-19
 description: "Notes from another excellent pruning and planting workshop with Martin Hayes, Orchardist, near Llandudoch in Pembrokeshire"
-image: "https://farm5.staticflickr.com/4770/39784408711_e356f0e0fb_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543959502/martin-39784408711.jpg"
 imageAlt: "Man pruning goblet shape fruit tree with onlooker"
 imageCap: "Martin Hayes, Orchardist, pruning goblet shape fruit tree"
 draft: false

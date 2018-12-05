@@ -8,7 +8,7 @@ tags:
   - fungi
   - inoculant
   - DIY
-image: "https://i.postimg.cc/8kfKR9Bn/bait-plants.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543956262/bait-plants-8kfKR9Bn.jpg"
 imageAlt: "Close up of top of white woven sack with plants growing out the top"
 imageCap: "Bait plants growing in woven sack, multiplying the mycorrhizal fungi & ready for harvest"
 draft: false
@@ -33,7 +33,7 @@ Specifically, it will be **arbuscular mycorrhizal fungi (AMF)**:
 3. **Method:** Clear away about half square metre of the vegetation underneath your target plant. Dig down to a depth of about 25cm collecting the soil and as many fine roots as possible. It is better, but not essential, to collect from under several different trees and shrubs.
 4. With stony soil, sieve it to get rid of large stones.
 
-{{< figure src="https://i.postimg.cc/XvPyj2PT/01-mix-starter-compost.jpg" alt="Person mixing soil in plastic bucket" caption="Mixing the starter soil with peat-free compost to improve fertility and eke out the soil" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543956452/mix-starter-compost-XvPyj2PT.jpg" alt="Person mixing soil in plastic bucket" caption="Mixing the starter soil with peat-free compost to improve fertility and eke out the soil" >}}
 
 ## 2. Multiply mycorrhiza
 
@@ -44,7 +44,7 @@ Specifically, it will be **arbuscular mycorrhizal fungi (AMF)**:
 5. Sow seeds closer than normal, alternating the species.
 6. Keep regularly watered.
 
-{{< figure src="https://i.postimg.cc/SxDM5QfQ/02-seed.jpg" alt="Hand holding mixed seed over bag" caption="Mixture of grassy and legume seed" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543956543/seed-SxDM5QfQ.jpg" alt="Hand holding mixed seed over bag" caption="Mixture of grassy and legume seed" >}}
 
 ## 3. Harvest
 
@@ -52,7 +52,7 @@ Specifically, it will be **arbuscular mycorrhizal fungi (AMF)**:
 2. This kills the plant and tricks fungus into producing spores.
 3. After the ten days, pull up roots, chop into 1cm pieces, mix back into soil.
 
-{{< figure src="https://i.postimg.cc/KvLW2w1g/03-bait-plants.jpg" alt="Close up of plants growing in white fertiliser bag" caption="You can also recycle woven plastic sacks to grow bait plants" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543956633/bait-plants-KvLW2w1g.jpg" alt="Close up of plants growing in white fertiliser bag" caption="You can also recycle woven plastic sacks to grow bait plants" >}}
 
 ## 4. Using inoculant
 

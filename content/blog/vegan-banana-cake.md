@@ -5,7 +5,7 @@ description: "Very easy vegan banana cake, which I topped with our first ever go
 tags: 
 - ForestGarden
 - recipe
-image: "https://farm1.staticflickr.com/847/43255228442_b2da5fde84_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543960136/vegan-banana-cake-43255228442.jpg"
 imageAlt: "Cake with fruity topping in tin"
 imageCap: "Vegan banana cake topped with part-cooked gooseberries"
 draft: false

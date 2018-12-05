@@ -2,7 +2,7 @@
 title: "What’s in the polytunnel at the moment"
 date: 2018-06-15T21:57:33+01:00
 description: "In answer to @thepubgardener, this is what’s in the polytunnel at the moment!"
-image: "https://farm1.staticflickr.com/880/42085980334_05ab168964_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543960472/achocha-42085980334.jpg"
 imageAlt: "Plants climbing up netting in the polytunnel"
 imageCap: "Giant Bolivian achocha"
 draft: true

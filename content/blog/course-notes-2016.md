@@ -2,9 +2,9 @@
 title: "Forest Garden Design Course notes 2016"
 date: 2018-01-19
 description: "Notes from Martin Crawford forest garden course back in the summer of 2016"
-image: ""
-imageAlt: ""
-imageCap: ""
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543874067/windbreak-41165268411.jpg"
+imageAlt: "Japanese Rose hedgerow"
+imageCap: "Rosa rugosa (Japanese Rose) windbreak hedge"
 draft: false
 ---
 
@@ -33,7 +33,7 @@ Yield **and** input
 
 > If you forecast the future, you will be doomed to fail
 
-## Spacing
+## Spacing
 
 * Tree spacing ¼ – ½ of combined tree diameters
 * But, can plant small trees under high trees eg Italian alder
@@ -69,7 +69,8 @@ Yield **and** input
 
 ---
 
-## Most attractive fruit colours to birds
+
+## Most attractive fruit colours to birds
 
 In descending order:
 
@@ -94,7 +95,7 @@ In descending order:
 * Compost toilet in tent
 * Swamp cypress, v. tolerant of damp, hard wood, coppice for fence posts
 
-## Outside again, Saturday afternoon
+## Outside again, Saturday afternoon
 
 > Self-seeding only happens in context
 
@@ -148,13 +149,13 @@ In descending order:
 
 ---
 
-## SUNDAY
+## SUNDAY
 
 * Prof. Martin Wolfe, Organic Research Centre
 * Integrated Forest Gardening - worth a read
 * Eric Toensmeier 'Edible Forest Gardens' 2 vols, quite academic
 
-### FGN
+### FGN
 
 * Aim to facilitate visits to other members gardens
 * About 200, 160 in UK
@@ -189,7 +190,7 @@ In descending order:
 * Liquorice, horseradish - eat young leaves in spring
 * 400m² (1 acre) enough for family of four
 
-### Sea buckthorn harvesting
+### Sea buckthorn harvesting
 
 * Cut whole fruting branch
 * Freezer for 1 hour

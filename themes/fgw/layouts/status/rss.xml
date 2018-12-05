@@ -1,6 +1,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Indiego status</title>
+    <title>Forest Garden Wales status</title>
     <link>{{ .Permalink }}</link>
     <description>Recent status updates</description>
     <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}

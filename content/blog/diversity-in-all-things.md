@@ -2,7 +2,7 @@
 title: "Diversity in all things, including windbreaks"
 date: 2018-01-12
 description: "A mixed species north boundary windbreak hedge has grown on leaps and bounds"
-image: "https://farm5.staticflickr.com/4712/39615815062_b6aa7e383b_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543953947/north-face-39615815062.jpg"
 imageAlt: "Wheelbarrow in foreground by long hedge receding to oak tree"
 imageCap: "Replaced casualties in the North Face windbreak hedge"
 draft: false

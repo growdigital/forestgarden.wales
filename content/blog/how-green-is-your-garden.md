@@ -5,7 +5,7 @@ description: "Gardening should be the most environmentally friendly of endeavour
 tags: 
 - #ForestGarden
 - #CarbonCapture
-image: "https://farm1.staticflickr.com/944/28510026388_f9b1d2e52c_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543955046/timelapse-28510026388.jpg"
 imageAlt: "Photo of yellow mustard flowers in foreground with tree lined hedge and bark mulch in distance"
 imageCap: "Forest Garden Wales, planting in progress"
 draft: false
@@ -16,13 +16,13 @@ I came across a post about how to [Capture carbon in your garden](https://modern
 1. Plant a tree  
   ✔️&nbsp;&nbsp;_Part of the very definition of a forest garden!_
 2. Improve your soil (mulch, don’t dig)  
-  ️✔️&nbsp;&nbsp;_Use a living mulch, ie ground cover plants_
+  ✔️&nbsp;&nbsp;_Use a living mulch, ie ground cover plants_
 3. Cover your soil with plants  
   ✔️️&nbsp;&nbsp;_See above!_
 4. Don’t use artificial fertiliser  
-  ️✔️&nbsp;&nbsp;_Use mineral accumulators & nitrogren fixers for nutrients_
+  ✔️&nbsp;&nbsp;_Use mineral accumulators & nitrogren fixers for nutrients_
 5. Use peat free compost  
-  ️✔️&nbsp;&nbsp;_Very little compost used, only peat-free potting compost for seedlings_
+  ✔️&nbsp;&nbsp;_Very little compost used, only peat-free potting compost for seedlings_
 
 There were some ideas contributed by other people, and again, this is what we’re moving toward:
 

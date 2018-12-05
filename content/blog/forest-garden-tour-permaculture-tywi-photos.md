@@ -2,7 +2,7 @@
 title: "Photographs from the Permaculture Tywi forest garden tour"
 date: 2018-06-28T09:36:51+01:00
 description: "Photographs of the @permatywi visit to #ForestGarden Wales, by Christine Jones"
-image: "https://farm1.staticflickr.com/917/43060641451_c14e17e2a4_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543954590/permatywi-orchard-43060641451.jpg"
 imageAlt: "Man in hat with pouch (not paunch) standing in the long grass, talking with a circling group of permaculturalists, polytunnel, house and hills in the background."
 imageCap: "Permaculture Tywi group tour of Forest Garden Wales. Jake is standing by the Hovenia dulcis (raisin tree) in the Accidental Meadow. The disembodied leg in the foreground belongs to permaculture teacher Paul Jennings."
 draft: false

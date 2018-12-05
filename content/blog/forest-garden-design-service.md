@@ -1,6 +1,6 @@
 ---
-title: {{ replace .TranslationBaseName "-" " " | title }}
-date: {{ .Date }}
+title: Remote forest garden design service is now open
+date: 2018-12-04T13:49:11Z
 description: 
 tags: 
 - ForestGarden

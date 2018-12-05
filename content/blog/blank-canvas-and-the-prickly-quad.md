@@ -2,7 +2,7 @@
 title: "Blank canvas and the Prickly Quad"
 date: 2018-01-18
 description: "The sheet mulch is up, the soil is bare and my mind is blank"
-image: "https://farm5.staticflickr.com/4612/39763874211_2ab689e125_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543873332/prickly-quad-39763874211.jpg"
 imageAlt: "Photo of bare earth prepared bed, trees to the back, grass path to the front"
 imageCap: "Bare earth, blank mind"
 draft: false
