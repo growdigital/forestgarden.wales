@@ -12,7 +12,7 @@ draft: false
 
 {{< figure src="https://farm1.staticflickr.com/799/26465730067_f657ece88c_z_d.jpg" alt="Misty view on a sunny morning across pond, young orchard to establised trees" caption="Early morning looking eastward across the Wildlife Pond and newly established forest garden" >}}
 
-On the **first Saturday of each month** (May to September inclusive), we offer a 2.5 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. This includes a presentation plus coffee & cake and is for anyone interested in learning more about forest gardening.
+On the **first Saturday of each month** (May to September inclusive), we offer a 2.5 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. This includes a presentation _and_ coffee & cake. It’s for anyone interested in learning more about forest gardening.
 
 The dates for your diary are:
 
@@ -21,6 +21,8 @@ The dates for your diary are:
 3. Saturday 6th July 2019
 4. Saturday 3rd August 2019
 5. Saturday 7th September 2019
+
+The tour runs from 10am to 12:30pm.
 
 You can buy tickets for £20 from **[forestgardenwales.eventbrite.co.uk](https://forestgardenwales.eventbrite.co.uk)**
 
