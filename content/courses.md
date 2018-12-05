@@ -19,4 +19,4 @@ We are offering online courses on the following topics:
 * **Mulching**: simple mulching techniques that will save you time and back ache
 * **Propagation**: start growing your plants cheaply and easily, from seed, cuttings and root division
 
-Courses are priced at £15 GBP each. Bulk discounts are available. Please email Jake [helo@forestgarden.wales](mailto:helo@forestgarden.wales) or phone on [07398 474 064](tel:+447398474064) for details on video delivery.
+Courses are priced at £15 GBP each. Bulk discounts are available. Please email Jake [hello@forestgarden.wales](mailto:hello@forestgarden.wales) or phone on [07398 474 064](tel:+447398474064) for details on video delivery.

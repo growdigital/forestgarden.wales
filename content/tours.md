@@ -1,16 +1,16 @@
 ---
-title: "Tours"
-menu: "main"
+title: Tours
+menu: main
 date: 2018-02-09T19:21:11Z
-image: "https://farm1.staticflickr.com/799/26465730067_f657ece88c_z_d.jpg"
-imageAlt: "Misty view on a sunny morning across pond, young orchard to establised trees"
-imageCap: "Early morning looking eastward across the Wildlife Pond and newly established forest garden"
+image: https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544027745/misty-wildlife-pond-26465730067.jpg
+imageAlt: Misty view on a sunny morning across pond, young orchard to establised trees
+imageCap: Early morning looking eastward across the Wildlife Pond and newly established forest garden
 draft: false
 ---
 
 # Tour our forest garden
 
-{{< figure src="https://farm1.staticflickr.com/799/26465730067_f657ece88c_z_d.jpg" alt="Misty view on a sunny morning across pond, young orchard to establised trees" caption="Early morning looking eastward across the Wildlife Pond and newly established forest garden" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544027745/misty-wildlife-pond-26465730067.jpg" alt="Misty view on a sunny morning across pond, young orchard to establised trees" caption="Early morning looking eastward across the Wildlife Pond and newly established forest garden" >}}
 
 On the **first Saturday of each month** (May to September inclusive), we offer a 2.5 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. This includes a presentation _and_ coffee & cake. It’s for anyone interested in learning more about forest gardening.
 
@@ -63,7 +63,7 @@ You can buy tickets for £20 from **[forestgardenwales.eventbrite.co.uk](https:/
 
 Please note, **BOOKING IS ESSENTIAL**. Wellies and waterproofs highly recommended. Also, at the very least, a mild interest in gardening is a prerequisite: the garden is in its early stages and indifferent individuals will only see twigs.
 
-**_For group bookings on different dates, please email Jake [helo@forestgarden.wales](mailto:helo@forestgarden.wales) or phone/text on [07398&nbsp;474&nbsp;064](tel:+447398474064)._**
+**For group bookings on different dates, please email Jake [hello@forestgarden.wales](mailto:hello@forestgarden.wales) or phone/text on [07398&nbsp;474&nbsp;064](tel:+447398474064).**
 
 ## Private tours
 

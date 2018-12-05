@@ -14,7 +14,7 @@ draft: false
 # Contact
 
 The fastest way to contact us is via email:  
-**<helo@forestgarden.wales>**
+**<hello@forestgarden.wales>**
 
 Phoning is the next best way:  
 **<a href="tel:+447398474064">07398 474 064</a>**

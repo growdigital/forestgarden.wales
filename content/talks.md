@@ -24,4 +24,4 @@ We give talks to a variety of different organisations and clubs interested in fo
 
 The cost for a talk is £50 plus mileage at 45p per mile.
 
-**_If you would like Jake to give a talk to your organisation, please email him [helo@forestgarden.wales](mailto:helo@forestgarden.wales) or phone on [07398&nbsp;474&nbsp;064](tel:+447398474064)._**
+**_If you would like Jake to give a talk to your organisation, please email him [hello@forestgarden.wales](mailto:hello@forestgarden.wales) or phone on [07398&nbsp;474&nbsp;064](tel:+447398474064)._**
