@@ -66,3 +66,9 @@
 .breakout > figure {
   grid-column: full;
 }
+
+@media (min-width: 40em) {
+  .breakout > figure {
+    grid-column: main;
+  }
+}
