@@ -1,7 +1,7 @@
 ---
 title: "Plantday"
 date: 2018-05-17T10:08:35+01:00
-image: "https://farm1.staticflickr.com/830/27263566647_4ba6b27dc0_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544130012/cow-parsley-27263566647.jpg"
 imageAlt: "Black and white close up photo of cow parsley"
 ---
 

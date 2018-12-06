@@ -1,7 +1,7 @@
 ---
 title: "Butterfly"
 date: 2018-04-25T21:54:01+01:00
-image: "https://farm1.staticflickr.com/830/40802054895_e55b458f6a_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544109830/orange-tip-butterfly-40802054895.jpg"
 imageAlt: "Anthocharis cardamines (orange tip) on Myosotis arvensis (forget-me-not) flowers"
 ---
 

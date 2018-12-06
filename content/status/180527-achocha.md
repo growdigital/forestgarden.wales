@@ -1,7 +1,7 @@
 ---
 title: "Achocha"
 date: 2018-05-27T18:50:20+01:00
-image: "https://farm1.staticflickr.com/964/42350114921_56961293ec_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544131119/achocha-42350114921.jpg"
 imageAlt: "Close up of achocha plant (exploding cucumber) in polytunnel"
 ---
 

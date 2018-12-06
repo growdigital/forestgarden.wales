@@ -1,7 +1,7 @@
 ---
 title: "Crocuses"
 date: 2018-01-18T21:26:38Z
-image: "https://farm5.staticflickr.com/4769/39731768092_6171967b52_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544048679/crocus-39731768092.jpg"
 imageAlt: "Crocuses coming up through dead leaves"
 ---
 

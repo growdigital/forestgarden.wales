@@ -1,7 +1,7 @@
 ---
 title: "Morning"
 date: 2018-04-09T09:41:42+01:00
-image: "https://farm1.staticflickr.com/799/26465730067_f657ece88c_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544027745/misty-wildlife-pond-26465730067.jpg"
 imageAlt: "Sun through trees over artifical pond"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Pulmonaria"
 date: 2018-02-02T21:44:20Z
-image: "https://farm5.staticflickr.com/4655/28265975119_b38ccd1f20_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544095533/pulmonaria-28265975119.jpg"
 imageAlt: "Pulmonaria (lungwort) flowering"
 ---
 

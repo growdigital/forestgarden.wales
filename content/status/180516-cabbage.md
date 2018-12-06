@@ -1,7 +1,7 @@
 ---
 title: "Cabbage"
 date: 2018-05-16T18:49:40+01:00
-image: "https://farm1.staticflickr.com/905/41154383155_3515f9a625_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544129919/cabbage-41154383155.jpg"
 imageAlt: "Photo of tree cabbage seedlings in pots"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Lonicera"
 date: 2018-01-31T19:40:52Z
-image: "https://farm5.staticflickr.com/4609/28063756109_b68c29e4b5_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544049992/lonicera-fragrantissima-28063756109.jpg"
 imageAlt: "Flowering woody shrub"
 ---
 

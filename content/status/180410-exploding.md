@@ -1,7 +1,7 @@
 ---
 title: "Exploding"
 date: 2018-04-10T12:24:32+01:00
-image: "https://farm1.staticflickr.com/865/40637827794_7faaf611cf_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544109248/achocha-seeds-germinate-40637827794.jpg"
 imageAlt: "Big seeds germinating on windowsill"
 ---
 

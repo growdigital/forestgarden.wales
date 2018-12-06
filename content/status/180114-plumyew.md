@@ -1,7 +1,7 @@
 ---
 title: "Plum Yew"
 date: 2018-01-14T16:43:54Z
-image: "https://farm5.staticflickr.com/4742/24804346637_bb60b5a930_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544048291/plum-yew-24804346637.jpg"
 imageAlt: "Small evergreen plant in a cardboard box"
 ---
 

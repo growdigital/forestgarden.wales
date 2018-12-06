@@ -1,7 +1,7 @@
 ---
 title: "Municipal"
 date: 2018-01-16T20:12:59Z
-image: "https://farm5.staticflickr.com/4619/24852123057_6306e8dd85_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544048552/rubus-tricolor-24852123057.jpg"
 imageAlt: "Chinese bramble in municipal raised brick bed"
 ---
 

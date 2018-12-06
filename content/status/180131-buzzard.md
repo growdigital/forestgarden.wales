@@ -1,7 +1,7 @@
 ---
 title: "Buzzard"
 date: 2018-01-31T09:38:45Z
-image: "https://farm5.staticflickr.com/4617/39968514312_cfd6e3073f_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544049829/buzzard-39968514312.jpg"
 imageAlt: "Bird of prey sitting on mailbox on a post in front of a grassy bank and track"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Coaltown"
 date: 2018-04-11T16:10:23+01:00
-image: "https://farm1.staticflickr.com/806/40676031894_08118bd1d4_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544109355/coaltown-coffee-grounds-40676031894.jpg"
 imageAlt: "Closeup of hand holding used coffee grounds in front of coffee bag"
 ---
 

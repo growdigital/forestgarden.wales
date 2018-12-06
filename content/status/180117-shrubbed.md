@@ -1,7 +1,7 @@
 ---
 title: "Shrubbed"
 date: 2018-01-17T21:06:09Z
-image: "https://farm5.staticflickr.com/4602/38846298425_76cd34da1f_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544048611/bark-mulch-38846298425.jpg"
 imageAlt: "Bark mulch flower bed with pallet Fungalow in foreground"
 ---
 

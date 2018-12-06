@@ -1,7 +1,7 @@
 ---
 title: "TripAdvisor"
 date: 2018-04-16T08:58:38+01:00
-image: "https://farm1.staticflickr.com/899/40778489604_3290ff2206_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544109666/trip-advisor-40778489604.png"
 imageAlt: "Screenshot of Forest Garden Wales on TripAdvisor"
 ---
 

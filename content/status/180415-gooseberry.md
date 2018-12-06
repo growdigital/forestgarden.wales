@@ -1,7 +1,7 @@
 ---
 title: "Gooseberry"
 date: 2018-04-15T21:22:34+01:00
-image: "https://farm1.staticflickr.com/880/41478590801_959ef38bdc_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544109598/rosa-rugosa-leaf-41478590801.jpg"
 imageAlt: "Close-up of new gooseberry leaves unfurling"
 ---
 

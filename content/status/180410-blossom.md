@@ -1,7 +1,7 @@
 ---
 title: "Blossom"
 date: 2018-04-10T08:40:02+01:00
-image: "https://farm1.staticflickr.com/884/41316101092_f3897aba3a_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544109172/asian-pear-blossom-41316101092.jpg"
 imageAlt: "Close up of asian pear blossom on branch"
 ---
 
