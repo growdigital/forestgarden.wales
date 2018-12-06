@@ -23,3 +23,5 @@ fields:
   type: textarea
   hidden: false
   default: ''
+pages:
+- content/status/test.md
