@@ -1,7 +1,7 @@
 ---
 title: Now offering remote forest garden design service!
 date: 2018-12-07T14:16:59Z
-description: I’m very happy to announce we now offer a remote forest garden design service. Using email and Skype, I can create an outline forest garden plan for only £100. 
+description: Very happy to announce I’m now offering a remote forest garden design service. Using email and Skype, I can create an outline forest garden plan for only £100. 
 tags: 
 - ForestGarden
 - design
