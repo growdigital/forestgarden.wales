@@ -1,7 +1,7 @@
 ---
 title: "Achocha"
 date: 2018-06-22T23:04:05+01:00
-image: "https://farm2.staticflickr.com/1804/42957764841_195a62f8c9_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544220260/achocha-42957764841.jpg"
 imageAlt: "Photo of achocha plants scrambling up netting in polytunnel"
 ---
 

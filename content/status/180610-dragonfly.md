@@ -1,7 +1,7 @@
 ---
 title: "Dragonfly"
 date: 2018-06-10T08:24:18+01:00
-image: "https://farm2.staticflickr.com/1757/28824835518_eeddd20899_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544219402/dragonfly-28824835518.jpg"
 imageAlt: "Close up of dark dragonfly on polytunnel post"
 ---
 

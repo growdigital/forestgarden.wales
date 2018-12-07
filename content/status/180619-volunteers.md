@@ -1,7 +1,7 @@
 ---
 title: "Volunteers"
 date: 2018-06-19T10:05:09+01:00
-image: "https://farm2.staticflickr.com/1741/41974058974_3cf7d8848f_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544220176/comfrey-mulch-41974058974.jpg"
 imageAlt: "Comfrey leaf mulch around bottom of young tree"
 ---
 
