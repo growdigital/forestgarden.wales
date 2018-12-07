@@ -15,7 +15,7 @@ draft: false
 > “I'm just delighted with the plan! It's everything I wanted and much more.”
 > _Sandra from Ireland_
 
-Many people would love to create a forest garden but don’t know where to start. I always Martin Crawford’s [Creating a Forest Garden](https://amzn.to/2BW91nT) book. If you need more help, I can create a forest garden plan, and I can do it remotely with email, photos and [Skype](https://www.skype.com/en/). 
+Many people would love to create a forest garden but don’t know where to start. I always recommend Martin Crawford’s [Creating a Forest Garden](https://amzn.to/2BW91nT) book. If you need more help, I can create a forest garden plan, and I can do it remotely with email, photos and [Skype](https://www.skype.com/en/). 
 
 Using an outline plan I created for a client in Ireland, these are the steps:
 
