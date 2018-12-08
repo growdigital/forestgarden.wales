@@ -1,7 +1,7 @@
 ---
 title: "Meadowsweet"
 date: 2018-07-05T10:23:30+01:00
-image: "https://farm1.staticflickr.com/924/29288954298_9bb065419e_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544269914/filipendula-29288954298.jpg"
 imageAlt: "Close up photo of froth of small white flowers"
 ---
 

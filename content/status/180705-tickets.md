@@ -1,7 +1,7 @@
 ---
 title: "Tickets"
 date: 2018-07-05T10:38:20+01:00
-image: "https://farm1.staticflickr.com/915/42324668894_933d3dc883_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544269991/tour-42324668894.jpg"
 imageAlt: "Group of people around a raised bed full of greenery next to a polytunnel"
 ---
 
