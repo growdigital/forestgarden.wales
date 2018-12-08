@@ -1,7 +1,7 @@
 ---
 title: "Toona sinensis"
 date: 2018-07-03T10:44:47+01:00
-image: "https://farm2.staticflickr.com/1806/42255918105_a3d4623c82_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544264796/toona-sinensis-42255918105.jpg"
 imageAlt: "Close up of green leaf on fork with noodles on plate in background"
 ---
 
