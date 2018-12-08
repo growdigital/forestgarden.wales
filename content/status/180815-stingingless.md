@@ -1,7 +1,7 @@
 ---
 title: "Stingingless"
 date: 2018-08-15T15:16:21+01:00
-image: "https://farm2.staticflickr.com/1813/43329964584_92075be488_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544304845/nettle-43329964584.jpg"
 imageAlt: "Hand holding packet of small seed, “Urtica dioca ssp galeopsifolia 2018”"
 ---
 

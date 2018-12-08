@@ -1,7 +1,7 @@
 ---
 title: "Fabulous"
 date: 2018-07-18T14:31:55+01:00
-image: "https://farm2.staticflickr.com/1830/29616699508_093ba524c7_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544297420/fabulous-29616699508.jpg"
 imageAlt: "Photo of pavement with words scratched into concrete 'Never miss an opportunity to be Fabulous'"
 ---
 

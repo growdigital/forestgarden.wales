@@ -1,7 +1,7 @@
 ---
 title: "Dragonfly"
 date: 2018-07-15T19:00:03+01:00
-image: "https://farm2.staticflickr.com/1823/42400901775_f49d113ba4_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544297158/dragonfly-42400901775.jpg"
 imageAlt: "Blurry photo of black and yellow dragonfly with green arms, dry muddy background"
 ---
 

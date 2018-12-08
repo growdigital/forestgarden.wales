@@ -1,7 +1,7 @@
 ---
 title: "Woodchip"
 date: 2018-08-22T11:23:14+01:00
-image: "https://farm2.staticflickr.com/1900/44193784521_07264210b4_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544305254/wood-chip-44193784521.jpg"
 imageAlt: "Pile of greenish wood chip on a drive"
 ---
 

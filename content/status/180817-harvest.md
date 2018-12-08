@@ -1,7 +1,7 @@
 ---
 title: "Harvest"
 date: 2018-08-17T12:38:42+01:00
-image: "https://farm2.staticflickr.com/1836/30220462088_a8870bf48d_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544305038/grapes-30220462088.jpg"
 imageAlt: "Open hand, 2 small bunches of white grapes"
 ---
 

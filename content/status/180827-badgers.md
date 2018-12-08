@@ -1,7 +1,7 @@
 ---
 title: "Badgers"
 date: 2018-08-27T11:11:38+01:00
-image: "https://farm2.staticflickr.com/1899/30371461728_b4f348b42f_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544305349/fence-30371461728.jpg"
 imageAlt: "Low electric fence in front of wooden fence and gate"
 ---
 

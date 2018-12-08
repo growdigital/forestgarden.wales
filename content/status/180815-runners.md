@@ -1,7 +1,7 @@
 ---
 title: "Runners"
 date: 2018-08-15T15:34:35+01:00
-image: "https://farm2.staticflickr.com/1792/44048653541_273048ce4a_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544304722/strawberry-44048653541.jpg"
 imageAlt: "Propagating strawberry runners in a pot in a propagation bed"
 ---
 
