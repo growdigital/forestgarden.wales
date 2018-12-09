@@ -1,7 +1,7 @@
 ---
 title: "Goldfinch"
 date: 2018-06-10T21:54:11+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544219516/goldfinch-42718031621.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_736/v1544219516/goldfinch-42718031621.jpg"
 imageAlt: "Blurry photo of Goldfinch on farming fence eating seed heads"
 ---
 

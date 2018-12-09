@@ -1,7 +1,7 @@
 ---
 title: "Butterflies"
 date: 2018-07-10T10:14:53+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544296980/a-way-to-garden-41507384310.png"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_736/v1544296980/a-way-to-garden-41507384310.png"
 imageAlt: "Screenshot of A Way to Garden website"
 ---
 

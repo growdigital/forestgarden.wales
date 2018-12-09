@@ -1,7 +1,7 @@
 ---
 title: "Bandwhite"
 date: 2018-11-07T19:14:00Z
-image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544366645/sunset-45474014272.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_736/v1544366645/sunset-45474014272.jpg"
 imageAlt: "Black & white photo of sunset over trees, beneath branches"
 ---
 

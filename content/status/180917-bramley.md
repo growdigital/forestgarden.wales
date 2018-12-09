@@ -1,7 +1,7 @@
 ---
 title: "Bramley"
 date: 2018-09-17T21:32:11+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544352492/apples-44027074894.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_736/v1544352492/apples-44027074894.jpg"
 imageAlt: "Willow basket full of bramley apples on shale ground"
 ---
 

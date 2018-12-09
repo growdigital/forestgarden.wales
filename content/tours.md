@@ -2,7 +2,7 @@
 title: Tours
 menu: main
 date: 2018-02-09T19:21:11Z
-image: https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544027745/misty-wildlife-pond-26465730067.jpg
+image: https://res.cloudinary.com/growdigital/image/upload/w_736/v1544027745/misty-wildlife-pond-26465730067.jpg
 imageAlt: Misty view on a sunny morning across pond, young orchard to establised trees
 imageCap: Early morning looking eastward across the Wildlife Pond and newly established forest garden
 draft: false
@@ -10,7 +10,7 @@ draft: false
 
 # Tour our forest garden
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544027745/misty-wildlife-pond-26465730067.jpg" alt="Misty view on a sunny morning across pond, young orchard to establised trees" caption="Early morning looking eastward across the Wildlife Pond and newly established forest garden" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_736/v1544027745/misty-wildlife-pond-26465730067.jpg" alt="Misty view on a sunny morning across pond, young orchard to establised trees" caption="Early morning looking eastward across the Wildlife Pond and newly established forest garden" >}}
 
 On the **first Saturday of each month** (May to September inclusive, except June), we offer a 2.5 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. This includes a presentation _and_ coffee & cake. It’s for anyone interested in learning more about forest gardening.
 
@@ -38,7 +38,7 @@ You can buy tickets for £20 from **[forestgardenwales.eventbrite.co.uk](https:/
 
 ## What you will see on the tour
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544372029/cad-40637277764.png" alt="CAD plan of garden" caption="CAD plan of our forest garden" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_736/v1544372029/cad-40637277764.png" alt="CAD plan of garden" caption="CAD plan of our forest garden" >}}
 
 1. Introduction to forest gardening presentation
 2. Half an acre of newly planted coppice, designed for firewood, poles and posts

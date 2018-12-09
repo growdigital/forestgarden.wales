@@ -4,7 +4,7 @@ date: 2018-09-10T11:44:15+01:00
 description: "@doctor_oxford’s article on palliative care and nature struck a chord with my own experiences"
 tags: 
 - ForestGarden
-image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543960547/bumblebee-rosa-rugosa-flower-29680293497.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_736/v1543960547/bumblebee-rosa-rugosa-flower-29680293497.jpg"
 imageAlt: "Closeup of white Rosa rugosa flower with bumblebee in centre"
 imageCap: "White Rosa rugosa flower, and bumblebee, both very alive"
 draft: false

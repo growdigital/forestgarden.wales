@@ -1,7 +1,7 @@
 ---
 title: "Viburnum"
 date: 2018-06-04T08:39:06+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544218916/viburnum-42430712802.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_736/v1544218916/viburnum-42430712802.jpg"
 imageAlt: "Close up photo of Viburnum opulus white flower head"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Badgers"
 date: 2018-08-27T11:11:38+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544305349/fence-30371461728.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_736/v1544305349/fence-30371461728.jpg"
 imageAlt: "Low electric fence in front of wooden fence and gate"
 ---
 

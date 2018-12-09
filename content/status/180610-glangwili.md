@@ -1,7 +1,7 @@
 ---
 title: "Glangwili"
 date: 2018-06-10T21:40:52+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544219454/river-27849506157.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_736/v1544219454/river-27849506157.jpg"
 imageAlt: "Photo of bucolic & idyllic brook, with trees and old gate"
 ---
 

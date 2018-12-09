@@ -2,7 +2,7 @@
 title: "Dwarf comfrey ground cover planted in Shrubbery"
 date: 2018-01-16
 description: "Symphytum ibericum (dwarf or iberian comfrey) is a good mineral accumulator ground cover for shady areas, planted buckets of the stuff today"
-image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544372630/comfrey-38830083715.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_736/v1544372630/comfrey-38830083715.jpg"
 imageAlt: "Dwarf comfrey in raised bed"
 imageCap: "Symphytum ibericum in a rustic propagation bed, before being lifted, divided and planted out"
 draft: false
@@ -12,7 +12,7 @@ Amidst the driving wind and hail, I planted out about 100m² of [Symphytum iberi
 
 I bought four plants from [Moorland Cottage Plants](http://www.moorlandcottageplants.co.uk/) a year ago and popped them in a propagation bed, and they‘ve spread: big, chunky, comfrey roots going sideways and downwards. The nice thing about comfrey is that once you plant it, you have it forever. The downside is that once you plant it, you have it forever.
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544372699/mulch-39019186074.jpg" alt="Bark mulched garden area planted with ground cover" caption="The bottom part of the Shrubbery planted up with Symphytum ibericum" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_736/v1544372699/mulch-39019186074.jpg" alt="Bark mulched garden area planted with ground cover" caption="The bottom part of the Shrubbery planted up with Symphytum ibericum" >}}
 
 The Shrubbery is at the bottom of the slope, past the polytunnel and shaded to the south by ash trees. Ash trees, if you didn’t know, soak up water like a darned sponge. As soon as you come across the tree root network, the soil changes consistency dramatically, from a damp clay loam to a crumbly dry powder interwoven with roots.
 
@@ -20,4 +20,4 @@ For the ground preparation, I used woven plastic to sheet mulch the area for a f
 
 Now, it is time to replenish the propagation beds!
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544372797/propagation-38830116035.jpg" alt="Two thirds empty raised bed with comfrey" caption="Time to replenish Symphytum ibericum propagation bed" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_736/v1544372797/propagation-38830116035.jpg" alt="Two thirds empty raised bed with comfrey" caption="Time to replenish Symphytum ibericum propagation bed" >}}
