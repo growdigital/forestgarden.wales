@@ -1,7 +1,7 @@
 ---
 title: "Dragonfly"
 date: 2018-09-04T16:37:20+01:00
-image: "https://farm2.staticflickr.com/1897/29534745037_b53ab7c97c_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544344110/dragonfly-29534745037.jpg"
 imageAlt: "Red-orange dragonfly on old plank"
 ---
 

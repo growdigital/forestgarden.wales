@@ -1,7 +1,7 @@
 ---
 title: "Aquilega"
 date: 2018-09-19T10:58:23+01:00
-image: "https://farm2.staticflickr.com/1887/44059576964_e4714aee82_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544352796/aquilega-44059576964.jpg"
 imageAlt: "Close up of Aquilega seed heads and shiny small black seed in an envelope"
 ---
 

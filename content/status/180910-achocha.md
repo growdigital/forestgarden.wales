@@ -1,7 +1,7 @@
 ---
 title: "Achocha"
 date: 2018-09-10T21:48:54+01:00
-image: "https://farm2.staticflickr.com/1850/43691988715_02f8c99db5_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544351549/achocha-43691988715.jpg"
 imageAlt: "Basket of cucumber-looking fruit"
 ---
 

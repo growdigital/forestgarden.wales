@@ -1,7 +1,7 @@
 ---
 title: "Rhodedendron"
 date: 2018-09-16T10:23:54+01:00
-image: "https://farm2.staticflickr.com/1864/44651583312_4e2cd8337a_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544352410/rhodedendron-44651583312.jpg"
 imageAlt: "Line of small green plants on top of wall, by small road, little white dog in the near distance"
 ---
 

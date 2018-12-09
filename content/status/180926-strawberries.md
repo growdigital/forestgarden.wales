@@ -1,7 +1,7 @@
 ---
 title: "Strawberries"
 date: 2018-09-26T15:54:24+01:00
-image: "https://farm2.staticflickr.com/1952/44930200131_a2acc612c6_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544353756/strawberry-44930200131.jpg"
 imageAlt: "Line of strawberry runners scratched out in bark mulch"
 ---
 

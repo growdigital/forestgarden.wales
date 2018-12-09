@@ -1,7 +1,7 @@
 ---
 title: "Nasturtiums"
 date: 2018-10-01T19:54:47+01:00
-image: "https://farm2.staticflickr.com/1950/43162939240_52a632c2b6_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544353932/nasturtium-43162939240.jpg"
 imageAlt: "Close up of bright orange and red nasturtium flowers and foliage"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Chillies"
 date: 2018-09-17T10:38:47+01:00
-image: "https://farm2.staticflickr.com/1879/44722319261_2239478f3d_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544352559/chillies-44722319261.jpg"
 imageAlt: "Willow basket half full of small red chillies"
 ---
 

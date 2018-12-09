@@ -1,7 +1,7 @@
 ---
 title: "Hedgehog"
 date: 2018-10-02T15:30:04+01:00
-image: "https://farm2.staticflickr.com/1920/45006186112_4cf93ea6f3_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544354268/hedgehog-45006186112.png"
 imageAlt: "Hedgehog eating food in bowl amongst autumn leaves"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Mulberry"
 date: 2018-09-07T10:20:01+01:00
-image: "https://farm2.staticflickr.com/1869/44462831472_a70e3cf345_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544351384/mulberry-44462831472.jpg"
 imageAlt: "Single black mulberry amongst the green leaves"
 ---
 

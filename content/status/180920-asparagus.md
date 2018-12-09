@@ -1,7 +1,7 @@
 ---
 title: "Asparagus"
 date: 2018-09-20T09:46:13+01:00
-image: "https://farm2.staticflickr.com/1854/43877747405_1fcfccef19_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544352885/asparagus-43877747405.jpg"
 imageAlt: "Grass in asparagus raised bed"
 ---
 

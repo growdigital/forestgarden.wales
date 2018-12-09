@@ -1,7 +1,7 @@
 ---
 title: "Poppies"
 date: 2018-09-04T16:41:53+01:00
-image: "https://farm2.staticflickr.com/1865/44422901322_ed0d2b3beb_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544344228/poppies-44422901322.jpg"
 imageAlt: "3 bright red poppies in a mulched bed"
 ---
 

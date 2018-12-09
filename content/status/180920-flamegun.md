@@ -1,7 +1,7 @@
 ---
 title: "Flamegun"
 date: 2018-09-20T09:35:26+01:00
-image: "https://farm2.staticflickr.com/1859/30927772408_484b0a2d3b_o_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1544352963/flamegun-30927772408.jpg"
 imageAlt: "Close up of Sheen flame gun"
 ---
 
