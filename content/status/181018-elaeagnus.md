@@ -1,7 +1,7 @@
 ---
 title: "Elaeagnus"
 date: 2018-10-18T20:58:58+01:00
-image: "https://farm2.staticflickr.com/1968/44688403834_21252d1204_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544364885/elaeagnus-flowers-44688403834.jpg"
 imageAlt: "Close up of evergreen bush with small white flowers"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Sunrise"
 date: 2018-11-15T07:35:57Z
-image: "https://i.postimg.cc/BQDtTMLc/sunrise.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1542316692/sunrise-vygkdw.jpg"
 imageAlt: "Sunrise clear sky silhouetting trees"
 ---
 

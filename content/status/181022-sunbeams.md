@@ -1,7 +1,7 @@
 ---
 title: "Sunbeams"
 date: 2018-10-22T21:00:01+01:00
-image: "https://farm2.staticflickr.com/1963/43595839650_bd0fdb77bc_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544366569/beams-43595839650.jpg"
 imageAlt: "Sunbeams over old outbuildings, through tree"
 ---
 

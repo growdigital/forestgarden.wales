@@ -1,7 +1,7 @@
 ---
 title: "Morrison"
 date: 2018-11-13T13:11:25Z
-image: "https://i.postimg.cc/fLjbdyrc/Screen-Shot-2018-11-13-at-13-16-16.png"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1544366738/book-fLjbdyrc.png"
 imageAlt: "Screenshot of The Less is More garden book"
 ---
 
