@@ -2,7 +2,7 @@
 title: "Don’t stake fruit trees"
 date: 2018-01-24
 description: "I am always wary of outright statements but this one is interesting and time saving"
-image: "https://farm5.staticflickr.com/4587/38517307965_1f502a7949_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1543958825/buds-38517307965.jpg"
 imageAlt: "Photo of hand holding tree branch buds"
 imageCap: "Apple tree buds"
 draft: false

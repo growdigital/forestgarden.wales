@@ -38,7 +38,7 @@ You can buy tickets for £20 from **[forestgardenwales.eventbrite.co.uk](https:/
 
 ## What you will see on the tour
 
-{{< figure src="https://farm1.staticflickr.com/899/40637277764_0c70b4a598_o_d.png" alt="CAD plan of garden" caption="CAD plan of our forest garden" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544372029/cad-40637277764.png" alt="CAD plan of garden" caption="CAD plan of our forest garden" >}}
 
 1. Introduction to forest gardening presentation
 2. Half an acre of newly planted coppice, designed for firewood, poles and posts

@@ -8,7 +8,7 @@ imageCap: "Rootstocks explained illustration, I think from Johnstown Garden Cent
 draft: false
 ---
 
-This is the best [rootstock diagram](https://farm5.staticflickr.com/4636/24453546047_3e5fb2dfec_o_d.png) that I’ve found, from [Johnstown Garden Centre](https://www.johnstowngardencentre.ie/blog/johnstowngardencentre.ie/2016/03/08/rootstocks-explained/)
+This is the best [rootstock diagram](https://res.cloudinary.com/growdigital/image/upload/v1543958990/rootstocks-24453546047.png) that I’ve found, from [Johnstown Garden Centre](https://www.johnstowngardencentre.ie/blog/johnstowngardencentre.ie/2016/03/08/rootstocks-explained/)
 
 * Very dwarf _1.5m-2m_
   * Apple: **M27**
