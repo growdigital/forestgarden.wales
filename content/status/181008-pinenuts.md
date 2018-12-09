@@ -1,7 +1,7 @@
 ---
 title: "Pinenuts"
 date: 2018-10-08T10:57:29+01:00
-image: "https://farm2.staticflickr.com/1957/44453351514_b21cda6192_z_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544360372/pinenuts-44453351514.jpg"
 imageAlt: "Naked pine nuts"
 ---
 

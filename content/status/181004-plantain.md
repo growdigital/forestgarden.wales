@@ -1,7 +1,7 @@
 ---
 title: "Plantain"
 date: 2018-10-04T09:40:18+01:00
-image: "https://farm2.staticflickr.com/1902/43278294200_62f2bdcf2d_o_d.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/w_1280/v1544360094/plantain-43278294200.jpg"
 imageAlt: "Broad leaved plantain plant"
 ---
 
