@@ -2,7 +2,7 @@
 title: "Unglamorous grunt work"
 date: 2017-12-30
 description: "In a garden, it’s 95% perspiration and 5% inspiration"
-image: "https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1543960068/bark-38665529034.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1543960068/bark-38665529034.jpg"
 imageAlt: "A mound of bark"
 imageCap: "It’s not the most glamorous of photographs but then a lot of gardening is about the grunt work"
 draft: false

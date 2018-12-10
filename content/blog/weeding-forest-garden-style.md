@@ -4,7 +4,7 @@ date: 2018-09-20T09:57:03+01:00
 description: The “chop ’n‘ drop” method of mulching applies equally to weeding in the forest garden
 tags: 
 - ForestGarden
-image: "https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1543960218/weeding-44068045164.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1543960218/weeding-44068045164.jpg"
 imageAlt: "Weeded plants on a bark mulch"
 imageCap: "Some call the look scruffy, I call it efficient"
 draft: false

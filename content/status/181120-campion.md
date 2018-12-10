@@ -1,7 +1,7 @@
 ---
 title: Campion
 date: 2018-11-20T09:31:22Z
-image: https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1542658060/B2E54F89-21D6-46F3-A08E-B2544F138FC5_gpm12i.jpg
+image: https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1542658060/B2E54F89-21D6-46F3-A08E-B2544F138FC5_gpm12i.jpg
 imageAlt: Close up pink petalled flower
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Hogweed"
 date: 2018-11-15T15:01:19Z
-image: "https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1544366779/hogweed-kGTYvcWv.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544366779/hogweed-kGTYvcWv.jpg"
 imageAlt: "Close up of umbellifer just about to pinky flower"
 ---
 

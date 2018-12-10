@@ -1,7 +1,7 @@
 ---
 title: "Buzzard"
 date: 2018-01-31T09:38:45Z
-image: "https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1544049829/buzzard-39968514312.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544049829/buzzard-39968514312.jpg"
 imageAlt: "Bird of prey sitting on mailbox on a post in front of a grassy bank and track"
 ---
 

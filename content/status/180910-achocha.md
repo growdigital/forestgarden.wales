@@ -1,7 +1,7 @@
 ---
 title: "Achocha"
 date: 2018-09-10T21:48:54+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1544351549/achocha-43691988715.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544351549/achocha-43691988715.jpg"
 imageAlt: "Basket of cucumber-looking fruit"
 ---
 

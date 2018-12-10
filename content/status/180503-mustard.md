@@ -1,7 +1,7 @@
 ---
 title: "Mustard"
 date: 2018-05-03T12:05:44+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1544127992/mustard-40026582610.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544127992/mustard-40026582610.jpg"
 imageAlt: "Raspberries and strawberries growing on bark mulch with dead stalks from temporary ground cover"
 ---
 

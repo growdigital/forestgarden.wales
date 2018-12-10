@@ -26,7 +26,7 @@ The only provisos for this slapdash approach are:
 
 I didn’t follow my own advice and this is what happened:
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1543516107/cornus-sericea-rough-propagation-7C02CF36.jpg" alt="Red twigs in grass" caption="Red Dogwood cuttings somewhat swamped by grass" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1543516107/cornus-sericea-rough-propagation-7C02CF36.jpg" alt="Red twigs in grass" caption="Red Dogwood cuttings somewhat swamped by grass" >}}
 
 Also, I neglected to water the cuttings throughout the drought this summer, and there were about 80% casualties. But considering it took me 10 minutes to “plant” the cuttings, it was a good return.
 

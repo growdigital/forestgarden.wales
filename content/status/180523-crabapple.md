@@ -1,7 +1,7 @@
 ---
 title: "Crabapple"
 date: 2018-05-23T09:56:16+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1544130070/crabapple-41314675045.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544130070/crabapple-41314675045.jpg"
 imageAlt: "Close-up photo of white apple blossom"
 ---
 

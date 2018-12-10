@@ -1,7 +1,7 @@
 ---
 title: "Obelisk"
 date: 2018-01-11T03:25:07Z
-image: "https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1544047140/amelanchier-obelisk-27854895259.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544047140/amelanchier-obelisk-27854895259.jpg"
 imageAlt: "Badly cropped photo of Amelanchier alnifolia 'Obelisk'"
 ---
 
