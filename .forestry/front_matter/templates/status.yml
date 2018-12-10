@@ -29,5 +29,3 @@ fields:
   description: Descriptive alternative text for image
   config:
     required: false
-pages:
-- content/status/greetings.md
