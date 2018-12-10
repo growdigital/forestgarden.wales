@@ -1,7 +1,7 @@
 ---
 title: "Friends"
 date: 2018-07-08T10:22:28+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/w_736/v1544296795/ron-41462832670.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1544296795/ron-41462832670.jpg"
 imageAlt: "Two dogs, one big and hairy, one small and white, on the grass"
 ---
 

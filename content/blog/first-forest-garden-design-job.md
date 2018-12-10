@@ -6,7 +6,7 @@ tags:
 - ForestGarden
 - gdnbloggers
 - design
-image: https://res.cloudinary.com/growdigital/image/upload/w_736/v1543789181/final-plan-fgrp.jpg
+image: https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1543789181/final-plan-fgrp.jpg
 imageAlt: CAD forest garden plan
 imageCap: Final forest garden outline planting plan 
 draft: false
@@ -26,16 +26,16 @@ Then the client emailed over a whole bunch of photos from different angles, plus
 
 Here’s the sketch for where I estimated the lightest parts of the garden to be (if I was onsite, I would use the excellent [Sun Surveyor](https://www.sunsurveyor.com) mobile app to check for light and darks areas at different times of the year):
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_736/v1543788837/sketch-light-fgrp.jpg" alt="CAD forest garden plan showing areas of sunlight" caption="Sketch estimating areas of sunlight in the garden" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1543788837/sketch-light-fgrp.jpg" alt="CAD forest garden plan showing areas of sunlight" caption="Sketch estimating areas of sunlight in the garden" >}}
 
 Then, I sketched out in biro the different areas and footpaths of the garden. I traced this very rough sketch in [Inkscape](https://inkscape.org) and then imported back it into [QCAD](https://qcad.org/en/), tweaking it to fit. To be honest, it would be easier to sketch directly in CAD, as there is a freehand tool, but I’d need to invest in a [Wacom tablet](https://amzn.to/2KTi1gI))
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_736/v1543788831/sketch-areas-fgrp.jpg" alt="CAD garden plan marked up with biro to show areas" caption="Rough biro scribblings outlining areas & paths" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1543788831/sketch-areas-fgrp.jpg" alt="CAD garden plan marked up with biro to show areas" caption="Rough biro scribblings outlining areas & paths" >}}
 
 Finally, I pulled out my bargain £1 colour pencils and started to sketch in the different plants, paths and features. It’s all very rough but it is _so_ much easier to visualise once you get a bit of colour down. Again, CAD is great but a little bit monochrome & tidy.
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_736/v1543839661/sketch-layout-fgrp.jpg" alt="CAD forest garden plan showing colour scribblings of plants, paths & features" caption="Very rough sketch in coloured Poundland pencils, showing planting ideas & areas" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1543839661/sketch-layout-fgrp.jpg" alt="CAD forest garden plan showing colour scribblings of plants, paths & features" caption="Very rough sketch in coloured Poundland pencils, showing planting ideas & areas" >}}
 
 And here, for comparison, is the final plan again:
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/w_736/v1543789181/final-plan-fgrp.jpg" alt="CAD forest garden plan" caption="Final forest garden outline planting plan" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1543789181/final-plan-fgrp.jpg" alt="CAD forest garden plan" caption="Final forest garden outline planting plan" >}}

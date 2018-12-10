@@ -2,7 +2,7 @@
 title: "Permaculture Tywi forest garden tour"
 date: 2018-06-27T13:37:21+01:00
 description: "@PermaTywi came for a #ForestGarden tour on Saturday, about a dozen, everyone seemed to enjoy themselves!"
-image: "https://res.cloudinary.com/growdigital/image/upload/w_736/v1543958719/brownies-42957769501.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1543958719/brownies-42957769501.jpg"
 imageAlt: "Chocolate brownies on a white plate"
 imageCap: "Not forest garden at all really but the vegan chocolate brownies went down well"
 draft: false

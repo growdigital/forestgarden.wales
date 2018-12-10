@@ -1,7 +1,7 @@
 ---
 title: "Tricolor"
 date: 2018-10-05T20:48:38+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/w_736/v1544360174/tricolor-45121576931.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1544360174/tricolor-45121576931.jpg"
 imageAlt: "Mass of brambly Chinese bramble in a brick planter"
 ---
 

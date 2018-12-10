@@ -1,7 +1,7 @@
 ---
 title: "Sweet chestnut"
 date: 2018-05-23T15:42:32+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/w_736/v1544130140/sweet-chestnut-41579672144.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1544130140/sweet-chestnut-41579672144.jpg"
 imageAlt: "Close up photo of young sweet chestnut multi-stemmed trunk"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Propagation"
 date: 2018-09-05T19:35:19+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/w_736/v1544344952/raised-beds-44442919422.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/q_70,w_736/v1544344952/raised-beds-44442919422.jpg"
 imageAlt: "3 raised beds in the sun, mulched with bark, wheelbarrow"
 ---
 
