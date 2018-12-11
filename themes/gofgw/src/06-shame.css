@@ -99,7 +99,13 @@
   outline: 1px solid var(--dark);
 }
 
-/* breakpoints */
+/* Display table */
+.display-table {
+}
 
-/*
-no full bleed, 46em = 736 pixels */
+.display-table th, td {
+  border: 1px solid var(--brown_pale);
+  padding: .3rem;
+  text-align: left;
+  vertical-align: top;
+}
