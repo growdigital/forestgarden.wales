@@ -63,7 +63,7 @@ Here’s a handy comparison table:
       <td>
         <ul>
           <li>Not designed per se for organising images, can be frustrating</li>
-          <li>Requires hosting, which can be time consuming &/or expensive</li>
+          <li>Requires self-hosting, which can be time consuming &/or expensive</li>
           <li>Mobile app was limited on iPhone for uploading images directly</li>
         </ul>        
       </td>
