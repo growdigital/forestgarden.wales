@@ -1,0 +1,18 @@
+/* ==========================================================================
+   Article
+   ========================================================================== */
+
+.article__time {
+  display: block;
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+.article__summary {
+  font-size: 1.1rem;
+}
+
+.article__tags {
+  font-style: italic;
+  margin-bottom: 1rem;
+}

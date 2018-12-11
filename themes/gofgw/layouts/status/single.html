@@ -1,6 +1,6 @@
 {{ define "main" }}
   <main class="breakout">
-    <article class="h-entry" itemscope itemtype="https://schema.org/Article">
+    <article class="article h-entry" itemscope itemtype="https://schema.org/Article">
       {{ partial "microformat-schema.html" . }}
       <h1 class="p-name">
         {{ .Date.Format "Monday" }}, {{ .Date.Format "2" | humanize}} {{ .Date.Format "January 2006 03:04pm" }}
@@ -21,7 +21,7 @@
         </dd>
         <dt>Date:</dt>
         <dd>
-          <time class="dt-published" pubdate itemprop="datePublished" content="{{ .Date.Format "2006-01-02" }}">
+          <time class="article__time dt-published" pubdate itemprop="datePublished" content="{{ .Date.Format "2006-01-02" }}">
             {{ .Date.Format "Monday" }}, {{ .Date.Format "2" | humanize}} {{ .Date.Format "January 2006 03:04pm" }}
           </time>
         </dd>

@@ -109,3 +109,10 @@
   text-align: left;
   vertical-align: top;
 }
+
+/* TODO: make this a display flex object */
+/* list inline */
+.o-list-inline > * {
+  display: inline-block;
+  margin: 0 0.5rem 0 0;
+}

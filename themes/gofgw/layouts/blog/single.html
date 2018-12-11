@@ -1,19 +1,21 @@
 {{ define "main" }}
   <main class="breakout">
-    <article class="h-entry" itemscope itemtype="https://schema.org/Article">
+    <article class="article h-entry" itemscope itemtype="https://schema.org/Article">
       {{ partial "microformat-schema.html" . }}
       <h1 class="p-name">{{ .Title }}</h1>
-      <time class="dt-published" pubdate itemprop="datePublished" content="{{ .Date.Format "2006-01-02" }}">
+      <time class="article__time dt-published" pubdate itemprop="datePublished" content="{{ .Date.Format "2006-01-02" }}">
         {{ .Date.Format "Monday" }}, {{ .Date.Format "2" | humanize}} {{ .Date.Format "January 2006" }}
       </time>
-      <p class="p-summary">{{ .Description }}</p>
+      <p class="article__summary p-summary">{{ .Description }}</p>
       {{ if .Params.tags }}
-        <h3>Tags</h3>
-        <ul class="p-category">
+      <div class="article__tags o-list-inline">
+        <h3>Tags:</h3>
+        <ul class="o-list-bare o-list-inline p-category">
           {{ range .Params.tags }}
             <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
           {{ end }}
         </ul>
+      </div>
       {{ end }}
       {{ if .Params.image }}
         <figure>
