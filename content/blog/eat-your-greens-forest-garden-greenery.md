@@ -1,7 +1,7 @@
 ---
 title: Eat your greens from the Forest Garden Greenery!
 date: 2018-12-09T12:47:07Z
-description: I have neglected my greens in the forest garden, so I’m making them a Greenery, a place for perennial alternatives to cabbage and spinach
+description: I have neglected my greens in the forest garden, so I’m making them a Greenery, a place for perennial alternatives to cabbage and spinach.
 tags: 
 - ForestGarden
 - greens
