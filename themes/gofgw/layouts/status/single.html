@@ -5,15 +5,15 @@
       <h1 class="p-name">
         {{ .Date.Format "Monday" }}, {{ .Date.Format "2" | humanize}} {{ .Date.Format "January 2006 03:04pm" }}
       </h1>
+      {{ if .Params.image }}
+        <figure>
+          <img src="{{ .Site.Params.cloudinary_base_url }}f_auto,q_70,w_736/{{ substr .Params.image 52 }}" alt="{{ .Params.imageAlt }}">
+          <figcaption>{{ .Params.imageCap }}</figcaption>
+        </figure>
+      {{ end }}
       <div class="e-content" itemprop="mainEntityOfPage">
         {{ .Content }}
       </div>
-      {{ if .Params.image }}
-        <figure>
-          <img src="{{ .Params.image }}" alt="{{ .Params.imageAlt }}">
-          <figcaption>{{ .Params.imageCap }}</figcaption>
-        </figure>
-        {{ end }}
       <dl class="meta">
         <dt>Author:</dt>
         <dd rel="author" class="p-author h-card">

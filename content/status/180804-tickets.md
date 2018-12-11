@@ -1,7 +1,7 @@
 ---
 title: "Tickets"
 date: 2018-08-04T15:23:15+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544300867/chaenomeles-41478572351.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1544300867/chaenomeles-41478572351.jpg"
 imageAlt: "Red flower of japanese quince close up"
 ---
 

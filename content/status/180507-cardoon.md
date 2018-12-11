@@ -1,7 +1,7 @@
 ---
 title: "Cardoon"
 date: 2018-05-07T22:24:23+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544129700/cardoon-41869673262.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1544129700/cardoon-41869673262.jpg"
 imageAlt: "Cardoon leaves amidst mustard plants, on a bed of bark mulch"
 ---
 

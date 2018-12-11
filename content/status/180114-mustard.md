@@ -1,7 +1,7 @@
 ---
 title: "Mustard"
 date: 2018-01-14T16:30:17Z
-image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544048214/mustard-seeds-39652721742.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1544048214/mustard-seeds-39652721742.jpg"
 imageAlt: "Big green bag of White mustard seed from the top"
 ---
 

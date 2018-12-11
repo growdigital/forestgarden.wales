@@ -1,7 +1,7 @@
 ---
 title: "Evening"
 date: 2018-07-05T10:36:16+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544269843/field-41299169140.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1544269843/field-41299169140.jpg"
 imageAlt: "Low summer sun, oak leaves and farm fence in foreground, flies caught in light, field to trees in background"
 ---
 

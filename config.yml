@@ -17,6 +17,7 @@ params:
   publisherLogo: assets/img/logo.png
   publisherLogoWidth: 220
   publisherLogoHeight: 220
+  cloudinary_base_url: https://res.cloudinary.com/growdigital/image/upload/
   email: hello@forestgarden.wales
   facebook: Forest-Garden-Wales
   fbapp_id: 181804962563660

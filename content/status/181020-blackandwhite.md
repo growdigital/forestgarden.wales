@@ -1,7 +1,7 @@
 ---
 title: "Blackandwhite"
 date: 2018-10-20T17:41:23+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544365784/mushroom-44727173574.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1544365784/mushroom-44727173574.jpg"
 imageAlt: "Mushroom eaten by slugs"
 ---
 
