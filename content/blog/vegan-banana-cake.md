@@ -5,7 +5,7 @@ description: "Very easy vegan banana cake, which I topped with our first ever go
 tags: 
 - ForestGarden
 - recipe
-image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1543960136/vegan-banana-cake-43255228442.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1543960136/vegan-banana-cake-43255228442.jpg"
 imageAlt: "Cake with fruity topping in tin"
 imageCap: "Vegan banana cake topped with part-cooked gooseberries"
 draft: false
@@ -37,7 +37,7 @@ We picked our first ever gooseberries last week. I washed them, popped them into
 6. Add the dry mix to the wet and stir until just combined, do not over mix. Pour batter into tin.
 7. Bake for 25-30 minutes or until a toothpick can be inserted and removed cleanly. 
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544377572/cake-28497204027.jpg" alt="Square cake sliced on cooling rack, red fruit on top, piece missing" caption="Vegan banana cake topped with gooseberry with, er, a piece missing already…" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1544377572/cake-28497204027.jpg" alt="Square cake sliced on cooling rack, red fruit on top, piece missing" caption="Vegan banana cake topped with gooseberry with, er, a piece missing already…" >}}
 
 
 Recipe adapated from [For the Love of Leaves](https://fortheloveofleaves.blogspot.co.uk/2013/04/vegan-banana-cake.html)

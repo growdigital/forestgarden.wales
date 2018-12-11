@@ -2,7 +2,7 @@
 title: "Misty valley whilst releasing mouse"
 date: 2018-01-01
 description: "Not exactly forest gardening but it was lovely and misty this morning in the hills where I released the mouse"
-image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1543956797/misty-wood-38558978625.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1543956797/misty-wood-38558978625.jpg"
 imageAlt: "Path through misty trees"
 imageCap: "Path through misty trees"
 draft: false

@@ -2,7 +2,7 @@
 title: "Forest garden tours now public!"
 date: 2018-05-02T12:06:39+01:00
 description: "Forest Garden Wales is now open for tours by individual members of the public. Tickets on Eventbrite 🙂"
-image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1543954722/tour-poster-40947287805.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1543954722/tour-poster-40947287805.jpg"
 imageAlt: "Screenshot of Forest Garden tour poster"
 imageCap: "Forest garden tours, first Saturday of the month, May–September inclusive!"
 draft: false

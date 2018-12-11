@@ -5,7 +5,7 @@ description: "After listening to a @margaretroach podcast & reading a @DaveGouls
 tags: 
 - ForestGarden
 - GdnBloggers
-image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1543954134/quince-blossom-41405332295.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1543954134/quince-blossom-41405332295.jpg"
 imageAlt: "Pale pink Quince blossom in the low evening sun"
 imageCap: "A quince tree, part of the canopy layer. Choosing other plants has been more challenging."
 draft: false

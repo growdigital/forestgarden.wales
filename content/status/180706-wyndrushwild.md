@@ -1,7 +1,7 @@
 ---
 title: "Wyndrush Wild Meadow"
 date: 2018-07-06T10:42:08+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544296678/meadow-42328167155.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1544296678/meadow-42328167155.jpg"
 imageAlt: "Photo of wild flower meadow with rolling landscape in background"
 ---
 

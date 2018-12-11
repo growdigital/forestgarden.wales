@@ -7,7 +7,7 @@ tags:
   - OFG
   - survey
   - gdnbloggers
-image: https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1542316696/chickens-measuring-ofg.jpg
+image: https://res.cloudinary.com/growdigital/image/upload/v1542316696/chickens-measuring-ofg.jpg
 imageAlt: Two chickens running toward camera across measuring tape on rough cut field
 imageCap: Joan Crawford & Betty Davies helping out with the surveying in the Ornamental Forest Garden. Soooo helpful…
 draft: false
@@ -31,7 +31,7 @@ There are plenty of simpler and lower-tech methods out there but alas I don’t 
 
 I also measured up the existing trees. We have about 80% ash trees, and [Ash Dieback](https://www.woodlandtrust.org.uk/visiting-woods/tree-diseases-and-pests/key-threats/ash-dieback/) is quite literally just around the corner, so it’s good to know what we have on the boundaries. One of the handy features on the [Theodolite app](http://hrtapps.com/theodolite/) is, if you know the distance on the ground, the ability to easily calculate the height of the tree using the viewfinder and calculator. 
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1543418705/ofg-tree-measurements-311003CD.jpg" alt="Tree measurements in hedgerows marked up on printed plan of field" caption="That’s a lot of trees in the hedgerows, supporting a lot of wildlife!" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1543418705/ofg-tree-measurements-311003CD.jpg" alt="Tree measurements in hedgerows marked up on printed plan of field" caption="That’s a lot of trees in the hedgerows, supporting a lot of wildlife!" >}}
 
 The other surveying I’ll do is to test the soil at the [local farmers shop](http://www.ccfagri.co.uk) (it will cost about £10). It should be similar to the adjoining field, ie a light clay loam with outcrops of bedrock, fairly acid and low in phosphorous. This way I can work out if I need to lime the soil to lower the acidity (I buy [agricultural lime](https://en.wikipedia.org/wiki/Agricultural_lime) from a local quarry and transport it in a hired trailer).
 

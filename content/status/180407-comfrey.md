@@ -1,7 +1,7 @@
 ---
 title: "Comfrey"
 date: 2018-04-07T12:02:06+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544107911/comfrey-40398318455.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1544107911/comfrey-40398318455.jpg"
 imageAlt: "Photograph of comfrey plant lower leaves. Symphytum x uplandicum 'Bocking 14', photo by Finchj on Wikimedia Commons"
 ---
 

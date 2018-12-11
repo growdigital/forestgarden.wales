@@ -1,7 +1,7 @@
 ---
 title: "Viburnum opulus in flower"
 date: 2018-05-24T12:45:26+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544130628/viburnum-28428291178.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1544130628/viburnum-28428291178.jpg"
 imageAlt: "Close up of Viburnum opulus flower"
 ---
 

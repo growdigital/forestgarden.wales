@@ -11,7 +11,7 @@
 <!-- Twitter Summary Card with Large Image data -->
 <!-- Aspect ratio 2:1, minimum dimension 300x157 -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="{{ .Params.Image }}">
+<meta name="twitter:image" content="{{ .Site.Params.cloudinary_base_url }}f_auto,q_70,w_736/{{ substr .Params.image 52 }}">
 <meta name="twitter:image:alt" content="{{ .Params.ImageAlt }}">
 {{ else }}
 <!-- Twitter Summary Card -->
