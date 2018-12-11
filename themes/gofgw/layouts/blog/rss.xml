@@ -23,7 +23,7 @@
         &lt;p class="p-summary"&gt;{{ .Description }}&lt;/p&gt;
         {{ if .Params.image }}
           &lt;figure&gt;
-            &lt;img src=&quot;{{ .Params.image }}&quot; alt=&quot;{{ .Params.imageAlt }}&quot;&gt;
+            &lt;img src=&quot;{{ .Site.Params.cloudinary_base_url }}f_auto,q_70,w_736/{{ substr .Params.image 52 }}&quot; alt=&quot;{{ .Params.imageAlt }}&quot;&gt;
             &lt;figcaption&gt;{{ .Params.imageCap }}&lt;/figcaption&gt;
           &lt;/figure&gt;
         {{ end }}
