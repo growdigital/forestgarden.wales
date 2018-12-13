@@ -7,7 +7,7 @@ tags:
 - GdnBloggers
 image: https://res.cloudinary.com/growdigital/image/upload/v1544710245/hippophae-243582AF.jpg
 imageAlt: Newly planted trees in recently mulched beds
-imageCap: Two Sea Buckthorn, just about visible past the Sumach (Rhus typhina) tree
+imageCap: Two Sea Buckthorn, just about visible past the Sumach tree
 draft: false
 ---
 
@@ -26,3 +26,4 @@ One of the most tiring parts of this afternoon was digging out the larger 2.5 me
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1544710244/roots-0E53D344.jpg" alt="Half dug roots of large shrub" caption="Just look at that Sea Buckthorn’s root system!" >}}
 
 Time for a cup of tea 🍵. By the way, it’s my birthday today, so I will be eating cake 🍰.
+
