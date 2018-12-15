@@ -1,0 +1,15 @@
+[{
+    "id": "1",
+    "name": "Comfrey root",
+    "price": 1.50,
+    "image": "https://res.cloudinary.com/growdigital/image/upload/w_800/v1544913663/comfrey-41147189900.jpg",
+    "description": "Comfrey root",
+    "url": "https://www.forestgarden.wales/shop/"
+}, {
+    "id": "2",
+    "name": "One day course",
+    "description": "One day course, including lunch",
+    "price": 110.00,
+    "image": "https://res.cloudinary.com/growdigital/image/upload/w_800/v1544269991/tour-42324668894.jpg",
+    "url": "https://www.forestgarden.wales/courses/"
+}]
