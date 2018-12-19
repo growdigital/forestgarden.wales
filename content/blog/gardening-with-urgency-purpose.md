@@ -1,27 +1,23 @@
 ---
 title: Gardening with urgency and purpose
 date: 2018-12-13T20:24:32Z
-description: I have two young children. What can I do to safeguard their future in a world threatened by climate change and mass extinction? I can garden with urgency and purpose.
+description: “We have 12 years to limit climate change catastrophe”&colon; garden like your lives depend on it! 
 tags: 
 - ForestGarden
 - GdnBloggers
 - ClimateChange
 - MassExtinction
-image: 
-imageAlt: 
-imageCap: 
+image: https://res.cloudinary.com/growdigital/image/upload/v1544816108/hawthorn-IMAG1960.jpg
+imageAlt: Close up of white hawthorn blossom
+imageCap: Crataegus monogyna (Hawthorn) blossom, a valuable and resilient forest garden crop.
 draft: true
 ---
-
-### hawthorn image
 
 I am not a natural born gardener. I’ve come to it late, provoked by the threat of climate change and tantalised by the prospect of a productive, low maintenance, wildlife friendly forest garden. As the saying goes, “There are many ways in to a garden” and now I am enamoured of the sheer delight and wonder of this diversity of life, a diversity _that I helped create_. Oh, and the scientific nomenclature of _all those plants_ has piqued my completist collector impulses and web designer nerdiness.
 
 But the political impetus has not left me; how could it with headlines like [‘We have 12 years to limit climate change catastrophe, warns UN’](https://www.theguardian.com/environment/2018/oct/08/global-warming-must-not-exceed-15c-warns-landmark-un-report), and [The Insect Apocalypse Is Here](https://www.nytimes.com/2018/11/27/magazine/insect-apocalypse.html)? And with two young children, I can’t pretend I haven’t seen the warning signs.
 
-Without being alarmist, everything we collectively do should be focussed on sustainable and regenerative living. The million dollar question is: what can I do?
-
-The answer is: it depends. 
+Without being alarmist, everything we collectively do should be focussed on sustainable and regenerative living. The million dollar question is: what can I do? The answer, which is remarkably common, is that it depends. There is plenty of advice out there, such [Brewtopia](http://brewtopia.co) and even, finally, the BBC [Climate change: Where we are in seven charts and what you can do to help](https://www.bbc.co.uk/news/science-environment-46384067)
 
 brewtopia - practical, simple action
 
