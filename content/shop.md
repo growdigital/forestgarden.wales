@@ -15,7 +15,7 @@ draft: false
     data-item-name="Comfrey"
     data-item-price="0.99"
     data-item-weight="20"
-    data-item-url="https://www.forestgarden.wales/shop/plants/comfrey/"
+    data-item-url="https://www.forestgarden.wales/shop/comfrey/"
     data-item-description="Some fresh bacon">
         Buy comfrey root
 </button>
