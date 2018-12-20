@@ -1,7 +1,7 @@
 ---
 title: Deturfing the Greenery
 date: 2018-12-19T22:00:09Z
-description: After a couple of hours deturfing, I now remember why I prefer sheet mulching to clear the grass.
+description: After a couple of hours deturfing, I now remember why I prefer sheet mulching in order to remove grass.
 tags: 
 - ForestGarden
 - GdnBloggers
