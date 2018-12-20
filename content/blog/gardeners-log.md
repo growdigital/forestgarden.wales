@@ -26,3 +26,5 @@ Anyways, back to the forest garden. Today I have finished deturfing and mulching
 It was squally weather, with large rain and the brightest, lowest sunshine. Things glistened, monochromed and silhouetted, flattened out and simplified.
 
 I’ve decided to leave the [Brachyglottis sunshine](https://www.rhs.org.uk/Plants/86133/Brachyglottis-(Dunedin-Group)-Sunshine/Details), [Filipendula ulmaria](https://pfaf.org/user/Plant.aspx?LatinName=Filipendula+ulmaria) (Meadowsweet) and [Myrrhis odorata](https://pfaf.org/user/plant.aspx?latinname=Myrrhis+odorata) growing where they are next to the [Cornus sericea](https://pfaf.org/user/Plant.aspx?LatinName=Cornus+sericea) (Red Dogwood) windbreak hedge, as there’s plenty of room at the front for the new green kids on the block.
+
+Addendum: An easter egg for anyone who can find the Star Trek reference.
