@@ -21,4 +21,5 @@ On the weblog side of things, I use a lovely bit of software called [Hugo](https
 
 Anyways, back to the forest garden. Today I have finished deturfing and mulching the [Greenery](https://www.forestgarden.wales/blog/eat-your-greens-forest-garden-greenery/), my haven for perennial cabbage and spinach alternatives. I had some help from the chickens (Joan and Betty), although Ron the [@ForestGdnDog](https://twitter.com/forestgdndog) mostly sat in the way. 
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1545324923/chickens-E3BE9C44.jpg" alt="Two chickens pecking on wood shaving mulch" caption="Joan and Betty help spread the wood shaving mulch" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1545324923/chickens-E3BE9C44.jpg" alt="Two chickens pecking on wood shaving mulch" caption="Joan and Betty, the Bad Vegan chickens, help spread the wood shaving mulch" >}}
+
