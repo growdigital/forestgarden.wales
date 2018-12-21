@@ -1,14 +1,16 @@
 {{ define "main" }}
 
-{{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-<h1>{{ $taxonomyname | humanize }}</h1>
-<ul>
-  {{ range $key, $value := $taxonomy }}
-  <li>
-    <a href="{{ " / " | relLangURL}}{{ $taxonomyname | urlize }}/{{ $key | urlize}}">{{ $key }}</a> [{{ $value.Count }}]
-  </li>
+<main class="breakout" itemscope itemtype="https://schema.org/WebPage">
+  {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+  <h1>{{ $taxonomyname | humanize }}</h1>
+  <ul>
+    {{ range $key, $value := $taxonomy }}
+    <li>
+      <a href="{{ " / " | relLangURL}}{{ $taxonomyname | urlize }}/{{ $key | urlize}}">{{ $key }}</a> [{{ $value.Count }}]
+    </li>
+    {{ end }}
+  </ul>
   {{ end }}
-</ul>
-{{ end }}
+</main>
 
 {{ end }}

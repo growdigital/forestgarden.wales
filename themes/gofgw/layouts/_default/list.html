@@ -1,18 +1,24 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-    {{ range $index, $page := .Paginator.Pages }}
-    <li>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-      <time datetime="{{ .Date.Format " 2006-01-02T15:04:05Z07:00 " | safeHTML }}">
-        {{ .Date.Format "2 Jan 2006" }}
-      </time>
-      <span>
-        {{if .Params.tags }} &middot;
-          {{ range $index, $tag := .Params.tags }}
-            <a href="/tags/{{ $tag | urlize }}/">{{ $tag }}</a>
-          {{ end }}
+
+<main class="breakout" itemscope itemtype="https://schema.org/WebPage">
+  <h1>{{ .Title }}</h1>
+  {{ range $index, $page := .Paginator.Pages }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    <time datetime="{{ .Date.Format " 2006-01-02T15:04:05Z07:00 " | safeHTML }}">
+      {{ .Date.Format "2 Jan 2006" }}
+    </time>
+    <span>
+      <i>
+      {{if .Params.tags }} &middot;
+        {{ range $index, $tag := .Params.tags }}
+          <a href="/tags/{{ $tag | urlize }}/">{{ $tag }}</a>
         {{ end }}
-      </span>
-    </li>
-    {{ end }}
+      {{ end }}
+      </i>
+    </span>
+  </li>
+  {{ end }}
+</main>
+
 {{ end }}
