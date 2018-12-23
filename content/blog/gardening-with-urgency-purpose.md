@@ -13,21 +13,21 @@ imageCap: Crataegus monogyna (Hawthorn) blossom, a valuable and resilient forest
 draft: true
 ---
 
-I am not a natural born gardener. I’ve come to it late, provoked by the threat of climate change and tantalised by the prospect of a productive, low maintenance, wildlife friendly forest garden. As the saying goes, “There are many ways in to a garden” and now I am enamoured of the sheer delight and wonder of this diversity of life, a diversity _that I helped create_. Oh, and the scientific nomenclature of _all those plants_ has piqued my completist collector impulses and web designer nerdiness.
+I am not a natural born gardener. I’ve come to it late, provoked by the threat of climate change and tantalised by the prospect of a productive, low maintenance, wildlife friendly forest garden. As the saying goes, “There are many ways into a garden” and now I am enamoured of the sheer delight and wonder of this diversity of life, a diversity _that I help create_. Oh, and the scientific nomenclature of _all those plants_ has piqued my completist collector impulses and web designer nerdiness.
 
-But the political impetus has not left me; how could it with headlines like [‘We have 12 years to limit climate change catastrophe, warns UN’](https://www.theguardian.com/environment/2018/oct/08/global-warming-must-not-exceed-15c-warns-landmark-un-report), and [The Insect Apocalypse Is Here](https://www.nytimes.com/2018/11/27/magazine/insect-apocalypse.html)? And with two young children, I can’t pretend I haven’t seen the warning signs.
+Still, the political impetus has not left me; how could it with headlines like [‘We have 12 years to limit climate change catastrophe, warns UN’](https://www.theguardian.com/environment/2018/oct/08/global-warming-must-not-exceed-15c-warns-landmark-un-report), and [The Insect Apocalypse Is Here](https://www.nytimes.com/2018/11/27/magazine/insect-apocalypse.html)? And with two young children, I can’t pretend I haven’t seen the warning signs. Goodness me, even the BBC [has published advice on what you can do]](https://www.bbc.co.uk/news/science-environment-46384067)) (<abbr title="Too Long; Didn’t Read">TL;DR</abbr> don’t eat cows). 
 
-Without being alarmist, everything we collectively do should be focussed on sustainable and regenerative living. The million dollar question is: what can I do? The answer, which is remarkably common, is that it depends. There is plenty of advice out there, such [Brewtopia](http://brewtopia.co) and even, finally, the BBC [Climate change: Where we are in seven charts and what you can do to help](https://www.bbc.co.uk/news/science-environment-46384067)
+Establishing and promoting forest  is my ‘thing’, my small way of contributing to a more sustainable way of living. And it’s so important to make it as accessible as possible
 
-brewtopia - practical, simple action
+Portraying gardening as a self-sufficiency is a medieval naïve naturalist anti-machine throwback 
+divisive, middle class clique,
+I think the neo-hippy 
+survivalist, unattainable. 
+damaging, self-serving
 
-my own creed
 
-* create forest garden
-* promote forest gardening
-* (bad) vegan
-* simple living
-* pressure on political parties
+I don’t want to suggest that your garden should be a doom-laden and desperate attempt to shore up dystopian, survivalist future
+
 
 politics with a small p 
 social justice
