@@ -1,7 +1,7 @@
 ---
 title: Gardening with urgency and purpose
-date: 2018-12-13T20:24:32Z
-description: “We have 12 years to limit climate change catastrophe”&colon; garden like your lives depend on it! 
+date: 2018-12-25T20:24:32Z
+description: “We have 12 years to limit climate change catastrophe”—Garden like your lives depend on it! 
 tags: 
 - ForestGarden
 - GdnBloggers
@@ -15,9 +15,9 @@ draft: true
 
 I am not a natural born gardener. I’ve come to it late, provoked by the threat of climate change and tantalised by the prospect of a productive, low maintenance, wildlife friendly forest garden. As the saying goes, “There are many ways into a garden” and now I am enamoured of the sheer delight and wonder of this diversity of life, a diversity _that I help create_. Oh, and the scientific nomenclature of _all those plants_ has piqued my completist collector impulses and web designer nerdiness.
 
-Still, the political impetus has not left me; how could it with headlines like [‘We have 12 years to limit climate change catastrophe, warns UN’](https://www.theguardian.com/environment/2018/oct/08/global-warming-must-not-exceed-15c-warns-landmark-un-report), and [The Insect Apocalypse Is Here](https://www.nytimes.com/2018/11/27/magazine/insect-apocalypse.html)? And with two young children, I can’t pretend I haven’t seen the warning signs. Goodness me, even the BBC [has published advice on what you can do]](https://www.bbc.co.uk/news/science-environment-46384067)) (<abbr title="Too Long; Didn’t Read">TL;DR</abbr> don’t eat cows). 
+Still, the political impetus has not left me; how could it with headlines like [‘We have 12 years to limit climate change catastrophe, warns UN’](https://www.theguardian.com/environment/2018/oct/08/global-warming-must-not-exceed-15c-warns-landmark-un-report), and [The Insect Apocalypse Is Here](https://www.nytimes.com/2018/11/27/magazine/insect-apocalypse.html)? And with two young children, I can’t pretend I haven’t seen the warning signs. Goodness me, even the BBC [has published advice on what you can do](https://www.bbc.co.uk/news/science-environment-46384067) (<abbr title="Too Long; Didn’t Read">TL;DR</abbr> don’t eat cows). 
 
-Establishing and promoting forest  is my ‘thing’, my small way of contributing to a more sustainable way of living. And it’s so important to make it as accessible as possible
+Establishing a forest garden and teaching is my ‘thing’, my small way of contributing to a more sustainable way of living. And it’s so important to make it as accessible as possible
 
 Portraying gardening as a self-sufficiency is a medieval naïve naturalist anti-machine throwback 
 divisive, middle class clique,
