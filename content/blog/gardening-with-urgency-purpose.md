@@ -1,7 +1,7 @@
 ---
 title: Gardening with urgency and purpose
 date: 2018-12-25T20:24:32Z
-description: “We have 12 years to limit climate change catastrophe”—Garden like your lives depend on it! 
+description: 
 tags: 
 - ForestGarden
 - GdnBloggers
@@ -12,6 +12,10 @@ imageAlt: Close up of white hawthorn blossom
 imageCap: Crataegus monogyna (Hawthorn) blossom, a valuable and resilient forest garden crop.
 draft: true
 ---
+
+“We have 12 years to limit climate change catastrophe”—Garden like your lives depend on it! 
+
+description - urgency, get sustainable & productive gardens established, put infrastructure in place, will repay in the future. purpose -- a reason, productive, new audience
 
 I am not a natural born gardener. I’ve come to it late, provoked by the threat of climate change and tantalised by the prospect of a productive, low maintenance, wildlife friendly forest garden. As the saying goes, “There are many ways into a garden” and now I am enamoured of the sheer delight and wonder of this diversity of life, a diversity _that I help create_. Oh, and the scientific nomenclature of _all those plants_ has piqued my completist collector impulses and web designer nerdiness.
 
