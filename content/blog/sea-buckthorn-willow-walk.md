@@ -1,7 +1,7 @@
 ---
 title: Sea Buckthorn planted in Willow Walk
 date: 2018-12-13T14:20:39Z
-description: Three years after buying Hippophae rhamnoides 'Orange Energy', the’re finally planted in the forest garden Willow Walk
+description: Three years after buying Hippophae rhamnoides 'Orange Energy', they’re finally planted in the forest garden Willow Walk.
 tags: 
 - ForestGarden
 - GdnBloggers
