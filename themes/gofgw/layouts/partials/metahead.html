@@ -7,7 +7,7 @@
     {{- else if .Params.menu -}}
       {{ .Site.Title }}:&nbsp;{{- .Title -}}
     {{- else if eq .Type "status" -}}
-      {{- substr (.Title | markdownify) 0 30 -}}…
+      {{- substr (.Content | plainify | htmlUnescape | markdownify) 0 30 -}}…
     {{- else -}}
       {{- .Title -}}
     {{- end -}}
