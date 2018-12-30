@@ -15,7 +15,7 @@
   <meta name="description" content="{{ .Site.Params.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
   <link rel="stylesheet" href="/assets/app.css">
-  {{- if eq .Title "Shop" -}}
+  {{- if .Params.shop -}}
     {{- partial "snipcart.html" . -}}
   {{- end -}}
   {{- partial "pwa.html" . -}}
