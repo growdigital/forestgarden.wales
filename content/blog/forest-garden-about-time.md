@@ -40,4 +40,4 @@ The trouble with this is that 16:9 ratio photos just don’t sit well in a 1/12t
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1546191847/time-spiral.jpg" alt="A spiral, passing through the same months on the way up" caption="My imagined time spiral" >}}
 
-I’m not sure what the point of all this is but I thought it would be interesting to put this out there. Consider it work in progress, spiralling, hopefully, upwards.
+I’m not sure what the point of all this is. I feel it has to do with how we can portray gardens across time, in our blogs and in our diaries. Please consider it work in progress!
