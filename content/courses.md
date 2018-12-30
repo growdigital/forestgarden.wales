@@ -11,6 +11,17 @@ draft: false
 
 # Forest Garden Course
 
+<button
+    class="snipcart-add-item"
+    data-item-id="1"
+    data-item-name="One day course"
+    data-item-price="110.00"
+    data-item-weight="20"
+    data-item-url="https://shop.forestgarden.wales/courses/"
+    data-item-description="A forest garden course">
+      Forest garden 1-day course
+</button>
+
 A one day practical course for beginners on the **second Saturday of each month**, from April to September. It’s located in West Wales and costs £110 per person. We cover the whole process, from surveying, to planning, propagating and planting. Make it part of your holiday!
 
 ## Course outline
