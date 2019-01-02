@@ -12,7 +12,7 @@ draft: false
 
 <button
     class="snipcart-add-item"
-    data-item-id="2"
+    data-item-id="200"
     data-item-name="Comfrey"
     data-item-price="0.99"
     data-item-weight="20"

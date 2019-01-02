@@ -1,5 +1,6 @@
 ---
 title: Tours
+shop: true
 menu: main
 date: 2018-02-09T19:21:11Z
 image: https://res.cloudinary.com/growdigital/image/upload/v1544027745/misty-wildlife-pond-26465730067.jpg
@@ -11,6 +12,18 @@ draft: false
 # Tour our forest garden
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1544027745/misty-wildlife-pond-26465730067.jpg" alt="Misty view on a sunny morning across pond, young orchard to establised trees" caption="Early morning looking eastward across the Wildlife Pond and newly established forest garden" >}}
+
+<button
+    class="snipcart-add-item"
+    data-item-id="102"
+    data-item-name="Forest garden tour"
+    data-item-price="20.00"
+    data-item-url="https://shop.forestgarden.wales/tours/"
+    data-item-description="Tour of the forest garden"
+    data-item-custom2-name="Date"
+    data-item-custom2-options="Saturday 6th April 2019|Saturday 4th May 2019|Saturday 15th June 2019 (3rd Saturday)|Saturday 6th July 2019|Saturday 3rd August 2019|Saturday 7th September 2019">
+      Forest garden tour
+</button>
 
 On the **first Saturday of each month** (May to September inclusive, except June), we offer a 2.5 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. This includes a presentation _and_ coffee & cake. It’s for anyone interested in learning more about forest gardening.
 
@@ -42,7 +55,7 @@ You can buy tickets for £20 from **[forestgardenwales.eventbrite.co.uk](https:/
 
 1. Introduction to forest gardening presentation
 2. Half an acre of newly planted coppice, designed for firewood, poles and posts
-3. One acre greenfield site of the planned Ornamental Maintenance-free Garden (OMG); discussion of windbreaks, access, utilities, fencing and planning
+3. One acre greenfield site of the planned Ornamental Forest Garden (OFG); discussion of windbreaks, access, utilities, fencing and planning
 4. Shrub propagation area & chickens
 5. The main attraction: a one acre pasture field started in the winter of 2015. 
   * Fruit Triangle

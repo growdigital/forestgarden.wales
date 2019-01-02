@@ -3,22 +3,72 @@ title: Courses
 shop: true
 menu: main
 date: 2018-02-09T19:21:11Z
-image: 
-imageAlt: 
-imageCap: 
+image: https://res.cloudinary.com/growdigital/image/upload/v1544269991/tour-42324668894.jpg
+imageAlt: Group of people gathered around a raised bed next to a polytunnel
+imageCap: Tour of the forest garden next to the propagation beds
 draft: false
 ---
 
 # Forest Garden Course
 
+A one day practical course for beginners on Saturday, April to September, in West Wales, £99 per person. We cover from surveying, to planning, propagating and planting. Make it part of your holiday!
+
 <button
     class="snipcart-add-item"
-    data-item-id="1"
+    data-item-id="101"
     data-item-name="One day course"
-    data-item-price="110.00"
-    data-item-weight="20"
+    data-item-price="99.00"
     data-item-url="https://shop.forestgarden.wales/courses/"
-    data-item-description="A forest garden course">
+    data-item-description="A forest garden course"
+    data-item-custom2-name="Date"
+    data-item-custom2-options="Saturday 13th April 2019|Saturday 11th May 2019|Saturday 8th June 2019|Saturday 13th July 2019|Saturday 10th August 2019|Saturday 14th September 2019">
+      Book now!
+</button>
+
+## Course outline
+
+
+
+## Course in detail
+
+1. **Survey**  
+Measure out the land, test the soil, mark features.
+2. **Plan**  
+Use the tools to create a plan of action.
+3. **Propagate**  
+It’s never too early to start propagating.
+4. **Windbreaks**  
+Windbreaks now & your plants will love you 4ever.
+5. **Canopy**  
+Plant the big trees, the canopy layer.
+6. **Sheet mulch**  
+Cover the ground to kill off the grass.
+7. **Shrubs**  
+Once your sheet mulch is up, shrubs away.
+8. **Ground cover**  
+Keep the ground covered at all times & at all costs.
+
+## Timetable
+
+# Aside
+
+## Dates
+
+## Accommodation
+
+## Travel
+
+
+
+<button
+    class="snipcart-add-item"
+    data-item-id="101"
+    data-item-name="One day course"
+    data-item-price="99.00"
+    data-item-url="https://shop.forestgarden.wales/courses/"
+    data-item-description="A forest garden course"
+    data-item-custom2-name="Date"
+    data-item-custom2-options="Saturday 13th April 2019|Saturday 11th May 2019|Saturday 8th June 2019|Saturday 13th July 2019|Saturday 10th August 2019|Saturday 14th September 2019">
       Forest garden 1-day course
 </button>
 
