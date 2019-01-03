@@ -40,4 +40,4 @@ The trouble with this is that 16:9 ratio photos just don’t sit well in a 1/12t
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1546191847/time-spiral.jpg" alt="A spiral, passing through the same months on the way up" caption="My imagined time spiral" >}}
 
-I’m not sure what the point of all this is. I feel it has to do with how we can portray gardens across time, in our blogs and in our diaries. Please consider it work in progress!
+The point is that just a simple idea, like the 5 year memory book, can dramatically alter how you view and remember your garden. Time is not an arrow but a spiral, and there is so much more scope than just the linear representations of “traditional” digital photo albums. 
