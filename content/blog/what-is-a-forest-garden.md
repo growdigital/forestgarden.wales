@@ -1,12 +1,13 @@
 ---
-title: "What is a Forest Garden?"
+title: What is a Forest Garden?
 date: 2018-07-08T09:36:44+01:00
-description: "A simple definition of what makes a #ForestGarden tl;dr productive, self-sustaining and low maintenance."
+description: A simple definition of what makes a forest garden tl;dr productive, self-sustaining and low maintenance.
 tags: 
 - ForestGarden
-image: "https://res.cloudinary.com/growdigital/image/upload/v1543960388/illustration-42913617132.jpg"
-imageAlt: "Line drawing of tall tree next to medium tree next to spiky shrub in profile, ground cover on the ground"
-imageCap: "The multi-layered nature of a Forest Garden illustrated"
+- definition
+image: https://res.cloudinary.com/growdigital/image/upload/v1544373844/misty-garden-42143351375.jpg
+imageAlt: Misty view of mature trees in middle distance, foreground young trees in grass in garden 
+imageCap: The multi-layered nature of a Forest Garden just about visible through the mist
 draft: false
 ---
 
