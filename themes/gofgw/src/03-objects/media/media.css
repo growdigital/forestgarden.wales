@@ -1,0 +1,23 @@
+/* ==========================================================================
+   The media object
+   ==========================================================================*/
+
+/**
+ * Original:
+ * http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/
+ * Updated for flexbox:
+ * https://philipwalton.github.io/solved-by-flexbox/demos/media-object/
+ */
+
+.o-media {
+  display: flex;
+  align-items: flex-start;
+}
+
+.o-media__figure {
+  margin-right: 1em;
+}
+
+.o-media__body {
+  flex: 1;
+}
