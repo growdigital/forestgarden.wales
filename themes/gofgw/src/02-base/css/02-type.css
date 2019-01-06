@@ -39,3 +39,8 @@ code, pre {
   font-family: 'Menlo', 'Andale Mono', 'Monaco', 'Consolas', 'Lucida Console',
     monospace;
 }
+
+/* Abbr */
+abbr:hover {
+  text-decoration: underline;
+}

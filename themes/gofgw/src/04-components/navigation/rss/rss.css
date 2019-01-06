@@ -1,0 +1,23 @@
+/* ==========================================================================
+   RSS links
+   ==========================================================================*/
+
+.rss__list > * {
+  margin: 0 1rem;
+}
+
+.rss .rss__list a,
+.rss .rss__list figcaption,
+.rss .rss__list a:hover {
+  color: white !important;
+  text-decoration: none;
+}
+
+.rss .rss__list figcaption {
+  border-bottom: 2px solid transparent;
+  line-height: 1.2
+}
+
+.rss .rss__list figcaption:hover {
+  border-bottom: 2px solid var(--orange) !important;
+}
