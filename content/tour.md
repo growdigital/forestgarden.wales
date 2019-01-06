@@ -1,5 +1,5 @@
 ---
-title: Tours
+title: Tour
 menu: main
 date: 2018-02-09T19:21:11Z
 image: https://res.cloudinary.com/growdigital/image/upload/v1544027745/misty-wildlife-pond-26465730067.jpg
@@ -10,29 +10,17 @@ draft: false
 
 # Tour our forest garden
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1544027745/misty-wildlife-pond-26465730067.jpg" alt="Misty view on a sunny morning across pond, young orchard to establised trees" caption="Early morning looking eastward across the Wildlife Pond and newly established forest garden" >}}
+We’re in the middle of arranging to sell the tour via a third party. More details by the end of January. For bookings & details in the meantime, please email Jake [hello@forestgarden.wales](mailto:hello@forestgarden.wales) or phone on [07398 474 064](tel:+447398474064).
 
-On the **first Saturday of each month** (May to September inclusive, except June), we offer a 2.5 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. This includes a presentation _and_ coffee & cake. It’s for anyone interested in learning more about forest gardening.
+We offer a 2 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. It’s for anyone interested in learning more about forest gardening.
 
-The dates for your diary are:
-
-1. Saturday 6th April 2019 
-2. Saturday 4th May 2019
-3. Saturday 15th June 2019 **3rd Saturday**
-4. Saturday 6th July 2019
-5. Saturday 3rd August 2019
-6. Saturday 7th September 2019
-
-The tour runs from 10am to 12:30pm.
-
-You can buy tickets for £20 from **[forestgardenwales.eventbrite.co.uk](https://forestgardenwales.eventbrite.co.uk)**
+The tour runs from 10am-12pm and 2pm-4pm, April to September.
 
 > Forest gardening is a productive and practical garden system using trees, shrubs and perennial plants, designed to be stable, sustainable and low-maintenance.
 
 ## Included in the tour
 
-* 30 minute presentation on an introduction to forest gardening
-* Coffee and homemade cake
+* Tea and coffee
 * Beautiful wooded hillside location
 * Opportunity to buy selected forest garden plants
 
@@ -59,8 +47,6 @@ You can buy tickets for £20 from **[forestgardenwales.eventbrite.co.uk](https:/
   * Willow Walk
 6. Coffee & homemade cake
 7. Exit via plant shop
-
-**Tickets £20 each, booking essential from [Eventbrite](https://forestgardenwales.eventbrite.co.uk).**
 
 Please note, **BOOKING IS ESSENTIAL**. Wellies and waterproofs highly recommended. Also, at the very least, a mild interest in gardening is a prerequisite: the garden is in its early stages and indifferent individuals will only see twigs.
 
