@@ -12,6 +12,7 @@
 .o-media {
   display: flex;
   align-items: flex-start;
+  margin-bottom: 1rem;
 }
 
 .o-media__figure {

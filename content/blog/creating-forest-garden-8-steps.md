@@ -13,7 +13,7 @@ draft: true
 
 These are the 8 steps I recommend for establishing a forest garden. It’s nice to have an overview for reference when you’re feeling overwhelmed. (I say you, I mean me.)
 
-<ol class="temp">
+<ol class="o-list-bare">
   <li class="o-media">
     <img class="o-media__figure" alt="Measuring tape on bamboo cane in field" src="https://res.cloudinary.com/growdigital/image/upload/c_fill,h_68,w_120/v1546334064/tape-27304554338.jpg">
     <div class="o-media__body">
