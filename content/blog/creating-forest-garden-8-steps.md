@@ -11,30 +11,14 @@ imageCap: Moments like this freshly unfurled Italian Alder leaf are magical
 draft: false
 ---
 
-We started creating a forest garden about 3 years ago. I always recommend people thoroughly read [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/) by [Martin Crawford](https://www.agroforestry.co.uk/about_us/). These are my condensed nugget steps of experience:
-
-Measure the land so you can space your trees. Use a tape measure and trigonometry for a smaller garden, satellite photo & tape for a larger garden. I use the [Theodolite](http://hrtapps.com/theodolite/) app. Also, test your soil for acidity & nutrients; farmers co-ops are cheapest.
-
-Use large grid paper, overlayed with tracing layers. Or use computer software: either screenshot of the map cropped and imported (with the scale) into free drawing program [Inkscape](https://inkscape.org) or export the map outline into [QCAD](https://qcad.org/en/) (more technical). Create scale circles of trees (tree spacing ¼–½ of combined tree diameters), plan structures and paths. Take heed of utilities.
-
-Set up propagation beds 1m² for range of ground cover plants. Establish half a dozen “mother plants” in each bed. My faves are [Chilean Strawberry](https://pfaf.org/USER/Plant.aspx?LatinName=Fragaria+chiloensis), [Alefoot](https://pfaf.org/user/Plant.aspx?LatinName=Glechoma+hederacea), [Iberian Comfrey](https://www.rhs.org.uk/plants/details?plantid=1894), [Lesser Periwinkle](https://pfaf.org/user/plant.aspx?latinname=Vinca+minor), [Nepalese Raspberry](https://pfaf.org/user/plant.aspx?latinname=Rubus+nepalensis). Beds can be temporary: lay cardboard on mown ground, cover with thick layer soil/compost, dig plants in, mulch with wood chip.
-
-Windbreaks mean trees establish much quicker. Make sure you take into account final height and widths. My favourite windbreak species are [Autumn Olive](https://pfaf.org/user/Plant.aspx?LatinName=Elaeagnus+umbellata), [Guelder Rose](https://pfaf.org/user/Plant.aspx?LatinName=Viburnum+opulus), [Juneberry](https://pfaf.org/user/plant.aspx?LatinName=Amelanchier+canadensis), [Dogwood](https://pfaf.org/user/Plant.aspx?LatinName=Cornus+sericea) and [Sea Buckthorn](https://pfaf.org/user/Plant.aspx?LatinName=Hippophae+rhamnoides). You can also set up a “nurse tree” for exposed canopy trees—I’m using [Broom](https://pfaf.org/user/Plant.aspx?LatinName=Cytisus+scoparius), as nitrogen-fixing and short-lived.
-
-Mark out the position and (final) diameter of your canopy trees with the [‘Bamboo String Radius Device’®](https://www.forestgarden.wales/blog/sea-buckthorn-willow-walk/), to make sure that tree spacing is ¼–½ of combined tree diameters. Make sure you have pollinating partners if required and that your tree has enough shelter. Take heed of utilities.
-
-It takes 6-12 months to kill the grass. If using woven plastic sheet mulch, buy decent brand like Phormisol and re-use across the site. Use metal pegs to secure, then **weigh down sheet with heavy objects**.
-
-Mark out the position and (final) diameter of your shrubs with the [‘Bamboo String Radius Device’®](https://www.forestgarden.wales/blog/sea-buckthorn-willow-walk/), although shrubs easier to move than canopy trees!
-
-I use locally sourced wood chip as a mulch, as it’s free and [it doesn’t rob nitrogen](https://puyallup.wsu.edu/wp-content/uploads/sites/403/2015/03/wood-chips.pdf)<sup>(PDF)</sup>. Then I plant the ground cover plants (see step 3). Best to plant in autumn, if not, then spring.
+We started creating a forest garden about 3 years ago. I always recommend people thoroughly read [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/) by Martin Crawford. These are my condensed nugget steps of experience:
 
 <ol class="o-list-bare">
   <li class="o-media">
     <img class="o-media__figure" alt="Measuring tape on bamboo cane in field" src="https://res.cloudinary.com/growdigital/image/upload/c_fill,h_68,w_120/v1546334064/tape-27304554338.jpg">
     <div class="o-media__body">
       <h3>1. Survey</h3>
-      <p>We started creating a forest garden about 3 years ago. I always recommend people thoroughly read <a href="https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/">Creating a Forest Garden</a> by <a href="https://www.agroforestry.co.uk/about_us/">Martin Crawford</a>. These are my condensed nugget steps of experience:</p>
+      <p>Measure the land so you can space your trees. Use a tape measure and trigonometry for a smaller garden, satellite photo &amp; tape for a larger garden. I use the <a href="http://hrtapps.com/theodolite/">Theodolite</a> app. Also, test your soil for acidity &amp; nutrients; farmers co-ops are cheapest.</p>
     </div>
   </li>
   <li class="o-media">
@@ -62,7 +46,7 @@ I use locally sourced wood chip as a mulch, as it’s free and [it doesn’t rob
     <img src="https://res.cloudinary.com/growdigital/image/upload/w_120/v1544027745/misty-wildlife-pond-26465730067.jpg" alt="Misty garden, mature trees at back" class="o-media__figure">
     <div class="o-media__body">
       <h3>5. Canopy</h3>
-      <p>Mark out the position and (final) diameter of your canopy trees with the <a href="https://www.forestgarden.wales/blog/sea-buckthorn-willow-walk/">‘Bamboo String Radius Device’®</a>, to make sure that tree spacing is ¼–½ of combined tree diameters. Make sure you have pollinating partners if required and that your tree has enough shelter. Take heed of utilities.</p>
+      <p>Mark out the position and (final) diameter of your canopy trees with the <a href="https://www.forestgarden.wales/blog/sea-buckthorn-willow-walk/">‘Bamboo String Radius Device’®</a>, to make sure that tree spacing is ¼–½ of combined tree diameters. Ensure you have pollinating partners if required and that your tree has enough shelter. Take heed of utilities.</p>
     </div>
   </li>
   <li class="o-media">
@@ -83,7 +67,14 @@ I use locally sourced wood chip as a mulch, as it’s free and [it doesn’t rob
     <img src="https://res.cloudinary.com/growdigital/image/upload/w_120/v1546380638/alefoot-28171871628.jpg" alt="Abundant blue flowered Alefoot ground cover in raised bed" class="o-media__figure">
     <div class="o-media__body">
       <h3>8. Ground cover</h3>
-      <p>I use locally sourced wood chip as a mulch, as it’s free and <a href="https://puyallup.wsu.edu/wp-content/uploads/sites/403/2015/03/wood-chips.pdf">it doesn’t rob nitrogen</a><sup>(PDF)</sup>. Then I plant the ground cover plants (see step 3). Best to plant in autumn, if not, then spring.</p>
+      <p>I use locally sourced wood chip as a mulch, as it’s free and <a href="https://puyallup.wsu.edu/wp-content/uploads/sites/403/2015/03/wood-chips.pdf">it doesn’t rob nitrogen</a><sup>(PDF)</sup>. Then I plant the ground cover plants from step 3. Best to plant in autumn.</p>
     </div>
   </li>
 </ol>
+
+My four key takeaways?
+
+1. Plan
+2. Propagate
+3. Windbreaks
+4. Mulch. Everything.
