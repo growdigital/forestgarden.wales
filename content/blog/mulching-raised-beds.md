@@ -21,4 +21,4 @@ The essence of the book, an ironically ground-breaking no-dig classic, is **mulc
 
 To be honest, there’s only certain plants that need protection from slugs, mostly young beans and squashes & courgettes. I’ll mulch these with garden compost when the plants are young, then switch to a hay mulch from the Makeshift Meadow.
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1546032505/orchard-28824815048.jpg" alt="Black and white photo of grass meadow" caption="The Makeshift Meadow in the original forest garden, source of hay for mulching in the summer" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1546032505/meadow-28824815048.jpg" alt="Black and white photo of grass meadow" caption="The Makeshift Meadow in the original forest garden, source of hay for mulching in the summer" >}}

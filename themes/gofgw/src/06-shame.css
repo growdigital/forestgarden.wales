@@ -17,3 +17,11 @@
  * list-bare.css example of CSS object in /src/modules/objects/,
  * used in header.html and footer.html
  */
+
+.temp {
+  margin: 1rem 0;
+}
+
+.temp > * {
+  margin-bottom: 1rem;
+}
