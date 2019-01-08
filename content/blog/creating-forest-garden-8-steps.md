@@ -1,7 +1,7 @@
 ---
 title: Creating a forest garden in 8 easy steps
 date: 2019-01-06T21:04:06Z
-description: Creating a forest garden is not too difficult, it’s just hard work. Like any garden. These are my eight steps to help you get started.
+description: Eight flavourful steps to tempt you into the exhilirating world of forest gardening. Creating a forest garden isn’t too difficult, it just takes hard work and perseverance. Like any garden.
 tags: 
 - ForestGarden
 - GdnBloggers
