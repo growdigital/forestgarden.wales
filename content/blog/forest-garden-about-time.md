@@ -20,7 +20,7 @@ I was inspired to make a forest garden calendar, although rather predictably thi
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1546191855/time-calendar.jpg" alt="Sketch of wall calendar" caption="My imagined forest garden calendar" >}}
 
-And then my eye was caught by the [one line a day, five year memory book](https://amzn.to/2Al1duX). This is such a simple and elegant idea—one day, repeated across five years. So when you write your entry, you have instant recall across the years. I think this would be _ideal_ for gardeners, noting the small details such as flowering times, extreme weather events, notable achievements. As you may have noticed, I keep a web [log](https://www.forestgarden.wales/tags/log/) but I find it hard to navigate back through the years.
+And then my eye was caught by the [one line a day, five year memory book](https://www.amazon.co.uk/gp/product/0811870197/). This is such a simple and elegant idea—one day, repeated across five years. So when you write your entry, you have instant recall across the years. I think this would be _ideal_ for gardeners, noting the small details such as flowering times, extreme weather events, notable achievements. As you may have noticed, I keep a web [log](https://www.forestgarden.wales/tags/log/) but I find it hard to navigate back through the years.
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1546090458/book-BB2AE97F.jpg" alt="Inside page of the one line a day, five year memory book" caption="This is how it works—one day, repeated across five years" >}}
 

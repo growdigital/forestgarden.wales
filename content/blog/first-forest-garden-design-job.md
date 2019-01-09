@@ -28,7 +28,7 @@ Here’s the sketch for where I estimated the lightest parts of the garden to be
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1543788837/sketch-light-fgrp.jpg" alt="CAD forest garden plan showing areas of sunlight" caption="Sketch estimating areas of sunlight in the garden" >}}
 
-Then, I sketched out in biro the different areas and footpaths of the garden. I traced this very rough sketch in [Inkscape](https://inkscape.org) and then imported back it into [QCAD](https://qcad.org/en/), tweaking it to fit. To be honest, it would be easier to sketch directly in CAD, as there is a freehand tool, but I’d need to invest in a [Wacom tablet](https://amzn.to/2KTi1gI))
+Then, I sketched out in biro the different areas and footpaths of the garden. I traced this very rough sketch in [Inkscape](https://inkscape.org) and then imported back it into [QCAD](https://qcad.org/en/), tweaking it to fit. To be honest, it would be easier to sketch directly in CAD, as there is a freehand tool, but I’d need to invest in a [Wacom tablet](https://www.amazon.co.uk/gp/product/B079QBDTDF/))
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1543788831/sketch-areas-fgrp.jpg" alt="CAD garden plan marked up with biro to show areas" caption="Rough biro scribblings outlining areas & paths" >}}
 
