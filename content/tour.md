@@ -10,11 +10,11 @@ draft: false
 
 # Tour our forest garden
 
-We’re in the middle of arranging to sell the tour via a third party. More details by the end of January. For bookings & details in the meantime, please email Jake [hello@forestgarden.wales](mailto:hello@forestgarden.wales) or phone on [07398 474 064](tel:+447398474064).
-
 We offer a 2 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. It’s for anyone interested in learning more about forest gardening.
 
-The tour runs from 10am-12pm and 2pm-4pm, April to September.
+The tour runs on Monday, Tuesday, Thursday and Saturday from 10am-12pm and 2pm-4pm, April to September and costs £30 per person.
+
+[**Book now on Airbnb**](https://www.airbnb.co.uk/experiences/532342)
 
 > Forest gardening is a productive and practical garden system using trees, shrubs and perennial plants, designed to be stable, sustainable and low-maintenance.
 
@@ -28,11 +28,10 @@ The tour runs from 10am-12pm and 2pm-4pm, April to September.
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1544372029/cad-40637277764.png" alt="CAD plan of garden" caption="CAD plan of our forest garden" >}}
 
-1. Introduction to forest gardening presentation
-2. Half an acre of newly planted coppice, designed for firewood, poles and posts
-3. One acre greenfield site of the planned Ornamental Maintenance-free Garden (OMG); discussion of windbreaks, access, utilities, fencing and planning
-4. Shrub propagation area & chickens
-5. The main attraction: a one acre pasture field started in the winter of 2015. 
+1. Half an acre of newly planted coppice, designed for firewood, poles and posts
+2. One acre greenfield site of the planned Ornamental Maintenance-free Garden (OMG); discussion of windbreaks, access, utilities, fencing and planning
+3. Shrub propagation area & chickens
+4. The main attraction: a one acre pasture field started in the winter of 2015. 
   * Fruit Triangle
   * Ground cover propagation area
   * Polytunnel & raised beds for annuals
@@ -45,18 +44,11 @@ The tour runs from 10am-12pm and 2pm-4pm, April to September.
   * Blue Bean vegetable border
   * Mushroom Manor: growing mushrooms on logs
   * Willow Walk
-6. Coffee & homemade cake
-7. Exit via plant shop
+5. Exit via plant shop
 
 Please note, **BOOKING IS ESSENTIAL**. Wellies and waterproofs highly recommended. Also, at the very least, a mild interest in gardening is a prerequisite: the garden is in its early stages and indifferent individuals will only see twigs.
 
-**For group bookings on different dates, please email Jake [hello@forestgarden.wales](mailto:hello@forestgarden.wales) or phone/text on [07398&nbsp;474&nbsp;064](tel:+447398474064).**
-
-## Private tours
-
-_These dates are unavailable as they have been booked._
-
-* 1st June, [Llechryd & District Gardening Club](https://www.facebook.com/LlechrydDGC/)
+**For discounted private group bookings, please email Jake [hello@forestgarden.wales](mailto:hello@forestgarden.wales) or phone/text on [07398&nbsp;474&nbsp;064](tel:+447398474064).**
 
 ## Directions
 

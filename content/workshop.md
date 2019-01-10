@@ -11,9 +11,9 @@ draft: false
 
 # Forest Garden workshop
 
-We’re in the middle of arranging to sell the course via a third party. More details by the end of January. For bookings & details in the meantime, please email Jake [hello@forestgarden.wales](mailto:hello@forestgarden.wales) or phone on [07398 474 064](tel:+447398474064).
-
 A one day practical course for beginners, from April to September. We cover the whole process, from surveying, to planning, propagating and planting. Make it part of your holiday!
+
+[**Book now on Airbnb**](https://www.airbnb.co.uk/experiences/524767)
 
 ## Course content
 
