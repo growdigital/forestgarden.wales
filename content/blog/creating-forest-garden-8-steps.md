@@ -39,7 +39,7 @@ We started creating a forest garden about 3 years ago. I always recommend people
     <img src="https://res.cloudinary.com/growdigital/image/upload/w_120/v1544006420/cornus-stolonifera-flaviramea-K8xbDnRk.jpg" alt="Yellow dogwood windbreak hedge" class="o-media__figure">
     <div class="o-media__body">
       <h3>4. Windbreaks</h3>
-      <p>Windbreaks mean trees establish much quicker. Make sure you take into account final height and widths. My favourite windbreak species are <a href="https://pfaf.org/user/Plant.aspx?LatinName=Elaeagnus+umbellata">Autumn Olive</a>, <a href="https://pfaf.org/user/Plant.aspx?LatinName=Viburnum+opulus">Guelder Rose</a>, <a href="https://pfaf.org/user/plant.aspx?LatinName=Amelanchier+canadensis">Juneberry</a>, <a href="https://pfaf.org/user/Plant.aspx?LatinName=Cornus+sericea">Dogwood</a> and <a href="https://pfaf.org/user/Plant.aspx?LatinName=Hippophae+rhamnoides">Sea Buckthorn</a>. You can also set up a mini-windbreak, a“nurse tree”, for exposed canopy trees—I’m using <a href="https://pfaf.org/user/Plant.aspx?LatinName=Cytisus+scoparius">Broom</a>, as nitrogen-fixing and short-lived.</p>
+      <p>Windbreaks mean trees establish much quicker. Make sure you take into account final height and widths. My favourite windbreak species are <a href="https://pfaf.org/user/Plant.aspx?LatinName=Elaeagnus+umbellata">Autumn Olive</a>, <a href="https://pfaf.org/user/Plant.aspx?LatinName=Viburnum+opulus">Guelder Rose</a>, <a href="https://pfaf.org/user/plant.aspx?LatinName=Amelanchier+canadensis">Juneberry</a>, <a href="https://pfaf.org/user/Plant.aspx?LatinName=Cornus+sericea">Dogwood</a> and <a href="https://pfaf.org/user/Plant.aspx?LatinName=Hippophae+rhamnoides">Sea Buckthorn</a>. You can also set up a mini-windbreak, a “nurse tree”, for exposed canopy trees—I’m using <a href="https://pfaf.org/user/Plant.aspx?LatinName=Cytisus+scoparius">Broom</a>, as nitrogen-fixing and short-lived.</p>
     </div>
   </li>
   <li class="o-media">
@@ -67,7 +67,7 @@ We started creating a forest garden about 3 years ago. I always recommend people
     <img src="https://res.cloudinary.com/growdigital/image/upload/w_120/v1546380638/alefoot-28171871628.jpg" alt="Abundant blue flowered Alefoot ground cover in raised bed" class="o-media__figure">
     <div class="o-media__body">
       <h3>8. Ground cover</h3>
-      <p>I use locally sourced wood chip as a mulch, as it’s free and <a href="https://puyallup.wsu.edu/wp-content/uploads/sites/403/2015/03/wood-chips.pdf">it doesn’t rob nitrogen</a><sup>(PDF)</sup>. Then I plant the ground cover plants from step 3. Best to plant in autumn.</p>
+      <p>I use locally sourced wood chip as a mulch, as it’s free and <a href="https://puyallup.wsu.edu/wp-content/uploads/sites/403/2015/03/wood-chips.pdf">it doesn’t rob nitrogen</a><sup>(PDF)</sup>. Then I plant the propagated ground cover plants. Best to plant in autumn.</p>
     </div>
   </li>
 </ol>
