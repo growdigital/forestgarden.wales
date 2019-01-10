@@ -13,7 +13,7 @@ draft: false
 
 A one day practical course for beginners, from April to September. We cover the whole process, from surveying, to planning, propagating and planting. Make it part of your holiday!
 
-[**Book now on Airbnb**](https://www.airbnb.co.uk/experiences/524767)
+[**Book workshop now on Airbnb**](https://www.airbnb.co.uk/experiences/524767)
 
 ## Course content
 

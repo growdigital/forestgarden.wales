@@ -14,7 +14,7 @@ We offer a 2 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newca
 
 The tour runs on Monday, Tuesday, Thursday and Saturday from 10am-12pm and 2pm-4pm, April to September and costs £30 per person.
 
-[**Book now on Airbnb**](https://www.airbnb.co.uk/experiences/532342)
+[**Book tour now on Airbnb**](https://www.airbnb.co.uk/experiences/532342)
 
 > Forest gardening is a productive and practical garden system using trees, shrubs and perennial plants, designed to be stable, sustainable and low-maintenance.
 
