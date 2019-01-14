@@ -1,7 +1,7 @@
 ---
 title: What is a Forest Garden?
 date: 2018-07-08T09:36:44+01:00
-description: A simple definition of what makes a forest garden tl;dr productive, self-sustaining and low maintenance.
+description: A simple definition of what makes a forest garden tl;dr productive, sustainable and low maintenance.
 tags: 
 - ForestGarden
 - definition
