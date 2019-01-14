@@ -24,9 +24,11 @@ I gave another [Introduction to Forest Gardening](https://www.forestgarden.wales
 
 ## 2. Sustainable
 
-* A forest garden is designed to be a self-contained and self-regulating system.
-* It supplies its own nutrients with mineral accumulators and nitrogen fixing plants.
-* As a balanced eco-system, the predators naturally keep the pests in check.
+* Supplies its own nutrients with mineral accumulators and nitrogen fixing plants.
+* As a balanced ecosystem, the wildlife predators keep the pests in check.
+* A permanent “living mulch” ground cover minimises weeds.
+* Trees, perennials and soil biota sequester carbon.
+* Increased biodiversity because of the wide range of plant species, the habitats these provide for wildlife and the flowers chosen for pollinators & predators.
 
 ## 3. Low maintenance
 
