@@ -14,7 +14,7 @@ draft: false
 I gave another [Introduction to Forest Gardening](https://www.forestgarden.wales/talks/intro/) talk the other day (press `p` to see the notes), and I rejigged my definition of a forest garden:
 
 1. Productive
-2. Self-sustaining
+2. Sustainable
 3. Low maintenance
 
 ## 1. Productive
@@ -22,7 +22,7 @@ I gave another [Introduction to Forest Gardening](https://www.forestgarden.wales
 * A forest garden is a productive garden, growing food and wood crops.
 * It is multi-layered, using all available space in 3 dimensions.
 
-## 2. Self-sustaining
+## 2. Sustainable
 
 * A forest garden is designed to be a self-contained and self-regulating system.
 * It supplies its own nutrients with mineral accumulators and nitrogen fixing plants.
