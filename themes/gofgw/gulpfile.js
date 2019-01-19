@@ -27,7 +27,7 @@ const	paths = {
     './src/05-utilities/**/**/*.js',
 	],
 	img: [
-    !'./src/**/**/icon.svg)',
+    '!./src/**/**/icon.svg)',
     './src/**/**/*.+(png|jpg|svg|ico)',
 		'./src/**/**/**/*.+(png|jpg|svg|ico)'
 	]
