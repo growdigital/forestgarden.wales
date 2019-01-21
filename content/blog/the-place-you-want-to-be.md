@@ -21,9 +21,8 @@ Because of the compression of so many of her gardening projects through time, it
 
 Exactly. And a forest garden is at the intersection of grow-your-own, wildlife-friendly gardening, sustainable practises and beautiful outdoor spaces for people. So many forest gardening practices are applicable across the gardening board.
 
-And when she said that she found it easier to “get people to buy in to my vision” when presented with her photomontages of designs, I had a flash of realisation. If people can **visualise** the application of your ideas, then your ideas are more likely to be adopted. Similarly, if you can make your garden “the place you want to be”, then you will spend time there, in an increasingly virtuous spiral.
+And when she said that she found it easier to “get people to buy in to my vision” when presented with her photomontages of designs, I had a flash of realisation. If people can **visualise** the application of your ideas, then your ideas are more likely to be adopted. Similarly, if you can make your garden **“the place you want to be”**, then you will spend time there, in an increasingly virtuous spiral.
 
 Which is why the aesthetic has an important function in the forest garden. Like a flower attracts a pollinator, the garden attracts the person. As Sarah said, “If you’re working in the naturalistic style, it can look messy” and “You do need to create this visual clarity and organise it”.
 
-Forest gardens already have an inherent and functional beauty and it doesn’t take much to have a visual sensibility that can work with the forest garden palette of multi-functional plants. This is why I’m really excited about our [Ornamental Forest Garden](https://www.forestgarden.wales/blog/introducing-ornamental-maintenance-free-forest-garden/). I am designing it to be a flower of a forest garden.
-
+Forest gardens already have an inherent and functional beauty and it doesn’t take much to have a visual sensibility that can work with the forest garden palette of multi-functional plants. This is why I’m really excited about our [Ornamental Forest Garden](https://www.forestgarden.wales/blog/introducing-ornamental-maintenance-free-forest-garden/). I am designing it to be a flower of a forest garden. 
