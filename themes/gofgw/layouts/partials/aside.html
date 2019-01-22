@@ -1,5 +1,62 @@
 <aside class="breakout" role="complementary">
   <section>
+    <ol class="o-list-bare share icons">
+      <li>
+        <h2>Share</h2>
+      </li>
+      <li>
+        <a href="" aria-label="Share on Twitter" title="Share on Twitter">
+          <figure class="icon__figure">
+            <svg class="icon icon--footer icon--twitter" aria-hidden="true">
+              <use xlink:href="#icon-twitter" />
+            </svg>
+            <figcaption class="icon__caption u-js-hiddenvisually">Twitter</figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a href="" aria-label="Share on Facebook" title="Share on Facebook">
+          <figure class="icon__figure">
+            <svg class="icon icon--footer icon--facebook" aria-hidden="true">
+              <use xlink:href="#icon-facebook" />
+            </svg>
+            <figcaption class="icon__caption u-js-hiddenvisually">Facebook</figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a href="" aria-label="Share on Wordpress" title="Share on Wordpress">
+          <figure class="icon__figure">
+            <svg class="icon icon--footer icon--wordpress" aria-hidden="true">
+              <use xlink:href="#icon-wordpress" />
+            </svg>
+            <figcaption class="icon__caption u-js-hiddenvisually">Wordpress</figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a href="" aria-label="Share on Pinterest" title="Share on Pinterest">
+          <figure class="icon__figure">
+            <svg class="icon icon--footer icon--pinterest" aria-hidden="true">
+              <use xlink:href="#icon-pinterest" />
+            </svg>
+            <figcaption class="icon__caption u-js-hiddenvisually">Pinterest</figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a href="" aria-label="Share on Google+" title="Share on Google+">
+          <figure class="icon__figure">
+            <svg class="icon icon--footer icon--google" aria-hidden="true">
+              <use xlink:href="#icon-google" />
+            </svg>
+            <figcaption class="icon__caption u-js-hiddenvisually">Google+</figcaption>
+          </figure>
+        </a>
+      </li>
+    </ol>
+  </section>
+  <section>
     <h2><a href="/blog/">Blog posts</a></h2>
     <ul>
       {{ range first 4 (where .Site.RegularPages "Section" "blog") }}

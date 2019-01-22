@@ -18,10 +18,10 @@
  * used in header.html and footer.html
  */
 
-.temp {
-  margin: 1rem 0;
+.share {
+  display: flex;
 }
 
-.temp > * {
-  margin-bottom: 1rem;
+.share > * {
+  margin-right: 0.5rem;
 }

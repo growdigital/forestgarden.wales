@@ -36,12 +36,22 @@
   text-align: center;
 }
 
+/* Footer icons */
 .footer .icon__figure {
   color: white;
 }
 
 .footer .icon__figure:hover {
   color: var(--orange);
+}
+
+/* Share icons */
+.share .icon__figure {
+  color: var(--brown_pale);
+}
+
+.share .icon__figure:hover {
+  color: var(--green);
 }
 
 /* Hide icon figcaption if svg detected and icons file found
