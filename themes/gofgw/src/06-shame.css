@@ -17,11 +17,3 @@
  * list-bare.css example of CSS object in /src/modules/objects/,
  * used in header.html and footer.html
  */
-
-.share {
-  display: flex;
-}
-
-.share > * {
-  margin-right: 0.5rem;
-}

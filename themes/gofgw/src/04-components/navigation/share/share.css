@@ -1,0 +1,20 @@
+/* ==========================================================================
+   Share links
+   ==========================================================================*/
+
+.share {
+  display: flex;
+}
+
+.share > * {
+  margin-right: 0.5rem;
+}
+
+.share .icon__figure {
+  color: var(--brown_pale);
+}
+
+.share .icon__figure:hover {
+  color: var(--green);
+}
+

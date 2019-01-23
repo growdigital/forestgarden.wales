@@ -1,3 +1,6 @@
+{{ $urlencoded := .Permalink}}
+{{ $urlencoded = replace $urlencoded ":" "%3A" }}
+{{ $urlencoded = replace $urlencoded "/" "%2F" }}
 <aside class="breakout" role="complementary">
   <section>
     <ol class="o-list-bare share icons">
@@ -5,7 +8,7 @@
         <h2>Share</h2>
       </li>
       <li>
-        <a href="" aria-label="Share on Twitter" title="Share on Twitter">
+        <a href="https://twitter.com/intent/tweet?text={{ .Title}}&via={{ .Site.Params.twitter }}&hashtags={{ .Site.Params.hashtag }}&url={{ $urlencoded | safeURL }}" aria-label="Share on Twitter" title="Share on Twitter">
           <figure class="icon__figure">
             <svg class="icon icon--footer icon--twitter" aria-hidden="true">
               <use xlink:href="#icon-twitter" />
@@ -15,7 +18,7 @@
         </a>
       </li>
       <li>
-        <a href="" aria-label="Share on Facebook" title="Share on Facebook">
+        <a href="https://www.facebook.com/sharer.php?u={{ $urlencoded | safeURL }}" aria-label="Share on Facebook" title="Share on Facebook">
           <figure class="icon__figure">
             <svg class="icon icon--footer icon--facebook" aria-hidden="true">
               <use xlink:href="#icon-facebook" />
@@ -24,7 +27,7 @@
           </figure>
         </a>
       </li>
-      <li>
+      <!-- <li>
         <a href="" aria-label="Share on Wordpress" title="Share on Wordpress">
           <figure class="icon__figure">
             <svg class="icon icon--footer icon--wordpress" aria-hidden="true">
@@ -53,7 +56,7 @@
             <figcaption class="icon__caption u-js-hiddenvisually">Google+</figcaption>
           </figure>
         </a>
-      </li>
+      </li> -->
     </ol>
   </section>
   <section>

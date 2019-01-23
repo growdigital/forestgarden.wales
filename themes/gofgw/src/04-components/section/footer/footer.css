@@ -8,6 +8,14 @@
   margin-top: 2rem;
 }
 
+.footer .icon__figure {
+  color: white;
+}
+
+.footer .icon__figure:hover {
+  color: var(--orange);
+}
+
 .footer a:link,
 .footer a:visited {
   color: var(--blue_sky);
