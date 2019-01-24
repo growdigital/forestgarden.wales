@@ -1,6 +1,6 @@
 {{ define "main" }}
-  <main class="breakout">
-    <article class="article h-entry" itemscope itemtype="https://schema.org/Article">
+  <main>
+    <article class="article breakout h-entry" itemscope itemtype="https://schema.org/Article">
       {{ partial "microformat-schema.html" . }}
       <h1 class="p-name">{{ .Title }}</h1>
       <time class="article__time dt-published" pubdate itemprop="datePublished" content="{{ .Date.Format "2006-01-02" }}">
