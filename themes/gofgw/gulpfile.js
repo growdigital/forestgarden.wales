@@ -25,11 +25,6 @@ const	paths = {
     './src/03-objects/**/**/*.js',
     './src/04-components/**/**/*.js',
     './src/05-utilities/**/**/*.js',
-	],
-	img: [
-    '!./src/**/**/icon.svg)',
-    './src/**/**/*.+(png|jpg|svg|ico)',
-		'./src/**/**/**/*.+(png|jpg|svg|ico)'
 	]
 };
 
@@ -45,16 +40,6 @@ gulp.task('css', function () {
     .pipe(minifyCSS())
     .pipe(gulp.dest('./static/assets/'));
 });
-
-// Image minification task
-// PNGs 8bitified, JPEGs progressified, SVGs optimised
-gulp.task('minimage', () =>
-  gulp
-    .src(paths.img)
-    .pipe(imagemin({ progressive: true, pngquant: true, optimizationLevel: 3 }))
-    .pipe(rename({ dirname: '' }))
-    .pipe(gulp.dest('./static/assets/img/'))
-);
 
 // JS uglify
 gulp.task('js', () =>
@@ -93,7 +78,6 @@ gulp.task('clean', function(cb) {
 gulp.task('default', [
   'browser-sync',
 	'css',
-	// 'minimage',
   'js',
   'watch'
 ]);
