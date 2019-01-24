@@ -5,7 +5,7 @@
   <section>
     <ol class="o-list-bare share icons">
       <li>
-        <h2>Share</h2>
+        <h3>Share</h3>
       </li>
       <li>
         <a href="https://twitter.com/intent/tweet?text={{ .Title}}&via={{ .Site.Params.twitter }}&hashtags=ForestGarden&url={{ $urlencoded | safeURL }}" aria-label="Share on Twitter" title="Share on Twitter" target="blank">
@@ -30,7 +30,7 @@
     </ol>
   </section>
   <section>
-    <h2><a href="/blog/">Blog posts</a></h2>
+    <h3><a href="/blog/">Blog posts</a></h3>
     <ul>
       {{ range first 4 (where .Site.RegularPages "Section" "blog") }}
       <li>
@@ -42,7 +42,7 @@
     </ul>
   </section>
   <section>
-    <h2><a href="/status/">Status updates</a></h2>
+    <h3><a href="/status/">Status updates</a></h3>
     <ul>
       {{ range first 4 (where .Site.RegularPages "Section" "status") }}
       <li>
@@ -54,7 +54,7 @@
     </ul>
   </section>
   <section>
-    <h2><abbr title="Rich Site Summary">RSS</abbr> feeds</h2>
+    <h3><abbr title="Rich Site Summary">RSS</abbr> feeds</h3>
     <ul>
       <li><a href="{{ .Permalink }}blog/index.xml" title="News feed for full blog posts, open in RSS news reader"><strong>Blog feed</strong></a>, for newsreaders</li>
       <li><a href="{{ .Permalink }}index.xml" title="Feed for all posts, blog &amp; status"><strong>News feed</strong></a>, summary of all posts</li>
