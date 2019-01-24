@@ -3,9 +3,17 @@
    ========================================================================== */
 
 .article__time {
+  color: var(--green_mid);
   display: block;
-  font-style: italic;
+  font-family: Montserrat, sans-serif;
   margin-bottom: 0.5rem;
+  text-transform: uppercase;
+}
+
+@media (min-width: 46em) {
+  .article__time {
+    font-size: 1.25rem;
+  }
 }
 
 .article__summary {

@@ -24,11 +24,21 @@
   flex-flow: row wrap;
   margin-bottom: 1rem;
 }
+
 .meta dt {
   flex-basis: 20%;
   font-style: italic;
 }
+
 .meta dd {
   flex-basis: 70%;
   flex-grow: 1;
+}
+
+/* Breakpoints */
+/*medium: 46em / 736px*/
+@media (min-width: 46em) {
+  h1 {
+    font-size: 2.625rem;
+  }
 }

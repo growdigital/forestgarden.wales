@@ -7,7 +7,9 @@
         {{ .Date.Format "Monday" }}, {{ .Date.Format "2" | humanize}} {{ .Date.Format "January 2006" }}
       </time>
       <p class="article__summary p-summary">{{ .Description }}</p>
-      {{ partial "share.html" . }}
+      <div class="share--blog">
+        {{ partial "share.html" . }}
+      </div>
       {{ if .Params.tags }}
       <div class="article__tags o-list-inline">
         <h3>Tags:</h3>

@@ -10,8 +10,14 @@
   margin-right: 0.5rem;
 }
 
-.share .icon__figure {
+/* Share in aside */
+.share--aside .share .icon__figure {
   color: var(--brown_pale);
+}
+
+/* Share in blog template */
+.share--blog .share .icon__figure {
+  color: var(--red);
 }
 
 .share .icon__figure:hover {
