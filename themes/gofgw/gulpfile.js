@@ -93,7 +93,7 @@ gulp.task('clean', function(cb) {
 gulp.task('default', [
   'browser-sync',
 	'css',
-	'minimage',
+	// 'minimage',
   'js',
   'watch'
 ]);
