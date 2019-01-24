@@ -5,4 +5,4 @@ image: https://res.cloudinary.com/growdigital/image/upload/v1548283494/hablizia-
 imageAlt: Shoots of Caucasian Spinach emerging through woodchip mulch
 ---
 
-[@BackyardLarder](https://mobile.twitter.com/BackyardLarder), it lives! [Caucasian spinach]() (Hablizia tamnoides) is alive and apparently thriving under the broken guttering. I’ll move it up to The Greenery in the forest garden when it’s grown a bit more. Thank you, purveyor of Robust Plants! 🙂
+[@BackyardLarder](https://mobile.twitter.com/BackyardLarder), it lives! [Caucasian spinach](http://www.edimentals.com/blog/?tag=hablitzia-tamnoides) (Hablitzia tamnoides) is alive and apparently thriving under the broken guttering. I’ll move it up to The Greenery in the forest garden when it’s grown a bit more. Thank you, purveyor of Robust Plants! 🙂
