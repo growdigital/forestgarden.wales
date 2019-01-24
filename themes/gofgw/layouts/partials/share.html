@@ -1,0 +1,28 @@
+{{ $urlencoded := .Permalink}}
+{{ $urlencoded = replace $urlencoded ":" "%3A" }}
+{{ $urlencoded = replace $urlencoded "/" "%2F" }}
+<ol class="o-list-bare share icons">
+  <li>
+    <h3>Share:</h3>
+  </li>
+  <li>
+    <a href="https://twitter.com/intent/tweet?text={{ .Title}}&via={{ .Site.Params.twitter }}&hashtags=ForestGarden&url={{ $urlencoded | safeURL }}" aria-label="Share on Twitter" title="Share on Twitter" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--twitter" aria-hidden="true">
+          <use xlink:href="#icon-twitter" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Twitter</figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/sharer.php?u={{ $urlencoded | safeURL }}" aria-label="Share on Facebook" title="Share on Facebook" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--facebook" aria-hidden="true">
+          <use xlink:href="#icon-facebook" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Facebook</figcaption>
+      </figure>
+    </a>
+  </li>
+</ol>
