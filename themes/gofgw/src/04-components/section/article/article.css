@@ -2,7 +2,7 @@
    Article
    ========================================================================== */
 
-.article__time {
+.blog .article__time {
   color: var(--green_mid);
   display: block;
   font-family: Montserrat, sans-serif;
@@ -11,7 +11,7 @@
 }
 
 @media (min-width: 46em) {
-  .article__time {
+  .blog .article__time {
     font-size: 1.25rem;
   }
 }
