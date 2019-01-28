@@ -26,12 +26,12 @@
 }
 
 .meta dt {
-  flex-basis: 6em;
+  flex-basis: 20%;
   font-style: italic;
 }
 
 .meta dd {
-  flex-basis: 70%;
+  flex-basis: 80%;
   flex-grow: 1;
 }
 
