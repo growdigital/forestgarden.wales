@@ -17,6 +17,6 @@ A forest garden is:
 
 1. An orchard underplanted with edible perennials.
 2. A wildlife garden you can eat (the plants, not the wildlife).
-3. A [biosequestration](https://en.wikipedia.org/wiki/Biosequestration) process that yields a harvest.
+3. A carbon [biosequestration](https://en.wikipedia.org/wiki/Biosequestration) process that yields a harvest.
 
 On a totally unrelated note, did you know that if you have 5 fruit or nut trees, then you have an orchard?
