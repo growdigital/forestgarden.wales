@@ -28,3 +28,4 @@ What is refreshing is that he doesn’t pretend to know everything. At one point
 
 One of the handy tips I did learn was about was the [“Dutch Cut”](http://www.treeterms.co.uk/definitions/dutch-cut), which encourages the growth of a new branch. I’ve noticed in the forest garden quite a few of the trees are lacking branches on the windward side, so I’ll be trying this technique (and improving my windbreaks as well).
 
+All in all, if you’re growing any fruit trees, I’d really recommend you attend a pruning workshop. It’ll pay for itself in healthy trees and bountiful fruit harvests.
