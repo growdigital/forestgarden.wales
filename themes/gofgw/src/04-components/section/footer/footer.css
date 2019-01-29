@@ -38,11 +38,12 @@
   margin-bottom: 1rem;
 }
 
-.footer__credit {
-  padding: 2rem 0 3rem;
+.footer__legalese {
+  padding: 2rem 0;
 }
 
-.footer__credit > * {
+.footer__legalese > * {
+  font-size: 0.75rem;
   max-width: 30rem;
   margin: 0 auto 1rem;
   text-align: center;
