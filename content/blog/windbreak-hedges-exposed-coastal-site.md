@@ -13,11 +13,11 @@ imageCap: The blueish, glaucous leaves of the Saltbush
 draft: false
 ---
 
-At last Saturday’s pruning workshop by [The People’s Orchard](http://www.stdogmaelsabbey.org.uk/peoplesorchard) I was chatting with some people from [Fishguard](https://en.wikipedia.org/wiki/Fishguard). They’re interested in creating a forest garden but they’re in an incredibly windy spot by the sea. 
+At last Saturday’s [pruning workshop](https://www.forestgarden.wales/status/190126-thepeoplesorchard/) by [The People’s Orchard](http://www.stdogmaelsabbey.org.uk/peoplesorchard) I was talking with some people from [Fishguard](https://en.wikipedia.org/wiki/Fishguard). They’re interested in creating a forest garden but they’re in an incredibly windy spot by the sea. 
 
 There is nothing like a challenge to get the brain working. Forest Garden Wales is a good 7 miles from the sea, so although we have a lot of wind, being at the top of the valley, we don’t get any salty sea wind. Which is handy, because I really like [Amelanchiers](https://pfaf.org/user/plant.aspx?LatinName=Amelanchier+canadensis) (Juneberries), and apparently they don’t tolerate maritime exposure.
 
-So, I drew up a short list of possibles. I would use three deep windbreak hedge, with some sacrificial pioneers at the outermost edge. Exactly goes what where would depend on where the sun is and what the soil is like. In no particular order:
+So, I drew up a short list of possibles. I would use a three deep windbreak hedge, with some sacrificial pioneers at the outermost edge. Exactly what goes where would depend on where the sun is and what the soil is like. In no particular order:
 
 * [Saltbush](https://pfaf.org/user/plant.aspx?latinname=Atriplex+halimus) (Atriplex halimus). Even when grown in non-coastal sites, it still tastes salty!
 * [Gorse](https://pfaf.org/user/Plant.aspx?LatinName=Ulex+europaeus) (Ulex europaeus). Fantastic pollinator plant, year round flowers in some places, plus you can make wine from the flowers. Spiky. Some people don’t like it.
