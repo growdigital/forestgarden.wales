@@ -1,6 +1,7 @@
 ---
 title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
+discussionId: {{ .Name }}
 description: 
 tags: 
 - ForestGarden

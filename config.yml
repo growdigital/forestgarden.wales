@@ -18,6 +18,7 @@ params:
   publisherLogoWidth: 220
   publisherLogoHeight: 220
   cloudinary_base_url: https://res.cloudinary.com/growdigital/image/upload/
+  talkyardServerUrl: https://comments-for-www-forestgarden-wales.talkyard.net
   email: hello@forestgarden.wales
   facebook: Forest-Garden-Wales
   fbapp_id: 181804962563660
