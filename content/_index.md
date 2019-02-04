@@ -10,6 +10,16 @@ imageCap: View over the polytunnel from north west corner of the forest garden
 draft: false
 ---
 
+## Forest garden tours
+
+[Book tour](https://www.airbnb.co.uk/experiences/532342)
+
+## Forest garden workshop
+
+[Book workshop](https://www.airbnb.co.uk/experiences/524767)
+
+
+
 A wildlife friendly, low maintenance and productive forest garden in West Wales. We run one day courses, garden tours and we’re available for garden talks & forest garden design.
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1543929583/view-42802795151.jpg" alt="View over polytunnel and house to valley beyond" caption="View over the polytunnel from north west corner of the forest garden" >}}
