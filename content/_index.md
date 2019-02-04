@@ -10,30 +10,21 @@ imageCap: View over the polytunnel from north west corner of the forest garden
 draft: false
 ---
 
-## Forest garden tours
+## Directions
 
-[Book tour](https://www.airbnb.co.uk/experiences/532342)
+1. **[From Newcastle Emlyn](https://binged.it/2DSTVAJ)**—immediate right after 30 sign in Cwm Cou, signposted Felin Geri, 1 mile up the steep hill on the left.
+2. **[From Cardigan](https://binged.it/2DSwGqh)**—right turn in Cwm Cou to Newcastle Emlyn, round corner, immediate left signposted Felin Geri, 1 mile up the steep hill on the left.
 
-## Forest garden workshop
+## Testimonials
 
-[Book workshop](https://www.airbnb.co.uk/experiences/524767)
+* “Makes a forest garden feel achievable” ~ Anne, Llandeilo
+* “Simply inspiring” ~ Donna, Llandeilo
+* “Can't really recommend this place enough” ~ HD2001
+* “I’m just delighted with the plan! It’s everything I wanted and much more.” ~ Sandra, County Dublin
 
-
-
-A wildlife friendly, low maintenance and productive forest garden in West Wales. We run one day courses, garden tours and we’re available for garden talks & forest garden design.
-
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1543929583/view-42802795151.jpg" alt="View over polytunnel and house to valley beyond" caption="View over the polytunnel from north west corner of the forest garden" >}}
-
-Located in beautiful Ceredigion, near Newcastle Emlyn in West Wales, bordering Pembrokeshire and Carmarthenshire, we have a well-developed 1 acre site with wildlife pond, polytunnel & propagation beds, a 0.5 acre coppice and a 1 acre “greenfield site” which will be the new OFG (Ornamental Forest Garden).
 
 ## What is forest gardening?
 
 > A productive and practical garden system using trees, shrubs and perennial plants, designed to be stable, sustainable and low-maintenance.
 
-## What are the benefits?
 
-* Plentiful, reliable and low maintenance food crops
-* Biodiversity, shelter and increased wildlife
-* Low energy, low input gardening
-* Improved soil health and vitality
-* Beautiful & functional
