@@ -28,6 +28,8 @@
 
 .header__h1 {
   font-size: 1.6875rem;
+  line-height: 2rem;
+  margin-bottom: 0.8rem;
   padding-bottom: 0.75rem;
 }
 
