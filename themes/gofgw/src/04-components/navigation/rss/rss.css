@@ -19,5 +19,6 @@
 }
 
 .rss .rss__list figcaption:hover {
-  border-bottom: 2px solid var(--orange) !important;
+  border-bottom: 2px solid var(--blue_sky) !important;
+  color: var(--blue_sky);
 }
