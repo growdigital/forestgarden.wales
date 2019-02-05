@@ -13,7 +13,7 @@ draft: false
 ## Directions
 
 1. **[From Newcastle Emlyn](https://binged.it/2DSTVAJ)**—immediate right after 30 sign in Cwm Cou, signposted Felin Geri, 1 mile up the steep hill on the left.
-2. **[From Cardigan](https://binged.it/2DSwGqh)**—right turn in Cwm Cou to Newcastle Emlyn, round corner, immediate left signposted Felin Geri, 1 mile up the steep hill on the left.
+2. **[From Cardigan](https://binged.it/2DSwGqh)**—right turn in Cwm Cou toward Newcastle Emlyn, round corner, immediate left signposted Felin Geri, 1 mile up the steep hill on the left.
 
 ## Testimonials
 
