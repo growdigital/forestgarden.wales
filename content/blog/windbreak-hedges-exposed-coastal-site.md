@@ -27,5 +27,6 @@ So, I drew up a short list of possibles. I would use a three deep windbreak hedg
 * [Hawthorn](https://pfaf.org/user/cmspage.aspx?pageid=59) (Crataegus spp). If I had to have a favourite small tree, this might be the species for me. Great for pollinators, beautiful, hardy, easy to grow and to graft. 
 * [Italian Alder](https://pfaf.org/user/Plant.aspx?LatinName=Alnus+cordata) (Alnus cordata). Maybe a bit big for a permanent hedge, and doesn’t coppice well (I think). Though great pioneer species and superfast growing. Our 3 year old specimen is now about 5 metres tall.
 * ['Bowles hybrid' Willow](https://pfaf.org/user/Plant.aspx?LatinName=Salix+%27Bowles+hybrid%27) (Salix). Upright, well-behaved, fast-growing willow. Haven’t grown it myself but itching for an excuse to plant some.
+* [Sea Buckthorn](https://pfaf.org/user/Plant.aspx?LatinName=Hippophae+rhamnoides) (Hippophae rhamnoides). Classic plant for coastal areas, as its name suggests. Nitrogen fixing, good for stabilising loose ground, edible berries that taste of a pleasant battery acid (though high in vitamins).
 
 Hopefully that may give some windswept sea folk a bit of inspiration. 
