@@ -13,7 +13,7 @@ imageCap: My first ever grafting experiments, a Bubblegum Tree and an Ashmead’
 draft: false
 ---
 
-* Discussion about pollinator friendly flowers. Link to (fuzzy) slide from [@BotanicGardenWales](https://mobile.twitter.com/BotanicGardenWales) slideshow by [@abigailjayne26](https://mobile.twitter.com/@abigailjayne26) <https://res.cloudinary.com/growdigital/image/upload/v1549705446/slide-D7290F0F.jpg>
+* Discussion about pollinator friendly flowers. Link to (fuzzy) slide from [@BotanicGardenWales](https://mobile.twitter.com/BotanicGardenWales) slideshow by [@abigailjayne26](https://mobile.twitter.com/@abigailjayne26) <https://res.cloudinary.com/growdigital/image/upload/v1549705446/slide-D7290F0F.jpg>. Also see [Top 10 spring flowers foraged by honey bees for nectar and pollen](https://www.forestgarden.wales/status/190126-springflowers/)
 * [M116](https://www.orangepippintrees.co.uk/articles/rootstocks-for-apple-trees), recently developed, good disease resistance, harder to propagate, not readly available.
 * Can propagate rootstock by hardwood cuttings.
 * Triploid apple trees require specific diploid pollinating partners “You will need either one self-fertile apple variety (or crab-apple) or two other varieties which can cross-pollinate each other as well as the triploid variety.” <https://www.orangepippintrees.co.uk/articles/triploid-apple-varieties>
