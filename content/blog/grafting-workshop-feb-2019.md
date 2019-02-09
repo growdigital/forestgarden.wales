@@ -19,6 +19,7 @@ draft: false
 * Triploid apple trees require specific diploid pollinating partners “You will need either one self-fertile apple variety (or crab-apple) or two other varieties which can cross-pollinate each other as well as the triploid variety.” <https://www.orangepippintrees.co.uk/articles/triploid-apple-varieties>
 * Crab-apple in a hedge if you don’t have room. Can graft crab-apple on suitable rootstock.
 * [M116](https://www.orangepippintrees.co.uk/articles/rootstocks-for-apple-trees) relatively new rootstock, better disease resistance, harder to come by.
+* [P22](https://duckduckgo.com/?q=p22+rootstock) rootstock, very dwarf. Can use as a test rootstock, for trying out different varieties and also for creating scions. Also, can use for crab-apple pollinator if limited space and want to grow triploid apple tree.
 * “The only way to do this is to start”!
 * Recommended, Felco budding knife
 * Calendar
