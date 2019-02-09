@@ -28,8 +28,8 @@ draft: false
 * Calendar
   * Dec/Jan Take scion cuttings from 1st year growth, keep in fridge in plastic bag
   * Feb end of, Whip & Tongue grafting
-  * Mar-> for cleft graft
-* The orrder of grafting
+  * Mar→ for cleft graft
+* The order of grafting
   0. Wrap rootstock roots in rag and inner tube tie
   1. Cut scion, then match with cut on rootstock
   2. Cut notch on both
