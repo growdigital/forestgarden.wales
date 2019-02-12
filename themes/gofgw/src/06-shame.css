@@ -18,6 +18,26 @@
  * used in header.html and footer.html
  */
 
+/* Form styling */
+.subscribe {
+  align-items: center;
+  display: flex;
+}
+
+.subscribe__textinput {
+  flex-grow: 2;
+}
+
+.subscribe > * {
+  margin-right: 0.5rem;
+}
+
+input[type=text],
+input[type=email] {
+  padding: 0.3rem .55rem;
+}
+
+
 /* Author metadata */
 .meta {
   display: flex;

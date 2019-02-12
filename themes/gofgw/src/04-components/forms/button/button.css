@@ -1,0 +1,28 @@
+/* ==========================================================================
+   Button
+   ==========================================================================*/
+
+.button {
+  background-color: var(--red);
+  border-radius: 3px;
+  border: 0 transparent;
+  color: white;
+  cursor: pointer;
+  font-family: Montserrat, sans-serif;
+  font-size: 0.875rem;
+  margin: 0.3rem 0;
+  padding: 0.5rem .75rem;
+  text-transform: uppercase;
+}
+
+.button:hover {
+  background-color: var(--green);
+}
+
+a.button:link,
+a.button:visited,
+a.button:hover {
+  color: white;
+  text-decoration: none;
+}
+
