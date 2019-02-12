@@ -27,16 +27,18 @@ Ceredigion
 
 Note that some satnavs take you to the wrong side of the river, be sure that you’re on the same road as Felin Geri campsite. Also note, the single track road is bumpy and goes up a very steep hill.
 
-### Directions from Newcastle Emlyn
+## Directions from Emlyn
 
-1. From Newcastle Emlyn, _immediate_ right after the 30 signs, signposted Felin Geri. 
-2. Past Felin Geri, past a row of cottages, up the steep hill
-3. Round a corner, Penralltgeri Isaf is at the top of the hill on the left, big double wooden gates
+1. From Newcastle Emlyn, immediate right after the 30 signs, signposted Felin Geri. 
+2. Past row of cottages, ¼ mile up the hill 
+3. Round a corner by outbuildings, Penralltgeri Isaf is at the top of the hill on the left, big double wooden gates
 
-### Directions from Cardigan
+## Directions from Cardigan
 
 1. From Cardigan A484, take the left turn B4570 signposted to Cwm Cou
-2. Down the hill into Cwm Cou, over the stone bridge, turn right at end toward Emlyn B4333
-3. Round the corner, take the _immmediate_ left signposted Felin Geri
-4. Past Felin Geri, past a row of cottages, up the steep hill
+2. Over the stone bridge in Cwm Cou, turn right at junction toward Emlyn B4333
+3. Round the corner, take the *immmediate* left signposted Felin Geri
+2. Past row of cottages, ¼ mile up the hill 
 5. Round a corner, Penralltgeri Isaf is at the top of the hill on the left, big double wooden gates
+
+**Please drive up the track and park by the dutch barn in the marked area**
