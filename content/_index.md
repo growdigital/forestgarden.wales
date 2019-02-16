@@ -22,9 +22,8 @@ draft: false
 * “Can't really recommend this place enough” ~ HD2001
 * “I’m just delighted with the plan! It’s everything I wanted and much more.” ~ Sandra, County Dublin
 
+> A forest garden is productive, sustainable and low maintenance. Grow edible crops with trees, shrubs and perennial vegetables in a resilient system providing its own nutrients, pollination, pest control and mulch.
 
-## What is forest gardening?
+## About
 
-> A productive and practical garden system using trees, shrubs and perennial plants, designed to be stable, sustainable and low-maintenance.
-
-
+We moved to West Wales in 2015 for a greener, quieter life and to plant a forest garden. We set up Forest Garden Wales to promote its practise, via tours, workshops, talks, design and writing.  

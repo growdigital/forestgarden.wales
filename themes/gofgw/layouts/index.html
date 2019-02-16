@@ -1,11 +1,21 @@
 {{ define "main" }}
   <main class="breakout">
-    <h2>Forest garden tour</h2>
-    <p>Set in the beautiful Ceri valley, a tour of a forest garden where growing food is less work than a vegetable patch, whilst being better for biodiversity and more beautiful to boot. Two hour tour with coffee & biscuits £30, available from April—September via <a href="https://www.airbnb.co.uk/experiences/532342">Airbnb</a>.</p>
-    <a href="https://www.airbnb.co.uk/experiences/532342" class="button">Book tour</a>
-    <h2>Forest garden workshop</h2>
-    <p>Learn how to create your own forest garden with this in-depth, practical and hands-on session. All day  10am—4pm £75, available from April—September via <a href="https://www.airbnb.co.uk/experiences/524767">Airbnb</a>.</p>
-    <a href="https://www.airbnb.co.uk/experiences/524767" class="button">Book workshop</a>
+    <div class="cta">
+      <h2>Forest garden tour</h2>
+      <p>Grow food sustainably for less work and more wildlife. 2 hour tour in West Wales garden, coffee & biscuits £27, from Apr-Sep via <a href="https://www.airbnb.co.uk/experiences/532342">Airbnb</a>.</p>
+      <div class="cta__btnbox">
+        <img src="https://res.cloudinary.com/growdigital/image/upload/w_640/v1544300867/chaenomeles-41478572351.jpg">
+        <a class="button cta__btn" href="https://www.airbnb.co.uk/experiences/532342">Book tour</a>
+      </div>
+    </div>
+    <div class="cta">
+      <h2>Forest garden workshop</h2>
+      <p>Learn how to create your own forest garden with this in-depth and hands-on session. Whole process covered, from surveying, to planning, propagating & planting. All day 10am—4pm £75, refreshments inc, from Apr-Sep via <a href="https://www.airbnb.co.uk/experiences/524767">Airbnb</a>.</p>
+      <div class="cta__btnbox">
+        <img src="https://res.cloudinary.com/growdigital/image/upload/w_640/v1550263489/tour-42993811082-crop.jpg" alt="">
+        <a class="button cta__btn" href="https://www.airbnb.co.uk/experiences/524767" >Book workshop</a>
+      </div>
+    </div>
     {{ .Content }}
   </main>
 {{ end }}
