@@ -10,20 +10,20 @@ imageCap: View over the polytunnel from north west corner of the forest garden
 draft: false
 ---
 
-A wildlife friendly, low maintenance and productive forest garden in West Wales. We run one day courses, garden tours and we’re available for garden talks & forest garden design.
+## Directions
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1543929583/view-42802795151.jpg" alt="View over polytunnel and house to valley beyond" caption="View over the polytunnel from north west corner of the forest garden" >}}
+1. **[From Newcastle Emlyn](https://binged.it/2DSTVAJ)**—immediate right after 30 sign in Cwm Cou, signposted Felin Geri, 1 mile up the steep hill on the left.
+2. **[From Cardigan](https://binged.it/2DSwGqh)**—right turn in Cwm Cou toward Newcastle Emlyn, round corner, immediate left signposted Felin Geri, 1 mile up the steep hill on the left.
 
-Located in beautiful Ceredigion, near Newcastle Emlyn in West Wales, bordering Pembrokeshire and Carmarthenshire, we have a well-developed 1 acre site with wildlife pond, polytunnel & propagation beds, a 0.5 acre coppice and a 1 acre “greenfield site” which will be the new OFG (Ornamental Forest Garden).
+## Testimonials
 
-## What is forest gardening?
+* “Makes a forest garden feel achievable” _Anne, Llandeilo_
+* “Simply inspiring” _Donna, Llandeilo_
+* “Can't really recommend this place enough” _HD2001_
+* “I’m just delighted with the plan! It’s everything I wanted and much more.” _Sandra, Dublin_
 
-> A productive and practical garden system using trees, shrubs and perennial plants, designed to be stable, sustainable and low-maintenance.
+> A forest garden is productive, sustainable and low maintenance. Grow edible crops with trees, shrubs and perennial vegetables in a resilient system providing its own nutrients, pollination, pest control and mulch.
 
-## What are the benefits?
+## About us
 
-* Plentiful, reliable and low maintenance food crops
-* Biodiversity, shelter and increased wildlife
-* Low energy, low input gardening
-* Improved soil health and vitality
-* Beautiful & functional
+We moved to West Wales with our young family in 2015 for a greener, quieter life and to plant a forest garden. We set up Forest Garden Wales to promote its practise, via tours, workshops, talks and writing. We’ve planted one forest garden already, with a polytunnel, raised beds, propagation beds and a wildlife pond. A second garden is now in progress, the [Ornamental Forest Garden](https://www.forestgarden.wales/blog/introducing-ornamental-maintenance-free-forest-garden/), designed to showcase the aesthetic potential of forest gardening.

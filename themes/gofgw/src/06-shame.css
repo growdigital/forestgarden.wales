@@ -55,6 +55,30 @@ input[type=email] {
   flex-grow: 1;
 }
 
+/* Call To Action component */
+
+.cta {
+  margin-bottom: 1rem;
+}
+
+.cta__btn {
+  display: block;
+}
+
+@media (min-width: 46em) {
+  .cta {
+    columns: 2;
+  }
+  .cta__btnbox {
+    position: relative;
+  }
+  .cta__btn {
+    bottom: 0.75rem;
+    left: 0.75rem;
+    position: absolute;
+  }
+}
+
 /* Breakpoints */
 /*medium: 46em / 736px*/
 @media (min-width: 46em) {
@@ -67,7 +91,3 @@ input[type=email] {
   font-size: 1.2rem;
 }
 
-/* Talkyard comments */
-.talkyard-comments {
-  margin-top: 0.5rem !important;
-}
