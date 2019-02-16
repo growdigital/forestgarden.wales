@@ -17,13 +17,13 @@ draft: false
 
 ## Testimonials
 
-* “Makes a forest garden feel achievable” ~ Anne, Llandeilo
-* “Simply inspiring” ~ Donna, Llandeilo
-* “Can't really recommend this place enough” ~ HD2001
-* “I’m just delighted with the plan! It’s everything I wanted and much more.” ~ Sandra, County Dublin
+* “Makes a forest garden feel achievable” _Anne, Llandeilo_
+* “Simply inspiring” _Donna, Llandeilo_
+* “Can't really recommend this place enough” _HD2001_
+* “I’m just delighted with the plan! It’s everything I wanted and much more.” _Sandra, Dublin_
 
 > A forest garden is productive, sustainable and low maintenance. Grow edible crops with trees, shrubs and perennial vegetables in a resilient system providing its own nutrients, pollination, pest control and mulch.
 
-## About
+## About us
 
-We moved to West Wales in 2015 for a greener, quieter life and to plant a forest garden. We set up Forest Garden Wales to promote its practise, via tours, workshops, talks, design and writing.  
+We moved to West Wales with our young family in 2015 for a greener, quieter life and to plant a forest garden. We set up Forest Garden Wales to promote its practise, via tours, workshops, talks and writing. We’ve planted one forest garden already, with a polytunnel, raised beds, propagation beds and a wildlife pond. A second garden is now in progress, the [Ornamental Forest Garden](https://www.forestgarden.wales/blog/introducing-ornamental-maintenance-free-forest-garden/), designed to showcase the aesthetic potential of forest gardening.
