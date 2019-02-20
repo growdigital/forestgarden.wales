@@ -1,7 +1,7 @@
 ---
-title: Which wild flowers do pollinators prefer?
+title: Which flowers do pollinators prefer?
 date: 2019-02-19 21:20:06 +0000
-discussionId: wild-flowers-pollinators-prefer
+discussionId: flowers-pollinators-prefer
 description: 
 tags:
 - ForestGarden
@@ -10,5 +10,7 @@ image:
 imageAlt: 
 imageCap: 
 draft: true
-
 ---
+
+Evidence based gardening. Quel horreur!
+
