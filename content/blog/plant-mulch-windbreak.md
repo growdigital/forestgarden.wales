@@ -19,6 +19,8 @@ However, there’s a **lot** of [bramble](https://pfaf.org/user/plant.aspx?latin
 
 After digging out most of the bramble, we’re using woven plastic sheet mulch to kill off the rest. We’ve planted a single line **between** the two rows, so that the sheet can be re-used. There are pegs to temporarily hold down the sheet but it’s imperative to put lots of really heavy objects down, otherwise the sheet _will_ take off in the next storm! Also, be sure to put down some wood chip or hay mulch between the gaps.
 
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1551044534/mulch-5BCE1330.jpg" alt="Woodchip mulch on gap between sheet mulch" caption="Mulch the gap! Otherwise, there will be weeds!" >}}
+
 In year 2, we’ll totally remove the front row of sheet mulch and fold back the rear row onto itself, and then plant the second windbreak row. Then it’s a thick wood chip mulch and plant a cheap and cheerful ground cover plant ([Glechoma hederacea](https://pfaf.org/user/Plant.aspx?LatinName=Glechoma+hederacea) is a favourite, as it grows well locally). 
 
 The reason why the rear row is folded back onto itself is so that the bramble from next door finds it harder to [tip layer](https://www.rhs.org.uk/advice/profile?PID=358) into the hedge. In a few years time, the hedge will thicken up enough so that there’s not enough light for the bramble to grow into the hedge. 
