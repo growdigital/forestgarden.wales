@@ -10,9 +10,11 @@ draft: false
 
 # Forest Garden workshop
 
-A one day practical course for beginners, from April to September. We cover the whole process, from surveying, to planning, propagating and planting. Make it part of your holiday!
+A one day practical course for beginners, from April to September. We cover the whole process, from surveying, to planning, propagating and planting. Make it part of your holiday! Only £75 per person, workshop from 10am-4pm, refreshments included. [Booking available via ](https://www.airbnb.co.uk/experiences/524767)
 
-[**Book workshop now on Airbnb**](https://www.airbnb.co.uk/experiences/524767)
+<a class="button" href="https://www.airbnb.co.uk/experiences/524767">Book workshop</a><br><br>
+
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1551261223/cornus-crop-42141134465.jpg" alt="Photo of curved hedge, polytunnel, meadow and hills in distance" caption="View of the Cornus hedge, Fruit Triangle and polytunnel" >}}
 
 ## Course content
 
