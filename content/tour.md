@@ -2,9 +2,8 @@
 title: Tour
 menu: main
 date: 2018-02-09T19:21:11Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1544027745/misty-wildlife-pond-26465730067.jpg
-imageAlt: Misty view on a sunny morning across pond, young orchard to establised trees
-imageCap: Early morning looking eastward across the Wildlife Pond and newly established forest garden
+image: https://res.cloudinary.com/growdigital/image/upload/v1544300867/chaenomeles-41478572351.jpg
+imageAlt: Red flower of Japanese Quince
 draft: false
 ---
 
@@ -12,21 +11,15 @@ draft: false
 
 We offer a 2 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. It’s for anyone interested in learning more about forest gardening.
 
-The tour runs on Monday, Tuesday, Thursday and Saturday from 10am-12pm and 2pm-4pm, April to September and costs £30 per person.
+The tour runs on Monday, Tuesday, Thursday and Saturday from 10am-12pm and 2pm-4pm, April to September and costs £27 per person.
 
-[**Book tour now on Airbnb**](https://www.airbnb.co.uk/experiences/532342)
+It is available to book [via Airbnb Experiences](https://www.airbnb.co.uk/experiences/532342).
 
-> Forest gardening is a productive and practical garden system using trees, shrubs and perennial plants, designed to be stable, sustainable and low-maintenance.
-
-## Included in the tour
-
-* Tea and coffee
-* Beautiful wooded hillside location
-* Opportunity to buy selected forest garden plants
+<a class="button" href="https://www.airbnb.co.uk/experiences/532342">Book tour</a><br><br>
 
 ## What you will see on the tour
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1544372029/cad-40637277764.png" alt="CAD plan of garden" caption="CAD plan of our forest garden" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1544027745/misty-wildlife-pond-26465730067.jpg" alt="Misty view on a sunny morning across pond, young orchard to establised trees" caption="Early morning looking eastward across the Wildlife Pond and newly established forest garden" >}}
 
 1. Half an acre of newly planted coppice, designed for firewood, poles and posts
 2. One acre greenfield site of the planned Ornamental Maintenance-free Garden (OMG); discussion of windbreaks, access, utilities, fencing and planning
@@ -45,6 +38,12 @@ The tour runs on Monday, Tuesday, Thursday and Saturday from 10am-12pm and 2pm-4
   * Mushroom Manor: growing mushrooms on logs
   * Willow Walk
 5. Exit via plant shop
+
+## Included in the tour
+
+* Tea and coffee
+* Beautiful wooded hillside location
+* Opportunity to buy selected forest garden plants
 
 Please note, **BOOKING IS ESSENTIAL**. Wellies and waterproofs highly recommended. Also, at the very least, a mild interest in gardening is a prerequisite: the garden is in its early stages and indifferent individuals will only see twigs.
 
