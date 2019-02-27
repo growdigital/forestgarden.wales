@@ -2,26 +2,22 @@
 title: The seven layers of a forest garden
 date: 2019-02-26T20:12:03Z
 discussionId: seven-layers-forest-garden
-description: 
+description: A quick reference for the multiple layers of a forest garden, because I can only ever remember 3 of them…
 tags: 
 - ForestGarden
 - GdnBloggers
 image: 
 imageAlt: 
 imageCap: 
-draft: true
+draft: false
 ---
 
-## 1. Canopy layer
+[@AgroforestryT](https://mobile.twitter.com/AgroforestryT) has a [definition of forest gardening](https://www.agroforestry.co.uk/about-agroforestry/forest-gardening/) and helpfully lists the “seven layers” of a forest garden:
 
-## 2. Small trees and large shrubs
-
-## 3. Shrubs
-
-## 4. Herbaceous perennials
-
-## 5. Ground covers
-
-## 6. Climbers and vines
-
-## 7. Rhizosphere
+1. **Canopy**—highest layer of trees, plan spacing correctly to allow enough light through to understorey
+* **Small trees/shrubs**—between & below canopy trees
+* **Shrubs**—mostly shade tolerant
+* **Herbaceous perennials**—die back in winter, contribute to ground cover
+* **Ground cover**—mostly creeping carpeting plants, with some clumping examples
+* **Climbers**—require sturdy trees to climb
+* **Rhizosphere**—root bearing plants and fungi
