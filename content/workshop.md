@@ -10,11 +10,15 @@ draft: false
 
 # Forest Garden workshop
 
-A one day practical course for beginners, from April to September. We cover the whole process, from surveying, to planning, propagating and planting. Make it part of your holiday! Only £75 per person, workshop from 10am-4pm, refreshments included. [Booking available via Airbnb](https://www.airbnb.co.uk/experiences/524767)
+A one day practical course for beginners, from April to September. We cover the whole process, from surveying, to planning, propagating and planting. Make it part of your holiday! Only £75 per person, workshop from 10am-4pm, refreshments included. Maximum 8 people per workshop. It is available to book [via Airbnb](https://www.airbnb.co.uk/experiences/524767). 
 
 <a class="button" href="https://www.airbnb.co.uk/experiences/524767">Book workshop</a><br><br>
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1551261223/cornus-crop-42141134465.jpg" alt="Photo of curved hedge, polytunnel, meadow and hills in distance" caption="View of the Cornus hedge, Fruit Triangle and polytunnel" >}}
+Alternatively, we are running **one** discounted workshop on the last Saturday of the month, April to September at £60.
+
+<a class="button" href="mailto:hello@forestgarden.wales?subject=Discounted forest garden workshop">Book discounted</a><br><br>
+
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1543954590/permatywi-orchard-43060641451.jpg" alt="Man in hat standing in grass, talking about plants to assembled people" caption="Jake talking about plants in the Accidental Meadow. Photo © Christine Jones" >}}
 
 ## Course content
 

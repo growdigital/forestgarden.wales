@@ -11,11 +11,15 @@ draft: false
 
 We offer a 2 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. It’s for anyone interested in learning more about forest gardening.
 
-The tour runs on Monday, Tuesday, Thursday and Saturday from 10am-12pm and 2pm-4pm, April to September and costs £27 per person.
+The tour runs on Monday, Tuesday, Thursday and Saturday from 10am-12pm and 2pm-4pm, April to September and costs £27 per person. Maximum tour size 10 people.
 
-It is available to book [via Airbnb Experiences](https://www.airbnb.co.uk/experiences/532342).
+It is available to book [via Airbnb Experiences](https://www.airbnb.co.uk/experiences/532342). 
 
 <a class="button" href="https://www.airbnb.co.uk/experiences/532342">Book tour</a><br><br>
+
+Alternatively, we are running **one** discounted tour on the penultimate Saturday of each month, April to September at £21.60.
+
+<a class="button" href="mailto:hello@forestgarden.wales?subject=Discounted forest garden tour">Book discounted</a><br><br>
 
 ## What you will see on the tour
 
@@ -38,6 +42,8 @@ It is available to book [via Airbnb Experiences](https://www.airbnb.co.uk/experi
   * Mushroom Manor: growing mushrooms on logs
   * Willow Walk
 5. Exit via plant shop
+
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1551261223/cornus-crop-42141134465.jpg" alt="Photo of curved hedge, polytunnel, meadow and hills in distance" caption="View of the Cornus hedge, Fruit Triangle and polytunnel" >}}
 
 ## Included in the tour
 
