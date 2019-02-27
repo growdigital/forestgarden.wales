@@ -27,6 +27,8 @@ A one day practical course for beginners, from April to September. We cover the 
 7. **Shrubs**: Once your sheet mulch is up, shrubs away.
 8. **Ground cover**: Keep the ground covered at all times & at all costs.
 
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1551263069/OFG_3.21.jpg" alt="CAD plan over satellite photo" caption="Learn how to create a simple plan for your own forest garden" >}}
+
 ## Directions
 
 For directions, see [www.forestgarden.wales/contact](/contact/)
