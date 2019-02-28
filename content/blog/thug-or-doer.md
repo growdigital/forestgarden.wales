@@ -12,7 +12,7 @@ imageCap: Plenty of bramble dug up from the site of the windbreak hedge
 draft: false
 ---
 
-Some plants in the garden if left to their own devices will just take over, bramble ([Rubus fruticosus](https://pfaf.org/user/plant.aspx?latinname=Rubus+fruticosus)) being an excellent example. The specimen pictured was dug up from what will be the Northern Hedge in the [Ornamental Forest Garden](https://www.forestgarden.wales/blog/introducing-ornamental-maintenance-free-forest-garden/). (I know, bramble is a fantastic wildlife plant but it’s in the way of the hedge and will be replaced with a thornless variety!)
+Some plants in the garden if left to their own devices will just take over, bramble ([Rubus fruticosus](https://pfaf.org/user/plant.aspx?latinname=Rubus+fruticosus)) being an excellent example. The bramble pictured was dug up from what will be the Northern Hedge in the [Ornamental Forest Garden](https://www.forestgarden.wales/blog/introducing-ornamental-maintenance-free-forest-garden/). (I know, bramble is a fantastic wildlife plant but it’s in the way of the hedge and will be replaced with a thornless variety!)
 
 The question is, at one point does the low-maintenance, self-sufficient, drought-tolerant get-on-with-it-and-grow plant turn into a garden thug that crowds out all competition?
 
