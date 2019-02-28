@@ -11,7 +11,7 @@ imageCap: The multi-layered nature of a Forest Garden just about visible through
 draft: false
 ---
 
-I gave another [Introduction to Forest Gardening](https://www.forestgarden.wales/talks/intro/) talk the other day (press `p` to see the notes), and I rejigged my definition of a forest garden:
+The principles of a forest garden can apply to any sized garden.
 
 1. Productive
 2. Sustainable

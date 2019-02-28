@@ -15,7 +15,7 @@ It’s always handy to have some simple forest garden definitions to hand.
 
 A forest garden is:
 
-1. An orchard underplanted with edible perennials.
+1. A wildlife orchard underplanted with edible shrubs and perennial vegetables.
 2. A wildlife garden you can eat (the plants, not the wildlife).
 3. A carbon [biosequestration](https://en.wikipedia.org/wiki/Biosequestration) process that yields a harvest.
 
