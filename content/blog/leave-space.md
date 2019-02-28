@@ -13,3 +13,5 @@ draft: true
 ---
 
 We’ve planted the [canopy layer](https://www.forestgarden.wales/blog/seven-layers-forest-garden/) 
+
+stage 1 complete: canopy and windbreak
