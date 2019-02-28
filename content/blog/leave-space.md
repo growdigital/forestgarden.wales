@@ -12,4 +12,4 @@ imageCap:
 draft: true
 ---
 
-We’ve planted the canopy layer 
+We’ve planted the [canopy layer](https://www.forestgarden.wales/blog/seven-layers-forest-garden/) 
