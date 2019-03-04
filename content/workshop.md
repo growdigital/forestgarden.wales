@@ -14,7 +14,7 @@ A one day practical course for beginners, from April to September. We cover the 
 
 <a class="button" href="https://www.airbnb.co.uk/experiences/524767">Book workshop</a><br><br>
 
-Alternatively, we are running **one** discounted workshop on the last Saturday of the month, April to September at £60.
+Alternatively, we are running **one** discounted workshop on the last Saturday of the month, April to September at £65.
 
 <a class="button" href="mailto:hello@forestgarden.wales?subject=Discounted forest garden workshop">Book discounted</a><br><br>
 

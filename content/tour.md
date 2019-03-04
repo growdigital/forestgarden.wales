@@ -17,7 +17,7 @@ It is available to book [via Airbnb Experiences](https://www.airbnb.co.uk/experi
 
 <a class="button" href="https://www.airbnb.co.uk/experiences/532342">Book tour</a><br><br>
 
-Alternatively, we are running **one** discounted tour on the penultimate Saturday of each month, April to September at £21.60.
+Alternatively, we are running **one** discounted tour on the penultimate Saturday of each month, April to September at £22.
 
 <a class="button" href="mailto:hello@forestgarden.wales?subject=Discounted forest garden tour">Book discounted</a><br><br>
 
