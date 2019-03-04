@@ -16,7 +16,7 @@ A one day practical course for beginners, from April to September. We cover the 
 
 Alternatively, we are running **one** discounted workshop on the last Saturday of the month, April to September at £65.
 
-<a class="button" href="mailto:hello@forestgarden.wales?subject=Discounted forest garden workshop">Book discounted</a><br><br>
+<a class="button" href="https://www.eventbrite.co.uk/o/jake-rayson-17248421654">Book discounted</a><br><br>
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1543954590/permatywi-orchard-43060641451.jpg" alt="Man in hat standing in grass, talking about plants to assembled people" caption="Jake talking about plants in the Accidental Meadow. Photo © Christine Jones" >}}
 
