@@ -29,5 +29,3 @@ fields:
   config:
     required: false
 - type: text
-pages:
-- content/status/mowmowmow.md
