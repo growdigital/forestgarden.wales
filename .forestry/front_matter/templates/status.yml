@@ -1,7 +1,6 @@
 ---
 label: Status
-hide_body: false
-is_partial: false
+hide_body: true
 fields:
 - type: text
   name: title
@@ -29,3 +28,4 @@ fields:
   description: Descriptive alternative text for image
   config:
     required: false
+- type: text
