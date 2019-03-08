@@ -1,7 +1,7 @@
 ---
 title: What is a Forest Garden?
 date: 2018-07-08T09:36:44+01:00
-description: A simple definition of what makes a forest garden tl;dr productive, sustainable and low maintenance.
+description: Grow food sustainably for less work and more wildlife. Productive, sustainable, low-maintenance 🌳 💚
 tags: 
 - ForestGarden
 - definition
@@ -11,7 +11,9 @@ imageCap: The multi-layered nature of a Forest Garden just about visible through
 draft: false
 ---
 
-The principles of a forest garden can apply to any sized garden.
+A forest garden is like a wildlife orchard underplanted with edible shrubs and perennial vegetables.
+
+Using trees, shrubs, perennials and self-seeding annuals, it emulates a young natural woodland. The principles of a forest garden can apply to any sized garden.
 
 1. Productive
 2. Sustainable
@@ -19,8 +21,8 @@ The principles of a forest garden can apply to any sized garden.
 
 ## 1. Productive
 
-* A forest garden is a productive garden, growing food and wood crops.
-* It is multi-layered, using all available space in 3 dimensions.
+* A forest garden is a productive garden, growing food, wood and other crops.
+* It is multi-layered, using all available space in [4 dimensions](/blog/seven-layers-forest-garden/).
 
 ## 2. Sustainable
 
