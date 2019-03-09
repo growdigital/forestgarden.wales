@@ -1,7 +1,7 @@
 ---
 title: What is a Forest Garden?
 date: 2018-07-08T09:36:44+01:00
-description: A forest garden is like a wildlife orchard underplanted with edible shrubs and perennial vegetables. It is productive, sustainable and low-maintenance 🌳 💚
+description: A forest garden is like a wildlife orchard underplanted with edible shrubs and perennial vegetables. It is productive, sustainable and low-maintenance 💚 🌳
 tags: 
 - ForestGarden
 - definition
