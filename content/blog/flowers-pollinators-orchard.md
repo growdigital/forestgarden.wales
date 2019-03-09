@@ -1,8 +1,8 @@
 ---
 title: Flowers for pollinators in an orchard
-date: 2019-03-06 21:20:06 +0000
+date: 2019-03-09 10:20:06 +0000
 discussionId: flowers-pollinators-prefer
-description: Based on DNA barcoding research by @WalesBotanic, these are the top spring flowers for honey bees
+description: Orchards need pollinators, which in turn need particular help in spring. Based on DNA barcoding research by @WalesBotanic, these are the top spring flowers. This article first appeared in The People’s Orchard Newsletter. 
 tags:
 - ForestGarden
 - GdnBloggers
@@ -11,7 +11,7 @@ tags:
 image: https://res.cloudinary.com/growdigital/image/upload/v1551304077/bumblebee-F68CBD93.jpg
 imageAlt: Bumblebee on yellow willow catkins
 imageCap: Willow is the most important spring flower for honey bees, based on DNA research. I know, it’s a bumblebee…
-draft: true
+draft: false
 ---
 
 Steve Wilson, the tutor at a recent [People’s Orchard](http://www.stdogmaelsabbey.org.uk/peoplesorchard) [grafting workshop](https://www.forestgarden.wales/blog/grafting-workshop-feb-2019/), discussed how his wildflower meadow encourages pollinators. I mentioned the research headed by [Dr Natasha de Vere](https://botanicgarden.wales/person/dr-natasha-de-vere/) at [Wales Botanic Garden](https://botanicgarden.wales/) uses [DNA barcoding](https://botanicgarden.wales/science/saving-plants-and-fungi/dna-barcoding/), where a plant is identified by a short section of DNA, to analyse the pollen foraged by pollinators. This way, the flowers most favoured by pollinators can be identified.
