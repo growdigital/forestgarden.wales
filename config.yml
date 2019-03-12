@@ -20,6 +20,7 @@ params:
   cloudinary_base_url: https://res.cloudinary.com/growdigital/image/upload/
   talkyardServerUrl: https://comments-for-www-forestgarden-wales.talkyard.net
   email: hello@forestgarden.wales
+  eventbrite: jake-rayson-17248421654
   facebook: Forest-Garden-Wales
   fbapp_id: 181804962563660
   linkedin: forest-garden-wales
