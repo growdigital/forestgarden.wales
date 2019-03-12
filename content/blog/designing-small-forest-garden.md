@@ -7,8 +7,8 @@ tags:
 - ForestGarden
 - GdnBloggers
 - SmallGarden
-image: 
-imageAlt: 
+image: https://res.cloudinary.com/growdigital/image/upload/v1552399158/diana-montage2.jpg
+imageAlt: Montage of original photo, sketch and two photoshop mockups
 imageCap: 
 draft: true
 ---
