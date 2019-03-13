@@ -28,9 +28,9 @@
 
 .header__h1 {
   font-size: 1.6875rem;
-  line-height: 2rem;
-  margin-bottom: 0.8rem;
-  padding-bottom: 0.75rem;
+  line-height: 1.5rem;
+  margin-bottom: 0rem;
+  padding: .75rem 0;
 }
 
 .header__h1 a:link,
@@ -44,3 +44,9 @@
   text-decoration: underline;
 }
 
+.header__desc {
+  color: var(--grey_head);
+  font-size: 0.9rem;
+  padding-bottom: 1rem;
+  font-style: italic;
+}

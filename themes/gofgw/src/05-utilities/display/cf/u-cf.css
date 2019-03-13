@@ -1,0 +1,14 @@
+/* ==========================================================================
+   Utility - clearfix
+   ========================================================================== */
+
+/**
+ * Force an element to self-clear its children
+ * https://css-tricks.com/snippets/css/clear-fix/
+ */
+
+.u-cf:after {
+  content: "";
+  display: table;
+  clear: both;
+}

@@ -10,10 +10,7 @@ imageCap: View over the polytunnel from north west corner of the forest garden
 draft: false
 ---
 
-## Directions
-
-1. **[From Newcastle Emlyn](https://binged.it/2DSTVAJ)**—immediate right after 30 sign in Cwm Cou, signposted Felin Geri, one mile up the steep hill on the left.
-2. **[From Cardigan](https://binged.it/2DSwGqh)**—right turn in Cwm Cou toward Newcastle Emlyn, round corner, immediate left signposted Felin Geri, one mile up the steep hill on the left.
+> A forest garden is like a wildlife orchard underplanted with edible shrubs and perennial vegetables. It is productive, sustainable and low maintenance.
 
 ## Testimonials
 
@@ -22,8 +19,13 @@ draft: false
 * “Can't really recommend this place enough” _HD2001_
 * “I’m just delighted with the plan! It’s everything I wanted and much more.” _Sandra, Dublin_
 
-> A forest garden is productive, sustainable and low maintenance. Grow edible crops with trees, shrubs and perennial vegetables in a resilient system providing its own nutrients, pollination, pest control and mulch.
+## Directions
+
+We are in glorious West Wales, at [Penralltgeri Isaf, Cwm Cou SA38 9PA](https://www.google.co.uk/search?&q=forest+garden+wales)
+
+1. **[From Newcastle Emlyn](https://binged.it/2DSTVAJ)**—immediate right after 30 sign in Cwm Cou, signposted Felin Geri, one mile up the steep hill on the left.
+2. **[From Cardigan](https://binged.it/2DSwGqh)**—right turn in Cwm Cou toward Newcastle Emlyn, round corner, immediate left signposted Felin Geri, one mile up the steep hill on the left.
 
 ## About us
 
-We moved to West Wales with our young family in 2015 for a greener, quieter life and to plant a forest garden. We set up Forest Garden Wales to promote its practise, via tours, workshops, talks and writing. We’ve planted one forest garden already, with a polytunnel, raised beds, propagation beds and a wildlife pond. A second garden is now in progress, the [Ornamental Forest Garden](https://www.forestgarden.wales/blog/introducing-ornamental-maintenance-free-forest-garden/), designed to showcase the aesthetic potential of forest gardening.
+<img src="https://res.cloudinary.com/growdigital/image/upload/w_94/v1552470457/scythe-square-face.jpg" style="float:left; border-radius: 47px; margin-right: 0.5rem;" alt="Photo of serious man in a hat in the sun"> My name is Jake. We moved to West Wales with our young family in 2015 for a greener, quieter life. I set up Forest Garden Wales to run tours, workshops and talks to promote forest gardening, a productive and sustainable way of gardening.
