@@ -21,11 +21,13 @@ draft: false
 
 ## Directions
 
-We are in glorious West Wales, at [Penralltgeri Isaf, Cwm Cou SA38 9PA](https://www.google.co.uk/search?&q=forest+garden+wales)
+<img src="https://res.cloudinary.com/growdigital/image/upload/w_94/v1552512310/barns-quare-30666693438.jpg" style="float:left; border-radius: 47px; margin-right: 0.5rem;" alt="Photo of old stone barns, two big trees behind">
+We live in glorious West Wales in Ceredigion, next door to Pembrokeshire and Carmarthenshire, 7 miles from the coast. The stone farmhouse is named Penralltgeri Isaf, which translates roughly as ‘lower house at the head of the cliff on the river Ceri’. The address is [Cwm Cou SA38&nbsp;9PA](https://www.google.co.uk/search?&q=forest+garden+wales)
 
 1. **[From Newcastle Emlyn](https://binged.it/2DSTVAJ)**—immediate right after 30 sign in Cwm Cou, signposted Felin Geri, one mile up the steep hill on the left.
 2. **[From Cardigan](https://binged.it/2DSwGqh)**—right turn in Cwm Cou toward Newcastle Emlyn, round corner, immediate left signposted Felin Geri, one mile up the steep hill on the left.
 
 ## About us
 
-<img src="https://res.cloudinary.com/growdigital/image/upload/w_94/v1552470457/scythe-square-face.jpg" style="float:left; border-radius: 47px; margin-right: 0.5rem;" alt="Photo of serious man in a hat in the sun"> My name is Jake. We moved to West Wales with our young family in 2015 for a greener, quieter life. I set up Forest Garden Wales to run tours, workshops and talks to promote forest gardening, a productive and sustainable way of gardening.
+<img src="https://res.cloudinary.com/growdigital/image/upload/w_94/v1552470457/scythe-square-face.jpg" style="float:left; border-radius: 47px; margin-right: 0.5rem;" alt="Photo of serious man in a hat in the sun">
+My name is Jake. We moved to West Wales with our young family in 2015 for a greener, quieter life. I set up Forest Garden Wales to run tours, workshops and talks to promote forest gardening, a productive and sustainable way of gardening. 
