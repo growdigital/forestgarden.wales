@@ -2,7 +2,7 @@
 title: Designing a small forest garden
 date: 2019-03-11T13:49:09Z
 discussionId: designing-small-forest-garden
-description: This an outline of my forest garden design process, using a cracking project in Llandeilo as a case study.
+description: 
 tags: 
 - ForestGarden
 - GdnBloggers
