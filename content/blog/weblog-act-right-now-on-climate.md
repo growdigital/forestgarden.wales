@@ -21,6 +21,6 @@ I went on the local [Strike4Climate](https://www.schoolstrike4climate.com) demon
 Some people say “but what do I do?”. The answer is simple and two-fold:
 
 1. Reduce your consumption.
-2. Engage & demand action from your political representatives (eg a [New Green Deal](https://en.wikipedia.org/wiki/Green_New_Deal)).
+2. Engage & demand action from your political representatives (eg a [Green New Deal](https://en.wikipedia.org/wiki/Green_New_Deal)).
 
 It’s a wake up call: we need to change how we live, because everything we love is under threat. And that includes bumblebees.
