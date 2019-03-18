@@ -1,8 +1,8 @@
 ---
-title: 'Weblog: I want you to panic'
+title: 'Weblog: Act right now on climate'
 date: 2019-03-18T21:58:38Z
 discussionId: weblog-panic
-description: In a rekindling of my daily weblog format, here’s some thoughts about important things
+description: In a rekindling of my daily weblog format, here’s some thoughts about some really important things. 
 tags: 
 - ForestGarden
 - Weblog
@@ -14,7 +14,7 @@ imageCap: Everything you love, including bumblebees, is under threat
 draft: false
 ---
 
-I went on the local [Strike4Climate](https://www.schoolstrike4climate.com) demonstration with my two children on Friday, part of their education in our democratic ways. In the morning we painted some placards and then watched [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg) giving [her TED talk](https://www.ted.com/talks/greta_thunberg_the_disarming_case_to_act_right_now_on_climate/up-next?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare):
+I went on the local [Strike4Climate](https://www.schoolstrike4climate.com) demonstration with my two children on Friday, part of their education in our democratic ways. In the morning we painted some placards and then we watched [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg) giving [her TED talk](https://www.ted.com/talks/greta_thunberg_the_disarming_case_to_act_right_now_on_climate/up-next):
 
 {{< youtube H2QxFM9y0tY >}}
 
