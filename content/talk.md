@@ -1,5 +1,5 @@
 ---
-title: "Talks"
+title: "Talk"
 menu: "secondary"
 menu: 
   secondary:
