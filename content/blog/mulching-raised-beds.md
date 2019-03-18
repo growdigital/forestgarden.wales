@@ -5,7 +5,7 @@ description: Reinvigorated by Ruth Stout’s ‘No Work Garden Book’, I’m ba
 tags: 
 - ForestGarden
 - GdnBloggers
-- Log
+- Weblog
 - Mulch
 image: https://res.cloudinary.com/growdigital/image/upload/v1546027543/wheelbarrow-72310D61.jpg
 imageAlt: Old wheelbarrow full of rotting hay in a field

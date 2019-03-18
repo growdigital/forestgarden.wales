@@ -2,7 +2,7 @@
 title: The seven layers of a forest garden
 date: 2019-02-26T20:12:03Z
 discussionId: seven-layers-forest-garden
-description: A quick reference for the multiple layers of a forest garden, because I can only ever remember 3 of them…
+description: A quick reference for the multiple layers of a forest garden, because I can only ever remember 3 of them (see my logo)…
 tags: 
 - ForestGarden
 - GdnBloggers
