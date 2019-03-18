@@ -11,7 +11,7 @@ tags:
 image: https://res.cloudinary.com/growdigital/image/upload/v1552399158/diana-montage2.jpg
 imageAlt: Montage of original photo, sketch and two photoshop mockups
 imageCap: Starting with a photo, I created a rough sketch to elicit feedback from the client, before moving on to a couple of scampy montages. CAD is the next stage.
-draft: false
+draft: true
 ---
 
 I really think that [your small garden can be a forest garden](https://www.forestgarden.wales/blog/small-forest-garden/), because to be a forest garden is more abut the _principles_ than the size. To recap, the principles are:
