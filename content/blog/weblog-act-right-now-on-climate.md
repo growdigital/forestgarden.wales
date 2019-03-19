@@ -1,5 +1,5 @@
 ---
-title: 'Weblog: Act right now on climate'
+title: 'Act right now on climate'
 date: 2019-03-18T21:58:38Z
 discussionId: weblog-panic
 description: In a rekindling of my daily weblog format, here’s some thoughts about some really important things. 
