@@ -31,6 +31,17 @@ Alternatively, we are running **one** discounted workshop on the last Saturday o
 7. **Shrubs**: Once your sheet mulch is up, shrubs away.
 8. **Ground cover**: Keep the ground covered at all times & at all costs.
 
+<!-- 
+1. **[Survey your site](/workshop/survey/)**: Measure out the land, test the soil, mark features.
+2. **[Plan](/workshop/plan/)**: using low cost tools to create a plan of action.
+3. **[Propagate](/workshop/propagate/)**: It’s never too early to start propagating.
+4. **[Windbreaks](/workshop/windbreaks/)**: Windbreaks now & your plants will love you 4ever.
+5. **[Canopy](/workshop/canopy/)**: Plant the big trees, the canopy layer.
+6. **[Sheet mulch](/workshop/sheet-mulch/)**: Cover the ground to kill off the grass.
+7. **[Shrubs](/workshop/shrubs/)**: Once your sheet mulch is up, shrubs away.
+8. **[Ground cover](/workshop/ground-cover/)**: Keep the ground covered at all times & at all costs.
+-->
+
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1551263069/OFG_3.21.jpg" alt="CAD plan over satellite photo" caption="Learn how to create a simple plan for your own forest garden" >}}
 
 ## Directions
