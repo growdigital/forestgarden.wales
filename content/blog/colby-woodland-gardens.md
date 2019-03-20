@@ -1,10 +1,14 @@
 ---
-title: "Winter visit and forest garden plants at Colby Woodland Garden"
+title: Winter visit and forest garden plants at Colby Woodland Garden
 date: 2018-01-13
-description: "All manner of forest garden stalwarts spotted on a winter visit to the National Trust Colby Woodland Garden near Amroth in Pembrokeshire"
-image: "https://res.cloudinary.com/growdigital/image/upload/v1543873414/cornus-kousa-fruit-39541199411.jpg"
-imageAlt: "Bright red Cornus kousa fruit"
-imageCap: "Lovely red Cornus kousa fruit seen on a visit to Colby Woodland Garden"
+description: All manner of forest garden stalwarts spotted on a winter visit to the National Trust Colby Woodland Garden near Amroth in Pembrokeshire
+tags: 
+- ForestGarden
+- CornusKousa
+- Colby
+image: https://res.cloudinary.com/growdigital/image/upload/v1543873414/cornus-kousa-fruit-39541199411.jpg
+imageAlt: Bright red Cornus kousa fruit
+imageCap: Lovely red Cornus kousa fruit seen on a visit to Colby Woodland Garden
 draft: false
 ---
 
