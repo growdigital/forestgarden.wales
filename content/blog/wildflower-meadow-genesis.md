@@ -1,5 +1,5 @@
 ---
-title: 'wildflower meadow genesis'
+title: Wildflower meadow genesis
 date: 2019-03-19T22:02:43Z
 discussionId: wildflower-meadow-genesis
 description: A daily rambling about the plan for a wildflower meadow at Forest Garden Wales.
