@@ -2,7 +2,7 @@
 title: Bird nest box plan
 date: 2019-03-21T20:51:04Z
 discussionId: bird-nest-box-plan
-description: There’s still time to make a bird nesting box for your garden! I’ve simplified an RSPB plan and all you need is 4½ feet of 6x1, a saw and half a dozen screws.
+description: There’s still time to make a bird nesting box for your garden. All you need is 4½ feet of 6x1, a saw, half a dozen screws, a bit of old inner tube and a hole saw.
 tags: 
 - ForestGarden
 - NestBox
@@ -25,7 +25,7 @@ Be sure to site the nest box facing **away** from the prevailing wind, in as sec
 
 I adapted [the plan from the RSPB](https://www.rspb.org.uk/birds-and-wildlife/advice/how-you-can-help-birds/nestboxes/nestboxes-for-small-birds/making-and-placing-a-bird-box), really to help my perforated memory. It’s just a **4½ feet of 6x1** plank, or 140cm length of 15cm x 2cm. 
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1553202768/holesaw.jpg" alt="Hole saw drill bit" caption="Hole saw drill bit with pilot drill" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1553202768/holesaw.jpg" alt="Hole saw drill bit" caption="Hole saw drill bit with pilot drill, photo by Emrys2 on Wikimedia" >}}
 
 What you do need is a [hole saw](https://en.wikipedia.org/wiki/Hole_saw) for drilling the hole. Different species like different sized holes:
 
