@@ -6,7 +6,6 @@ draft: true
 
 # Buffer listing
 
-
  #ForestGarden Signup form newsletter http://eepurl.com/dqwytj
  #ForestGarden Signup form newsletter http://eepurl.com/dqwytj
  #ForestGarden Signup form newsletter http://eepurl.com/dqwytj
