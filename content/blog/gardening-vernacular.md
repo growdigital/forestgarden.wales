@@ -12,7 +12,7 @@ imageCap: Winter over Fitzroy Allotments by Marc Barrot
 draft: false
 ---
 
-Long before I stumbled into forest gardening, I always loved allotments. My parents had one, with chickens and runner beans, hot sun and fresh peas. We had one for a short while, amidst the most magical of places, with fish-filled ponds, warm brick walls, rickety hide-outs and tangling paths. 
+Long before I stumbled into forest gardening, I always loved allotments. My parents had one, with chickens and runner beans, hot sun and fresh peas. And then my young family had one for a short while, amidst the most magical of places, with fish-filled ponds, warm brick walls, rickety hide-outs and tangling paths. 
 
 What I like most about allotments is the sense of cobbled together idiosyncratic usefulness in a private place. Nothing is on show for the outside world, it is personal and enclosed. It is **[vernacular](https://en.oxforddictionaries.com/definition/us/vernacular)**. And vernacular is not a style, it cannot be copied successfully.
 
