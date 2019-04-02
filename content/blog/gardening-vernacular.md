@@ -18,7 +18,8 @@ What I like most about allotments is the sense of cobbled together idiosyncratic
 
 I’m a big fan of [Jonathan Meades](http://jonathanmeades.co.uk) (not that he would approve of fandom). He’s a necessarily outspoken cultural commentator and creator of **thought provoking** television. Now there’s a novelty. In [Severn Heaven](http://meadesshrine.blogspot.com/1990/01/aib.html) from the series [Abroad in Britain](http://jonathanmeades.co.uk/television.html) he visits the shanty town near [Bewdley](https://en.wikipedia.org/wiki/Bewdley), on the border of Worcestershire and Shropshire. The documentary is hilarious, insightful and thoughtful in equal measure:
 
-> This [shanty town] is the picturesque in its raw state, almost before it became the picturesque. This, and you have to believe me, is what generation after generation of highly trained, highly prized, highly esteemed archictect has attempted to achieve but never could because these guys can never rid themselves of that troublesome gene marked art.  
+> This [shanty town] is the picturesque in its raw state, almost before it became the picturesque. This, and you have to believe me, is what generation after generation of highly trained, highly prized, highly esteemed archictect has attempted to achieve but never could because these guys can never rid themselves of that troublesome gene marked art.
+
 > John Nash, Edwin Lutchens, Oliver Hill: this… **this** is what you tried for and never attained. It’s the difference between representing and being.
 
 This nails my inner disquiet about “traditional gardening”. Quite frankly, I find much of it _pointless_, because much of it is manufactured, to be copied for artificial show, for representing. The best gardens are like allotments: practical and private places shielded from prying eyes, places that are for being. And the art that is practised there is a personal art.
