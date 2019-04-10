@@ -24,7 +24,7 @@ Here’s a handy checklist:
 6. Choose a WordPress theme for your website.
 7. [Connect your social media networks](https://en.support.wordpress.com/publicize/). Now, when you create a blog post in WordPress, it will be automatically shared on your networks.
 8. The reason to have a website is that people can find and interact with you; the reason for writing blog posts is to share what you discover and increase your visiblity; the reason for your social networks is to connect with others.
-9. Later, you can use something like [Buffer](https://buffer.com/pricing) to bulk schedule social media updates linking to that week’s blog post, and then create daily adhoc status updates via WordPress **approx £12 pa**.
+9. Later, you can use something like [Buffer](https://buffer.com/pricing) to bulk schedule social media updates linking to that week’s blog post, and then create daily adhoc status updates via WordPress **approx £50 pa**.
 
-Total annual cost: **approx £110**
+Total all-in annual cost: **approx £140**
 
