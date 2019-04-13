@@ -13,7 +13,7 @@ draft: false
 
 With a forest garden, you can grow food sustainably for less work and more wildlife.
 
-Using trees, shrubs, perennials and self-seeding annuals, it emulates a young natural woodland, working with nature to create produce. The principles of a forest garden can apply to any sized garden.
+Using trees, shrubs, perennials and self-seeding annuals, it emulates a young natural woodland, working with nature to grow produce. The principles of a forest garden can apply to any sized garden.
 
 1. Productive
 2. Sustainable
