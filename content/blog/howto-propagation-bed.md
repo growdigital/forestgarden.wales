@@ -1,5 +1,5 @@
 ---
-title: How to create a simple propagation bed
+title: Creating a simple propagation bed
 date: 2019-04-16T10:17:15+01:00
 discussionId: howto-propagation-bed
 description: Now is always a good time to start propagating ground cover plants for a forest garden, indeed any garden. Here’s how to make a simple, no-dig propagation bed, where you can plant-and-forget.
