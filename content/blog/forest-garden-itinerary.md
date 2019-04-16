@@ -2,7 +2,7 @@
 title: Forest garden itinerary
 date: 2019-04-16T15:24:31+01:00
 discussionId: forest-garden-itinerary
-description: The itinerary for my forest garden tours and workshops, with a link to a “live” page that will be kept up-to-date. May be of use or interest to someone 🙂
+description: The itinerary for my forest garden tours and workshops, with a link to a “live” page that will be kept up-to-date. 
 tags: 
 - ForestGarden
 - GdnBloggers
@@ -14,11 +14,9 @@ draft: false
 
 We had our first forest garden [tour](/tour/) and [workshop](/workshop/) last week, via [Airbnb](https://www.airbnb.co.uk/users/show/233536194). A bit nerve-wracking but eminently enjoyable. I used the same itinerary for both the two hour tour and the six hour workshop. I feel the cyclical process works well in both situations, the workshop is an extension with more detail and practical applications.
 
-This is a snapshot of the intinerary, I’m keeping a “live” version on [Simplenote](https://simplenote.com) updated, as it’s easier to print from <http://simp.ly/publish/wj614M>. I’ll also be making a short series of videos as well, launching my starstruck YouTube career… 🤩
+This is a snapshot of the intinerary, I’m keeping a “live” version on [Simplenote](https://simplenote.com) updated, as it’s easier to print from <http://simp.ly/publish/wj614M>
 
----
-
-# FGW itinerary
+## FGW itinerary
 
 A. Theory  
 B. Practice  
@@ -35,7 +33,7 @@ D. Reference
 
 Wildlife orchard underplanted with edible shrubs & perennial vegetables. [7 layers](https://www.forestgarden.wales/blog/seven-layers-forest-garden/).
 
-### 2. Start with wants
+### 2. Start with wants
 
 * Harvest: fruits, nuts, seeds, spices, herbs, mushrooms, poles, canes, string
 * Space: People centered “who, what & when”
@@ -111,7 +109,7 @@ Wood chip, spacing, shade, temporary ground cover
 * 2-3: Practical propagation, shrub
 * 3-4: Practical ground cover
 
-### 2. Tour timetable
+### 2. Tour timetable
 
 * Definition: Fruit Triangle example
 * Survey, Plan: polytunnel area
