@@ -6,6 +6,9 @@ description: A forest garden works with nature to grow edible crops, which is wh
 tags: 
 - ForestGarden
 - GdnBloggers
+- ClimateChange
+- ClimateBreakdown
+- ClimateAction
 image: https://res.cloudinary.com/growdigital/image/upload/v1555776615/fruittriangle-7758A2A3.jpg
 imageAlt: Raspberry bush and strawberry ground cover
 imageCap: Raspberries and strawberries in the forest garden Fruit Triangle
