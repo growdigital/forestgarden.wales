@@ -17,10 +17,6 @@ It is available to book [via Airbnb Experiences](https://www.airbnb.co.uk/experi
 
 <a class="button" href="https://www.airbnb.co.uk/experiences/532342">Book tour</a><br><br>
 
-Alternatively, we are running **one** discounted tour on the penultimate Saturday of each month, April to September at £22.
-
-<a class="button" href="https://www.eventbrite.co.uk/o/jake-rayson-17248421654">Book discounted</a><br><br>
-
 ## What you will see on the tour
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1544027745/misty-wildlife-pond-26465730067.jpg" alt="Misty view on a sunny morning across pond, young orchard to establised trees" caption="Early morning looking eastward across the Wildlife Pond and newly established forest garden" >}}
