@@ -6,14 +6,22 @@ description: "A step-by-step guide to establishing a living ground cover: to pro
 tags: 
 - ForestGarden
 - GdnBloggers
-image: 
-imageAlt: 
+image: https://res.cloudinary.com/growdigital/image/upload/v1556482470/mustardflower-B6D1F640.jpg
+imageAlt: Bright yellow flowers of mustard by a grass path
 imageCap: 
 draft: true
 ---
 
+A key principle of [no-dig](https://en.wikipedia.org/wiki/No-dig_gardening) gardening is to always protect the soil with mulch. In a forest garden, the soil is protected by a _living_ mulch, a ground cover plant. 
+
 1. Lay sheet mulch. Rotate your sheet mulching, buy decent woven plastic sheet mulch. Re-use multiple times. Don't cut if possible. Mow grass, keep short. Peg out, metal pegs. **Weigh it down**. 
+
+https://res.cloudinary.com/growdigital/image/upload/v1556482468/sheetmulch-F671451E.jpg
+
 2. Leave for 6-12 months. Six months, kills of grass. 12 months, kills off deep-rooted perennials. Bramble **will** grow sideways and find a way out! Best to dig out bramble roots, hard work though that is. Works faster in summer. Can take less than 6 months depending on conditions. Do check.
+
+
+
 3. Remove sheet mulch. Takes some time! Earth is brown and crumbly. Lots of vole and mice tunnels. 
 4. Cover with wood chip or bark mulch. Can use wood chip, doesn't rob nitrogen
 5. Plant ground cover at 0.5m-ish spacing (Martin Crawford does steps 4 & 5 other way round)

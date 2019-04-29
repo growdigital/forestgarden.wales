@@ -11,7 +11,7 @@ draft: false
 
 We offer a 2 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. It’s for anyone interested in learning more about forest gardening.
 
-The tour runs on Monday, Tuesday, Thursday and Saturday from 10am-12pm and 2pm-4pm, April to September and costs £27 per person. Maximum tour size 10 people.
+The tour runs mostly on Monday, Tuesday, Thursday and Saturday from 10am-12pm and 2pm-4pm, April to September and costs £27 per person. Maximum tour size 10 people.
 
 It is available to book [via Airbnb Experiences](https://www.airbnb.co.uk/experiences/532342). 
 
@@ -19,7 +19,7 @@ It is available to book [via Airbnb Experiences](https://www.airbnb.co.uk/experi
 
 ## What you will see on the tour
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1544027745/misty-wildlife-pond-26465730067.jpg" alt="Misty view on a sunny morning across pond, young orchard to establised trees" caption="Early morning looking eastward across the Wildlife Pond and newly established forest garden" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1551261223/cornus-crop-42141134465.jpg" alt="Photo of curved hedge, polytunnel, meadow and hills in distance" caption="View of the Cornus hedge, Fruit Triangle and polytunnel" >}}
 
 1. Half an acre of newly planted coppice, designed for firewood, poles and posts
 2. One acre greenfield site of the planned Ornamental Maintenance-free Garden (OMG); discussion of windbreaks, access, utilities, fencing and planning
@@ -39,7 +39,7 @@ It is available to book [via Airbnb Experiences](https://www.airbnb.co.uk/experi
   * Willow Walk
 5. Exit via plant shop
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1551261223/cornus-crop-42141134465.jpg" alt="Photo of curved hedge, polytunnel, meadow and hills in distance" caption="View of the Cornus hedge, Fruit Triangle and polytunnel" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1544027745/misty-wildlife-pond-26465730067.jpg" alt="Misty view on a sunny morning across pond, young orchard to establised trees" caption="Early morning looking eastward across the Wildlife Pond and newly established forest garden" >}}
 
 ## Included in the tour
 

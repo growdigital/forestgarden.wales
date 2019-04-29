@@ -6,6 +6,8 @@ draft: true
 
 # Buffer listing
 
+3 times a day, 7 days
+
 * 7 new blog
 * 3 mixed old blog
 * 4 signup
