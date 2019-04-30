@@ -29,5 +29,5 @@ We live in glorious West Wales in Ceredigion, next to Pembrokeshire and Carmarth
 
 ## About us
 
-<img src="https://res.cloudinary.com/growdigital/image/upload/w_94/v1556631473/studio-square.jpg" style="float:left; border-radius: 47px; margin-right: 0.5rem;" alt="Photo of serious man in a hat in the sun">
+<img src="https://res.cloudinary.com/growdigital/image/upload/w_94/v1556631849/studio-square-colorized.jpg" style="float:left; border-radius: 47px; margin-right: 0.5rem;" alt="Photo of serious man in a hat in the sun">
 My name is Jake. We moved to West Wales with our young family in 2015 for a greener, quieter life. I set up Forest Garden Wales to run tours, workshops and talks to promote forest gardening, a productive and sustainable way of gardening. 
