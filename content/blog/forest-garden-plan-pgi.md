@@ -16,7 +16,7 @@ draft: false
 
 This is the latest version of the forest garden plan for what is unaffectionately known as Forest Garden One (I had a mental block with names that day). It’s created using the excellent Open Source [QCAD Professional](https://www.qcad.org/en/online-shop) software. You can download the PDF or source code files, if it’s of interest:
 
-* [PDF version](https://res.cloudinary.com/growdigital/image/upload/v1556622039/Penralltgeri_Isaf_0.44.pdf) of plan
+* Hi-res, zoomable [PDF version](https://res.cloudinary.com/growdigital/image/upload/v1556622039/Penralltgeri_Isaf_0.44.pdf) of plan
 * [DXF CAD version](https://res.cloudinary.com/growdigital/raw/upload/v1556622039/Penralltgeri_Isaf_0.44.dxf) of plan
 
 There is also a [plan for the Ornamental Forest Garden](/blog/forest-garden-plan-ofg/).
