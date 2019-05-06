@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smallgarden on Forest Garden Wales</title>
+    <link>http://localhost:1313/tags/smallgarden/</link>
+    <description>Recent content in Smallgarden on Forest Garden Wales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
+    <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
+    <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
+    <lastBuildDate>Mon, 18 Mar 2019 13:29:09 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/smallgarden/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Designing a small forest garden</title>
+      <link>http://localhost:1313/blog/designing-small-forest-garden/</link>
+      <pubDate>Mon, 18 Mar 2019 13:29:09 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/designing-small-forest-garden/</guid>
+      <description>I really think that your small garden can be a forest garden, because to be a forest garden is more abut the principles than the size.</description>
+    </item>
+    
+    <item>
+      <title>Your small garden can be a forest garden</title>
+      <link>http://localhost:1313/blog/small-forest-garden/</link>
+      <pubDate>Thu, 17 Jan 2019 14:02:46 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/small-forest-garden/</guid>
+      <description>One drawback with forest gardening is the name. Firstly, it emulates the edge of a woodland, not the deepest, darkest depths of a forest.</description>
+    </item>
+    
+  </channel>
+</rss>

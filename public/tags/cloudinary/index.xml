@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloudinary on Forest Garden Wales</title>
+    <link>http://localhost:1313/tags/cloudinary/</link>
+    <description>Recent content in Cloudinary on Forest Garden Wales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
+    <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
+    <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
+    <lastBuildDate>Tue, 11 Dec 2018 12:09:29 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/cloudinary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Where to store your garden blog photos</title>
+      <link>http://localhost:1313/blog/store-garden-blog-photos/</link>
+      <pubDate>Tue, 11 Dec 2018 12:09:29 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/store-garden-blog-photos/</guid>
+      <description>Back in the day, I used WordPress to write my blog and moreover used it to upload all my worthy garden photos.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8"><script>
+  
+
+  
+  if (navigator.serviceWorker.controller) {
+    console.log('[PWA Builder] active service worker found, no need to register')
+  } else {
+
+    
+    navigator.serviceWorker.register('/serviceworker.js', {
+      scope: './'
+    }).then(function (reg) {
+      console.log('Service worker has been registered for scope:' + reg.scope);
+    });
+  }
+</script>
+<title>Heated propagator howto</title>
+  <meta name="description" content="Grow food sustainably for less work &amp; more wildlife">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+  <link rel="stylesheet" href="/assets/app.css"><script type="text/javascript">
+  var _paq = _paq || [];
+   
+  _paq.push(["setDomains", ["*.www.forestgarden.wales"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//ga.gd1.uk/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//ga.gd1.uk/piwik.php?idsite=2&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<link rel="manifest" href="/manifest.json">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/pwa/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/pwa/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/pwa/favicon-16x16.png">
+<link rel="mask-icon" href="/assets/pwa/safari-pinned-tab.svg" color="#555632">
+<link rel="shortcut icon" href="/assets/pwa/favicon.ico">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Forest Garden Wales">
+<meta name="application-name" content="Forest Garden Wales">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/assets/pwa/browserconfig.xml">
+<meta name="msapplication-starturl" content="/">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#ffffff">
+
+<meta name="twitter:site" content="@ForestGdnWales">
+
+<meta name="twitter:title" content="Heated propagator howto">
+<meta name="twitter:description" content="Instructions for making your own thermostatically controlled propagator, cribbed from @GWandShows">
+
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1543954912/propagator-40495146015.jpg">
+<meta name="twitter:image:alt" content="Side view of thermostatic propagator with clear plastic lid in a shed">
+
+
+<meta property="fb:app_id" content="181804962563660">
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="Forest Garden Wales">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Heated propagator howto">
+<meta property="og:url" content="http://localhost:1313/blog/heated-propagator-howto/">
+<meta property="og:description" content="Instructions for making your own thermostatically controlled propagator, cribbed from @GWandShows">
+
+
+
+<meta property="og:image" content="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_624/v1543954912/propagator-40495146015.jpg">
+<meta property="og:image:alt" content="Side view of thermostatic propagator with clear plastic lid in a shed">
+
+<meta property="og:image:width" content="624">
+<meta property="og:image:height" content="352">
+
+</head>
+
+<body>
+    <div id="js-svg"></div>
+<header class="header" role="banner">
+  <div class="h-card header__card">
+    <a href="/" title="Link to home page">
+      <img class="u-photo header__logo" src="/assets/img/logo.svg" alt="Forest Garden Wales logo">
+    </a><h2 class="header__h1"><a class="p-org u-url" rel="me" href="/" title="Link to home page">Forest Garden Wales</a></h2><h3 class="p-note header__desc">Grow food sustainably for less work &amp; more wildlife</h3>
+  </div>
+  <nav class="nav">
+    
+    <ol class="o-list-bare nav__list">
+      
+      <li>
+        <a class="" href="/">Home</a>
+      </li>
+      
+      <li>
+        <a class="" href="/design/">Design</a>
+      </li>
+      
+      <li>
+        <a class="" href="/tour/">Tour</a>
+      </li>
+      
+      <li>
+        <a class="" href="/workshop/">Workshop</a>
+      </li>
+      
+    </ol>
+  </nav>
+</header>
+
+    
+  <main class="blog">
+    <article class="article breakout h-entry" itemscope itemtype="https://schema.org/Article">
+      
+<meta itemprop="headline" content="Heated propagator howto">
+
+<meta itemprop="description" content="Instructions for making your own thermostatically controlled propagator, cribbed from @GWandShows">
+
+
+<meta itemprop="image" content="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1543954912/propagator-40495146015.jpg">
+
+<meta itemprop="author" content="Jake Rayson">
+<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+  <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+    <meta itemprop="url" content="http://localhost:1313/assets/img/logo.png">
+    <meta itemprop="width" content="220">
+    <meta itemprop="height" content="220">
+  </div>
+  <meta itemprop="name" content="Forest Garden Wales">
+</div>
+
+      <h1 class="p-name">Heated propagator howto</h1>
+      <p class="article__summary p-summary">Instructions for making your own thermostatically controlled propagator, cribbed from @GWandShows</p>
+      <div class="share--blog">
+        
+
+
+<ol class="o-list-bare share icons">
+  <li>
+    <h3>Share:</h3>
+  </li>
+  <li>
+    <a href="https://twitter.com/intent/tweet?text=Heated%20propagator%20howto&via=ForestGdnWales&hashtags=ForestGarden&url=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fheated-propagator-howto%2F" aria-label="Share on Twitter" title="Share on Twitter" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--twitter" aria-hidden="true">
+          <use xlink:href="#icon-twitter" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Twitter</figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fheated-propagator-howto%2F" aria-label="Share on Facebook" title="Share on Facebook" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--facebook" aria-hidden="true">
+          <use xlink:href="#icon-facebook" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Facebook</figcaption>
+      </figure>
+    </a>
+  </li>
+</ol>
+
+      </div>
+      
+      
+        <figure>
+          <img src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1543954912/propagator-40495146015.jpg" alt="Side view of thermostatic propagator with clear plastic lid in a shed">
+          <figcaption>Finished propagator, squeezed into a small shed!</figcaption>
+        </figure>
+      
+      <div class="e-content" itemprop="mainEntityOfPage">
+        
+
+<p><a href="http://www.bbc.co.uk/gardenersworld/video/toby_30minfix/heated_propagator.shtml">http://www.bbc.co.uk/gardenersworld/video/toby_30minfix/heated_propagator.shtml</a></p>
+
+<h2 id="equipment-needed">Equipment needed:</h2>
+
+<ul>
+<li>Screwdriver</li>
+<li>Drill</li>
+<li>13mm wood drill bit</li>
+<li>Knife</li>
+<li>Pliers</li>
+<li>6m long heating cable and compatible thermostatic control</li>
+<li>Screws to hold the sides together and attach to base</li>
+<li>RCD device to plug into wall socket if your fuse board doesn&rsquo;t already contain one.</li>
+<li>Plastic bell cloches</li>
+<li>6 small bags sharp builders sand</li>
+</ul>
+
+<h2 id="materials-needed">Materials needed:</h2>
+
+<ul>
+<li>1 x 60cm x 121cm flat marine</li>
+<li>6&rdquo; x 1&rdquo;, 8&rsquo; + &lsquo;4 = 12&rsquo;(3.6m) - 6&rdquo; x 1&rdquo;, 8&rsquo; + &lsquo;4 = 12&rsquo;(3.6m)</li>
+<li>2 x 15cm wide, 2.5cm thick, 60 cm long edging boards</li>
+<li>Old plastic sacks to line the base</li>
+
+<li><p>Sharp sand to fill box to a depth of 10cm</p></li>
+
+<li><p>ply, 2&rsquo;x4&rsquo;</p></li>
+
+<li><p>6&rdquo; x 1&rdquo;, 12&rsquo;</p></li>
+</ul>
+
+<h2 id="what-to-do">What to do:</h2>
+
+<ol>
+<li>You must be competent and confident at wiring / rewiring a plug to attempt this. If in doubt contact a qualified electrician.</li>
+<li>When working with the cable and thermostat, please follow the instructions supplied by the manufacturer.</li>
+<li>A 6m heating cable is required for an 8sq ft heated bed; other lengths are available so check with the manufacturer which one is required for the size of propagator you are making.</li>
+<li>Start by fixing the edging boards together by screwing into the ends and into the base all the way round. Line the box with old compost bags or polythene to help keep the moisture away from the wood.</li>
+<li>Evenly spread a 2in layer of damp sharp sand over the base.</li>
+<li>Lay the heating cable out on the sand, firming it in slightly to keep it in place, using the pattern suggested in the instruction sheet supplied with it. Add another 2in of damp sand.</li>
+<li>Drill a hole in the side of the propagator base which is big enough to feed the correct end of the heating cable through (read the instructions if in doubt which end to use); feed the cable through carefully.</li>
+<li>Mount the thermostat on the side of the box at the correct height for the temperature probe to sit towards the top of the sand layer and not in contact with the heating cable. Before screwing the box in position you will need to make a hole, slightly larger in diameter than the probe, in the side of the box to feed the temperature probing rod through; it is easiest to do this before the thermostat is wired up.</li>
+<li>Following the instructions carefully, and with the unit unplugged, wire the colour coded wires from the heating cable into the correct terminals of the thermostat unit (if in doubt consult a qualified electrician for this bit). Tighten securely and also tighten up the cable securing screw where the cable was fed into the unit. Finally screw the wire thermostat box onto the side of the box. Plug it into a RCD (residual current device) protected socket. Switch on and set to 21°C. Check that the pilot light is on and that the thermostat switches on and off as the temperature dial is turned up and down.</li>
+<li>Use plastic bell cloches to maintain the moisture over any pots of cuttings which are placed on the heated sand bed.</li>
+</ol>
+
+<h2 id="suppliers">Suppliers</h2>
+
+<ul>
+<li>Parasene Soil Warming Cable - 6m Length 75 Watts Product Code : 210/6M, Barcode - 5013554142879  £17.99
+<a href="http://www.garden4less.co.uk/parasene-soil-warming-cable.asp">http://www.garden4less.co.uk/parasene-soil-warming-cable.asp</a></li>
+<li>Parasene thermostat £28.99<br />
+<a href="http://www.garden4less.co.uk/proddetail.asp?prod=200">http://www.garden4less.co.uk/proddetail.asp?prod=200</a></li>
+</ul>
+
+      </div>
+      <dl class="meta">
+        <dt>Author:</dt>
+        <dd rel="author" class="p-author h-card">Jake Rayson</dd>
+        <dt>Date:</dt>
+        <dd>
+          <time class="dt-published" pubdate itemprop="datePublished" content="2018-04-11">
+            Wednesday, 11th April 2018
+          </time>
+        </dd>
+        <dt>Permalink:</dt>
+        <dd>
+          <a class="u-url" href="http://localhost:1313/blog/heated-propagator-howto/">http://localhost:1313/blog/heated-propagator-howto/</a>
+        </dd>
+      </dl>
+      <section>
+        <h3>Comments</h3>
+        <script>talkyardServerUrl='https:\/\/comments-for-www-forestgarden-wales.talkyard.net';</script>
+        <script async defer src="https://c1.ty-cdn.net/-/talkyard-comments.min.js"></script>
+        
+        <div class="talkyard-comments" data-discussion-id="" style="margin-top: 45px;">
+        <noscript>Please enable Javascript to view comments.</noscript>
+        <p style="margin-top: 25px; opacity: 0.9">Comments powered by
+        <a href="https://www.talkyard.io">Talkyard</a>.</p>
+        </div>
+      </section>
+      <section>
+        <p>Subscribe to blog posts by email</p>
+        <form class="subscribe" action="https://wales.us17.list-manage.com/subscribe/post" method="POST">
+            <input type="hidden" name="u" value="bef914615b5448ad5636c38fb">
+            <input type="hidden" name="id" value="5fbfe7af82">
+            <label for="MERGE0">Email</label>
+            <input class="subscribe__textinput" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
+            <input class="button" type="submit" name="submit" value="Subscribe">
+            <input type="hidden" name="ht" value="cfca6edc3f5239e914c7cab70c6d10622e1e3334:MTU0OTQ2NjA1MC42NzIy">
+            <input type="hidden" name="mc_signupsource" value="hosted">
+        </form>
+      </section>
+    </article>
+  </main>
+
+    <aside class="breakout" role="complementary">
+  <section>
+    <div class="share--aside">
+      
+
+
+<ol class="o-list-bare share icons">
+  <li>
+    <h3>Share:</h3>
+  </li>
+  <li>
+    <a href="https://twitter.com/intent/tweet?text=Heated%20propagator%20howto&via=ForestGdnWales&hashtags=ForestGarden&url=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fheated-propagator-howto%2F" aria-label="Share on Twitter" title="Share on Twitter" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--twitter" aria-hidden="true">
+          <use xlink:href="#icon-twitter" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Twitter</figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fheated-propagator-howto%2F" aria-label="Share on Facebook" title="Share on Facebook" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--facebook" aria-hidden="true">
+          <use xlink:href="#icon-facebook" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Facebook</figcaption>
+      </figure>
+    </a>
+  </li>
+</ol>
+
+    </div>
+  </section>
+  <section>
+    <h3><a href="/blog/">Blog posts</a></h3>
+    <ul>
+      
+      <li>
+        <a href="http://localhost:1313/blog/forest-garden-plan-pgi/">
+          Forest garden plan
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/blog/forest-garden-plan-ofg/">
+          Ornamental Forest Garden plan
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/blog/dead-hedging-forest-garden/">
+          Dead hedging in the forest garden
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/blog/forest-garden-good-for-climate-change/">
+          Why a forest garden is good for climate change
+        </a>
+      </li>
+      
+    </ul>
+  </section>
+  <section>
+    <h3><a href="/status/">Status updates</a></h3>
+    <ul>
+      
+      <li>
+        <a href="http://localhost:1313/status/190422-grass/">
+          On a mission this year in #ForestGarden …
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/status/190422-turf/">
+          Removing turf from newly planted trees i…
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/status/190421-monbiot/">
+          10x more #ClimateChange sense on @BBC co…
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/status/190418-pollinator/">
+          Gardeners! Help monitor pollinators!! Ta…
+        </a>
+      </li>
+      
+    </ul>
+  </section>
+  <section>
+    <h3><abbr title="Rich Site Summary">RSS</abbr> feeds</h3>
+    <ul>
+      <li><a href="http://localhost:1313/blog/heated-propagator-howto/blog/index.xml" title="News feed for full blog posts, open in RSS news reader"><strong>Blog feed</strong></a>, for newsreaders</li>
+      <li><a href="http://localhost:1313/blog/heated-propagator-howto/index.xml" title="Feed for all posts, blog &amp; status"><strong>News feed</strong></a>, summary of all posts</li>
+    </ul>
+  </section>
+  <section>
+    <h3>Newsletter</h3>
+    <p>Subscribe to our monthly newsletter</p>
+    <form class="subscribe" action="https://wales.us17.list-manage.com/subscribe/post" method="POST">
+      <input type="hidden" name="u" value="bef914615b5448ad5636c38fb">
+      <input type="hidden" name="id" value="10e50a6c17">
+      <label for="MERGE0">Email</label>
+      <input class="subscribe__textinput" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
+      <input class="button" type="submit" name="submit" value="Subscribe">
+      <input type="hidden" name="ht" value="72fb9d19eda695ba45e6107c0063acd2bfd6a81b:MTU0OTIzMTE4Mi45MDk4">
+      <input type="hidden" name="mc_signupsource" value="hosted">
+    </form>
+  </section>
+</aside>
+
+    <footer class="footer" id="footer" role="contentinfo">
+  <section class="footer__menu">
+    <div class="navsec__wrap">
+      <nav class="navsec">
+        
+        <ul class="o-list-bare navsec__list"><li><a class=""
+              href="/blog/">Blog</a></li>
+          <li><a class=""
+              href="/status/">Status</a></li>
+          <li><a class=""
+              href="/contact/">Contact</a></li>
+          <li><a class=""
+              href="/talk/">Talk</a></li>
+          
+        </ul>
+      </nav>
+    </div>
+    <div class="social">
+      <h2 class="u-hiddenvisually">Social</h2>
+      <ol class="o-list-bare social__list">
+        <li>
+          <a href="https://mobile.twitter.com/ForestGdnWales" aria-label="Twitter" title="Twitter" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--twitter" aria-hidden="true">
+                <use xlink:href="#icon-twitter" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Twitter</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/Forest-Garden-Wales" aria-label="Facebook" title="Facebook" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--facebook" aria-hidden="true">
+                <use xlink:href="#icon-facebook" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Facebook</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.eventbrite.co.uk/o/jake-rayson-17248421654" aria-label="Eventbrite" title="Eventbrite" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--eventbrite" aria-hidden="true">
+                <use xlink:href="#icon-eventbrite" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Eventbrite</figcaption>
+            </figure>
+          </a>
+        </li>
+        
+        <li>
+          <a href="https://www.tripadvisor.co.uk/Attraction_Review-g580438-d13991813-Reviews-Forest_Garden_Wales-Newcastle_Emlyn_Carmfgarthenshire_Wales.html" aria-label="TripAdvisor" title="TripAdvisor" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--tripadvisor" aria-hidden="true">
+                <use xlink:href="#icon-tripadvisor" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">TripAdvisor</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.airbnb.co.uk/users/show/233536194" aria-label="Airbnb profile" title="Airbnb profile">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--airbnb" aria-hidden="true">
+                <use xlink:href="#icon-airbnb" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Airbnb</figcaption>
+            </figure>
+          </a>
+        </li>
+        
+        
+      </ol>
+    </div>
+    <div class="footer__contact">
+      <h2 class="u-hiddenvisually">Contact</h2>
+      <ol class="o-list-bare u-center">
+        <li>Email: <a href="mailto:hello@forestgarden.wales" rel="me">hello@forestgarden.wales</a></li>
+        <li>Phone: <a href="tel:447398474064" rel="me">07398 474 064</a></li>
+      </ol>
+    </div>
+    <div class="rss">
+      <h2 class="u-hiddenvisually">RSS</h2>
+      <ol class="o-list-bare rss__list u-flexcenter">
+        <li>
+          <a href="http://localhost:1313/blog/heated-propagator-howto/blog/index.xml">
+            <figure class="icon__figure u-flexcenter">
+              <svg class="icon icon--footer icon--rss" aria-hidden="true">
+                <use xlink:href="#icon-rss" />
+              </svg>
+              <figcaption title="Whole blog post feed for news readers">Blog feed</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="http://localhost:1313/blog/heated-propagator-howto//index.xml">
+            <figure class="icon__figure u-flexcenter">
+              <svg class="icon icon--footer icon--rss" aria-hidden="true">
+                <use xlink:href="#icon-rss" />
+              </svg>
+              <figcaption title="All status updates and blog posts in concise format">News feed</figcaption>
+            </figure>
+          </a>
+        </li>
+      </ol>
+    </div>
+  </section>
+  <section class="footer__legalese">
+    <p>Designed & built by Jake Rayson with <a href="">Hugo</a>, deployed by <a href="">Netlify</a></p>
+    <p>Website copyright © Jake Rayson 2017-18, theme license <a href="https://choosealicense.com/licenses/mit/">MIT</a> & <a href="https://choosealicense.com/licenses/gpl-3.0/">GPL v3</a>, content license <a href="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a></p>
+  </section>
+</footer>
+
+<script src="/assets/app.js"></script>
+<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+</html>

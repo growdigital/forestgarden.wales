@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8"><script>
+  
+
+  
+  if (navigator.serviceWorker.controller) {
+    console.log('[PWA Builder] active service worker found, no need to register')
+  } else {
+
+    
+    navigator.serviceWorker.register('/serviceworker.js', {
+      scope: './'
+    }).then(function (reg) {
+      console.log('Service worker has been registered for scope:' + reg.scope);
+    });
+  }
+</script>
+<title>Forest Garden Wales:&nbsp;Blog</title>
+  <meta name="description" content="Grow food sustainably for less work &amp; more wildlife">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+  <link rel="stylesheet" href="/assets/app.css"><script type="text/javascript">
+  var _paq = _paq || [];
+   
+  _paq.push(["setDomains", ["*.www.forestgarden.wales"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//ga.gd1.uk/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//ga.gd1.uk/piwik.php?idsite=2&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<link rel="manifest" href="/manifest.json">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/pwa/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/pwa/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/pwa/favicon-16x16.png">
+<link rel="mask-icon" href="/assets/pwa/safari-pinned-tab.svg" color="#555632">
+<link rel="shortcut icon" href="/assets/pwa/favicon.ico">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Forest Garden Wales">
+<meta name="application-name" content="Forest Garden Wales">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/assets/pwa/browserconfig.xml">
+<meta name="msapplication-starturl" content="/">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#ffffff">
+
+<meta name="twitter:site" content="@ForestGdnWales">
+
+<meta name="twitter:title" content="Blog">
+<meta name="twitter:description" content="">
+
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://localhost:1313/assets/img/logo.png">
+<meta name="twitter:image:alt" content="Forest Garden Wales logo">
+
+
+<meta property="fb:app_id" content="181804962563660">
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="Forest Garden Wales">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Blog">
+<meta property="og:url" content="http://localhost:1313/blog/">
+<meta property="og:description" content="">
+
+
+
+<meta property="og:image" content="http://localhost:1313/assets/img/logo.png">
+<meta property="og:image:width" content="220">
+<meta property="og:image:height" content="220">
+
+</head>
+
+<body>
+    <div id="js-svg"></div>
+<header class="header" role="banner">
+  <div class="h-card header__card">
+    <a href="/" title="Link to home page">
+      <img class="u-photo header__logo" src="/assets/img/logo.svg" alt="Forest Garden Wales logo">
+    </a><h2 class="header__h1"><a class="p-org u-url" rel="me" href="/" title="Link to home page">Forest Garden Wales</a></h2><h3 class="p-note header__desc">Grow food sustainably for less work &amp; more wildlife</h3>
+  </div>
+  <nav class="nav">
+    
+    <ol class="o-list-bare nav__list">
+      
+      <li>
+        <a class="" href="/">Home</a>
+      </li>
+      
+      <li>
+        <a class="" href="/design/">Design</a>
+      </li>
+      
+      <li>
+        <a class="" href="/tour/">Tour</a>
+      </li>
+      
+      <li>
+        <a class="" href="/workshop/">Workshop</a>
+      </li>
+      
+    </ol>
+  </nav>
+</header>
+
+    
+<main class="breakout">
+  
+
+<h1 id="blog-posts">Blog posts</h1>
+
+  <ul class="contents">
+    
+    <li>
+      <h3><a href="http://localhost:1313/blog/time-to-quit/">I’ve had enough, it’s time to quit!</a></h3>
+      <p>
+        Sometimes, failure is the best option
+      </p>
+    </li>
+    
+    <li>
+      <h3><a href="http://localhost:1313/blog/nettle-soup/">Nettle soup</a></h3>
+      <p>
+        Stalwart recipe of the foraging community
+      </p>
+    </li>
+    
+    <li>
+      <h3><a href="http://localhost:1313/blog/the-lure-of-the-stinging-less-nettle/">The Lure of the Stinging-less Nettle</a></h3>
+      <p>
+        A long time ago I heard about the legend of The Stinging-less Netlle, a fabled plant with all of the nitrogen-rich, low-maintenance and nutritional benefits of the stinging nettle without any of the stinging.
+      </p>
+    </li>
+    
+    <li>
+      <h3><a href="http://localhost:1313/blog/vegan-banana-cake/">Vegan banana cake</a></h3>
+      <p>
+        Very easy vegan banana cake, which I topped with our first ever gooseberries (Hinnomaki Red)!
+      </p>
+    </li>
+    
+    <li>
+      <h3><a href="http://localhost:1313/blog/what-is-a-forest-garden/">What is a Forest Garden?</a></h3>
+      <p>
+        A forest garden is like a wildlife orchard underplanted with edible shrubs and perennial vegetables. It is productive, sustainable and low-maintenance 💚 🌳
+      </p>
+    </li>
+    
+    <li>
+      <h3><a href="http://localhost:1313/blog/vegan-chocolate-brownies/">Vegan Chocolate Brownies</a></h3>
+      <p>
+        A recipe for the kind of world famous cakes you can expect on our #ForestGarden tour! 
+      </p>
+    </li>
+    
+    <li>
+      <h3><a href="http://localhost:1313/blog/forest-garden-tour-permaculture-tywi-photos/">Photographs from the Permaculture Tywi forest garden tour</a></h3>
+      <p>
+        Photographs of the @permatywi visit to #ForestGarden Wales, by Christine Jones
+      </p>
+    </li>
+    
+    <li>
+      <h3><a href="http://localhost:1313/blog/permaculture-tywi-tour/">Permaculture Tywi forest garden tour</a></h3>
+      <p>
+        @PermaTywi came for a #ForestGarden tour on Saturday, about a dozen, everyone seemed to enjoy themselves!
+      </p>
+    </li>
+    
+    <li>
+      <h3><a href="http://localhost:1313/blog/7-magical-things/">7 Magical Things about Forest Gardens</a></h3>
+      <p>
+        With @GWandShows highlighting the benefits of #meadows, rain gardens &amp; #plasticfree, have a look at the magic a #ForestGarden can provide 🙂
+      </p>
+    </li>
+    
+    <li>
+      <h3><a href="http://localhost:1313/blog/the-green-tangle/">The Green Tangle</a></h3>
+      <p>
+        All that doesn’t glitter isn’t not gold! Or, it’s okay to have a green garden like a #ForestGarden
+      </p>
+    </li>
+    
+  </ul>
+  
+
+<ul class="pagination">
+    
+    <li class="page-item">
+        <a href="/blog/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+    <a href="/blog/page/6/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+    </li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/blog/">1</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/blog/page/2/">2</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/blog/page/3/">3</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/blog/page/6/">6</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item active"><a class="page-link" href="/blog/page/7/">7</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/blog/page/8/">8</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/blog/page/11/">11</a></li>
+    
+    
+    <li class="page-item">
+    <a href="/blog/page/8/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+        <a href="/blog/page/11/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    </li>
+    
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+</main>
+
+    <aside class="breakout" role="complementary">
+  <section>
+    <div class="share--aside">
+      
+
+
+<ol class="o-list-bare share icons">
+  <li>
+    <h3>Share:</h3>
+  </li>
+  <li>
+    <a href="https://twitter.com/intent/tweet?text=Blog&via=ForestGdnWales&hashtags=ForestGarden&url=http%3A%2F%2Flocalhost%3A1313%2Fblog%2F" aria-label="Share on Twitter" title="Share on Twitter" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--twitter" aria-hidden="true">
+          <use xlink:href="#icon-twitter" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Twitter</figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fblog%2F" aria-label="Share on Facebook" title="Share on Facebook" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--facebook" aria-hidden="true">
+          <use xlink:href="#icon-facebook" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Facebook</figcaption>
+      </figure>
+    </a>
+  </li>
+</ol>
+
+    </div>
+  </section>
+  <section>
+    <h3><a href="/blog/">Blog posts</a></h3>
+    <ul>
+      
+      <li>
+        <a href="http://localhost:1313/blog/forest-garden-plan-pgi/">
+          Forest garden plan
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/blog/forest-garden-plan-ofg/">
+          Ornamental Forest Garden plan
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/blog/dead-hedging-forest-garden/">
+          Dead hedging in the forest garden
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/blog/forest-garden-good-for-climate-change/">
+          Why a forest garden is good for climate change
+        </a>
+      </li>
+      
+    </ul>
+  </section>
+  <section>
+    <h3><a href="/status/">Status updates</a></h3>
+    <ul>
+      
+      <li>
+        <a href="http://localhost:1313/status/190422-grass/">
+          On a mission this year in #ForestGarden …
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/status/190422-turf/">
+          Removing turf from newly planted trees i…
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/status/190421-monbiot/">
+          10x more #ClimateChange sense on @BBC co…
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/status/190418-pollinator/">
+          Gardeners! Help monitor pollinators!! Ta…
+        </a>
+      </li>
+      
+    </ul>
+  </section>
+  <section>
+    <h3><abbr title="Rich Site Summary">RSS</abbr> feeds</h3>
+    <ul>
+      <li><a href="http://localhost:1313/blog/blog/index.xml" title="News feed for full blog posts, open in RSS news reader"><strong>Blog feed</strong></a>, for newsreaders</li>
+      <li><a href="http://localhost:1313/blog/index.xml" title="Feed for all posts, blog &amp; status"><strong>News feed</strong></a>, summary of all posts</li>
+    </ul>
+  </section>
+  <section>
+    <h3>Newsletter</h3>
+    <p>Subscribe to our monthly newsletter</p>
+    <form class="subscribe" action="https://wales.us17.list-manage.com/subscribe/post" method="POST">
+      <input type="hidden" name="u" value="bef914615b5448ad5636c38fb">
+      <input type="hidden" name="id" value="10e50a6c17">
+      <label for="MERGE0">Email</label>
+      <input class="subscribe__textinput" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
+      <input class="button" type="submit" name="submit" value="Subscribe">
+      <input type="hidden" name="ht" value="72fb9d19eda695ba45e6107c0063acd2bfd6a81b:MTU0OTIzMTE4Mi45MDk4">
+      <input type="hidden" name="mc_signupsource" value="hosted">
+    </form>
+  </section>
+</aside>
+
+    <footer class="footer" id="footer" role="contentinfo">
+  <section class="footer__menu">
+    <div class="navsec__wrap">
+      <nav class="navsec">
+        
+        <ul class="o-list-bare navsec__list"><li><a class=""
+              href="/blog/">Blog</a></li>
+          <li><a class=""
+              href="/status/">Status</a></li>
+          <li><a class=""
+              href="/contact/">Contact</a></li>
+          <li><a class=""
+              href="/talk/">Talk</a></li>
+          
+        </ul>
+      </nav>
+    </div>
+    <div class="social">
+      <h2 class="u-hiddenvisually">Social</h2>
+      <ol class="o-list-bare social__list">
+        <li>
+          <a href="https://mobile.twitter.com/ForestGdnWales" aria-label="Twitter" title="Twitter" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--twitter" aria-hidden="true">
+                <use xlink:href="#icon-twitter" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Twitter</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/Forest-Garden-Wales" aria-label="Facebook" title="Facebook" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--facebook" aria-hidden="true">
+                <use xlink:href="#icon-facebook" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Facebook</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.eventbrite.co.uk/o/jake-rayson-17248421654" aria-label="Eventbrite" title="Eventbrite" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--eventbrite" aria-hidden="true">
+                <use xlink:href="#icon-eventbrite" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Eventbrite</figcaption>
+            </figure>
+          </a>
+        </li>
+        
+        <li>
+          <a href="https://www.tripadvisor.co.uk/Attraction_Review-g580438-d13991813-Reviews-Forest_Garden_Wales-Newcastle_Emlyn_Carmfgarthenshire_Wales.html" aria-label="TripAdvisor" title="TripAdvisor" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--tripadvisor" aria-hidden="true">
+                <use xlink:href="#icon-tripadvisor" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">TripAdvisor</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.airbnb.co.uk/users/show/233536194" aria-label="Airbnb profile" title="Airbnb profile">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--airbnb" aria-hidden="true">
+                <use xlink:href="#icon-airbnb" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Airbnb</figcaption>
+            </figure>
+          </a>
+        </li>
+        
+        
+      </ol>
+    </div>
+    <div class="footer__contact">
+      <h2 class="u-hiddenvisually">Contact</h2>
+      <ol class="o-list-bare u-center">
+        <li>Email: <a href="mailto:hello@forestgarden.wales" rel="me">hello@forestgarden.wales</a></li>
+        <li>Phone: <a href="tel:447398474064" rel="me">07398 474 064</a></li>
+      </ol>
+    </div>
+    <div class="rss">
+      <h2 class="u-hiddenvisually">RSS</h2>
+      <ol class="o-list-bare rss__list u-flexcenter">
+        <li>
+          <a href="http://localhost:1313/blog/blog/index.xml">
+            <figure class="icon__figure u-flexcenter">
+              <svg class="icon icon--footer icon--rss" aria-hidden="true">
+                <use xlink:href="#icon-rss" />
+              </svg>
+              <figcaption title="Whole blog post feed for news readers">Blog feed</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="http://localhost:1313/blog//index.xml">
+            <figure class="icon__figure u-flexcenter">
+              <svg class="icon icon--footer icon--rss" aria-hidden="true">
+                <use xlink:href="#icon-rss" />
+              </svg>
+              <figcaption title="All status updates and blog posts in concise format">News feed</figcaption>
+            </figure>
+          </a>
+        </li>
+      </ol>
+    </div>
+  </section>
+  <section class="footer__legalese">
+    <p>Designed & built by Jake Rayson with <a href="">Hugo</a>, deployed by <a href="">Netlify</a></p>
+    <p>Website copyright © Jake Rayson 2017-18, theme license <a href="https://choosealicense.com/licenses/mit/">MIT</a> & <a href="https://choosealicense.com/licenses/gpl-3.0/">GPL v3</a>, content license <a href="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a></p>
+  </section>
+</footer>
+
+<script src="/assets/app.js"></script>
+<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+</html>

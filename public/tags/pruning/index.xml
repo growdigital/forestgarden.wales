@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pruning on Forest Garden Wales</title>
+    <link>http://localhost:1313/tags/pruning/</link>
+    <description>Recent content in Pruning on Forest Garden Wales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
+    <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
+    <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
+    <lastBuildDate>Mon, 28 Jan 2019 20:51:28 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/pruning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I know nothing</title>
+      <link>http://localhost:1313/blog/i-know-nothing/</link>
+      <pubDate>Mon, 28 Jan 2019 20:51:28 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/i-know-nothing/</guid>
+      <description>The People’s Orchard hosted a fantastically well attended pruning workshop on Saturday 26th January (about 27 people).</description>
+    </item>
+    
+  </channel>
+</rss>

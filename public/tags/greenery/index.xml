@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Greenery on Forest Garden Wales</title>
+    <link>http://localhost:1313/tags/greenery/</link>
+    <description>Recent content in Greenery on Forest Garden Wales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
+    <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
+    <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
+    <lastBuildDate>Thu, 20 Dec 2018 20:06:49 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/greenery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gardener’s log, start date 2018-12-20</title>
+      <link>http://localhost:1313/blog/gardeners-log/</link>
+      <pubDate>Thu, 20 Dec 2018 20:06:49 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/gardeners-log/</guid>
+      <description>I’ve been inspired by Alison Levey @papaver’s blog the blackberry garden. It is full of detail, about things as they happen.</description>
+    </item>
+    
+    <item>
+      <title>Deturfing the Greenery</title>
+      <link>http://localhost:1313/blog/deturf-greenery/</link>
+      <pubDate>Wed, 19 Dec 2018 22:00:09 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/deturf-greenery/</guid>
+      <description>Last week I decided to grow more greens in a dedicated Greenery area. Today, the lofty plans came crashing down into muddy grunt work.</description>
+    </item>
+    
+  </channel>
+</rss>

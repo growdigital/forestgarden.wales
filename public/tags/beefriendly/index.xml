@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beefriendly on Forest Garden Wales</title>
+    <link>http://localhost:1313/tags/beefriendly/</link>
+    <description>Recent content in Beefriendly on Forest Garden Wales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
+    <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
+    <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
+    <lastBuildDate>Wed, 03 Apr 2019 10:17:38 +0100</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/beefriendly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Splashes of colour in a sea of shimmering green</title>
+      <link>http://localhost:1313/blog/splashes-colour-sea-shimmering-green/</link>
+      <pubDate>Wed, 03 Apr 2019 10:17:38 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/splashes-colour-sea-shimmering-green/</guid>
+      <description>I like forest gardens, obviously. Although they can be very… green. In the midst of this wintry spell here in West Wales, I’ve sown some flowers, pollinator friendly flowers, that will also add a zing of colour to the borders.</description>
+    </item>
+    
+    <item>
+      <title>Flowers for pollinators in an orchard</title>
+      <link>http://localhost:1313/blog/flowers-pollinators-orchard/</link>
+      <pubDate>Sat, 09 Mar 2019 10:20:06 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/flowers-pollinators-orchard/</guid>
+      <description>Steve Wilson, the tutor at a recent People’s Orchard grafting workshop, discussed how his wildflower meadow encourages pollinators.</description>
+    </item>
+    
+    <item>
+      <title>Top 10 bee friendly plants for the forest garden</title>
+      <link>http://localhost:1313/blog/top-10-bee-friendly-plants/</link>
+      <pubDate>Tue, 25 Sep 2018 10:44:01 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/top-10-bee-friendly-plants/</guid>
+      <description>The whole idea behind a forest garden is that it works with nature, to be as self-sustaining as possible.</description>
+    </item>
+    
+  </channel>
+</rss>

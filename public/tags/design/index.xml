@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Forest Garden Wales</title>
+    <link>http://localhost:1313/tags/design/</link>
+    <description>Recent content in Design on Forest Garden Wales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
+    <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
+    <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
+    <lastBuildDate>Tue, 12 Feb 2019 20:51:01 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The joy of forest garden planning</title>
+      <link>http://localhost:1313/blog/joy-of-planning/</link>
+      <pubDate>Tue, 12 Feb 2019 20:51:01 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/joy-of-planning/</guid>
+      <description>Things have started happening in the Ornamental Forest Garden—we have the beginnings of a Northern Hedge, the plants from ScotPlants Direct are arriving tomorrow, and the digger cometh.</description>
+    </item>
+    
+    <item>
+      <title>Now offering remote forest garden design service!</title>
+      <link>http://localhost:1313/blog/remote-forest-garden-design/</link>
+      <pubDate>Fri, 07 Dec 2018 14:16:59 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/remote-forest-garden-design/</guid>
+      <description>“I&amp;rsquo;m just delighted with the plan! It&amp;rsquo;s everything I wanted and much more.</description>
+    </item>
+    
+    <item>
+      <title>My first ever paid forest garden design job</title>
+      <link>http://localhost:1313/blog/first-forest-garden-design-job/</link>
+      <pubDate>Sun, 02 Dec 2018 11:05:01 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/first-forest-garden-design-job/</guid>
+      <description>I’m proud to have finished my first paid forest garden design. It was a remote job, which I chanced upon via Facebook.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peoplesorchardstdogs on Forest Garden Wales</title>
+    <link>http://localhost:1313/tags/peoplesorchardstdogs/</link>
+    <description>Recent content in Peoplesorchardstdogs on Forest Garden Wales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
+    <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
+    <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
+    <lastBuildDate>Sat, 09 Feb 2019 08:37:51 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/peoplesorchardstdogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The People’s Orchard Grafting Workshop with Steve Wilson</title>
+      <link>http://localhost:1313/blog/grafting-workshop-feb-2019/</link>
+      <pubDate>Sat, 09 Feb 2019 08:37:51 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/grafting-workshop-feb-2019/</guid>
+      <description>Discussion about pollinator friendly flowers. Botanic Garden Wales research on top flowers for pollination, link to blurry slide from slideshow by @abigailjayne26.</description>
+    </item>
+    
+  </channel>
+</rss>

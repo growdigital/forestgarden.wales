@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8"><script>
+  
+
+  
+  if (navigator.serviceWorker.controller) {
+    console.log('[PWA Builder] active service worker found, no need to register')
+  } else {
+
+    
+    navigator.serviceWorker.register('/serviceworker.js', {
+      scope: './'
+    }).then(function (reg) {
+      console.log('Service worker has been registered for scope:' + reg.scope);
+    });
+  }
+</script>
+<title>Planting &amp; Pruning workshop notes</title>
+  <meta name="description" content="Grow food sustainably for less work &amp; more wildlife">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+  <link rel="stylesheet" href="/assets/app.css"><script type="text/javascript">
+  var _paq = _paq || [];
+   
+  _paq.push(["setDomains", ["*.www.forestgarden.wales"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//ga.gd1.uk/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//ga.gd1.uk/piwik.php?idsite=2&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<link rel="manifest" href="/manifest.json">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/pwa/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/pwa/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/pwa/favicon-16x16.png">
+<link rel="mask-icon" href="/assets/pwa/safari-pinned-tab.svg" color="#555632">
+<link rel="shortcut icon" href="/assets/pwa/favicon.ico">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Forest Garden Wales">
+<meta name="application-name" content="Forest Garden Wales">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/assets/pwa/browserconfig.xml">
+<meta name="msapplication-starturl" content="/">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#ffffff">
+
+<meta name="twitter:site" content="@ForestGdnWales">
+
+<meta name="twitter:title" content="Planting &amp; Pruning workshop notes">
+<meta name="twitter:description" content="Scant notes from the Planting &amp; Pruning workshop held by The People’s Orchard in St Dogmaels on 7th December 2017">
+
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1543958825/buds-38517307965.jpg">
+<meta name="twitter:image:alt" content="Fruit and growth buds on apple tree">
+
+
+<meta property="fb:app_id" content="181804962563660">
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="Forest Garden Wales">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Planting &amp; Pruning workshop notes">
+<meta property="og:url" content="http://localhost:1313/blog/planting-pruning-workshop-notes/">
+<meta property="og:description" content="Scant notes from the Planting &amp; Pruning workshop held by The People’s Orchard in St Dogmaels on 7th December 2017">
+
+
+
+<meta property="og:image" content="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_624/v1543958825/buds-38517307965.jpg">
+<meta property="og:image:alt" content="Fruit and growth buds on apple tree">
+
+<meta property="og:image:width" content="624">
+<meta property="og:image:height" content="352">
+
+</head>
+
+<body>
+    <div id="js-svg"></div>
+<header class="header" role="banner">
+  <div class="h-card header__card">
+    <a href="/" title="Link to home page">
+      <img class="u-photo header__logo" src="/assets/img/logo.svg" alt="Forest Garden Wales logo">
+    </a><h2 class="header__h1"><a class="p-org u-url" rel="me" href="/" title="Link to home page">Forest Garden Wales</a></h2><h3 class="p-note header__desc">Grow food sustainably for less work &amp; more wildlife</h3>
+  </div>
+  <nav class="nav">
+    
+    <ol class="o-list-bare nav__list">
+      
+      <li>
+        <a class="" href="/">Home</a>
+      </li>
+      
+      <li>
+        <a class="" href="/design/">Design</a>
+      </li>
+      
+      <li>
+        <a class="" href="/tour/">Tour</a>
+      </li>
+      
+      <li>
+        <a class="" href="/workshop/">Workshop</a>
+      </li>
+      
+    </ol>
+  </nav>
+</header>
+
+    
+  <main class="blog">
+    <article class="article breakout h-entry" itemscope itemtype="https://schema.org/Article">
+      
+<meta itemprop="headline" content="Planting &amp; Pruning workshop notes">
+
+<meta itemprop="description" content="Scant notes from the Planting &amp; Pruning workshop held by The People’s Orchard in St Dogmaels on 7th December 2017">
+
+
+<meta itemprop="image" content="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1543958825/buds-38517307965.jpg">
+
+<meta itemprop="author" content="Jake Rayson">
+<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+  <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+    <meta itemprop="url" content="http://localhost:1313/assets/img/logo.png">
+    <meta itemprop="width" content="220">
+    <meta itemprop="height" content="220">
+  </div>
+  <meta itemprop="name" content="Forest Garden Wales">
+</div>
+
+      <h1 class="p-name">Planting &amp; Pruning workshop notes</h1>
+      <p class="article__summary p-summary">Scant notes from the Planting &amp; Pruning workshop held by The People’s Orchard in St Dogmaels on 7th December 2017</p>
+      <div class="share--blog">
+        
+
+
+<ol class="o-list-bare share icons">
+  <li>
+    <h3>Share:</h3>
+  </li>
+  <li>
+    <a href="https://twitter.com/intent/tweet?text=Planting%20%26%20Pruning%20workshop%20notes&via=ForestGdnWales&hashtags=ForestGarden&url=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fplanting-pruning-workshop-notes%2F" aria-label="Share on Twitter" title="Share on Twitter" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--twitter" aria-hidden="true">
+          <use xlink:href="#icon-twitter" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Twitter</figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fplanting-pruning-workshop-notes%2F" aria-label="Share on Facebook" title="Share on Facebook" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--facebook" aria-hidden="true">
+          <use xlink:href="#icon-facebook" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Facebook</figcaption>
+      </figure>
+    </a>
+  </li>
+</ol>
+
+      </div>
+      
+      
+        <figure>
+          <img src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1543958825/buds-38517307965.jpg" alt="Fruit and growth buds on apple tree">
+          <figcaption>Martin Hayes, Consultant Orchardist, planting trees with The People’s Orchard project, St Dogmaels</figcaption>
+        </figure>
+      
+      <div class="e-content" itemprop="mainEntityOfPage">
+        <p>On 7th December, I had the good fortune to attend a free Planting &amp; Pruning workshop, held by <a href="http://www.stdogmaelsabbey.org.uk/peoplesorchard">The People’s Orchard</a> based <a href="http://stdogmaelsabbey.org.uk/">St Dogmaels Abbey</a>. It was run by Martin Hayes, an orchardist who works regularly for the <a href="https://glosorchards.org/home/">Gloucestershire Orchard Trust</a>, together with Nia and Sophie from The People’s Orchard. Martin was fantastic, as good with people as with trees, and I learnt a vast amount together with a dozen other volunteers.</p>
+
+<p>As a beginner in everything, I made scribbly notes between wielding secateurs and taking documentary photos. What follows really is aide de memoire tamis for my own benefit.</p>
+
+<p>I have a little <a href="https://www.forestgarden.wales/rootstock-reference/">rootstock reference</a> which is handy. Different highly bred fruit (eg apples, pears, plums, cherries etc) are grafted on to different rootstock, which determines their vitality and thus height and diameter. I learned that the apple rootstocks MM106 (4m) &amp; M25 (4.5m+) don’t need staking.</p>
+
+<p>I also learnt that you can use <a href="https://duckduckgo.com/?q=single+core+electric+wire&amp;t=ffab&amp;iax=images&amp;ia=images">single core electric cable</a> to tie the trees to the stake.</p>
+
+
+<figure >
+    
+        <img src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544377185/sketch-39316408421.png" alt="Illustration of how to tie tree to stake with figure of 8 electric cable" />
+    
+    
+    <figcaption>
+        <p>
+        Figure of 8 for tying tree to stake
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+
+<p>Another handy tip was that it <em>may</em> make a difference planting the lead root <strong>windward</strong>, ie plant the biggest pointy root toward the prevailing wind.</p>
+
+
+<figure >
+    
+        <img src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1544377256/sketch-25447923018.png" alt="Plant the lead root _toward_ the direction of the prevailing wind" />
+    
+    
+</figure>
+
+
+
+<p>Other tips include:</p>
+
+<ul>
+<li><strong>Never</strong> let the roots dry out when you’re planting. Put them in water if need be.</li>
+<li><a href="http://www.iansturrockandsons.co.uk/">Ian Sturrock &amp; Sons</a> is a very good fruit tree nursery in Bangor</li>
+<li>It’s not always necessary to water trees in if the soil is very damp.</li>
+<li>Rule of thumb: cut <sup>1</sup>&frasl;<sub>3</sub> off, no more</li>
+<li>Always cut to a bud or a branch</li>
+<li>Prune the tree to reclaim the centre line ie where the central trunk should be</li>
+<li>Balance the tree by taking off top-heavy, lop-sided branches</li>
+<li>Prune from the centre, not the edges</li>
+<li>Water shoots are the new vertical shoots which grow in response to pruning</li>
+<li>Bramley particularly vigorous, leave water shoots for upward growth</li>
+<li>Time scale for pruning:
+
+<ol>
+<li>First year water shoots</li>
+<li>Second year bud</li>
+<li>Third year fruit</li>
+</ol></li>
+</ul>
+
+<p>The biggest takeaway from the day is to <strong>think of the pressure of the sap rising</strong>. A tree wants to grow, you just (sic) need to encourage it in the right direction. You may need to leave water shoots where you want the growth, or you may leave a dog-leg shaped shoot, to divert the growth elsewhere.</p>
+
+<p>What you don’t want is <strong>lollipopped tree</strong>. This is where pruning done in a circle around the <em>edge</em> of the tree. This encourages shoots at the end of the branches.</p>
+
+<p>Omissions, opinions, outrage? Tweet me <a href="https://twitter.com/forestgdnwales">@ForestGdnWales</a> 🙂</p>
+
+      </div>
+      <dl class="meta">
+        <dt>Author:</dt>
+        <dd rel="author" class="p-author h-card">Jake Rayson</dd>
+        <dt>Date:</dt>
+        <dd>
+          <time class="dt-published" pubdate itemprop="datePublished" content="2017-12-25">
+            Monday, 25th December 2017
+          </time>
+        </dd>
+        <dt>Permalink:</dt>
+        <dd>
+          <a class="u-url" href="http://localhost:1313/blog/planting-pruning-workshop-notes/">http://localhost:1313/blog/planting-pruning-workshop-notes/</a>
+        </dd>
+      </dl>
+      <section>
+        <h3>Comments</h3>
+        <script>talkyardServerUrl='https:\/\/comments-for-www-forestgarden-wales.talkyard.net';</script>
+        <script async defer src="https://c1.ty-cdn.net/-/talkyard-comments.min.js"></script>
+        
+        <div class="talkyard-comments" data-discussion-id="" style="margin-top: 45px;">
+        <noscript>Please enable Javascript to view comments.</noscript>
+        <p style="margin-top: 25px; opacity: 0.9">Comments powered by
+        <a href="https://www.talkyard.io">Talkyard</a>.</p>
+        </div>
+      </section>
+      <section>
+        <p>Subscribe to blog posts by email</p>
+        <form class="subscribe" action="https://wales.us17.list-manage.com/subscribe/post" method="POST">
+            <input type="hidden" name="u" value="bef914615b5448ad5636c38fb">
+            <input type="hidden" name="id" value="5fbfe7af82">
+            <label for="MERGE0">Email</label>
+            <input class="subscribe__textinput" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
+            <input class="button" type="submit" name="submit" value="Subscribe">
+            <input type="hidden" name="ht" value="cfca6edc3f5239e914c7cab70c6d10622e1e3334:MTU0OTQ2NjA1MC42NzIy">
+            <input type="hidden" name="mc_signupsource" value="hosted">
+        </form>
+      </section>
+    </article>
+  </main>
+
+    <aside class="breakout" role="complementary">
+  <section>
+    <div class="share--aside">
+      
+
+
+<ol class="o-list-bare share icons">
+  <li>
+    <h3>Share:</h3>
+  </li>
+  <li>
+    <a href="https://twitter.com/intent/tweet?text=Planting%20%26%20Pruning%20workshop%20notes&via=ForestGdnWales&hashtags=ForestGarden&url=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fplanting-pruning-workshop-notes%2F" aria-label="Share on Twitter" title="Share on Twitter" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--twitter" aria-hidden="true">
+          <use xlink:href="#icon-twitter" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Twitter</figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fplanting-pruning-workshop-notes%2F" aria-label="Share on Facebook" title="Share on Facebook" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--facebook" aria-hidden="true">
+          <use xlink:href="#icon-facebook" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Facebook</figcaption>
+      </figure>
+    </a>
+  </li>
+</ol>
+
+    </div>
+  </section>
+  <section>
+    <h3><a href="/blog/">Blog posts</a></h3>
+    <ul>
+      
+      <li>
+        <a href="http://localhost:1313/blog/forest-garden-plan-pgi/">
+          Forest garden plan
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/blog/forest-garden-plan-ofg/">
+          Ornamental Forest Garden plan
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/blog/dead-hedging-forest-garden/">
+          Dead hedging in the forest garden
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/blog/forest-garden-good-for-climate-change/">
+          Why a forest garden is good for climate change
+        </a>
+      </li>
+      
+    </ul>
+  </section>
+  <section>
+    <h3><a href="/status/">Status updates</a></h3>
+    <ul>
+      
+      <li>
+        <a href="http://localhost:1313/status/190422-grass/">
+          On a mission this year in #ForestGarden …
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/status/190422-turf/">
+          Removing turf from newly planted trees i…
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/status/190421-monbiot/">
+          10x more #ClimateChange sense on @BBC co…
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/status/190418-pollinator/">
+          Gardeners! Help monitor pollinators!! Ta…
+        </a>
+      </li>
+      
+    </ul>
+  </section>
+  <section>
+    <h3><abbr title="Rich Site Summary">RSS</abbr> feeds</h3>
+    <ul>
+      <li><a href="http://localhost:1313/blog/planting-pruning-workshop-notes/blog/index.xml" title="News feed for full blog posts, open in RSS news reader"><strong>Blog feed</strong></a>, for newsreaders</li>
+      <li><a href="http://localhost:1313/blog/planting-pruning-workshop-notes/index.xml" title="Feed for all posts, blog &amp; status"><strong>News feed</strong></a>, summary of all posts</li>
+    </ul>
+  </section>
+  <section>
+    <h3>Newsletter</h3>
+    <p>Subscribe to our monthly newsletter</p>
+    <form class="subscribe" action="https://wales.us17.list-manage.com/subscribe/post" method="POST">
+      <input type="hidden" name="u" value="bef914615b5448ad5636c38fb">
+      <input type="hidden" name="id" value="10e50a6c17">
+      <label for="MERGE0">Email</label>
+      <input class="subscribe__textinput" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
+      <input class="button" type="submit" name="submit" value="Subscribe">
+      <input type="hidden" name="ht" value="72fb9d19eda695ba45e6107c0063acd2bfd6a81b:MTU0OTIzMTE4Mi45MDk4">
+      <input type="hidden" name="mc_signupsource" value="hosted">
+    </form>
+  </section>
+</aside>
+
+    <footer class="footer" id="footer" role="contentinfo">
+  <section class="footer__menu">
+    <div class="navsec__wrap">
+      <nav class="navsec">
+        
+        <ul class="o-list-bare navsec__list"><li><a class=""
+              href="/blog/">Blog</a></li>
+          <li><a class=""
+              href="/status/">Status</a></li>
+          <li><a class=""
+              href="/contact/">Contact</a></li>
+          <li><a class=""
+              href="/talk/">Talk</a></li>
+          
+        </ul>
+      </nav>
+    </div>
+    <div class="social">
+      <h2 class="u-hiddenvisually">Social</h2>
+      <ol class="o-list-bare social__list">
+        <li>
+          <a href="https://mobile.twitter.com/ForestGdnWales" aria-label="Twitter" title="Twitter" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--twitter" aria-hidden="true">
+                <use xlink:href="#icon-twitter" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Twitter</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/Forest-Garden-Wales" aria-label="Facebook" title="Facebook" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--facebook" aria-hidden="true">
+                <use xlink:href="#icon-facebook" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Facebook</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.eventbrite.co.uk/o/jake-rayson-17248421654" aria-label="Eventbrite" title="Eventbrite" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--eventbrite" aria-hidden="true">
+                <use xlink:href="#icon-eventbrite" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Eventbrite</figcaption>
+            </figure>
+          </a>
+        </li>
+        
+        <li>
+          <a href="https://www.tripadvisor.co.uk/Attraction_Review-g580438-d13991813-Reviews-Forest_Garden_Wales-Newcastle_Emlyn_Carmfgarthenshire_Wales.html" aria-label="TripAdvisor" title="TripAdvisor" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--tripadvisor" aria-hidden="true">
+                <use xlink:href="#icon-tripadvisor" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">TripAdvisor</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.airbnb.co.uk/users/show/233536194" aria-label="Airbnb profile" title="Airbnb profile">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--airbnb" aria-hidden="true">
+                <use xlink:href="#icon-airbnb" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Airbnb</figcaption>
+            </figure>
+          </a>
+        </li>
+        
+        
+      </ol>
+    </div>
+    <div class="footer__contact">
+      <h2 class="u-hiddenvisually">Contact</h2>
+      <ol class="o-list-bare u-center">
+        <li>Email: <a href="mailto:hello@forestgarden.wales" rel="me">hello@forestgarden.wales</a></li>
+        <li>Phone: <a href="tel:447398474064" rel="me">07398 474 064</a></li>
+      </ol>
+    </div>
+    <div class="rss">
+      <h2 class="u-hiddenvisually">RSS</h2>
+      <ol class="o-list-bare rss__list u-flexcenter">
+        <li>
+          <a href="http://localhost:1313/blog/planting-pruning-workshop-notes/blog/index.xml">
+            <figure class="icon__figure u-flexcenter">
+              <svg class="icon icon--footer icon--rss" aria-hidden="true">
+                <use xlink:href="#icon-rss" />
+              </svg>
+              <figcaption title="Whole blog post feed for news readers">Blog feed</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="http://localhost:1313/blog/planting-pruning-workshop-notes//index.xml">
+            <figure class="icon__figure u-flexcenter">
+              <svg class="icon icon--footer icon--rss" aria-hidden="true">
+                <use xlink:href="#icon-rss" />
+              </svg>
+              <figcaption title="All status updates and blog posts in concise format">News feed</figcaption>
+            </figure>
+          </a>
+        </li>
+      </ol>
+    </div>
+  </section>
+  <section class="footer__legalese">
+    <p>Designed & built by Jake Rayson with <a href="">Hugo</a>, deployed by <a href="">Netlify</a></p>
+    <p>Website copyright © Jake Rayson 2017-18, theme license <a href="https://choosealicense.com/licenses/mit/">MIT</a> & <a href="https://choosealicense.com/licenses/gpl-3.0/">GPL v3</a>, content license <a href="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a></p>
+  </section>
+</footer>
+
+<script src="/assets/app.js"></script>
+<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+</html>

@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+      "file_exclude_patterns": ["*.sublime-project"],
+      "folder_exclude_patterns": ["node_modules"],
+      "follow_symlinks": true,
+		}
+	]
+}

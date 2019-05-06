@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Itinerary on Forest Garden Wales</title>
+    <link>http://localhost:1313/itinerary/</link>
+    <description>Recent content in Itinerary on Forest Garden Wales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
+    <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
+    <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
+    <lastBuildDate>Thu, 11 Apr 2019 19:21:11 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/itinerary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Itinerary</title>
+      <link>http://localhost:1313/itinerary/itinerary/</link>
+      <pubDate>Thu, 11 Apr 2019 19:21:11 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/itinerary/itinerary/</guid>
+      <description>Forest Garden tour itinerary A. Theory
+B. Practice
+C. Reference
+A. Theory 1.</description>
+    </item>
+    
+  </channel>
+</rss>

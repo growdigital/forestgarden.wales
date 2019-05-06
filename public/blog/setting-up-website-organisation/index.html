@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8"><script>
+  
+
+  
+  if (navigator.serviceWorker.controller) {
+    console.log('[PWA Builder] active service worker found, no need to register')
+  } else {
+
+    
+    navigator.serviceWorker.register('/serviceworker.js', {
+      scope: './'
+    }).then(function (reg) {
+      console.log('Service worker has been registered for scope:' + reg.scope);
+    });
+  }
+</script>
+<title>Grow your own website</title>
+  <meta name="description" content="Grow food sustainably for less work &amp; more wildlife">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+  <link rel="stylesheet" href="/assets/app.css"><script type="text/javascript">
+  var _paq = _paq || [];
+   
+  _paq.push(["setDomains", ["*.www.forestgarden.wales"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//ga.gd1.uk/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//ga.gd1.uk/piwik.php?idsite=2&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<link rel="manifest" href="/manifest.json">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/pwa/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/pwa/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/pwa/favicon-16x16.png">
+<link rel="mask-icon" href="/assets/pwa/safari-pinned-tab.svg" color="#555632">
+<link rel="shortcut icon" href="/assets/pwa/favicon.ico">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Forest Garden Wales">
+<meta name="application-name" content="Forest Garden Wales">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/assets/pwa/browserconfig.xml">
+<meta name="msapplication-starturl" content="/">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#ffffff">
+
+<meta name="twitter:site" content="@ForestGdnWales">
+
+<meta name="twitter:title" content="Grow your own website">
+<meta name="twitter:description" content="Advice on how to set up a website for an organisation, as promised to Teresa Filipponi at the Hub Cymru Africa permaculture event at Botanic Garden Wales!">
+
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1554810661/etalon-gardener-wordpress-theme.jpg">
+<meta name="twitter:image:alt" content="WordPress theme for garden website">
+
+
+<meta property="fb:app_id" content="181804962563660">
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="Forest Garden Wales">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Grow your own website">
+<meta property="og:url" content="http://localhost:1313/blog/setting-up-website-organisation/">
+<meta property="og:description" content="Advice on how to set up a website for an organisation, as promised to Teresa Filipponi at the Hub Cymru Africa permaculture event at Botanic Garden Wales!">
+
+
+
+<meta property="og:image" content="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_624/v1554810661/etalon-gardener-wordpress-theme.jpg">
+<meta property="og:image:alt" content="WordPress theme for garden website">
+
+<meta property="og:image:width" content="624">
+<meta property="og:image:height" content="352">
+
+</head>
+
+<body>
+    <div id="js-svg"></div>
+<header class="header" role="banner">
+  <div class="h-card header__card">
+    <a href="/" title="Link to home page">
+      <img class="u-photo header__logo" src="/assets/img/logo.svg" alt="Forest Garden Wales logo">
+    </a><h2 class="header__h1"><a class="p-org u-url" rel="me" href="/" title="Link to home page">Forest Garden Wales</a></h2><h3 class="p-note header__desc">Grow food sustainably for less work &amp; more wildlife</h3>
+  </div>
+  <nav class="nav">
+    
+    <ol class="o-list-bare nav__list">
+      
+      <li>
+        <a class="" href="/">Home</a>
+      </li>
+      
+      <li>
+        <a class="" href="/design/">Design</a>
+      </li>
+      
+      <li>
+        <a class="" href="/tour/">Tour</a>
+      </li>
+      
+      <li>
+        <a class="" href="/workshop/">Workshop</a>
+      </li>
+      
+    </ol>
+  </nav>
+</header>
+
+    
+  <main class="blog">
+    <article class="article breakout h-entry" itemscope itemtype="https://schema.org/Article">
+      
+<meta itemprop="headline" content="Grow your own website">
+
+<meta itemprop="description" content="Advice on how to set up a website for an organisation, as promised to Teresa Filipponi at the Hub Cymru Africa permaculture event at Botanic Garden Wales!">
+
+
+<meta itemprop="image" content="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1554810661/etalon-gardener-wordpress-theme.jpg">
+
+<meta itemprop="author" content="Jake Rayson">
+<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+  <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+    <meta itemprop="url" content="http://localhost:1313/assets/img/logo.png">
+    <meta itemprop="width" content="220">
+    <meta itemprop="height" content="220">
+  </div>
+  <meta itemprop="name" content="Forest Garden Wales">
+</div>
+
+      <h1 class="p-name">Grow your own website</h1>
+      <p class="article__summary p-summary">Advice on how to set up a website for an organisation, as promised to Teresa Filipponi at the Hub Cymru Africa permaculture event at Botanic Garden Wales!</p>
+      <div class="share--blog">
+        
+
+
+<ol class="o-list-bare share icons">
+  <li>
+    <h3>Share:</h3>
+  </li>
+  <li>
+    <a href="https://twitter.com/intent/tweet?text=Grow%20your%20own%20website&via=ForestGdnWales&hashtags=ForestGarden&url=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fsetting-up-website-organisation%2F" aria-label="Share on Twitter" title="Share on Twitter" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--twitter" aria-hidden="true">
+          <use xlink:href="#icon-twitter" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Twitter</figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fsetting-up-website-organisation%2F" aria-label="Share on Facebook" title="Share on Facebook" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--facebook" aria-hidden="true">
+          <use xlink:href="#icon-facebook" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Facebook</figcaption>
+      </figure>
+    </a>
+  </li>
+</ol>
+
+      </div>
+      
+      <div class="article__tags o-list-inline">
+        <h3>Tags:</h3>
+        <ul class="o-list-bare o-list-inline p-category">
+          
+            <li><a href="/tags/website">Website</a> </li>
+          
+        </ul>
+      </div>
+      
+      
+        <figure>
+          <img src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1554810661/etalon-gardener-wordpress-theme.jpg" alt="WordPress theme for garden website">
+          <figcaption>The Etalon theme, the kind of theme you can use with a WordPress.com website</figcaption>
+        </figure>
+      
+      <div class="e-content" itemprop="mainEntityOfPage">
+        <p>Jumping on the website and social media bandwagon is difficult if you don’t have the technical experience or the budget. I discussed this with Teresa Filipponi, senior lecturer in Human Nutrition at <a href="https://www.southwales.ac.uk">University of South Wales</a>, at a <a href="https://www.eventbrite.co.uk/e/permaculture-and-nutrition-in-international-development-tickets-55693953113#">permaculture and nutrition event</a> hosted by <a href="http://hubcymru.org/">Hub Cymru Africa</a> at <a href="https://botanicgarden.wales">Botanic Garden Wales</a>.</p>
+
+<p>Here’s a handy checklist:</p>
+
+<ol>
+<li>The name. Unique, memorable and 15 characters or less.</li>
+<li>Register the domain name, a .com or .uk. I recommend <a href="https://www.namecheap.com/">Namecheap.com</a> <strong>approx £6 pa</strong>.</li>
+<li>Set up email. I recommend <a href="https://www.fastmail.com/?STKI=11998805">FastMail</a> <strong>approx £40 pa</strong>.</li>
+<li>Register the name on different social networks. The big ones are Facebook, Twitter &amp; Instagram. Check the availability of names with <a href="https://www.namecheckr.com">namecheckr.com</a>. Try to keep the names the same; Twitter has a maximum limit of 15 characters.</li>
+<li>Choose your blogging platform. To start, I recommend <a href="https://wordpress.com/pricing/">WordPress.com</a>, the Personal Plan with a custom domain <strong>approx £50 pa</strong> (per user).</li>
+<li>Create the structure of your website. Keep it as simple as possible (what you do, where you are, who you are).</li>
+<li>Choose a WordPress theme for your website.</li>
+<li><a href="https://en.support.wordpress.com/publicize/">Connect your social media networks</a>. Now, when you create a blog post in WordPress, it will be automatically shared on your networks.</li>
+<li>The reason to have a website is that people can find and interact with you; the reason for writing blog posts is to share what you discover and increase your visiblity; the reason for your social networks is to connect with others.</li>
+<li>Later, you can use something like <a href="https://buffer.com/pricing">Buffer</a> to bulk schedule social media updates linking to that week’s blog post, and then create daily adhoc status updates via WordPress <strong>approx £12 pa</strong>.</li>
+</ol>
+
+<p>Total annual cost: <strong>approx £110</strong></p>
+
+      </div>
+      <dl class="meta">
+        <dt>Author:</dt>
+        <dd rel="author" class="p-author h-card">Jake Rayson</dd>
+        <dt>Date:</dt>
+        <dd>
+          <time class="dt-published" pubdate itemprop="datePublished" content="2019-04-09">
+            Tuesday, 9th April 2019
+          </time>
+        </dd>
+        <dt>Permalink:</dt>
+        <dd>
+          <a class="u-url" href="http://localhost:1313/blog/setting-up-website-organisation/">http://localhost:1313/blog/setting-up-website-organisation/</a>
+        </dd>
+      </dl>
+      <section>
+        <h3>Comments</h3>
+        <script>talkyardServerUrl='https:\/\/comments-for-www-forestgarden-wales.talkyard.net';</script>
+        <script async defer src="https://c1.ty-cdn.net/-/talkyard-comments.min.js"></script>
+        
+        <div class="talkyard-comments" data-discussion-id="grow-your-own-website" style="margin-top: 45px;">
+        <noscript>Please enable Javascript to view comments.</noscript>
+        <p style="margin-top: 25px; opacity: 0.9">Comments powered by
+        <a href="https://www.talkyard.io">Talkyard</a>.</p>
+        </div>
+      </section>
+      <section>
+        <p>Subscribe to blog posts by email</p>
+        <form class="subscribe" action="https://wales.us17.list-manage.com/subscribe/post" method="POST">
+            <input type="hidden" name="u" value="bef914615b5448ad5636c38fb">
+            <input type="hidden" name="id" value="5fbfe7af82">
+            <label for="MERGE0">Email</label>
+            <input class="subscribe__textinput" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
+            <input class="button" type="submit" name="submit" value="Subscribe">
+            <input type="hidden" name="ht" value="cfca6edc3f5239e914c7cab70c6d10622e1e3334:MTU0OTQ2NjA1MC42NzIy">
+            <input type="hidden" name="mc_signupsource" value="hosted">
+        </form>
+      </section>
+    </article>
+  </main>
+
+    <aside class="breakout" role="complementary">
+  <section>
+    <div class="share--aside">
+      
+
+
+<ol class="o-list-bare share icons">
+  <li>
+    <h3>Share:</h3>
+  </li>
+  <li>
+    <a href="https://twitter.com/intent/tweet?text=Grow%20your%20own%20website&via=ForestGdnWales&hashtags=ForestGarden&url=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fsetting-up-website-organisation%2F" aria-label="Share on Twitter" title="Share on Twitter" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--twitter" aria-hidden="true">
+          <use xlink:href="#icon-twitter" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Twitter</figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fsetting-up-website-organisation%2F" aria-label="Share on Facebook" title="Share on Facebook" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--facebook" aria-hidden="true">
+          <use xlink:href="#icon-facebook" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Facebook</figcaption>
+      </figure>
+    </a>
+  </li>
+</ol>
+
+    </div>
+  </section>
+  <section>
+    <h3><a href="/blog/">Blog posts</a></h3>
+    <ul>
+      
+      <li>
+        <a href="http://localhost:1313/blog/setting-up-website-organisation/">
+          Grow your own website
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/blog/easy-graft/">
+          Easy graft
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/blog/splashes-colour-sea-shimmering-green/">
+          Splashes of colour in a sea of shimmering green
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/blog/gardening-vernacular/">
+          Gardening in the vernacular
+        </a>
+      </li>
+      
+    </ul>
+  </section>
+  <section>
+    <h3><a href="/status/">Status updates</a></h3>
+    <ul>
+      
+      <li>
+        <a href="http://localhost:1313/status/190403-kale/">
+          A big thank you to @juniew53 for the kal…
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/status/190402-flowerid/">
+          Any ideas about ID of this #wildflower? …
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/status/190402-honesty/">
+          It’s time for a bit of #Honesty in the #…
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/status/190320-blossom/">
+          Plum blossom by torch light in #ForestGa…
+        </a>
+      </li>
+      
+    </ul>
+  </section>
+  <section>
+    <h3><abbr title="Rich Site Summary">RSS</abbr> feeds</h3>
+    <ul>
+      <li><a href="http://localhost:1313/blog/setting-up-website-organisation/blog/index.xml" title="News feed for full blog posts, open in RSS news reader"><strong>Blog feed</strong></a>, for newsreaders</li>
+      <li><a href="http://localhost:1313/blog/setting-up-website-organisation/index.xml" title="Feed for all posts, blog &amp; status"><strong>News feed</strong></a>, summary of all posts</li>
+    </ul>
+  </section>
+  <section>
+    <h3>Newsletter</h3>
+    <p>Subscribe to our monthly newsletter</p>
+    <form class="subscribe" action="https://wales.us17.list-manage.com/subscribe/post" method="POST">
+      <input type="hidden" name="u" value="bef914615b5448ad5636c38fb">
+      <input type="hidden" name="id" value="10e50a6c17">
+      <label for="MERGE0">Email</label>
+      <input class="subscribe__textinput" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
+      <input class="button" type="submit" name="submit" value="Subscribe">
+      <input type="hidden" name="ht" value="72fb9d19eda695ba45e6107c0063acd2bfd6a81b:MTU0OTIzMTE4Mi45MDk4">
+      <input type="hidden" name="mc_signupsource" value="hosted">
+    </form>
+  </section>
+</aside>
+
+    <footer class="footer" id="footer" role="contentinfo">
+  <section class="footer__menu">
+    <div class="navsec__wrap">
+      <nav class="navsec">
+        
+        <ul class="o-list-bare navsec__list"><li><a class=""
+              href="/blog/">Blog</a></li>
+          <li><a class=""
+              href="/status/">Status</a></li>
+          <li><a class=""
+              href="/contact/">Contact</a></li>
+          <li><a class=""
+              href="/talk/">Talk</a></li>
+          
+        </ul>
+      </nav>
+    </div>
+    <div class="social">
+      <h2 class="u-hiddenvisually">Social</h2>
+      <ol class="o-list-bare social__list">
+        <li>
+          <a href="https://mobile.twitter.com/ForestGdnWales" aria-label="Twitter" title="Twitter" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--twitter" aria-hidden="true">
+                <use xlink:href="#icon-twitter" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Twitter</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/Forest-Garden-Wales" aria-label="Facebook" title="Facebook" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--facebook" aria-hidden="true">
+                <use xlink:href="#icon-facebook" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Facebook</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.eventbrite.co.uk/o/jake-rayson-17248421654" aria-label="Eventbrite" title="Eventbrite" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--eventbrite" aria-hidden="true">
+                <use xlink:href="#icon-eventbrite" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Eventbrite</figcaption>
+            </figure>
+          </a>
+        </li>
+        
+        <li>
+          <a href="https://www.tripadvisor.co.uk/Attraction_Review-g580438-d13991813-Reviews-Forest_Garden_Wales-Newcastle_Emlyn_Carmfgarthenshire_Wales.html" aria-label="TripAdvisor" title="TripAdvisor" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--tripadvisor" aria-hidden="true">
+                <use xlink:href="#icon-tripadvisor" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">TripAdvisor</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.airbnb.co.uk/users/show/233536194" aria-label="Airbnb profile" title="Airbnb profile">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--airbnb" aria-hidden="true">
+                <use xlink:href="#icon-airbnb" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Airbnb</figcaption>
+            </figure>
+          </a>
+        </li>
+        
+        
+      </ol>
+    </div>
+    <div class="footer__contact">
+      <h2 class="u-hiddenvisually">Contact</h2>
+      <ol class="o-list-bare u-center">
+        <li>Email: <a href="mailto:hello@forestgarden.wales" rel="me">hello@forestgarden.wales</a></li>
+        <li>Phone: <a href="tel:447398474064" rel="me">07398 474 064</a></li>
+      </ol>
+    </div>
+    <div class="rss">
+      <h2 class="u-hiddenvisually">RSS</h2>
+      <ol class="o-list-bare rss__list u-flexcenter">
+        <li>
+          <a href="http://localhost:1313/blog/setting-up-website-organisation/blog/index.xml">
+            <figure class="icon__figure u-flexcenter">
+              <svg class="icon icon--footer icon--rss" aria-hidden="true">
+                <use xlink:href="#icon-rss" />
+              </svg>
+              <figcaption title="Whole blog post feed for news readers">Blog feed</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="http://localhost:1313/blog/setting-up-website-organisation//index.xml">
+            <figure class="icon__figure u-flexcenter">
+              <svg class="icon icon--footer icon--rss" aria-hidden="true">
+                <use xlink:href="#icon-rss" />
+              </svg>
+              <figcaption title="All status updates and blog posts in concise format">News feed</figcaption>
+            </figure>
+          </a>
+        </li>
+      </ol>
+    </div>
+  </section>
+  <section class="footer__legalese">
+    <p>Designed & built by Jake Rayson with <a href="">Hugo</a>, deployed by <a href="">Netlify</a></p>
+    <p>Website copyright © Jake Rayson 2017-18, theme license <a href="https://choosealicense.com/licenses/mit/">MIT</a> & <a href="https://choosealicense.com/licenses/gpl-3.0/">GPL v3</a>, content license <a href="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a></p>
+  </section>
+</footer>
+
+<script src="/assets/app.js"></script>
+<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+</html>

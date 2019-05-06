@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Climatechange on Forest Garden Wales</title>
+    <link>http://localhost:1313/tags/climatechange/</link>
+    <description>Recent content in Climatechange on Forest Garden Wales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
+    <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
+    <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
+    <lastBuildDate>Fri, 19 Apr 2019 14:42:46 +0100</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/climatechange/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why a forest garden is good for climate change</title>
+      <link>http://localhost:1313/blog/forest-garden-good-for-climate-change/</link>
+      <pubDate>Fri, 19 Apr 2019 14:42:46 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/forest-garden-good-for-climate-change/</guid>
+      <description>Climate change is caused by living in an unsustainable way. Forest gardens by definition are a sustainable and sustaining form of gardening.</description>
+    </item>
+    
+    <item>
+      <title>Act right now on climate</title>
+      <link>http://localhost:1313/blog/weblog-act-right-now-on-climate/</link>
+      <pubDate>Mon, 18 Mar 2019 21:58:38 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/weblog-act-right-now-on-climate/</guid>
+      <description>I went on the local Strike4Climate demonstration with my two children on Friday, part of their education in our democratic ways.</description>
+    </item>
+    
+    <item>
+      <title>Gardening with urgency and purpose</title>
+      <link>http://localhost:1313/blog/gardening-with-urgency-purpose/</link>
+      <pubDate>Tue, 25 Dec 2018 20:24:32 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/gardening-with-urgency-purpose/</guid>
+      <description>I am not a natural born gardener. I’ve come to it late, initially provoked by the threat of climate change and tantalised by the prospect of a productive, low maintenance, wildlife friendly forest garden.</description>
+    </item>
+    
+  </channel>
+</rss>

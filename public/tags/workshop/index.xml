@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on Forest Garden Wales</title>
+    <link>http://localhost:1313/tags/workshop/</link>
+    <description>Recent content in Workshop on Forest Garden Wales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
+    <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
+    <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
+    <lastBuildDate>Tue, 05 Mar 2019 20:00:37 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our forest garden tours &amp; workshops setup</title>
+      <link>http://localhost:1313/blog/forest-garden-tours-workshops-setup/</link>
+      <pubDate>Tue, 05 Mar 2019 20:00:37 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/forest-garden-tours-workshops-setup/</guid>
+      <description>I’ve organised the forest garden tours and workshops for 2019. I decided to market them as Airbnb holiday Experiences because it is a vast amount of work to manage an online shop, calendar and publicity.</description>
+    </item>
+    
+    <item>
+      <title>Now taking bookings for forest garden tours and workshops</title>
+      <link>http://localhost:1313/blog/forest-garden-experience/</link>
+      <pubDate>Thu, 10 Jan 2019 18:20:18 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/forest-garden-experience/</guid>
+      <description>Our 2019 workshops and tours are now available to book on Airbnb:
+ Forest garden workshop Forest garden tour Both available from April through to September 2019 The tour is 2 hours, available in two slots 10am-12pm &amp;amp; 2pm-4pm The workshop is 6 hours, 10am-4pm  It has been an interesting experience (ahem) to go through the Airbnb application process.</description>
+    </item>
+    
+  </channel>
+</rss>

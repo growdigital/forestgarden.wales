@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8"><script>
+  
+
+  
+  if (navigator.serviceWorker.controller) {
+    console.log('[PWA Builder] active service worker found, no need to register')
+  } else {
+
+    
+    navigator.serviceWorker.register('/serviceworker.js', {
+      scope: './'
+    }).then(function (reg) {
+      console.log('Service worker has been registered for scope:' + reg.scope);
+    });
+  }
+</script>
+<title>Designing a small forest garden</title>
+  <meta name="description" content="Grow food sustainably for less work &amp; more wildlife">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+  <link rel="stylesheet" href="/assets/app.css"><script type="text/javascript">
+  var _paq = _paq || [];
+   
+  _paq.push(["setDomains", ["*.www.forestgarden.wales"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//ga.gd1.uk/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//ga.gd1.uk/piwik.php?idsite=2&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<link rel="manifest" href="/manifest.json">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/pwa/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/pwa/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/pwa/favicon-16x16.png">
+<link rel="mask-icon" href="/assets/pwa/safari-pinned-tab.svg" color="#555632">
+<link rel="shortcut icon" href="/assets/pwa/favicon.ico">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Forest Garden Wales">
+<meta name="application-name" content="Forest Garden Wales">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/assets/pwa/browserconfig.xml">
+<meta name="msapplication-starturl" content="/">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#ffffff">
+
+<meta name="twitter:site" content="@ForestGdnWales">
+
+<meta name="twitter:title" content="Designing a small forest garden">
+<meta name="twitter:description" content="A small garden can be a forest garden, and this is a peek into how I approach a small forest garden design.">
+
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1552399158/diana-montage2.jpg">
+<meta name="twitter:image:alt" content="Montage of original photo, sketch and two photoshop mockups">
+
+
+<meta property="fb:app_id" content="181804962563660">
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="Forest Garden Wales">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Designing a small forest garden">
+<meta property="og:url" content="http://localhost:1313/blog/designing-small-forest-garden/">
+<meta property="og:description" content="A small garden can be a forest garden, and this is a peek into how I approach a small forest garden design.">
+
+
+
+<meta property="og:image" content="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_624/v1552399158/diana-montage2.jpg">
+<meta property="og:image:alt" content="Montage of original photo, sketch and two photoshop mockups">
+
+<meta property="og:image:width" content="624">
+<meta property="og:image:height" content="352">
+
+</head>
+
+<body>
+    <div id="js-svg"></div>
+<header class="header" role="banner">
+  <div class="h-card header__card">
+    <a href="/" title="Link to home page">
+      <img class="u-photo header__logo" src="/assets/img/logo.svg" alt="Forest Garden Wales logo">
+    </a><h2 class="header__h1"><a class="p-org u-url" rel="me" href="/" title="Link to home page">Forest Garden Wales</a></h2><h3 class="p-note header__desc">Grow food sustainably for less work &amp; more wildlife</h3>
+  </div>
+  <nav class="nav">
+    
+    <ol class="o-list-bare nav__list">
+      
+      <li>
+        <a class="" href="/">Home</a>
+      </li>
+      
+      <li>
+        <a class="" href="/design/">Design</a>
+      </li>
+      
+      <li>
+        <a class="" href="/tour/">Tour</a>
+      </li>
+      
+      <li>
+        <a class="" href="/workshop/">Workshop</a>
+      </li>
+      
+    </ol>
+  </nav>
+</header>
+
+    
+  <main class="blog">
+    <article class="article breakout h-entry" itemscope itemtype="https://schema.org/Article">
+      
+<meta itemprop="headline" content="Designing a small forest garden">
+
+<meta itemprop="description" content="A small garden can be a forest garden, and this is a peek into how I approach a small forest garden design.">
+
+
+<meta itemprop="image" content="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1552399158/diana-montage2.jpg">
+
+<meta itemprop="author" content="Jake Rayson">
+<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+  <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+    <meta itemprop="url" content="http://localhost:1313/assets/img/logo.png">
+    <meta itemprop="width" content="220">
+    <meta itemprop="height" content="220">
+  </div>
+  <meta itemprop="name" content="Forest Garden Wales">
+</div>
+
+      <h1 class="p-name">Designing a small forest garden</h1>
+      <p class="article__summary p-summary">A small garden can be a forest garden, and this is a peek into how I approach a small forest garden design.</p>
+      <div class="share--blog">
+        
+
+
+<ol class="o-list-bare share icons">
+  <li>
+    <h3>Share:</h3>
+  </li>
+  <li>
+    <a href="https://twitter.com/intent/tweet?text=Designing%20a%20small%20forest%20garden&via=ForestGdnWales&hashtags=ForestGarden&url=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fdesigning-small-forest-garden%2F" aria-label="Share on Twitter" title="Share on Twitter" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--twitter" aria-hidden="true">
+          <use xlink:href="#icon-twitter" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Twitter</figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fdesigning-small-forest-garden%2F" aria-label="Share on Facebook" title="Share on Facebook" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--facebook" aria-hidden="true">
+          <use xlink:href="#icon-facebook" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Facebook</figcaption>
+      </figure>
+    </a>
+  </li>
+</ol>
+
+      </div>
+      
+      <div class="article__tags o-list-inline">
+        <h3>Tags:</h3>
+        <ul class="o-list-bare o-list-inline p-category">
+          
+            <li><a href="/tags/forestgarden">ForestGarden</a> </li>
+          
+            <li><a href="/tags/gdnbloggers">GdnBloggers</a> </li>
+          
+            <li><a href="/tags/smallgarden">SmallGarden</a> </li>
+          
+            <li><a href="/tags/gardendesign">GardenDesign</a> </li>
+          
+        </ul>
+      </div>
+      
+      
+        <figure>
+          <img src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1552399158/diana-montage2.jpg" alt="Montage of original photo, sketch and two photoshop mockups">
+          <figcaption>Starting with a photo, I created a rough sketch to elicit feedback from the client, before moving on to a couple of scampy montages. CAD is the next stage.</figcaption>
+        </figure>
+      
+      <div class="e-content" itemprop="mainEntityOfPage">
+        <p>I really think that <a href="https://www.forestgarden.wales/blog/small-forest-garden/">your small garden can be a forest garden</a>, because to be a forest garden is more abut the <em>principles</em> than the size. To recap, the principles are:</p>
+
+<ol>
+<li>Productive</li>
+<li>Multi-layered</li>
+<li>Permanent ground cover</li>
+<li>Sustainable</li>
+<li>Low maintenance</li>
+</ol>
+
+<p>I’m working on a fantastic project in Llandeilo, a small south-facing front garden, in collaboration with the can-do <a href="http://www.permaculturetywi.uk">Permaculture Tywi</a>. I’m creating the design and then a crack squad of community-minded permies will wreak beautiful acts of creation in just one day.</p>
+
+<p>To start, I visited the site and talked at length with both the client and also June and Anne from the group. We then took photographs of the site, poked around and measured up.</p>
+
+
+<figure >
+    
+        <img src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1552074974/00_from_pavement_7A7EAC0C.jpg" alt="Gravel front garden of semi-detached white house" />
+    
+    
+    <figcaption>
+        <p>
+        View of the front garden from the pavement
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+
+<p>A very useful tool in this process is to look at where the sun will be at different times of the year. There’s an excellent app called <a href="https://www.sunsurveyor.com">Sun Surveyor</a>, which gives you an <a href="https://en.wikipedia.org/wiki/Augmented_reality">augmented reality</a> view across the calendar.</p>
+
+<p>My first step back home was to create a very rough sketch, in pen and £1 coloured pencils. This was to get some ideas across to the client before creating anything too polished, the “Make the big mistakes early” gambit. At this stage, you don’t have to be specific about plants, just a general sense about their size, habit and shape. Afterwards, you can pick specific plants and even cultivars to suit the spot.</p>
+
+
+<figure >
+    
+        <img src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1550657225/design-B646972C.jpg" alt="Scribbly sketch of garden design" />
+    
+    
+    <figcaption>
+        <p>
+        A loose sketch to communicate some ideas
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+
+<p>I had some good feedback from the client, namely that they might not want to sit in the front garden, so we agreed that the seat would be a movable bench, and that they really like cherry trees! A local supplier recommended <a href="https://www.orangepippin.com/varieties/cherries/stella">&lsquo;Stella&rsquo;</a>, a self-fertile cultivar, and I recommended using <a href="https://www.forestgarden.wales/blog/rootstock-reference/">Gisela 5</a> rootstock, which grows to around 2.5m and needs to be permanently staked.</p>
+
+<p>After hearing <a href="https://www.sarahpricelandscapes.com">Sarah Price</a> talk at <a href="https://botanicgarden.wales/visit/whats-on/inspirational-women-in-horticulture-2/">Botanic Garden Wales</a>, I was compelled to unleash my rusty Photoshop skills and put together a photomontage of the garden. Her photomontages are a work of art, mine are more, er, <a href="https://en.wikipedia.org/wiki/Teletubbies">Teletubby</a>! It was a fun process though, and again, gives an idea of what can be achieved.</p>
+
+
+<figure >
+    
+        <img src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1552074978/01_mockup_from_pavement_treelesss_7A7EAC0C.jpg" alt="Photomontage of front garden photo, showing possible plants stuck on top" />
+    
+    
+    <figcaption>
+        <p>
+        The photomontage, without the cherry tree, giving an idea of what plants could go where
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+
+<p>Only at this stage did I move on to the <abbr title="Computer Aided Design">CAD</abbr> plan. I started with a screengrab from the <a href="https://groundstability.com/public/web/log-order?execution=e1s5">Ground Stability</a> website, which is a hi-res <a href="https://en.wikipedia.org/wiki/Ordnance_Survey">Ordnance Survey</a> map, using it as a guide for the measurements that were taken. An alternative is to use a satellite photo; I found the best ones to be on <a href="https://en.wikipedia.org/wiki/Apple_Maps">Apple Maps</a> and the mobile app <a href="http://hrtapps.com/theodolite/">Theodolite</a>.</p>
+
+<p>The software I use is <a href="https://www.qcad.org">QCAD</a>, which is <a href="https://en.wikipedia.org/wiki/Open_source">Open Source</a> software with a limited <a href="https://www.qcad.org/en/download">free version available</a>. Any CAD software is complicated and I wouldn’t recommend it for one-off, casual use (have a look at <a href="https://inkscape.org">Inkscape</a> for less exacting requirements). Having said that, it is <strong>brilliant</strong>. I’m just getting the hang of QCAD’s <a href="https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline">NURBS</a> for drawing curvy lines and the <a href="https://onelook.com/?w=hatch&amp;ls=a">hatch</a> functionality for filling areas.</p>
+
+
+<figure >
+    
+        <img src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1552397014/diana_0.13.jpg" alt="CAD plan of garden" />
+    
+    
+    <figcaption>
+        <p>
+        The final CAD plan, showing the path, water feature, seating area and plant diameters
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+
+<p>The key advantage to using CAD is that you can calculate the final diameters of plants. This is particularly important for a forest garden, as you want to leave a gap of about ¼-½ of the average tree diameters, so that enough light gets through to understorey plants. Another advantage is that it’s super easy to calculate areas and distances, which is useful when ordering materials.</p>
+
+
+<figure >
+    
+        <img src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1552344302/plum-5E0A8EE6.jpg" alt="White tree blossom" />
+    
+    
+    <figcaption>
+        <p>
+        A prunus in blossom; this is an Early Prolific plum but you get the idea!
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+
+<p>As you can see from the plan, the star of the show is the &lsquo;Stella&rsquo; cherry, at the heart of the garden. This is underplanted with Alliums on one side and <a href="https://pfaf.org/user/Plant.aspx?LatinName=Alchemilla+xanthochlora">Lady’s Mantle</a> and <a href="https://pfaf.org/User/Plant.aspx?LatinName=Acanthus+mollis">Bears Breeches</a> on the more shaded side. There’ll be two paths re-using the gravel going around the tree to the corner, where there’ll be some sort of water feature (eg a small wildlife pond in an old Belfast sink) and a movable bench in the seating area.</p>
+
+<p>Along the south facing wall will be day lillies rising above the clipped box hedge, fronted with mediterranean, sun-loving herbs. By the bench, there’s a lovely bunch of fennel, with mint behind for scent and for pollinators. The hedge with the neighbour is <a href="https://pfaf.org/user/plant.aspx?LatinName=Atriplex+halimus">Atriplex halimus</a>, which is relatively easy to manage and likes full sun.</p>
+
+<p>The border along the pavement will have currants planted, to provide both fruit and a visual screen for the rest of the garden.</p>
+
+
+<figure >
+    
+        <img src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1552427101/simplenote-190312.png" alt="Screenshot of Simplenote published web page" />
+    
+    
+    <figcaption>
+        <p>
+        Simplenote is a good way to publish and collaborate on simple notes
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+
+<p>To wrap it up, I’m using <a href="https://simplenote.com">Simplenote</a> (and <a href="https://brettterpstra.com/projects/nvalt/">nvALT</a> on the Mac) to publish the notes as a web page. Simplenote uses <a href="https://en.wikipedia.org/wiki/Plain_text">plain text</a> to write notes, and with the magic of <a href="https://daringfireball.net/projects/markdown/">Markdown</a> and <a href="https://www.forestgarden.wales/blog/store-garden-blog-photos/">remotely hosted images</a>, you can have images in your notes as well!</p>
+
+<p>I hope this blog post has proved useful to someone. Don’t forget, you can <a href="http://eepurl.com/gguIi5">sign up to have new blogs delivered straight to your inbox</a>!</p>
+
+      </div>
+      <dl class="meta">
+        <dt>Author:</dt>
+        <dd rel="author" class="p-author h-card">Jake Rayson</dd>
+        <dt>Date:</dt>
+        <dd>
+          <time class="dt-published" pubdate itemprop="datePublished" content="2019-03-18">
+            Monday, 18th March 2019
+          </time>
+        </dd>
+        <dt>Permalink:</dt>
+        <dd>
+          <a class="u-url" href="http://localhost:1313/blog/designing-small-forest-garden/">http://localhost:1313/blog/designing-small-forest-garden/</a>
+        </dd>
+      </dl>
+      <section>
+        <h3>Comments</h3>
+        <script>talkyardServerUrl='https:\/\/comments-for-www-forestgarden-wales.talkyard.net';</script>
+        <script async defer src="https://c1.ty-cdn.net/-/talkyard-comments.min.js"></script>
+        
+        <div class="talkyard-comments" data-discussion-id="designing-small-forest-garden" style="margin-top: 45px;">
+        <noscript>Please enable Javascript to view comments.</noscript>
+        <p style="margin-top: 25px; opacity: 0.9">Comments powered by
+        <a href="https://www.talkyard.io">Talkyard</a>.</p>
+        </div>
+      </section>
+      <section>
+        <p>Subscribe to blog posts by email</p>
+        <form class="subscribe" action="https://wales.us17.list-manage.com/subscribe/post" method="POST">
+            <input type="hidden" name="u" value="bef914615b5448ad5636c38fb">
+            <input type="hidden" name="id" value="5fbfe7af82">
+            <label for="MERGE0">Email</label>
+            <input class="subscribe__textinput" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
+            <input class="button" type="submit" name="submit" value="Subscribe">
+            <input type="hidden" name="ht" value="cfca6edc3f5239e914c7cab70c6d10622e1e3334:MTU0OTQ2NjA1MC42NzIy">
+            <input type="hidden" name="mc_signupsource" value="hosted">
+        </form>
+      </section>
+    </article>
+  </main>
+
+    <aside class="breakout" role="complementary">
+  <section>
+    <div class="share--aside">
+      
+
+
+<ol class="o-list-bare share icons">
+  <li>
+    <h3>Share:</h3>
+  </li>
+  <li>
+    <a href="https://twitter.com/intent/tweet?text=Designing%20a%20small%20forest%20garden&via=ForestGdnWales&hashtags=ForestGarden&url=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fdesigning-small-forest-garden%2F" aria-label="Share on Twitter" title="Share on Twitter" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--twitter" aria-hidden="true">
+          <use xlink:href="#icon-twitter" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Twitter</figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fblog%2Fdesigning-small-forest-garden%2F" aria-label="Share on Facebook" title="Share on Facebook" target="blank">
+      <figure class="icon__figure">
+        <svg class="icon icon--footer icon--facebook" aria-hidden="true">
+          <use xlink:href="#icon-facebook" />
+        </svg>
+        <figcaption class="icon__caption u-js-hiddenvisually">Facebook</figcaption>
+      </figure>
+    </a>
+  </li>
+</ol>
+
+    </div>
+  </section>
+  <section>
+    <h3><a href="/blog/">Blog posts</a></h3>
+    <ul>
+      
+      <li>
+        <a href="http://localhost:1313/blog/forest-garden-plan-pgi/">
+          Forest garden plan
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/blog/forest-garden-plan-ofg/">
+          Ornamental Forest Garden plan
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/blog/dead-hedging-forest-garden/">
+          Dead hedging in the forest garden
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/blog/forest-garden-good-for-climate-change/">
+          Why a forest garden is good for climate change
+        </a>
+      </li>
+      
+    </ul>
+  </section>
+  <section>
+    <h3><a href="/status/">Status updates</a></h3>
+    <ul>
+      
+      <li>
+        <a href="http://localhost:1313/status/190422-grass/">
+          On a mission this year in #ForestGarden …
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/status/190422-turf/">
+          Removing turf from newly planted trees i…
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/status/190421-monbiot/">
+          10x more #ClimateChange sense on @BBC co…
+        </a>
+      </li>
+      
+      <li>
+        <a href="http://localhost:1313/status/190418-pollinator/">
+          Gardeners! Help monitor pollinators!! Ta…
+        </a>
+      </li>
+      
+    </ul>
+  </section>
+  <section>
+    <h3><abbr title="Rich Site Summary">RSS</abbr> feeds</h3>
+    <ul>
+      <li><a href="http://localhost:1313/blog/designing-small-forest-garden/blog/index.xml" title="News feed for full blog posts, open in RSS news reader"><strong>Blog feed</strong></a>, for newsreaders</li>
+      <li><a href="http://localhost:1313/blog/designing-small-forest-garden/index.xml" title="Feed for all posts, blog &amp; status"><strong>News feed</strong></a>, summary of all posts</li>
+    </ul>
+  </section>
+  <section>
+    <h3>Newsletter</h3>
+    <p>Subscribe to our monthly newsletter</p>
+    <form class="subscribe" action="https://wales.us17.list-manage.com/subscribe/post" method="POST">
+      <input type="hidden" name="u" value="bef914615b5448ad5636c38fb">
+      <input type="hidden" name="id" value="10e50a6c17">
+      <label for="MERGE0">Email</label>
+      <input class="subscribe__textinput" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
+      <input class="button" type="submit" name="submit" value="Subscribe">
+      <input type="hidden" name="ht" value="72fb9d19eda695ba45e6107c0063acd2bfd6a81b:MTU0OTIzMTE4Mi45MDk4">
+      <input type="hidden" name="mc_signupsource" value="hosted">
+    </form>
+  </section>
+</aside>
+
+    <footer class="footer" id="footer" role="contentinfo">
+  <section class="footer__menu">
+    <div class="navsec__wrap">
+      <nav class="navsec">
+        
+        <ul class="o-list-bare navsec__list"><li><a class=""
+              href="/blog/">Blog</a></li>
+          <li><a class=""
+              href="/status/">Status</a></li>
+          <li><a class=""
+              href="/contact/">Contact</a></li>
+          <li><a class=""
+              href="/talk/">Talk</a></li>
+          
+        </ul>
+      </nav>
+    </div>
+    <div class="social">
+      <h2 class="u-hiddenvisually">Social</h2>
+      <ol class="o-list-bare social__list">
+        <li>
+          <a href="https://mobile.twitter.com/ForestGdnWales" aria-label="Twitter" title="Twitter" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--twitter" aria-hidden="true">
+                <use xlink:href="#icon-twitter" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Twitter</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/Forest-Garden-Wales" aria-label="Facebook" title="Facebook" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--facebook" aria-hidden="true">
+                <use xlink:href="#icon-facebook" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Facebook</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.eventbrite.co.uk/o/jake-rayson-17248421654" aria-label="Eventbrite" title="Eventbrite" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--eventbrite" aria-hidden="true">
+                <use xlink:href="#icon-eventbrite" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Eventbrite</figcaption>
+            </figure>
+          </a>
+        </li>
+        
+        <li>
+          <a href="https://www.tripadvisor.co.uk/Attraction_Review-g580438-d13991813-Reviews-Forest_Garden_Wales-Newcastle_Emlyn_Carmfgarthenshire_Wales.html" aria-label="TripAdvisor" title="TripAdvisor" rel="me">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--tripadvisor" aria-hidden="true">
+                <use xlink:href="#icon-tripadvisor" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">TripAdvisor</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.airbnb.co.uk/users/show/233536194" aria-label="Airbnb profile" title="Airbnb profile">
+            <figure class="icon__figure">
+              <svg class="icon icon--footer icon--airbnb" aria-hidden="true">
+                <use xlink:href="#icon-airbnb" />
+              </svg>
+              <figcaption class="icon__caption u-js-hiddenvisually">Airbnb</figcaption>
+            </figure>
+          </a>
+        </li>
+        
+        
+      </ol>
+    </div>
+    <div class="footer__contact">
+      <h2 class="u-hiddenvisually">Contact</h2>
+      <ol class="o-list-bare u-center">
+        <li>Email: <a href="mailto:hello@forestgarden.wales" rel="me">hello@forestgarden.wales</a></li>
+        <li>Phone: <a href="tel:447398474064" rel="me">07398 474 064</a></li>
+      </ol>
+    </div>
+    <div class="rss">
+      <h2 class="u-hiddenvisually">RSS</h2>
+      <ol class="o-list-bare rss__list u-flexcenter">
+        <li>
+          <a href="http://localhost:1313/blog/designing-small-forest-garden/blog/index.xml">
+            <figure class="icon__figure u-flexcenter">
+              <svg class="icon icon--footer icon--rss" aria-hidden="true">
+                <use xlink:href="#icon-rss" />
+              </svg>
+              <figcaption title="Whole blog post feed for news readers">Blog feed</figcaption>
+            </figure>
+          </a>
+        </li>
+        <li>
+          <a href="http://localhost:1313/blog/designing-small-forest-garden//index.xml">
+            <figure class="icon__figure u-flexcenter">
+              <svg class="icon icon--footer icon--rss" aria-hidden="true">
+                <use xlink:href="#icon-rss" />
+              </svg>
+              <figcaption title="All status updates and blog posts in concise format">News feed</figcaption>
+            </figure>
+          </a>
+        </li>
+      </ol>
+    </div>
+  </section>
+  <section class="footer__legalese">
+    <p>Designed & built by Jake Rayson with <a href="">Hugo</a>, deployed by <a href="">Netlify</a></p>
+    <p>Website copyright © Jake Rayson 2017-18, theme license <a href="https://choosealicense.com/licenses/mit/">MIT</a> & <a href="https://choosealicense.com/licenses/gpl-3.0/">GPL v3</a>, content license <a href="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a></p>
+  </section>
+</footer>
+
+<script src="/assets/app.js"></script>
+<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+</html>
