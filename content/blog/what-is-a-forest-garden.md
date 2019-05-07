@@ -34,6 +34,7 @@ Using trees, shrubs, perennials and self-seeding annuals, it emulates a young na
 
 ## 3. Low maintenance
 
+* Resilient (can withstand greater climate fluctuations).
 * No watering (all water on-site)
 * Minimal weeding (permanent living ground cover)
 * No digging (mostly perennials with some self-seeding annuals)
