@@ -13,5 +13,9 @@ insert_final_newline = true
 # Allow <br/> from Markdown
 trim_trailing_whitespace = false
 
+# Allow <br/> from Markdown in HTML
+[static/**.html]
+trim_trailing_whitespace = false
+
 [Makefile]
 indent_style = tabs
