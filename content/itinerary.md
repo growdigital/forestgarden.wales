@@ -113,23 +113,25 @@ Wood chip, spacing, shade, temporary ground cover
 <a id="reference"></a>
 ## D. Reference
 
+* [What is a Forest Garden?](https://www.forestgarden.wales/blog/what-is-a-forest-garden/)
+* [The seven layers of a forest garden](https://www.forestgarden.wales/blog/seven-layers-forest-garden/)
+* [Why a forest garden is good for climate change](https://www.forestgarden.wales/blog/forest-garden-good-for-climate-change/)
+* [Rootstock reference](https://www.forestgarden.wales/blog/rootstock-reference/)
+* [Tree spacing in the forest garden](https://www.forestgarden.wales/blog/tree-spacing-forest-garden/)
+* [Dead hedging in the forest garden](https://www.forestgarden.wales/blog/dead-hedging-forest-garden/)
 * [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/), book by Martin Crawford
 * Plants For A Future [www.pfaf.org](https://www.pfaf.org/)
 * Orange Pippin fruit directory [www.orangepippin.com](https://www.orangepippin.com/)
 * Horticultural Myths [puyallup.wsu.edu/lcs/](https://puyallup.wsu.edu/lcs/)
-* Rootstock reference [www.forestgarden.wales/blog/rootstock-reference](https://www.forestgarden.wales/blog/rootstock-reference/)
 * Edimentals edible plants [www.edimentals.com](http://www.edimentals.com/blog/)
 * Sun Surveyor app [www.sunsurveyor.com](https://www.sunsurveyor.com)
 * Inkscape drawing software [www.inkscape.org](https://inkscape.org)
 * QCAD software [www.qcad.org](https://www.qcad.org)
 
-### Jake Rayson  
+### Contact  
 
-* Forest Garden Wales  
-* [www.forestgarden.wales](https://www.forestgarden.wales/)
-* <jake@forestgarden.wales>  
-* Twitter [@ForestGdnWales](https://twitter.com/ForestGdnWales)  
-* Facebook [@ForestGardenWales](https://facebook.com/ForestGardenWales)  
-* Please leave a review on Airbnb, Tripadvisor or Facebook, thank you 🙂
+* Forest Garden Wales
+* [www.forestgarden.wales](https://www.forestgarden.wales/), email <jake@forestgarden.wales>, Twitter [@ForestGdnWales](https://twitter.com/ForestGdnWales)
+* Please leave a review on [Airbnb](https://www.airbnb.co.uk/users/show/233536194), [Tripadvisor](https://www.tripadvisor.co.uk/Attraction_Review-g580438-d13991813-Reviews-Forest_Garden_Wales-Newcastle_Emlyn_Carmarthenshire_Wales.html) or Facebook [@ForestGardenWales](https://www.facebook.com/forestgardenwales/), thank you 🙂
 
 This page online: <http://simp.ly/publish/wj614M>
