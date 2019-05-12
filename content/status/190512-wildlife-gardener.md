@@ -1,7 +1,7 @@
 ---
 title: Wildlife Gardener
 date: 2019-05-12T18:39:43+01:00
-image: https://res.cloudinary.com/growdigital/image/upload/v1557683107/CEDFF25F-A5C2-42C2-B60E-4A687F3AD688.jpg
+image: https://res.cloudinary.com/growdigital/image/upload/v1557683107/beetle-CEDFF25F.jpg
 imageAlt: Speckled green beetle on metal wheelbarrow lip
 ---
 
