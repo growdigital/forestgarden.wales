@@ -5,4 +5,4 @@ image: https://res.cloudinary.com/growdigital/image/upload/v1545933430/saxifrage
 imageAlt: Stream on wooded hillside, surrounded by green ground cover and ferns
 ---
 
-Another little bit of Welsh magic in [Pengelli Forest](https://www.welshwildlife.org/nature-reserve/pengelli-forest/), a vale of [Golden Saxifrage](https://pfaf.org/user/plant.aspx?latinname=Chrysosplenium+oppositifolium), framed by ferns.
+Another little bit of Welsh magic in [Pengelli Forest](https://www.welshwildlife.org/nature-reserve/pengelli-forest/), a vale of [Golden Saxifrage](http://temperate.theferns.info/viewtropical.php?id=Chrysosplenium+oppositifolium), framed by ferns.

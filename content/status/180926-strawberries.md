@@ -5,4 +5,4 @@ image: "https://res.cloudinary.com/growdigital/image/upload/v1544353756/strawber
 imageAlt: "Line of strawberry runners scratched out in bark mulch"
 ---
 
-🍓 👀 Today I have mostly been planting strawberries in the #ForestGarden. They’re [Fragaria chiloensis](https://pfaf.org/user/Plant.aspx?LatinName=Fragaria+chiloensis). I am strawberried out. 
+🍓 👀 Today I have mostly been planting strawberries in the #ForestGarden. They’re [Fragaria chiloensis](http://temperate.theferns.info/viewtropical.php?id=Fragaria+chiloensis). I am strawberried out. 

@@ -21,7 +21,7 @@ I would also like to plant some specimen trees amongst the wild flower meadow, s
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1551729937/bramble-A8123774.jpg" alt="Cleared bramble area on sloping meadow" caption="The old pasture, which will be cleared of bramble and then slowly converted to wild flower meadow" >}}
 
-This year, it’s all about clearing the bramble ([Rubus fruticosus](https://pfaf.org/user/plant.aspx?latinname=Rubus+fruticosus)). In this part of the world, it is _everywhere_. As bad vegans, and with bad fencing, we don’t have the neighbour’s cattle on the land any more. You can really notice the rapid spread in just two years. This is [ecological succession](https://en.wikipedia.org/wiki/Ecological_succession) in action. Already, oaks, ash and cherry saplings have sprouted up amidst the thickest bramble bushes. 
+This year, it’s all about clearing the bramble ([Rubus fruticosus](http://temperate.theferns.info/viewtropical.php?id=Rubus+fruticosus)). In this part of the world, it is _everywhere_. As bad vegans, and with bad fencing, we don’t have the neighbour’s cattle on the land any more. You can really notice the rapid spread in just two years. This is [ecological succession](https://en.wikipedia.org/wiki/Ecological_succession) in action. Already, oaks, ash and cherry saplings have sprouted up amidst the thickest bramble bushes. 
 
 A lot of people say to use [glysophate](https://en.wikipedia.org/wiki/Glyphosate) to kill the bramble roots. Well, I’m not a big fan of herbicides. So, we’re going to try a [flame gun](http://www.sheenflamegun.co.uk/index.htm) (and probably a bit of digging). That’ll be enough for this year, I’ll let you know how it <goes class=""></goes>
 

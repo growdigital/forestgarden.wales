@@ -5,4 +5,4 @@ image: "https://res.cloudinary.com/growdigital/image/upload/v1544364885/elaeagnu
 imageAlt: "Close up of evergreen bush with small white flowers"
 ---
 
-The [Elaeagnus x ebbingei](https://pfaf.org/user/plant.aspx?LatinName=Elaeagnus+x+ebbingei) #ForestGarden windbreak is flowering, absolutely beautiful scent. 
+The [Elaeagnus x ebbingei](http://temperate.theferns.info/viewtropical.php?id=Elaeagnus+x+ebbingei) #ForestGarden windbreak is flowering, absolutely beautiful scent. 

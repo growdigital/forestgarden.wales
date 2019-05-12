@@ -20,21 +20,21 @@ Currently, only the results for [spring flowers foraged by honey bees](https://b
 
 Spring flowers are critical in providing nectar and pollen for pollinators which have recently emerged from hibernation, and which are about to start new broods. The flowers are, in order of the most foraged:
 
-1. [Willow](https://pfaf.org/user/Plant.aspx?LatinName=Salix+alba) (Salix species)
-* [Hawthorn](https://pfaf.org/user/Plant.aspx?LatinName=Crataegus+monogyna) (Crataegus monogyna)
+1. [Willow](http://temperate.theferns.info/viewtropical.php?id=Salix+alba) (Salix species)
+* [Hawthorn](http://temperate.theferns.info/viewtropical.php?id=Crataegus+monogyna) (Crataegus monogyna)
 * [Cotoneaster](https://en.wikipedia.org/wiki/Cotoneaster) (eg [Cotoneaster horizontalis](https://www.rhs.org.uk/Plants/4619/i-Cotoneaster-horizontalis-i/Details))
-* [Apple](https://pfaf.org/user/plant.aspx?LatinName=Malus+domestica) and [cherry](https://pfaf.org/user/Plant.aspx?LatinName=Prunus+avium) trees (Malus and Prunus species)
-* [Gorse](https://pfaf.org/user/Plant.aspx?LatinName=Ulex+europaeus) (Ulex europaeus)
-* [Sycamore](https://pfaf.org/user/plant.aspx?latinname=Acer+pseudoplatanus) and other [Acer](https://pfaf.org/user/Plant.aspx?LatinName=Acer+palmatum) species
+* [Apple](http://temperate.theferns.info/viewtropical.php?id=Malus+domestica) and [cherry](http://temperate.theferns.info/viewtropical.php?id=Prunus+avium) trees (Malus and Prunus species)
+* [Gorse](http://temperate.theferns.info/viewtropical.php?id=Ulex+europaeus) (Ulex europaeus)
+* [Sycamore](http://temperate.theferns.info/viewtropical.php?id=Acer+pseudoplatanus) and other [Acer](http://temperate.theferns.info/viewtropical.php?id=Acer+palmatum) species
 * [Hellebores](https://en.wikipedia.org/wiki/Hellebore) (Helleborus species)
-* [Dandelions](https://pfaf.org/user/plant.aspx?LatinName=Taraxacum+officinale) (Taraxacum officinale)
-* [Holly](https://pfaf.org/user/Plant.aspx?LatinName=Ilex+aquifolium) (Ilex species)
-* [Oak](https://pfaf.org/user/Plant.aspx?LatinName=Quercus+petraea) (Quercus species)
+* [Dandelions](http://temperate.theferns.info/viewtropical.php?id=Taraxacum+officinale) (Taraxacum officinale)
+* [Holly](http://temperate.theferns.info/viewtropical.php?id=Ilex+aquifolium) (Ilex species)
+* [Oak](http://temperate.theferns.info/viewtropical.php?id=Quercus+petraea) (Quercus species)
 
 Help pollinators in your orchard in spring by planting a [willow](https://en.wikipedia.org/wiki/Willow) and a [hawthorn](https://pfaf.org/user/cmspage.aspx?pageid=59). For the smaller garden, there are more compact willow varieties, and there are also some fantastic fruiting hawthorns: take a look at the [Plants For A Future website](https://pfaf.org/). 
 
-From a forest garden perspective, these spring flowers can be supplemented with [Dandelion](https://pfaf.org/user/Plant.aspx?LatinName=Taraxacum+officinale), [Marsh Marigold](https://pfaf.org/user/Plant.aspx?LatinName=Caltha+palustris), [Gorse](https://pfaf.org/user/Plant.aspx?LatinName=Ulex+europaeus), [Purple Deadnettle](https://pfaf.org/user/Plant.aspx?LatinName=Lamium+purpureum) and [Winter Heath](https://www.rhs.org.uk/Plants/89384/i-Erica-carnea-i-Loughrigg/Details)—all of these provide both nectar and pollen (Appendix 3, [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/) book).
+From a forest garden perspective, these spring flowers can be supplemented with [Dandelion](http://temperate.theferns.info/viewtropical.php?id=Taraxacum+officinale), [Marsh Marigold](http://temperate.theferns.info/viewtropical.php?id=Caltha+palustris), [Gorse](http://temperate.theferns.info/viewtropical.php?id=Ulex+europaeus), [Purple Deadnettle](http://temperate.theferns.info/viewtropical.php?id=Lamium+purpureum) and [Winter Heath](https://www.rhs.org.uk/Plants/89384/i-Erica-carnea-i-Loughrigg/Details)—all of these provide both nectar and pollen (Appendix 3, [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/) book).
 
 At the Botanic Gardens, PhD student [Lucy Witter](https://botanicgarden.wales/plants-pollinators-creating-pollinator-friendly-seed-mixes-gardens-urban-green-spaces/) is creating an open access list of the best plants for pollinators based on the DNA research, as well creating and testing pollinator friendly seed mixes.
 
-Until this year-round advice is published, there are plenty of other sources for finding bee and pollinator friendly plants. My [personal favourites](https://www.forestgarden.wales/blog/top-10-bee-friendly-plants/) include [Comfrey](https://pfaf.org/user/Plant.aspx?LatinName=Symphytum+officinale), [Borage](https://pfaf.org/user/Plant.aspx?LatinName=Borago+officinalis) and [Purple Loosestrife](https://pfaf.org/user/Plant.aspx?LatinName=Lythrum+salicaria), or you can try the [Bumblebee Conservation Trust](https://www.bumblebeeconservation.org)’s [Bee Kind Flower Finder](https://beekind.bumblebeeconservation.org/home)!
+Until this year-round advice is published, there are plenty of other sources for finding bee and pollinator friendly plants. My [personal favourites](https://www.forestgarden.wales/blog/top-10-bee-friendly-plants/) include [Comfrey](http://temperate.theferns.info/viewtropical.php?id=Symphytum+officinale), [Borage](http://temperate.theferns.info/viewtropical.php?id=Borago+officinalis) and [Purple Loosestrife](http://temperate.theferns.info/viewtropical.php?id=Lythrum+salicaria), or you can try the [Bumblebee Conservation Trust](https://www.bumblebeeconservation.org)’s [Bee Kind Flower Finder](https://beekind.bumblebeeconservation.org/home)!

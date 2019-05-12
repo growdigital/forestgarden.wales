@@ -51,9 +51,9 @@ The key advantage to using CAD is that you can calculate the final diameters of 
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1552344302/plum-5E0A8EE6.jpg" alt="White tree blossom" caption="A prunus in blossom; this is an Early Prolific plum but you get the idea!" >}}
 
-As you can see from the plan, the star of the show is the 'Stella' cherry, at the heart of the garden. This is underplanted with Alliums on one side and [Lady’s Mantle](https://pfaf.org/user/Plant.aspx?LatinName=Alchemilla+xanthochlora) and [Bears Breeches](https://pfaf.org/User/Plant.aspx?LatinName=Acanthus+mollis) on the more shaded side. There’ll be two paths re-using the gravel going around the tree to the corner, where there’ll be some sort of water feature (eg a small wildlife pond in an old Belfast sink) and a movable bench in the seating area. 
+As you can see from the plan, the star of the show is the 'Stella' cherry, at the heart of the garden. This is underplanted with Alliums on one side and [Lady’s Mantle](http://temperate.theferns.info/viewtropical.php?id=Alchemilla+xanthochlora) and [Bears Breeches](http://temperate.theferns.info/viewtropical.php?id=Acanthus+mollis) on the more shaded side. There’ll be two paths re-using the gravel going around the tree to the corner, where there’ll be some sort of water feature (eg a small wildlife pond in an old Belfast sink) and a movable bench in the seating area. 
 
-Along the south facing wall will be day lillies rising above the clipped box hedge, fronted with mediterranean, sun-loving herbs. By the bench, there’s a lovely bunch of fennel, with mint behind for scent and for pollinators. The hedge with the neighbour is [Atriplex halimus](https://pfaf.org/user/plant.aspx?LatinName=Atriplex+halimus), which is relatively easy to manage and likes full sun. 
+Along the south facing wall will be day lillies rising above the clipped box hedge, fronted with mediterranean, sun-loving herbs. By the bench, there’s a lovely bunch of fennel, with mint behind for scent and for pollinators. The hedge with the neighbour is [Atriplex halimus](http://temperate.theferns.info/viewtropical.php?id=Atriplex+halimus), which is relatively easy to manage and likes full sun. 
 
 The border along the pavement will have currants planted, to provide both fruit and a visual screen for the rest of the garden. 
 

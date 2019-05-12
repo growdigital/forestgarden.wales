@@ -5,4 +5,4 @@ image: https://res.cloudinary.com/growdigital/image/upload/v1552393978/alefoot-4
 imageAlt: Purple blue flower of low growing Alefoot
 ---
 
-Noticed the Alefoot ([Glechoma hederacea](https://pfaf.org/user/Plant.aspx?LatinName=Glechoma+hederacea)) flowering in the #ForestGarden 🙂
+Noticed the Alefoot ([Glechoma hederacea](http://temperate.theferns.info/viewtropical.php?id=Glechoma+hederacea)) flowering in the #ForestGarden 🙂

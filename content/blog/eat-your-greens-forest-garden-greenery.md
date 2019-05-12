@@ -27,10 +27,10 @@ To remedy the situation, and enthused by [Alison Tinsdale](https://twitter.com/b
 
 Here is my plant list for the Greenery:
 
-* [Swiss Chard](https://pfaf.org/user/Plant.aspx?LatinName=Beta+vulgaris+flavescens) – perennial with care, keep it from flowering & protect from hard frost
+* [Swiss Chard](http://temperate.theferns.info/viewtropical.php?id=Beta+vulgaris+flavescens) – perennial with care, keep it from flowering & protect from hard frost
 * [Nine Star Broccoli](https://backyardlarder.co.uk/shop/nine-star-perennial-broccoli-2/) – small white broccoli heads, keep fed & watered
 * [Asturian Tree Cabbage](http://www.realseeds.co.uk/cabbage.html) – will last for 2 years or more, mild, bright green leaves
-* [Good King Henry](https://pfaf.org/user/plant.aspx?latinname=Chenopodium+bonus-henricus) – fantastic spinach substitute, dies down in winter, big taproot. Plus you can eat the flower heads and seeds
+* [Good King Henry](http://temperate.theferns.info/viewtropical.php?id=Chenopodium+bonus-henricus) – fantastic spinach substitute, dies down in winter, big taproot. Plus you can eat the flower heads and seeds
 * [Daubenton Kale](https://backyardlarder.co.uk/shop/daubenton-kale/) – I’m coming round to kale, slowly. Keen to grow this form.
 * [Broad Leafed Sorrel](https://www.agroforestry.co.uk/product/rumex-acetosa-large-leaved/) – has a lemony zing, early into leaf. I use it to add citrusy flavour to curries & stews
 * [Turkish Rocket](https://www.agroforestry.co.uk/product/bunias-orientalis-2/) – 

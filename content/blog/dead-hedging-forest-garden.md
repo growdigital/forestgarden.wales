@@ -20,7 +20,7 @@ They are also nice and easy to make—you bang some home-made posts in pre-made 
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1555835457/deadhedge-190421.jpg" alt="Simple illusration showing 4 upgrights, with horizontal lines inbetween" caption="The essence of a dead hedge is captured in this primitive yet adequate illustration" >}}
 
-We planted a [Yushania anceps 'Pitt White'](https://www.agroforestry.co.uk/product/yushania-anceps-pitt-white/) bamboo in the Ornamental Forest Garden but it’s been battered a bit by winds, as the windbreak hedges have yet to get established, and the [Broom](https://pfaf.org/user/Plant.aspx?LatinName=Cytisus+scoparius) nurse trees aren’t in place yet. So a dead hedge is an ideal solution.
+We planted a [Yushania anceps 'Pitt White'](https://www.agroforestry.co.uk/product/yushania-anceps-pitt-white/) bamboo in the Ornamental Forest Garden but it’s been battered a bit by winds, as the windbreak hedges have yet to get established, and the [Broom](http://temperate.theferns.info/viewtropical.php?id=Cytisus+scoparius) nurse trees aren’t in place yet. So a dead hedge is an ideal solution.
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1555776607/deadhedge-36AAF992.jpg" alt="Inside the dead hedge, showing small bamboo" caption="The other side of the dead hedge, showing the weak and poorly bamboo" >}}
 

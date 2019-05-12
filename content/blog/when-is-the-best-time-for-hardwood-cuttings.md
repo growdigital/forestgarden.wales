@@ -32,16 +32,16 @@ Also, I neglected to water the cuttings throughout the drought this summer, and 
 
 As much for the benefit of my forgetful mind as for you, the dear reader, here’s a list of plants for this seaon’s hardwood cuttings:
 
-* [Cornus sericea](https://pfaf.org/user/Plant.aspx?LatinName=Cornus+sericea) (Red Osier Dogwood)
+* [Cornus sericea](http://temperate.theferns.info/viewtropical.php?id=Cornus+sericea) (Red Osier Dogwood)
 * [Cornus sericea 'Flaviramea'](https://www.rhs.org.uk/Plants/4412/i-Cornus-sericea-i-Flaviramea/Details) (Golden Twig Dogwood)
-* [Amelanchier canadensis](https://pfaf.org/user/plant.aspx?LatinName=Amelanchier+canadensis) (Juneberry)
+* [Amelanchier canadensis](http://temperate.theferns.info/viewtropical.php?id=Amelanchier+canadensis) (Juneberry)
 * [Berberis](https://en.wikipedia.org/wiki/Berberis) (Barberry)
-* [Hippophae rhamnoides](https://pfaf.org/user/Plant.aspx?LatinName=Hippophae+rhamnoides) (Sea buckthorn)
-* [Ribes x culverwellii](https://pfaf.org/user/Plant.aspx?LatinName=Ribes+x+culverwellii) (Jostaberry)
-* [Ribes nigrum](https://pfaf.org/user/Plant.aspx?LatinName=Ribes+nigrum) (Blackcurrant)
-* [Ribes laxiflorum](https://pfaf.org/user/Plant.aspx?LatinName=Ribes+laxiflorum) (Whitecurrant)
-* [Ribes uva-crispa](https://pfaf.org/user/Plant.aspx?LatinName=Ribes+uva-crispa) (Gooseberry)
-* [Sambucus canadensis](https://pfaf.org/user/Plant.aspx?LatinName=Sambucus+canadensis) (American Elder)
+* [Hippophae rhamnoides](http://temperate.theferns.info/viewtropical.php?id=Hippophae+rhamnoides) (Sea buckthorn)
+* [Ribes x culverwellii](http://temperate.theferns.info/viewtropical.php?id=Ribes+x+culverwellii) (Jostaberry)
+* [Ribes nigrum](http://temperate.theferns.info/viewtropical.php?id=Ribes+nigrum) (Blackcurrant)
+* [Ribes laxiflorum](http://temperate.theferns.info/viewtropical.php?id=Ribes+laxiflorum) (Whitecurrant)
+* [Ribes uva-crispa](http://temperate.theferns.info/viewtropical.php?id=Ribes+uva-crispa) (Gooseberry)
+* [Sambucus canadensis](http://temperate.theferns.info/viewtropical.php?id=Sambucus+canadensis) (American Elder)
 * [Symphoricarpos](https://en.wikipedia.org/wiki/Symphoricarpos) (Snowberry)
 
 And I’ll take more care this year, I promise 🙂

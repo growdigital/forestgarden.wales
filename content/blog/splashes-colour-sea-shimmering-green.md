@@ -23,15 +23,15 @@ I’m buckling down on the perennial vegetable front, inspired by the likes of A
 
 As you can see from the photo, there’s plenty of room for flowers. The ones I’ve chosen are all easy to grow, a bonus for my clumsy propagation skills, and excellent for beneficial insects:
 
-* Bergamot ([Monarda didyma](https://pfaf.org/user/Plant.aspx?LatinName=Monarda+didyma))  
+* Bergamot ([Monarda didyma](http://temperate.theferns.info/viewtropical.php?id=Monarda+didyma))  
   _Perennial, leaves & flowers in salads, make aromatic tea_
-* Pot Marigold ([Calendula officinalis](https://pfaf.org/user/Plant.aspx?LatinName=Calendula+officinalis))  
+* Pot Marigold ([Calendula officinalis](http://temperate.theferns.info/viewtropical.php?id=Calendula+officinalis))  
   _Annual, edible leaves & flowers, dye from petals_
-* Borage ([Borago officinalis](https://pfaf.org/user/Plant.aspx?LatinName=Borago+officinalis))  
+* Borage ([Borago officinalis](http://temperate.theferns.info/viewtropical.php?id=Borago+officinalis))  
   _Annual, amazing bee plant, edible flowers_
-* Poached Egg Plant ([Limnanthes douglasii](https://pfaf.org/user/Plant.aspx?LatinName=Limnanthes+douglasii))  
+* Poached Egg Plant ([Limnanthes douglasii](http://temperate.theferns.info/viewtropical.php?id=Limnanthes+douglasii))  
   _Annual, supereasy to grow, great for bees & hoverflies, will self-sow_
-* Marigold 'Naughty Marietta' ([Tagetes patula](https://pfaf.org/user/Plant.aspx?LatinName=Tagetes+patula))  
+* Marigold 'Naughty Marietta' ([Tagetes patula](http://temperate.theferns.info/viewtropical.php?id=Tagetes+patula))  
   _Annual, classic companion plant for veg plots_
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1554286693/bergamot-8750507230.jpg" alt="Spray of pinkish flowers with long petals" caption="Monarda didyma, photo by Alwyn Ladell on Flickr" >}}

@@ -5,4 +5,4 @@ image: https://res.cloudinary.com/growdigital/image/upload/v1547057173/cardoon-9
 imageAlt: Silvery grey and pointy new cardoon leaves
 ---
 
-Lots of new [Cardoon](https://pfaf.org/user/Plant.aspx?LatinName=Cynara+cardunculus) (Cynara cardunculus) leaves in the Blue Bean Border in the #ForestGarden
+Lots of new [Cardoon](http://temperate.theferns.info/viewtropical.php?id=Cynara+cardunculus) (Cynara cardunculus) leaves in the Blue Bean Border in the #ForestGarden

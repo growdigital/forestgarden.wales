@@ -5,4 +5,4 @@ image: "https://res.cloudinary.com/growdigital/image/upload/v1544344952/raised-b
 imageAlt: "3 raised beds in the sun, mulched with bark, wheelbarrow"
 ---
 
-I’ve been propagating [Symphytum ibericum](https://www.rhs.org.uk/Plants/75444/i-Symphytum-ibericum-i/Details) (Dwarf Comfrey) and [Vinca minor](https://pfaf.org/user/plant.aspx?latinname=Vinca+minor) (Lesser Periwinkle) for the new Ornamental, Maintenance-free #ForestGarden. At 3 plants per square metre, that’s a lot of propagating.
+I’ve been propagating [Symphytum ibericum](https://www.rhs.org.uk/Plants/75444/i-Symphytum-ibericum-i/Details) (Dwarf Comfrey) and [Vinca minor](http://temperate.theferns.info/viewtropical.php?id=Vinca+minor) (Lesser Periwinkle) for the new Ornamental, Maintenance-free #ForestGarden. At 3 plants per square metre, that’s a lot of propagating.

@@ -5,4 +5,4 @@ image: "https://res.cloudinary.com/growdigital/image/upload/v1544304722/strawber
 imageAlt: "Propagating strawberry runners in a pot in a propagation bed"
 ---
 
-Rule #1: propagate everything in a #ForestGarden! Some [Fragaria chiloensis](https://pfaf.org/user/Plant.aspx?LatinName=Fragaria+chiloensis) runners popped in a pot in the propagation beds.
+Rule #1: propagate everything in a #ForestGarden! Some [Fragaria chiloensis](http://temperate.theferns.info/viewtropical.php?id=Fragaria+chiloensis) runners popped in a pot in the propagation beds.
