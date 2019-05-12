@@ -1,5 +1,5 @@
 ---
-title: Design
+title: Design & consultancy
 menu: main
 date: 2018-02-09T19:21:11Z
 image: https://res.cloudinary.com/growdigital/image/upload/v1543789181/final-plan-fgrp.jpg
@@ -8,7 +8,7 @@ imageCap: An example of a forest garden outline planting plan
 draft: false
 ---
 
-# Forest garden design service
+# Forest garden design & consultancy service
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1543789181/final-plan-fgrp.jpg" alt="CAD forest garden plan" caption="“I’m just delighted with the plan! It’s everything I wanted and much more.” – Sandra from County Dublin" >}}
 
