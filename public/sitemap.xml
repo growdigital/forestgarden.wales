@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/190513-tayberry-fedge/</loc>
+    <lastmod>2019-05-13T11:00:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/recycled-ever-expanding-plant-labels/</loc>
     <lastmod>2019-05-12T22:28:17+01:00</lastmod>
   </url>
