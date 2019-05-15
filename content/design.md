@@ -1,5 +1,5 @@
 ---
-title: Design & consultancy
+title: Design
 menu: main
 date: 2018-02-09T19:21:11Z
 image: https://res.cloudinary.com/growdigital/image/upload/v1543789181/final-plan-fgrp.jpg
