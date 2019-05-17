@@ -9,16 +9,16 @@ imageAlt: Screenshot of Botanic Garden Wales blog post "Honey bees like living c
 
 ## Top 10 spring flowers foraged by honey bees for nectar and pollen
 
-1. [Willow](http://temperate.theferns.info/viewtropical.php?id=Salix+alba) (Salix species)
-* [Hawthorn](http://temperate.theferns.info/viewtropical.php?id=Crataegus+monogyna) (Crataegus monogyna)
+1. [Willow](https://pfaf.org/user/plant.aspx?latinname=Salix+alba) (Salix species)
+* [Hawthorn](https://pfaf.org/user/plant.aspx?latinname=Crataegus+monogyna) (Crataegus monogyna)
 * Cotoneaster (e.g Cotoneaster horizontalis)
-* [Apple](http://temperate.theferns.info/viewtropical.php?id=Malus+domestica) and [cherry](http://temperate.theferns.info/viewtropical.php?id=Prunus+avium) trees (Malus and Prunus species)
-* [Gorse](http://temperate.theferns.info/viewtropical.php?id=Ulex+europaeus) (Ulex europaeus)
-* [Sycamore](http://temperate.theferns.info/viewtropical.php?id=Acer+pseudoplatanus) and other [Acer](http://temperate.theferns.info/viewtropical.php?id=Acer+palmatum) species
+* [Apple](https://pfaf.org/user/plant.aspx?latinname=Malus+domestica) and [cherry](https://pfaf.org/user/plant.aspx?latinname=Prunus+avium) trees (Malus and Prunus species)
+* [Gorse](https://pfaf.org/user/plant.aspx?latinname=Ulex+europaeus) (Ulex europaeus)
+* [Sycamore](https://pfaf.org/user/plant.aspx?latinname=Acer+pseudoplatanus) and other [Acer](https://pfaf.org/user/plant.aspx?latinname=Acer+palmatum) species
 * Hellebores (Helleborus species)
-* [Dandelions](http://temperate.theferns.info/viewtropical.php?id=Taraxacum+officinale) (Taraxacum officinale)
-* [Holly](http://temperate.theferns.info/viewtropical.php?id=Ilex+aquifolium) (Ilex species)
-* [Oak](http://temperate.theferns.info/viewtropical.php?id=Quercus+petraea) (Quercus species)
+* [Dandelions](https://pfaf.org/user/plant.aspx?latinname=Taraxacum+officinale) (Taraxacum officinale)
+* [Holly](https://pfaf.org/user/plant.aspx?latinname=Ilex+aquifolium) (Ilex species)
+* [Oak](https://pfaf.org/user/plant.aspx?latinname=Quercus+petraea) (Quercus species)
 
 Source: <https://botanicgarden.wales/honey-bees-like-living-close-hedge-official/>
 

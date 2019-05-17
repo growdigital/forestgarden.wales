@@ -5,4 +5,4 @@ image: https://res.cloudinary.com/growdigital/image/upload/v1552572926/dandelion
 imageAlt: Bright yellow dandelion flower close-up
 ---
 
-The [dandelion](http://temperate.theferns.info/viewtropical.php?id=Taraxacum+officinale) is your #ForestGarden ally, #pollinator friendly, edible, mineral accumulator 🙂 
+The [dandelion](https://pfaf.org/user/plant.aspx?latinname=Taraxacum+officinale) is your #ForestGarden ally, #pollinator friendly, edible, mineral accumulator 🙂 

@@ -5,4 +5,4 @@ image: https://res.cloudinary.com/growdigital/image/upload/v1544624177/polytunne
 imageAlt: Plants in pots on shelves in a polytunnel
 ---
 
-Started tidying up the #ForestGarden polytunnel, adding some new (sic) shelves. This year, I’m not planting out the [Phormium tenax](http://temperate.theferns.info/viewtropical.php?id=Phormium+tenax) (New Zealand Flax) until spring. I lost 4 plants last winter 😢.
+Started tidying up the #ForestGarden polytunnel, adding some new (sic) shelves. This year, I’m not planting out the [Phormium tenax](https://pfaf.org/user/plant.aspx?latinname=Phormium+tenax) (New Zealand Flax) until spring. I lost 4 plants last winter 😢.

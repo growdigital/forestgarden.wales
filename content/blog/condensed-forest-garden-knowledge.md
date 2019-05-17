@@ -12,7 +12,7 @@ imageCap: The inside of Martin Crawford’s Creating a Forest Garden book
 draft: false
 ---
 
-I happened to be passing [Farmyard Nurseries](https://farmyardnurseries.co.uk) (where I accidentally bought some [Mentha longifolia](http://temperate.theferns.info/viewtropical.php?id=Mentha+longifolia)) and met someone who wants to start a forest garden. They wanted some quick advice, time was limited so I wrote this list:
+I happened to be passing [Farmyard Nurseries](https://farmyardnurseries.co.uk) (where I accidentally bought some [Mentha longifolia](https://pfaf.org/user/plant.aspx?latinname=Mentha+longifolia)) and met someone who wants to start a forest garden. They wanted some quick advice, time was limited so I wrote this list:
 
 1. Buy **[Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/)** by Martin Crawford. Fantastic design manual and reference.
 2. Use [Plants for a Future](https://pfaf.org/) website for quick reference of species and sizes.

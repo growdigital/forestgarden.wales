@@ -23,19 +23,19 @@ Then, the digger arrived, to dig the wildlife pond and level an area for the [fo
 
 I had ordered quite a few trees and shrubs from [Agroforestry Research Trust](https://www.agroforestry.co.uk) and they’d been heeled-in to a raised bed for a couple of months. The warm weather in February made me nervous, leaving it any longer would increase the likelihood of needing to keep the trees well watered throughout the summer. The full list of trees is here:
 
-* [Cornelian Cherry](http://temperate.theferns.info/viewtropical.php?id=Cornus+mas) (Cornus mas) Gourmet
-* [Haw](http://temperate.theferns.info/viewtropical.php?id=Crataegus+arnoldiana) Crataegus arnoldiana
-* [Bladdernut](http://temperate.theferns.info/viewtropical.php?id=staphylea+pinnata) (Staphylea pinnata)
-* [Chestnut](http://temperate.theferns.info/viewtropical.php?id=Castanea+sativa) (Castanea) Marigoule seedling
-* [Hazelnut](http://temperate.theferns.info/viewtropical.php?id=Corylus+avellana) (Corylus avellana) Corabel, Webbs prize Cob
-* [Elaeagnus umbellata](http://temperate.theferns.info/viewtropical.php?id=Elaeagnus+umbellata) Big Red
-* [Highbush Cranberry](http://temperate.theferns.info/viewtropical.php?id=Viburnum+trilobum) (Viburnum trilobum) Phillips, Wentworth
-* [Phyllostachys viridi-glaucescens](http://temperate.theferns.info/viewtropical.php?id=Phyllostachys+viridiglaucescens)
-* [Yushania anceps Pitt White](http://temperate.theferns.info/viewtropical.php?id=Yushania+anceps)
+* [Cornelian Cherry](https://pfaf.org/user/plant.aspx?latinname=Cornus+mas) (Cornus mas) Gourmet
+* [Haw](https://pfaf.org/user/plant.aspx?latinname=Crataegus+arnoldiana) Crataegus arnoldiana
+* [Bladdernut](https://pfaf.org/user/plant.aspx?latinname=staphylea+pinnata) (Staphylea pinnata)
+* [Chestnut](https://pfaf.org/user/plant.aspx?latinname=Castanea+sativa) (Castanea) Marigoule seedling
+* [Hazelnut](https://pfaf.org/user/plant.aspx?latinname=Corylus+avellana) (Corylus avellana) Corabel, Webbs prize Cob
+* [Elaeagnus umbellata](https://pfaf.org/user/plant.aspx?latinname=Elaeagnus+umbellata) Big Red
+* [Highbush Cranberry](https://pfaf.org/user/plant.aspx?latinname=Viburnum+trilobum) (Viburnum trilobum) Phillips, Wentworth
+* [Phyllostachys viridi-glaucescens](https://pfaf.org/user/plant.aspx?latinname=Phyllostachys+viridiglaucescens)
+* [Yushania anceps Pitt White](https://pfaf.org/user/plant.aspx?latinname=Yushania+anceps)
 
-Plus I moved the [Mulberry](http://temperate.theferns.info/viewtropical.php?id=Morus+alba) and [Cornus kousa 'Chinensis'](http://temperate.theferns.info/viewtropical.php?id=Cornus+kousa+chinensis) from the other forest garden, to a more sheltered position. Together with a couple of [plum Excalibur](https://www.orangepippin.com/varieties/plums/excalibur) and apples grafted ([Ashmead’s Kernel](https://www.orangepippin.com/varieties/apples/ashmeads-kernel) and Poppit Bubblegum) by own fair hand, that’s enough canopy layer to be getting on with.
+Plus I moved the [Mulberry](https://pfaf.org/user/plant.aspx?latinname=Morus+alba) and [Cornus kousa 'Chinensis'](https://pfaf.org/user/plant.aspx?latinname=Cornus+kousa+chinensis) from the other forest garden, to a more sheltered position. Together with a couple of [plum Excalibur](https://www.orangepippin.com/varieties/plums/excalibur) and apples grafted ([Ashmead’s Kernel](https://www.orangepippin.com/varieties/apples/ashmeads-kernel) and Poppit Bubblegum) by own fair hand, that’s enough canopy layer to be getting on with.
 
-In terms of ornamentality, the [Cornelian Cherry](https://www.rhs.org.uk/Plants/4399/i-Cornus-mas-i/Details) currently has beautiful witchhazel-like yellow blossom, the [Hawthorn](http://temperate.theferns.info/viewtropical.php?id=Crataegus+arnoldiana) will have a glorious spring display and the [Highbush Cranberry](http://temperate.theferns.info/viewtropical.php?id=Viburnum+trilobum) have beautiful open flowers in spring and glorious autumn red berries. 
+In terms of ornamentality, the [Cornelian Cherry](https://www.rhs.org.uk/Plants/4399/i-Cornus-mas-i/Details) currently has beautiful witchhazel-like yellow blossom, the [Hawthorn](https://pfaf.org/user/plant.aspx?latinname=Crataegus+arnoldiana) will have a glorious spring display and the [Highbush Cranberry](https://pfaf.org/user/plant.aspx?latinname=Viburnum+trilobum) have beautiful open flowers in spring and glorious autumn red berries. 
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1551040174/plumexcalibur-665B6E4E.jpg" alt="Newly planted trees in greenfield site" caption="Plum Excalibur in the foreground, with young Italian Alder whip to the left, and Hazel 'Webbs Prize Cob' to the right" >}}
 

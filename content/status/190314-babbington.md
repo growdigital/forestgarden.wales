@@ -5,4 +5,4 @@ image: https://res.cloudinary.com/growdigital/image/upload/v1552584217/babington
 imageAlt: Green shoots of allium coming up through brown bark
 ---
 
-[Babington’s Leek](http://temperate.theferns.info/viewtropical.php?id=Allium+ampeloprasum+babingtonii) (Allium babingtonii) are alive in the #ForestGarden! Just threw the bulbils on the ground last year and hoped for the best and the best just happened 🙂
+[Babington’s Leek](https://pfaf.org/user/plant.aspx?latinname=Allium+ampeloprasum+babingtonii) (Allium babingtonii) are alive in the #ForestGarden! Just threw the bulbils on the ground last year and hoped for the best and the best just happened 🙂

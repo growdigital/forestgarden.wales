@@ -5,4 +5,4 @@ image: "https://res.cloudinary.com/growdigital/image/upload/v1544361538/trees-31
 imageAlt: "Blue sky over tree tops"
 ---
 
-Bore da, good morning all. Planting [Glechoma hederacea](http://temperate.theferns.info/viewtropical.php?id=Glechoma+hederacea) in #ForestGarden today. Very hot & sunny out, don’t forget your autumn sunscreen!
+Bore da, good morning all. Planting [Glechoma hederacea](https://pfaf.org/user/plant.aspx?latinname=Glechoma+hederacea) in #ForestGarden today. Very hot & sunny out, don’t forget your autumn sunscreen!

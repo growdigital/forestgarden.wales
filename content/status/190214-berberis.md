@@ -5,4 +5,4 @@ image: https://res.cloudinary.com/growdigital/image/upload/v1550168079/berberis-
 imageAlt: Small spiky plant close-up between sheet mulch, big trees in the background
 ---
 
-Giant [Berberis darwinii](http://temperate.theferns.info/viewtropical.php?id=Berberis+darwinii) planted in Ornamental #ForestGarden
+Giant [Berberis darwinii](https://pfaf.org/user/plant.aspx?latinname=Berberis+darwinii) planted in Ornamental #ForestGarden

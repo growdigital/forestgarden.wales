@@ -5,4 +5,4 @@ image: "https://res.cloudinary.com/growdigital/image/upload/v1542655525/pineappl
 imageAlt: "Close up white exotic flower, green oval leaves on tree"
 ---
 
-Martin Crawford at [Agroforestry Research Trust](https://www.agroforestry.co.uk) has thankfully started putting out more regular #ForestGarden email announcements, [the latest one](https://mailchi.mp/282de75c9f65/tree-crops-store-carbon?e=c137640827) is about [Pineapple Guava](http://temperate.theferns.info/viewtropical.php?id=Acca+sellowiana) and [Sea Buckthorn](http://temperate.theferns.info/viewtropical.php?id=Hippophae+rhamnoides). 
+Martin Crawford at [Agroforestry Research Trust](https://www.agroforestry.co.uk) has thankfully started putting out more regular #ForestGarden email announcements, [the latest one](https://mailchi.mp/282de75c9f65/tree-crops-store-carbon?e=c137640827) is about [Pineapple Guava](https://pfaf.org/user/plant.aspx?latinname=Acca+sellowiana) and [Sea Buckthorn](https://pfaf.org/user/plant.aspx?latinname=Hippophae+rhamnoides). 

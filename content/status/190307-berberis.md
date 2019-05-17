@@ -5,4 +5,4 @@ image: https://res.cloudinary.com/growdigital/image/upload/v1551977878/berberis-
 imageAlt: Close up evergreen spikey leaves and flower buds
 ---
 
-[Berberis darwinii](http://temperate.theferns.info/viewtropical.php?id=Berberis+darwinii) flower buds in the Ornamental #ForestGarden. Blurry photo, well, the flower buds are.
+[Berberis darwinii](https://pfaf.org/user/plant.aspx?latinname=Berberis+darwinii) flower buds in the Ornamental #ForestGarden. Blurry photo, well, the flower buds are.

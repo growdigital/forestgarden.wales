@@ -5,4 +5,4 @@ image: https://res.cloudinary.com/growdigital/image/upload/v1552584197/shoots-F9
 imageAlt: Young reddish shoots atop thin stem
 ---
 
-[Chinese Cedar](http://temperate.theferns.info/viewtropical.php?id=Toona+sinensis) (Toona sinensis) shoots are showing in the #ForestGarden. Not long before garlicky shoots will be a-ready for an-eating.
+[Chinese Cedar](https://pfaf.org/user/plant.aspx?latinname=Toona+sinensis) (Toona sinensis) shoots are showing in the #ForestGarden. Not long before garlicky shoots will be a-ready for an-eating.

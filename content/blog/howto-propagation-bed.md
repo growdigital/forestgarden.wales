@@ -27,7 +27,7 @@ The process is pretty simple. Find an area of grass that you know won’t be use
 
 The grass will die off beneath the cardboard, the ground cover plants will grow in the soil, the cardboard will gradually decompose and the ground cover will get established. All you’ll need to do is a bit of weeding every few months. 
 
-Make sure to plant something that easy to propagate. Around here in West Wales, [Glechoma hederacea](http://temperate.theferns.info/viewtropical.php?id=Glechoma+hederacea) grows like a proverbial weed, so it’s a fantastic, low-maintenance ground cover. Plants For A Future has a handy [database of ground cover plants](https://pfaf.org/user/cmspage.aspx?pageid=249) if you’re stuck for ideas.
+Make sure to plant something that easy to propagate. Around here in West Wales, [Glechoma hederacea](https://pfaf.org/user/plant.aspx?latinname=Glechoma+hederacea) grows like a proverbial weed, so it’s a fantastic, low-maintenance ground cover. Plants For A Future has a handy [database of ground cover plants](https://pfaf.org/user/cmspage.aspx?pageid=249) if you’re stuck for ideas.
 
 The beauty is that the propagation bed is only ever temporary, you can always move the plants to another site. If you don’t use them, you can always give them away to friends, neighbours or a fête worse than death.
 

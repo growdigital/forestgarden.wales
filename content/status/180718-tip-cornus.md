@@ -5,4 +5,4 @@ image: "https://res.cloudinary.com/growdigital/image/upload/v1544297620/cornus-2
 imageAlt: "Photo of deciduous hedging shrub in front of spiky rose shrub"
 ---
 
-A #ForestGarden #HotTip 🔥 Grow a non-spikey hedging plant, eg [Cornus](http://temperate.theferns.info/viewtropical.php?id=Cornus+sericea), at the end of a [Rosa rugosa](http://temperate.theferns.info/viewtropical.php?id=Rosa+rugosa) hedge, so you don’t get spiked when you walk past.
+A #ForestGarden #HotTip 🔥 Grow a non-spikey hedging plant, eg [Cornus](https://pfaf.org/user/plant.aspx?latinname=Cornus+sericea), at the end of a [Rosa rugosa](https://pfaf.org/user/plant.aspx?latinname=Rosa+rugosa) hedge, so you don’t get spiked when you walk past.

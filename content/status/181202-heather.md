@@ -5,4 +5,4 @@ image: https://res.cloudinary.com/growdigital/image/upload/v1543688433/Calluna-v
 imageAlt: Small pink flowers of heather
 ---
 
-Saw the excellent “dyer’s garden” at the [National Wool Museum](https://museum.wales/wool/) [@AmgueddfaCymru](https://twitter.com/AmgueddfaCymru) last week, [Calluna vulgaris](http://temperate.theferns.info/viewtropical.php?id=Calluna+vulgaris) (Scotch Heather) in flower. Will be [incorporating heather](https://www.forestgarden.wales/blog/top-10-bee-friendly-plants/) as part of the Ornamental #ForestGarden.
+Saw the excellent “dyer’s garden” at the [National Wool Museum](https://museum.wales/wool/) [@AmgueddfaCymru](https://twitter.com/AmgueddfaCymru) last week, [Calluna vulgaris](https://pfaf.org/user/plant.aspx?latinname=Calluna+vulgaris) (Scotch Heather) in flower. Will be [incorporating heather](https://www.forestgarden.wales/blog/top-10-bee-friendly-plants/) as part of the Ornamental #ForestGarden.

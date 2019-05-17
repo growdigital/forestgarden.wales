@@ -16,7 +16,7 @@ I was [twittering away](https://mobile.twitter.com/ForestGdnWales/status/1127656
 
 Annual | Perennial
 ---|---
-Spring onion | [Welsh onion](http://temperate.theferns.info/viewtropical.php?id=Allium+fistulosum)
-Onion | [Potato onion](http://temperate.theferns.info/viewtropical.php?id=Allium+cepa+aggregatum)
-Spinach | [Chard](http://temperate.theferns.info/viewtropical.php?id=Beta+vulgaris+%28Leaf+Beet+Group%29), [Good King Henry](http://temperate.theferns.info/viewtropical.php?id=Chenopodium+bonus-henricus), [Caucasian Spinach](https://backyardlarder.co.uk/plants/caucasian-spinach/)
+Spring onion | [Welsh onion](https://pfaf.org/user/plant.aspx?latinname=Allium+fistulosum)
+Onion | [Potato onion](https://pfaf.org/user/plant.aspx?latinname=Allium+cepa+aggregatum)
+Spinach | [Chard](https://pfaf.org/user/plant.aspx?latinname=Beta+vulgaris+%28Leaf+Beet+Group%29), [Good King Henry](https://pfaf.org/user/plant.aspx?latinname=Chenopodium+bonus-henricus), [Caucasian Spinach](https://backyardlarder.co.uk/plants/caucasian-spinach/)
 Kale | [Daubentons](https://backyardlarder.co.uk/plants/daubenton-kale/), [Taunton Dean](https://www.incrediblevegetables.co.uk/taunton-deane-kale/), [Asturian Tree Cabbage](https://backyardlarder.co.uk/2014/09/portuguese-kale/), [Portugese Kale](https://backyardlarder.co.uk/2014/09/portuguese-kale/)

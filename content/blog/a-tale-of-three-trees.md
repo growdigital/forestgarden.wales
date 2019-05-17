@@ -11,7 +11,7 @@ imageCap: "The healthy Alnus cordata (Italian Alder) doing very well indeed"
 draft: false
 ---
 
-Three years ago I planted 3 [Alnus cordata](http://temperate.theferns.info/viewtropical.php?id=Alnus+cordata) (Italian Alder) along the top of the forest garden, all at the same time.
+Three years ago I planted 3 [Alnus cordata](https://pfaf.org/user/plant.aspx?latinname=Alnus+cordata) (Italian Alder) along the top of the forest garden, all at the same time.
 
 Italian Alders are great: they’re nitrogen fixing, very fast growing and you can raise the canopy to let in light for plants below.
 
