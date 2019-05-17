@@ -123,6 +123,15 @@
     </item>
     
     <item>
+      <title>Community</title>
+      <link>http://localhost:1313/tags/community/</link>
+      <pubDate>Thu, 16 May 2019 17:56:15 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cornuskousa</title>
       <link>http://localhost:1313/tags/cornuskousa/</link>
       <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
@@ -143,7 +152,7 @@
     <item>
       <title>Deadhedge</title>
       <link>http://localhost:1313/tags/deadhedge/</link>
-      <pubDate>Fri, 19 Apr 2019 14:49:04 +0100</pubDate>
+      <pubDate>Wed, 15 May 2019 13:29:58 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/deadhedge/</guid>
       <description></description>
@@ -195,9 +204,18 @@
     </item>
     
     <item>
+      <title>Foodforest</title>
+      <link>http://localhost:1313/tags/foodforest/</link>
+      <pubDate>Thu, 16 May 2019 17:56:15 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/foodforest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Forestgarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Sun, 12 May 2019 22:28:17 +0100</pubDate>
+      <pubDate>Thu, 16 May 2019 17:56:15 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
@@ -224,7 +242,7 @@
     <item>
       <title>Gdnbloggers</title>
       <link>http://localhost:1313/tags/gdnbloggers/</link>
-      <pubDate>Sun, 12 May 2019 22:28:17 +0100</pubDate>
+      <pubDate>Thu, 16 May 2019 17:56:15 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/gdnbloggers/</guid>
       <description></description>

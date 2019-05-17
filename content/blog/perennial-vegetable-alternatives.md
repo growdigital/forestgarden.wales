@@ -12,11 +12,11 @@ imageCap: Martin Crawford standing next to bed of Good King Henry
 draft: false
 ---
 
-I was [twittering away](https://mobile.twitter.com/ForestGdnWales/status/1127656532332642305) with [@BackyardLarder](https://mobile.twitter.com/BackyardLarder) about how a #ForestGarden can feed a family, and thought a table of perennial vegetable equivalents of annual veg would be handy. 
+I was [twittering away](https://mobile.twitter.com/ForestGdnWales/status/1127656532332642305) with [@BackyardLarder](https://mobile.twitter.com/BackyardLarder) about how a #ForestGarden can feed a family, and thought a table of perennial vegetable equivalents of annual veg would be handy. This is a proof of concept really. Prod me & I’ll add more stuff.
 
-This is a proof of concept really, it uses [Markdown tables](https://www.tablesgenerator.com/markdown_tables#) to create the table, but this website doesn’t support Markdown tables yet, so the [@SimpleNote](https://mobile.twitter.com/SimpleNote) page is displayed in an [iframe](https://en.wikipedia.org/wiki/HTML_element#Frames) (ugh) which means the links don’t work!
-
-Prod me & I’ll add more stuff and make it work properly.
-
-<iframe src="https://app.simplenote.com/publish/DKx9TS" width="100%" height="700">
-</iframe>
+Annual | Perennial
+---|---
+Spring onion | [Welsh onion](http://temperate.theferns.info/viewtropical.php?id=Allium+fistulosum)
+Onion | [Potato onion](http://temperate.theferns.info/viewtropical.php?id=Allium+cepa+aggregatum)
+Spinach | [Chard](http://temperate.theferns.info/viewtropical.php?id=Beta+vulgaris+%28Leaf+Beet+Group%29), [Good King Henry](http://temperate.theferns.info/viewtropical.php?id=Chenopodium+bonus-henricus), [Caucasian Spinach](https://backyardlarder.co.uk/plants/caucasian-spinach/)
+Kale | [Daubentons](https://backyardlarder.co.uk/plants/daubenton-kale/), [Taunton Dean](https://www.incrediblevegetables.co.uk/taunton-deane-kale/), [Asturian Tree Cabbage](https://backyardlarder.co.uk/2014/09/portuguese-kale/), [Portugese Kale](https://backyardlarder.co.uk/2014/09/portuguese-kale/)

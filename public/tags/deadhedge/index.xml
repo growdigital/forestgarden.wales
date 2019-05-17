@@ -9,10 +9,19 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Fri, 19 Apr 2019 14:49:04 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2019 13:29:58 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/deadhedge/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lynda’s Tayberry fedge</title>
+      <link>http://localhost:1313/blog/lyndas-tayberry-fedge/</link>
+      <pubDate>Wed, 15 May 2019 13:29:58 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/lyndas-tayberry-fedge/</guid>
+      <description>At the end of my Introduction to Forest Gardening talk at Llechryd Gardening Club, the Club Secretary Lynda kindly offered some Tayberry bushes, suggesting that they would grow well on the south side of the dead hedge.</description>
+    </item>
     
     <item>
       <title>Dead hedging in the forest garden</title>

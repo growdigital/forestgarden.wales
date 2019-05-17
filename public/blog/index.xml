@@ -15,13 +15,143 @@
     
     
     <item>
+      <title>Community Food Forest</title>
+      <link>http://localhost:1313/blog/community-food-forest/</link>
+      <pubDate>Thu, 16 May 2019 17:56:15 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/community-food-forest/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A simple checklist for anyone interested in setting up a Community Food Forest (AKA Community Forest Garden)&lt;/p&gt;
+        
+          &lt;figure&gt;
+            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1557320235/fruittriangle-36B5E7BD.jpg&quot; alt=&quot;Bundle of green plants in a mixed up bed of fruit&quot;&gt;
+            &lt;figcaption&gt;A veritable forest of fruity food in the offing&lt;/figcaption&gt;
+          &lt;/figure&gt;
+        
+        
+
+&lt;p&gt;Someone on the &lt;a href=&#34;https://www.facebook.com/groups/405281259629562/&#34;&gt;Forest Garden UK&lt;/a&gt; group on Facebook is setting up a Community Food Forest in Middlesborough. (Food Forest is a user-friendly way of saying Forest Garden, I think it’s a more descriptive term.)&lt;/p&gt;
+
+&lt;p&gt;I floated the idea of a checklist for anyone else wanting to do the same thing, a quick reference guide.&lt;/p&gt;
+
+&lt;p&gt;This is very much a work in progress, so I’ll update this page if I have any suggestions or feedback.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Interested in setting up a community food forest? A list of what you will need and useful things.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;People!&lt;/strong&gt;&lt;br /&gt;
+A small, dedicated core of people who have the grit to see the project through.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Aims&lt;/strong&gt;&lt;br /&gt;
+A clear idea of what kind of food forest you want, with simple and achievable goals.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Volunteers&lt;/strong&gt;&lt;br /&gt;
+More people, invaluable for the grunt work required. Gardening clubs are a good place to look, and cake is a worthy incentive.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Land&lt;/strong&gt;&lt;br /&gt;
+A site for the food forest. It needs to have &lt;a href=&#34;https://en.wikipedia.org/wiki/Land_tenure&#34;&gt;secure land tenure&lt;/a&gt; for the project to have stability, and not rely solely on goodwill. Depending on your site, access and security may be an issue.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Official support&lt;/strong&gt;&lt;br /&gt;
+Get the town/county/city council onside and supporting your cause. Promote your garden in the local press, which also helps get more volunteers.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;useful-things&#34;&gt;Useful things&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Books
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/&#34;&gt;Creating a Forest Garden&lt;/a&gt; great step-by-step guide and reference by Martin Crawford&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Websites
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info&#34;&gt;Useful Temperate Plants&lt;/a&gt; — online database of useful plants&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.orangepippin.com&#34;&gt;Orange Pippin&lt;/a&gt;—great resource for fruit varieties&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This page: &lt;a href=&#34;http://simp.ly/publish/5jtTzh&#34;&gt;http://simp.ly/publish/5jtTzh&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Perennial alternatives to annual vegetables</title>
+      <link>http://localhost:1313/blog/perennial-vegetable-alternatives/</link>
+      <pubDate>Thu, 16 May 2019 12:39:12 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/perennial-vegetable-alternatives/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Perennial vegetables are less work and more nutritious but it’s a big cultural shift to adopt new veg. Here’s a simple table of perennial vegetable equivalents to annual vegetables to help the process.&lt;/p&gt;
+        
+          &lt;figure&gt;
+            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1543874050/good-king-henry-41163987821.jpg&quot; alt=&quot;Legs of man standing next to green vegetable&quot;&gt;
+            &lt;figcaption&gt;Martin Crawford standing next to bed of Good King Henry&lt;/figcaption&gt;
+          &lt;/figure&gt;
+        
+        &lt;p&gt;I was &lt;a href=&#34;https://mobile.twitter.com/ForestGdnWales/status/1127656532332642305&#34;&gt;twittering away&lt;/a&gt; with &lt;a href=&#34;https://mobile.twitter.com/BackyardLarder&#34;&gt;@BackyardLarder&lt;/a&gt; about how a #ForestGarden can feed a family, and thought a table of perennial vegetable equivalents of annual veg would be handy.&lt;/p&gt;
+
+&lt;p&gt;This is a proof of concept really, it uses &lt;a href=&#34;https://www.tablesgenerator.com/markdown_tables#&#34;&gt;Markdown tables&lt;/a&gt; to create the table, but this website doesn’t support Markdown tables yet, so the &lt;a href=&#34;https://mobile.twitter.com/SimpleNote&#34;&gt;@SimpleNote&lt;/a&gt; page is displayed in an &lt;a href=&#34;https://en.wikipedia.org/wiki/HTML_element#Frames&#34;&gt;iframe&lt;/a&gt; (ugh) which means the links don’t work!&lt;/p&gt;
+
+&lt;p&gt;Prod me &amp;amp; I’ll add more stuff and make it work properly.&lt;/p&gt;
+
+&lt;iframe src=&#34;https://app.simplenote.com/publish/DKx9TS&#34; width=&#34;100%&#34; height=&#34;700&#34;&gt;
+&lt;/iframe&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lynda’s Tayberry fedge</title>
+      <link>http://localhost:1313/blog/lyndas-tayberry-fedge/</link>
+      <pubDate>Wed, 15 May 2019 13:29:58 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/lyndas-tayberry-fedge/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A fedge (or dead hedge) can have many uses, one of which is as a support for scrambling soft fruit like the Tayberry.&lt;/p&gt;
+        
+          &lt;figure&gt;
+            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1557923337/tayberry-fedge-D68067CC.jpg&quot; alt=&quot;Newly planted shrubs in front of dead hedge made from old branches&quot;&gt;
+            &lt;figcaption&gt;The Tayberrys have been planted in front of the dead hedge to much fanfare&lt;/figcaption&gt;
+          &lt;/figure&gt;
+        
+        &lt;p&gt;At the end of my &lt;a href=&#34;https://www.forestgarden.wales/talks/ldgc/&#34;&gt;Introduction to Forest Gardening talk&lt;/a&gt; at &lt;a href=&#34;https://www.facebook.com/LlechrydDGC/&#34;&gt;Llechryd Gardening Club&lt;/a&gt;, the Club Secretary Lynda kindly offered some &lt;a href=&#34;https://www.rhs.org.uk/plants/details?plantid=4923&#34;&gt;Tayberry&lt;/a&gt; bushes, suggesting that they would grow well on the south side of the dead hedge.&lt;/p&gt;
+
+&lt;p&gt;I have previously waxed lyrical about the &lt;a href=&#34;https://www.forestgarden.wales/blog/dead-hedging-forest-garden/&#34;&gt;benefits of a dead hedge&lt;/a&gt;: it provides shelter for weakly plants, uses up material from cutting a hedge and provides for wildlife. Now I discovered that it can be a support for climbing plants! Fantastic, there seems to be no end to the joy a dead hedge can bring.&lt;/p&gt;
+
+&lt;p&gt;I was planning on planting some thornless &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Rubus+fruticosus&#34;&gt;blackberry&lt;/a&gt; but the &lt;a href=&#34;https://www.rhs.org.uk/plants/details?plantid=4923&#34;&gt;Tayberry&lt;/a&gt; (a cross between a blackberry and a raspberry) is ideal as well, the ones Lynda has donated are a) thornless and b) free!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1557865526/hedge-02FA178A.jpg&#34; alt=&#34;Scraggy hedge with long grass in front&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Lynda’s hedge, you can just make out the Tayberry bushes
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;You can also plant thornless ramblin’ Rubus up the south side of a windbreak hedge, just as Lynda has done with hers in the photo above. My favourite hedge to do this with is &lt;a href=&#34;https://pfaf.org/user/Plant.aspx?LatinName=Amelanchier+canadensis&#34;&gt;Juneberry&lt;/a&gt; and &lt;a href=&#34;https://pfaf.org/user/Plant.aspx?LatinName=Viburnum+opulus&#34;&gt;Guelder Rose&lt;/a&gt;, as they’re both on the same thornless tip, makin’ pickin’ easier.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Recycled ever-expanding plant labels</title>
       <link>http://localhost:1313/blog/recycled-ever-expanding-plant-labels/</link>
       <pubDate>Sun, 12 May 2019 22:28:17 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/blog/recycled-ever-expanding-plant-labels/</guid>
       <description>
-        &lt;p class="p-summary"&gt;These nifty plant labels keep on expanding with a growing branch, and easy to make from old plastic milk bottles.&lt;/p&gt;
+        &lt;p class="p-summary"&gt;These nifty plant labels keep on expanding with a growing branch, and are easy to make from old plastic milk bottles.&lt;/p&gt;
         
           &lt;figure&gt;
             &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1557599027/label-F892524B.jpg&quot; alt=&quot;Hand holding plant label curled around small branch&quot;&gt;
