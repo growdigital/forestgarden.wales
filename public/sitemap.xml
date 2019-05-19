@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/190519-deturfing/</loc>
+    <lastmod>2019-05-19T21:17:12+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/190519-now/</loc>
     <lastmod>2019-05-19T18:04:25+01:00</lastmod>
   </url>
