@@ -19,7 +19,7 @@ Annual | Perennial
 Carrot/parsnip | [Skirret](https://pfaf.org/user/plant.aspx?LatinName=Sium+sisarum)
 Celery | [Lovage](https://pfaf.org/user/Plant.aspx?LatinName=Levisticum+officinale)
 Kale | [Daubentons](https://backyardlarder.co.uk/plants/daubenton-kale/), [Taunton Dean](https://www.incrediblevegetables.co.uk/taunton-deane-kale/), [Asturian Tree Cabbage](https://backyardlarder.co.uk/2014/09/portuguese-kale/), [Portugese Kale](https://backyardlarder.co.uk/2014/09/portuguese-kale/)
-Lettuce | [Small Leaved Lime]() leaves, [French Scorzonera](https://pfaf.org/user/plant.aspx?LatinName=Reichardia+picroides) leaves
+Lettuce | [Small Leaved Lime](https://pfaf.org/user/plant.aspx?latinname=Tilia+cordata) leaves, [French Scorzonera](https://pfaf.org/user/plant.aspx?LatinName=Reichardia+picroides) leaves
 Onion | [Potato onion](https://pfaf.org/user/plant.aspx?latinname=Allium+cepa+aggregatum)
 Spinach | [Chard](https://pfaf.org/user/plant.aspx?latinname=Beta+vulgaris+%28Leaf+Beet+Group%29), [Good King Henry](https://pfaf.org/user/plant.aspx?latinname=Chenopodium+bonus-henricus), [Caucasian Spinach](https://backyardlarder.co.uk/plants/caucasian-spinach/)
 Spring onion | [Everlasting Onion(Allium cepa perutile)](https://pfaf.org/user/plant.aspx?latinname=Allium+cepa) (, [Welsh onion](https://pfaf.org/user/plant.aspx?latinname=Allium+fistulosum)
