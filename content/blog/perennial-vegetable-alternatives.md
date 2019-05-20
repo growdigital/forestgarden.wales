@@ -24,7 +24,8 @@ Kale | [Daubentons](https://backyardlarder.co.uk/plants/daubenton-kale/), [Taunt
 Leek | [Babington’s Leek](https://pfaf.org/user/Plant.aspx?LatinName=Allium+ampeloprasum+babingtonii), [St Victor x Oerprei leek](https://backyardlarder.co.uk/shop/perennial-leek-st-victor-x-oerprei/), [Wild leek](https://pfaf.org/user/Plant.aspx?LatinName=allium+ampeloprasum)
 Lettuce | [Small Leaved Lime](https://pfaf.org/user/plant.aspx?latinname=Tilia+cordata) leaves, [French Scorzonera](https://pfaf.org/user/plant.aspx?LatinName=Reichardia+picroides) leaves
 Onion | [Shallot](https://pfaf.org/user/plant.aspx?LatinName=Allium+cepa+ascalonicum), [Potato onion](https://pfaf.org/user/plant.aspx?latinname=Allium+cepa+aggregatum)
-Pea | [Siberian Pea Shrub](https://pfaf.org/user/Plant.aspx?LatinName=Caragana+pygmaea), [Siberian Pea Tree](https://pfaf.org/user/plant.aspx?latinname=Caragana+arborescens)
+Pea | [Siberian Pea Tree](https://pfaf.org/user/plant.aspx?latinname=Caragana+arborescens)
+Runner beans | [Ground Nut](https://pfaf.org/user/plant.aspx?LatinName=Apios+americana) (also known as Potato Bean)
 Spinach | [Caucasian Spinach](https://backyardlarder.co.uk/plants/caucasian-spinach/), [Chard](https://pfaf.org/user/plant.aspx?latinname=Beta+vulgaris+%28Leaf+Beet+Group%29), [Good King Henry](https://pfaf.org/user/plant.aspx?latinname=Chenopodium+bonus-henricus), [Nettle](https://pfaf.org/user/plant.aspx?latinname=Urtica+dioica), [Sea Beet](https://pfaf.org/user/Plant.aspx?LatinName=Beta+vulgaris+maritima)
 Spring onion | [Everlasting Onion(Allium cepa perutile)](https://pfaf.org/user/plant.aspx?latinname=Allium+cepa), ([Welsh onion](https://pfaf.org/user/plant.aspx?latinname=Allium+fistulosum)
 
