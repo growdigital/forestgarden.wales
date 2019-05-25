@@ -29,8 +29,8 @@ Note that some satnavs take you to the wrong side of the river, be sure that you
 
 ## Directions from Emlyn
 
-1. From Newcastle Emlyn, immediate right after the 30 signs, signposted Felin Geri. 
-2. Past row of cottages, ¼ mile up the hill 
+1. From Newcastle Emlyn, immediate right after the 30 signs, signposted Felin Geri.
+2. Past Felin Geri, then past row of cottages, ¼ mile up the hill 
 3. Round a corner by outbuildings, Penralltgeri Isaf is at the top of the hill on the left, big double wooden gates
 
 ## Directions from Cardigan
@@ -38,7 +38,7 @@ Note that some satnavs take you to the wrong side of the river, be sure that you
 1. From Cardigan A484, take the left turn B4570 signposted to Cwm Cou
 2. Over the stone bridge in Cwm Cou, turn right at junction toward Emlyn B4333
 3. Round the corner, take the *immmediate* left signposted Felin Geri
-2. Past row of cottages, ¼ mile up the hill 
+4. Past Felin Geri, then past row of cottages, ¼ mile up the hill 
 5. Round a corner, Penralltgeri Isaf is at the top of the hill on the left, big double wooden gates
 
 **Please drive up the track and park by the dutch barn in the marked area**
