@@ -2,7 +2,7 @@
 title: Forest garden CAD photo
 date: 2019-05-26T11:47:25+01:00
 discussionId: forest-garden-cad-photo
-description: 
+description: Using a satellite photo as the basis for your forest garden plan is a good and quick way of creating an approximate plan without having to measure out in the field.
 tags: 
 - ForestGarden
 - GdnBloggers
