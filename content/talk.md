@@ -13,14 +13,11 @@ draft: false
 
 # Forest garden talks
 
-We give talks to a variety of different organisations and clubs interested in forest gardening.
-
-## Appearances 2019
-
-* 8th May [Llechryd & District Gardening Club](https://www.facebook.com/LlechrydDGC/)
+I give talks to a variety of different organisations and clubs interested in forest gardening.
 
 ## Slides from previous talks
 
+* **[Forest Gardening talk](/talks/ldgc/#1)** to [Llechryd & District Gardening Club](https://www.facebook.com/LlechrydDGC/) May 2019
 * **[An introduction to Forest Gardening](/talks/intro/#1)**  
   Introductory talk given to members of [The People’s Orchard](http://www.stdogmaelsabbey.org.uk/peoplesorchard)
 * **[Forest Garden Magic](/talks/magic/#1)**  
