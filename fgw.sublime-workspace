@@ -194,12 +194,11 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/fgw/Sites/forestgarden.wales",
-		"/Users/fgw/Sites/forestgarden.wales/content",
-		"/Users/fgw/Sites/forestgarden.wales/content/status"
+		"/Users/fgw/Sites/forestgarden.wales"
 	],
 	"file_history":
 	[
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190605-wild.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/illustrated-forest-garden-stages.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/buffer.md",
 		"/Users/fgw/Desktop/buffer.txt",
@@ -326,8 +325,7 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/itinerary.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190509-status.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190509-loofah.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190509-connected.md",
-		"/Users/fgw/Desktop/ldgc/index.html"
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190509-connected.md"
 	],
 	"find":
 	{
@@ -1094,9 +1092,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "fie",
 		"selected_items":
 		[
+			[
+				"fie",
+				"~/Work/Fieldcraft/admin/fieldcraft.sublime-project"
+			],
 			[
 				"",
 				"~/Sites/owncloud/owncloud.sublime-project"
