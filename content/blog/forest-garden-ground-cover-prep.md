@@ -16,10 +16,12 @@ In the [original forest garden](https://www.forestgarden.wales/blog/forest-garde
 
 After having a pond dug in the [Ornamental Forest Garden](https://www.forestgarden.wales/blog/introducing-ornamental-maintenance-free-forest-garden/), I thought another way would be to use a mini-digger to scrape the grass off. 
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1556622039/OFG_3.22.jpg" alt="CAD plan over satellite photo" caption="The CAD plan for the Ornamental Forest Garden, showing the pond" >}} 
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1556482468/sheetmulch-F671451E.jpg" alt="Black roll of sheet mulch on stone path" caption="Woven plastic sheet mulch in a roll" >}}
 
 It would be one day’s work at a total cost of about £200. This includes about £20 worth of diesel, which to my mind is less environmentally damaging than square metres of woven plastic sheet mulch.
 
 The downside to using a mini-digger in one fell swoop is that I need to have all the ground cover plants ready to go. Using the power of [QCAD](https://www.qcad.org), I’ve calculated that there’s about 1700m² area to plant up. That equates to about 7,000 ground cover plants (four per square metre). 7,000. Seven **thousand**. That’s a lot. 
 
-There’s also the small detail of mulching material. I prefer bark if I can get hold of it, as it’s lighter and can come in larger pieces, so you get more for your money. I roughly calculated it’s just under a tonne per 100 square metres, so that’s 15 tonnes. At an optimistic cost of £50 per tonne, that’s £750. 
+There’s also the small detail of mulching material. I prefer bark if I can get hold of it, as it’s lighter and can come in larger pieces, so you get more for your money. I roughly calculated it’s just under a tonne per 100 square metres, so that’s 15 tonnes. At an optimistic cost of £50 per tonne, that’s £750.
+
+Do remember, this is for a **large** garden of about an acre. With a small forest garden, you could feasibly use a cardboard mulch or remove the grass by hand. 
