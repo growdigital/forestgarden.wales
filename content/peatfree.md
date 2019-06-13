@@ -9,13 +9,11 @@ draft: false
 
 # #peatfree
 
-With a lot of help from a lot of people (mostly John Walker [@EarthFGardener](https://mobile.twitter.com/EarthFGardener), I’ve submitted a petition to the UK Parliament to ban the use of peat in gardening and horticulture.
+With a lot of help from a lot of people (mostly John Walker [@EarthFGardener](https://mobile.twitter.com/EarthFGardener), I’ve submitted a petition to the [UK Parliament](https://www.parliament.uk) [petitions site](https://petition.parliament.uk/) to ban the use of peat in gardening and horticulture.
 
-It will be “live” for the public to sign some time in the week beginning 17th June, once it’s been checked.
+It will be “live” for the public to sign some time in the week beginning 17th June, once it’s been checked. You should be able to find it on the site by searching for ["peat"](https://petition.parliament.uk/petitions?q=peat&state=all).
 
 I will update this page with details. This is the text of the petition:
-
-_Jake Rayson, Thursay 13 June 2019_
 
 ---
 
@@ -36,3 +34,4 @@ Buying peat-based compost contributes to the destruction of wildlife habitats by
 • Peatlands support many important species & unique ecosystems (IUCN http://bit.ly/peat-biodiversity)
 ```
 
+_Jake Rayson, Thursay 13 June 2019_
