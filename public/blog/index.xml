@@ -15,6 +15,173 @@
     
     
     <item>
+      <title>Forest garden ground cover preparation</title>
+      <link>http://localhost:1313/blog/forest-garden-ground-cover-prep/</link>
+      <pubDate>Wed, 12 Jun 2019 10:38:50 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/forest-garden-ground-cover-prep/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;The “traditional” way of clearing the ground is to use sheet mulch. An alternative and possibly less wasteful way is to scrape the ground with a mini-digger.&lt;/p&gt;
+        
+          &lt;figure&gt;
+            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1550874433/digger-11EE9734.jpg&quot; alt=&quot;Man in mini-digger, scraping the top soil&quot;&gt;
+            &lt;figcaption&gt;Scraping away the grass with a mini-digger may be a less wasteful approach&lt;/figcaption&gt;
+          &lt;/figure&gt;
+        
+        &lt;p&gt;In the &lt;a href=&#34;https://www.forestgarden.wales/blog/forest-garden-plan-pgi/&#34;&gt;original forest garden&lt;/a&gt;, I used vast amounts of woven plastic sheet mulch to clear the grass, before laying down bark mulch and planting perennial ground cover (a process &lt;a href=&#34;https://www.forestgarden.wales/blog/establish-ground-cover/&#34;&gt;I’ve described previously&lt;/a&gt;). I now recommend that people use less of a higher quality sheet mulch, like Phormisol or Mypex, over a longer period of time. But still, I’m not happy about the use of plastic, because it will have to be binned at some point.&lt;/p&gt;
+
+&lt;p&gt;After having a pond dug in the &lt;a href=&#34;https://www.forestgarden.wales/blog/introducing-ornamental-maintenance-free-forest-garden/&#34;&gt;Ornamental Forest Garden&lt;/a&gt;, I thought another way would be to use a mini-digger to scrape the grass off.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1556482468/sheetmulch-F671451E.jpg&#34; alt=&#34;Black roll of sheet mulch on stone path&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Woven plastic sheet mulch in a roll
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;It would be one day’s work at a total cost of about £200. This includes about £20 worth of diesel, which to my mind is less environmentally damaging than square metres of woven plastic sheet mulch.&lt;/p&gt;
+
+&lt;p&gt;The downside to using a mini-digger in one fell swoop is that I need to have all the ground cover plants ready to go. Using the power of &lt;a href=&#34;https://www.qcad.org&#34;&gt;QCAD&lt;/a&gt;, I’ve calculated that there’s about 1700m² area to plant up. That equates to about 7,000 ground cover plants (four per square metre). 7,000. Seven &lt;strong&gt;thousand&lt;/strong&gt;. That’s a lot.&lt;/p&gt;
+
+&lt;p&gt;There’s also the small detail of mulching material. I prefer bark if I can get hold of it, as it’s lighter and can come in larger pieces, so you get more for your money. I roughly calculated it’s just under a tonne per 100 square metres, so that’s 15 tonnes. At an optimistic cost of £50 per tonne, that’s £750.&lt;/p&gt;
+
+&lt;p&gt;Do remember, this is for a &lt;strong&gt;large&lt;/strong&gt; garden of about an acre. With a small forest garden, you could feasibly use a cardboard mulch or remove the grass by hand.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Forest garden CAD photo</title>
+      <link>http://localhost:1313/blog/forest-garden-cad-photo/</link>
+      <pubDate>Sun, 26 May 2019 11:47:25 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/forest-garden-cad-photo/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Using a satellite photo as the basis for your forest garden plan is a good and quick way of creating an approximate plan without having to measure out in the field.&lt;/p&gt;
+        
+          &lt;figure&gt;
+            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1558867390/01-satellite.jpg&quot; alt=&quot;Satellite photo&quot;&gt;
+            &lt;figcaption&gt;Satellite photo of the Forest Garden Wales forest garden&lt;/figcaption&gt;
+          &lt;/figure&gt;
+        
+        &lt;p&gt;I discovered how to easily scale a satellite photo in &lt;a href=&#34;https://www.qcad.org/en/&#34;&gt;QCAD&lt;/a&gt; to create a #ForestGarden plan.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Satellite:&lt;/strong&gt; Take a screenshot of your satellite map. Apple Maps has the best resolution satellite photos in the UK, although I have been trying to get photos from &lt;a href=&#34;https://earthexplorer.usgs.gov&#34;&gt;USGS EarthExplorer&lt;/a&gt;. Be sure to include the scale.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scale:&lt;/strong&gt; Using the rectangular selection tool in Photoshop on the scale, calculate the number pixels per metre. In the example, it’s 5.8.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Width:&lt;/strong&gt; Then find out the width in pixels of the entire satellite photo. Trim the canvas size to make it a nice round number of metres. In the example, the width is 754 pixels, divided by 5.8 is exactly 130 metres.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Import:&lt;/strong&gt; Create a new QCAD file, put the satellite photo in the same folder, import the photo image.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resize:&lt;/strong&gt; The image is scaled at 1 metre per pixel, which means the example is 754 metres. Make sure the image is selected and in the &lt;code&gt;Property Editor&lt;/code&gt;, enter 130 (metres) into the width box.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Voilà:&lt;/strong&gt; All done. Using the &lt;a href=&#34;https://www.pfaf.org/&#34;&gt;Plants For A Future website&lt;/a&gt;, find out the diameters of the trees you want to plant, position the trees on the plan and make sure you have the correct &lt;a href=&#34;https://www.forestgarden.wales/blog/tree-spacing-forest-garden/&#34;&gt;tree spacing&lt;/a&gt; to allow enough light in.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1558867390/01-satellite.jpg&#34; alt=&#34;Satellite photo&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        1. Satellite
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1558867389/02-scale.jpg&#34; alt=&#34;Close up in Photoshop of map scale, showing pixels&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        2. Scale
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1558867390/03-width.jpg&#34; alt=&#34;Photoshop info box showing total width in pixels&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        3. Width
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1558867390/04-import.jpg&#34; alt=&#34;Image imported into QCAD&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        4. Import
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1558867390/05-resize.jpg&#34; alt=&#34;Image resized, using Property Editor in QCAD&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        5. Resize
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Community Food Forest</title>
       <link>http://localhost:1313/blog/community-food-forest/</link>
       <pubDate>Thu, 16 May 2019 17:56:15 +0100</pubDate>
@@ -88,14 +255,91 @@ Get the town/county/city council onside and supporting your cause. Promote your 
             &lt;figcaption&gt;Martin Crawford standing next to bed of Good King Henry&lt;/figcaption&gt;
           &lt;/figure&gt;
         
-        &lt;p&gt;I was &lt;a href=&#34;https://mobile.twitter.com/ForestGdnWales/status/1127656532332642305&#34;&gt;twittering away&lt;/a&gt; with &lt;a href=&#34;https://mobile.twitter.com/BackyardLarder&#34;&gt;@BackyardLarder&lt;/a&gt; about how a #ForestGarden can feed a family, and thought a table of perennial vegetable equivalents of annual veg would be handy.&lt;/p&gt;
+        &lt;p&gt;I was &lt;a href=&#34;https://mobile.twitter.com/ForestGdnWales/status/1127656532332642305&#34;&gt;twittering away&lt;/a&gt; with &lt;a href=&#34;https://mobile.twitter.com/BackyardLarder&#34;&gt;@BackyardLarder&lt;/a&gt; about how a #ForestGarden can feed a family, and thought a table of perennial vegetable equivalents of annual veg would be handy. This is a proof of concept really. Prod me &amp;amp; I’ll add more stuff.&lt;/p&gt;
 
-&lt;p&gt;This is a proof of concept really, it uses &lt;a href=&#34;https://www.tablesgenerator.com/markdown_tables#&#34;&gt;Markdown tables&lt;/a&gt; to create the table, but this website doesn’t support Markdown tables yet, so the &lt;a href=&#34;https://mobile.twitter.com/SimpleNote&#34;&gt;@SimpleNote&lt;/a&gt; page is displayed in an &lt;a href=&#34;https://en.wikipedia.org/wiki/HTML_element#Frames&#34;&gt;iframe&lt;/a&gt; (ugh) which means the links don’t work!&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Annual&lt;/th&gt;
+&lt;th&gt;Perennial&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;p&gt;Prod me &amp;amp; I’ll add more stuff and make it work properly.&lt;/p&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Broccoli&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pfaf.org/user/Plant.aspx?LatinName=Brassica+oleracea+botrytis+aparagoides&#34;&gt;Nine Star Broccoli&lt;/a&gt;; &lt;a href=&#34;https://pfaf.org/user/Plant.aspx?LatinName=Bunias+orientalis&#34;&gt;Turkish Rocket&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Chenopodium+bonus-henricus&#34;&gt;Good King Henry&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/Plant.aspx?LatinName=Crambe+maritima&#34;&gt;Sea Kale&lt;/a&gt;: unopened flower shoots&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;iframe src=&#34;https://app.simplenote.com/publish/DKx9TS&#34; width=&#34;100%&#34; height=&#34;700&#34;&gt;
-&lt;/iframe&gt;
+&lt;tr&gt;
+&lt;td&gt;Cabbage&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pfaf.org/user/Plant.aspx?LatinName=Crambe+cordifolia&#34;&gt;Crambe cordifolia&lt;/a&gt; (large), &lt;a href=&#34;https://backyardlarder.co.uk/2014/09/portuguese-kale/&#34;&gt;Asturian Tree Cabbage&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Carrot/parsnip&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?LatinName=Sium+sisarum&#34;&gt;Skirret&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Celery&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pfaf.org/user/Plant.aspx?LatinName=Levisticum+officinale&#34;&gt;Lovage&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Kale&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://backyardlarder.co.uk/plants/daubenton-kale/&#34;&gt;Daubentons&lt;/a&gt;, &lt;a href=&#34;https://www.incrediblevegetables.co.uk/taunton-deane-kale/&#34;&gt;Taunton Dean&lt;/a&gt;, &lt;a href=&#34;https://backyardlarder.co.uk/2014/09/portuguese-kale/&#34;&gt;Portugese Kale&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Leek&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pfaf.org/user/Plant.aspx?LatinName=Allium+ampeloprasum+babingtonii&#34;&gt;Babington’s Leek&lt;/a&gt;, &lt;a href=&#34;https://backyardlarder.co.uk/shop/perennial-leek-st-victor-x-oerprei/&#34;&gt;St Victor x Oerprei leek&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/Plant.aspx?LatinName=allium+ampeloprasum&#34;&gt;Wild leek&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Lettuce&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Tilia+cordata&#34;&gt;Small Leaved Lime&lt;/a&gt; leaves, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?LatinName=Reichardia+picroides&#34;&gt;French Scorzonera&lt;/a&gt; leaves&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Onion&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?LatinName=Allium+cepa+ascalonicum&#34;&gt;Shallot&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Allium+cepa+aggregatum&#34;&gt;Potato onion&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Pea&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Caragana+arborescens&#34;&gt;Siberian Pea Tree&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Potato&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?LatinName=Dioscorea+batatas&#34;&gt;Chinese Yam&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?LatinName=Sagittaria+latifolia&#34;&gt;Duck Potato&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/Plant.aspx?LatinName=Helianthus+tuberosus&#34;&gt;Jerusalem Artichoke&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Runner beans&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?LatinName=Apios+americana&#34;&gt;Ground Nut&lt;/a&gt; (also known as Potato Bean)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Spinach&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://backyardlarder.co.uk/plants/caucasian-spinach/&#34;&gt;Caucasian Spinach&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Beta+vulgaris+%28Leaf+Beet+Group%29&#34;&gt;Chard&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Chenopodium+bonus-henricus&#34;&gt;Good King Henry&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Urtica+dioica&#34;&gt;Nettle&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/Plant.aspx?LatinName=Beta+vulgaris+maritima&#34;&gt;Sea Beet&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Spring onion&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Allium+cepa&#34;&gt;Everlasting Onion(Allium cepa perutile)&lt;/a&gt;, (&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Allium+fistulosum&#34;&gt;Welsh onion&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Spring Greens&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pfaf.org/user/Plant.aspx?LatinName=Polygonum+bistorta&#34;&gt;Bistort&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br&gt;
+Note: many of these are from suggestions via that there internet, I can’t vouch for their alternativeness! Do check Alison Tindale’s web site &lt;a href=&#34;https://backyardlarder.co.uk&#34;&gt;Backyard Larder&lt;/a&gt; for more info &amp;amp; a shop :)&lt;/p&gt;
 
       </description>
     </item>
@@ -213,10 +457,10 @@ Get the town/county/city council onside and supporting your cause. Promote your 
 &lt;li&gt;Mark out and plant shrubs.&lt;/li&gt;
 &lt;li&gt;Cover with wood chip or bark mulch. You &lt;em&gt;can&lt;/em&gt; use wood chip as it &lt;a href=&#34;https://s3.wp.wsu.edu/uploads/sites/403/2015/03/wood-chips.pdf&#34;&gt;doesn&amp;rsquo;t rob nitrogen&lt;/a&gt;&lt;sup&gt;PDF&lt;/sup&gt;.&lt;/li&gt;
 &lt;li&gt;Plant ground cover through the wood chip at about a half metre spacing, in a staggered fashion.&lt;/li&gt;
-&lt;li&gt;Sow the temporary ground cover, which helps prevent weeds getting a hold until your ground cover established. Here in Wales, I use White Mustard &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Sinapis+alba&#34;&gt;Sinapsis alba&lt;/a&gt;, which is cheapest to buy in bulk, eg at the time of writing, 21 kilos from &lt;a href=&#34;https://www.cotswoldseeds.com/products/1584/mustard-sinapsis-alba&#34;&gt;Cotswold Seeds&lt;/a&gt; £50 including postage, enough for a couple of acres. You could &lt;a href=&#34;https://en.oxforddictionaries.com/definition/us/go_dutch&#34;&gt;go dutch&lt;/a&gt; with someone.&lt;/li&gt;
+&lt;li&gt;Sow the temporary ground cover, which helps prevent weeds getting a hold until your ground cover established. Here in Wales, I use White Mustard &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Sinapis+alba&#34;&gt;Sinapsis alba&lt;/a&gt;, which is cheapest to buy in bulk, eg at the time of writing, 21 kilos from &lt;a href=&#34;https://www.cotswoldseeds.com/products/1584/mustard-sinapsis-alba&#34;&gt;Cotswold Seeds&lt;/a&gt; £50 including postage, enough for a couple of acres. You could &lt;a href=&#34;https://en.oxforddictionaries.com/definition/us/go_dutch&#34;&gt;go dutch&lt;/a&gt; with someone.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Do remember that you will still need to weed until the ground cover plants are established. With something like &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Glechoma+hederacea&#34;&gt;Ground Ivy&lt;/a&gt; and &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Fragaria+chiloensis&#34;&gt;Chilean Strawberry&lt;/a&gt;, this can be within the year, although evergreens like &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Vinca+minor&#34;&gt;Lesser Periwinkle&lt;/a&gt; and &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Rubus+nepalensis&#34;&gt;Nepalese Raspberry&lt;/a&gt; I’ve found take longer. When you’re weeding, you can simply cut the tops of dandelion and plantain and drop them in situ. They will grow back but will die out after a cuople of weedings. Grass on the other hand needs to be removed, although the roots don’t get established in the soil, just in the wood chip.&lt;/p&gt;
+&lt;p&gt;Do remember that you will still need to weed until the ground cover plants are established. With something like &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Glechoma+hederacea&#34;&gt;Ground Ivy&lt;/a&gt; and &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Fragaria+chiloensis&#34;&gt;Chilean Strawberry&lt;/a&gt;, this can be within the year, although evergreens like &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Vinca+minor&#34;&gt;Lesser Periwinkle&lt;/a&gt; and &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Rubus+nepalensis&#34;&gt;Nepalese Raspberry&lt;/a&gt; I’ve found take longer. When you’re weeding, you can simply cut the tops of dandelion and plantain and drop them in situ. They will grow back but will die out after a cuople of weedings. Grass on the other hand needs to be removed, although the roots don’t get established in the soil, just in the wood chip.&lt;/p&gt;
 
 &lt;h2 id=&#34;photos-of-the-process&#34;&gt;Photos of the process&lt;/h2&gt;
 
@@ -411,7 +655,7 @@ Get the town/county/city council onside and supporting your cause. Promote your 
         &lt;p class="p-summary"&gt;This is the CAD plan for the Ornamental Forest Garden&lt;/p&gt;
         
           &lt;figure&gt;
-            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1556622039/OFG_3.22.pdf&quot; alt=&quot;CAD plan of forest garden, overlaying satellite photo&quot;&gt;
+            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1556622039/OFG_3.22.jpg&quot; alt=&quot;CAD plan of forest garden, overlaying satellite photo&quot;&gt;
             &lt;figcaption&gt;The Ornamental Forest Garden CAD plan, overlaying a satellite photo.&lt;/figcaption&gt;
           &lt;/figure&gt;
         
@@ -462,7 +706,7 @@ Get the town/county/city council onside and supporting your cause. Promote your 
 
 
 
-&lt;p&gt;We planted a &lt;a href=&#34;https://www.agroforestry.co.uk/product/yushania-anceps-pitt-white/&#34;&gt;Yushania anceps &amp;lsquo;Pitt White&amp;rsquo;&lt;/a&gt; bamboo in the Ornamental Forest Garden but it’s been battered a bit by winds, as the windbreak hedges have yet to get established, and the &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Cytisus+scoparius&#34;&gt;Broom&lt;/a&gt; nurse trees aren’t in place yet. So a dead hedge is an ideal solution.&lt;/p&gt;
+&lt;p&gt;We planted a &lt;a href=&#34;https://www.agroforestry.co.uk/product/yushania-anceps-pitt-white/&#34;&gt;Yushania anceps &amp;lsquo;Pitt White&amp;rsquo;&lt;/a&gt; bamboo in the Ornamental Forest Garden but it’s been battered a bit by winds, as the windbreak hedges have yet to get established, and the &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Cytisus+scoparius&#34;&gt;Broom&lt;/a&gt; nurse trees aren’t in place yet. So a dead hedge is an ideal solution.&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -764,7 +1008,7 @@ With minimal effort&lt;/p&gt;
 
 &lt;p&gt;The grass will die off beneath the cardboard, the ground cover plants will grow in the soil, the cardboard will gradually decompose and the ground cover will get established. All you’ll need to do is a bit of weeding every few months.&lt;/p&gt;
 
-&lt;p&gt;Make sure to plant something that easy to propagate. Around here in West Wales, &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Glechoma+hederacea&#34;&gt;Glechoma hederacea&lt;/a&gt; grows like a proverbial weed, so it’s a fantastic, low-maintenance ground cover. Plants For A Future has a handy &lt;a href=&#34;https://pfaf.org/user/cmspage.aspx?pageid=249&#34;&gt;database of ground cover plants&lt;/a&gt; if you’re stuck for ideas.&lt;/p&gt;
+&lt;p&gt;Make sure to plant something that easy to propagate. Around here in West Wales, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Glechoma+hederacea&#34;&gt;Glechoma hederacea&lt;/a&gt; grows like a proverbial weed, so it’s a fantastic, low-maintenance ground cover. Plants For A Future has a handy &lt;a href=&#34;https://pfaf.org/user/cmspage.aspx?pageid=249&#34;&gt;database of ground cover plants&lt;/a&gt; if you’re stuck for ideas.&lt;/p&gt;
 
 &lt;p&gt;The beauty is that the propagation bed is only ever temporary, you can always move the plants to another site. If you don’t use them, you can always give them away to friends, neighbours or a fête worse than death.&lt;/p&gt;
 
@@ -872,15 +1116,15 @@ With minimal effort&lt;/p&gt;
 &lt;p&gt;As you can see from the photo, there’s plenty of room for flowers. The ones I’ve chosen are all easy to grow, a bonus for my clumsy propagation skills, and excellent for beneficial insects:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Bergamot (&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Monarda+didyma&#34;&gt;Monarda didyma&lt;/a&gt;)&lt;br /&gt;
+&lt;li&gt;Bergamot (&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Monarda+didyma&#34;&gt;Monarda didyma&lt;/a&gt;)&lt;br /&gt;
 &lt;em&gt;Perennial, leaves &amp;amp; flowers in salads, make aromatic tea&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Pot Marigold (&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Calendula+officinalis&#34;&gt;Calendula officinalis&lt;/a&gt;)&lt;br /&gt;
+&lt;li&gt;Pot Marigold (&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Calendula+officinalis&#34;&gt;Calendula officinalis&lt;/a&gt;)&lt;br /&gt;
 &lt;em&gt;Annual, edible leaves &amp;amp; flowers, dye from petals&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Borage (&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Borago+officinalis&#34;&gt;Borago officinalis&lt;/a&gt;)&lt;br /&gt;
+&lt;li&gt;Borage (&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Borago+officinalis&#34;&gt;Borago officinalis&lt;/a&gt;)&lt;br /&gt;
 &lt;em&gt;Annual, amazing bee plant, edible flowers&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Poached Egg Plant (&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Limnanthes+douglasii&#34;&gt;Limnanthes douglasii&lt;/a&gt;)&lt;br /&gt;
+&lt;li&gt;Poached Egg Plant (&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Limnanthes+douglasii&#34;&gt;Limnanthes douglasii&lt;/a&gt;)&lt;br /&gt;
 &lt;em&gt;Annual, supereasy to grow, great for bees &amp;amp; hoverflies, will self-sow&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Marigold &amp;lsquo;Naughty Marietta&amp;rsquo; (&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Tagetes+patula&#34;&gt;Tagetes patula&lt;/a&gt;)&lt;br /&gt;
+&lt;li&gt;Marigold &amp;lsquo;Naughty Marietta&amp;rsquo; (&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Tagetes+patula&#34;&gt;Tagetes patula&lt;/a&gt;)&lt;br /&gt;
 &lt;em&gt;Annual, classic companion plant for veg plots&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1080,7 +1324,7 @@ With minimal effort&lt;/p&gt;
 
 
 
-&lt;p&gt;This year, it’s all about clearing the bramble (&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Rubus+fruticosus&#34;&gt;Rubus fruticosus&lt;/a&gt;). In this part of the world, it is &lt;em&gt;everywhere&lt;/em&gt;. As bad vegans, and with bad fencing, we don’t have the neighbour’s cattle on the land any more. You can really notice the rapid spread in just two years. This is &lt;a href=&#34;https://en.wikipedia.org/wiki/Ecological_succession&#34;&gt;ecological succession&lt;/a&gt; in action. Already, oaks, ash and cherry saplings have sprouted up amidst the thickest bramble bushes.&lt;/p&gt;
+&lt;p&gt;This year, it’s all about clearing the bramble (&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Rubus+fruticosus&#34;&gt;Rubus fruticosus&lt;/a&gt;). In this part of the world, it is &lt;em&gt;everywhere&lt;/em&gt;. As bad vegans, and with bad fencing, we don’t have the neighbour’s cattle on the land any more. You can really notice the rapid spread in just two years. This is &lt;a href=&#34;https://en.wikipedia.org/wiki/Ecological_succession&#34;&gt;ecological succession&lt;/a&gt; in action. Already, oaks, ash and cherry saplings have sprouted up amidst the thickest bramble bushes.&lt;/p&gt;
 
 &lt;p&gt;A lot of people say to use &lt;a href=&#34;https://en.wikipedia.org/wiki/Glyphosate&#34;&gt;glysophate&lt;/a&gt; to kill the bramble roots. Well, I’m not a big fan of herbicides. So, we’re going to try a &lt;a href=&#34;http://www.sheenflamegun.co.uk/index.htm&#34;&gt;flame gun&lt;/a&gt; (and probably a bit of digging). That’ll be enough for this year, I’ll let you know how it &lt;goes class=&#34;&#34;&gt;&lt;/goes&gt;&lt;/p&gt;
 
@@ -1260,9 +1504,9 @@ With minimal effort&lt;/p&gt;
 
 
 
-&lt;p&gt;As you can see from the plan, the star of the show is the &amp;lsquo;Stella&amp;rsquo; cherry, at the heart of the garden. This is underplanted with Alliums on one side and &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Alchemilla+xanthochlora&#34;&gt;Lady’s Mantle&lt;/a&gt; and &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Acanthus+mollis&#34;&gt;Bears Breeches&lt;/a&gt; on the more shaded side. There’ll be two paths re-using the gravel going around the tree to the corner, where there’ll be some sort of water feature (eg a small wildlife pond in an old Belfast sink) and a movable bench in the seating area.&lt;/p&gt;
+&lt;p&gt;As you can see from the plan, the star of the show is the &amp;lsquo;Stella&amp;rsquo; cherry, at the heart of the garden. This is underplanted with Alliums on one side and &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Alchemilla+xanthochlora&#34;&gt;Lady’s Mantle&lt;/a&gt; and &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Acanthus+mollis&#34;&gt;Bears Breeches&lt;/a&gt; on the more shaded side. There’ll be two paths re-using the gravel going around the tree to the corner, where there’ll be some sort of water feature (eg a small wildlife pond in an old Belfast sink) and a movable bench in the seating area.&lt;/p&gt;
 
-&lt;p&gt;Along the south facing wall will be day lillies rising above the clipped box hedge, fronted with mediterranean, sun-loving herbs. By the bench, there’s a lovely bunch of fennel, with mint behind for scent and for pollinators. The hedge with the neighbour is &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Atriplex+halimus&#34;&gt;Atriplex halimus&lt;/a&gt;, which is relatively easy to manage and likes full sun.&lt;/p&gt;
+&lt;p&gt;Along the south facing wall will be day lillies rising above the clipped box hedge, fronted with mediterranean, sun-loving herbs. By the bench, there’s a lovely bunch of fennel, with mint behind for scent and for pollinators. The hedge with the neighbour is &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Atriplex+halimus&#34;&gt;Atriplex halimus&lt;/a&gt;, which is relatively easy to manage and likes full sun.&lt;/p&gt;
 
 &lt;p&gt;The border along the pavement will have currants planted, to provide both fruit and a visual screen for the rest of the garden.&lt;/p&gt;
 
@@ -1313,25 +1557,25 @@ With minimal effort&lt;/p&gt;
 &lt;p&gt;Spring flowers are critical in providing nectar and pollen for pollinators which have recently emerged from hibernation, and which are about to start new broods. The flowers are, in order of the most foraged:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Salix+alba&#34;&gt;Willow&lt;/a&gt; (Salix species)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Crataegus+monogyna&#34;&gt;Hawthorn&lt;/a&gt; (Crataegus monogyna)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Salix+alba&#34;&gt;Willow&lt;/a&gt; (Salix species)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Crataegus+monogyna&#34;&gt;Hawthorn&lt;/a&gt; (Crataegus monogyna)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cotoneaster&#34;&gt;Cotoneaster&lt;/a&gt; (eg &lt;a href=&#34;https://www.rhs.org.uk/Plants/4619/i-Cotoneaster-horizontalis-i/Details&#34;&gt;Cotoneaster horizontalis&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Malus+domestica&#34;&gt;Apple&lt;/a&gt; and &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Prunus+avium&#34;&gt;cherry&lt;/a&gt; trees (Malus and Prunus species)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Ulex+europaeus&#34;&gt;Gorse&lt;/a&gt; (Ulex europaeus)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Acer+pseudoplatanus&#34;&gt;Sycamore&lt;/a&gt; and other &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Acer+palmatum&#34;&gt;Acer&lt;/a&gt; species&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Malus+domestica&#34;&gt;Apple&lt;/a&gt; and &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Prunus+avium&#34;&gt;cherry&lt;/a&gt; trees (Malus and Prunus species)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Ulex+europaeus&#34;&gt;Gorse&lt;/a&gt; (Ulex europaeus)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Acer+pseudoplatanus&#34;&gt;Sycamore&lt;/a&gt; and other &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Acer+palmatum&#34;&gt;Acer&lt;/a&gt; species&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hellebore&#34;&gt;Hellebores&lt;/a&gt; (Helleborus species)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Taraxacum+officinale&#34;&gt;Dandelions&lt;/a&gt; (Taraxacum officinale)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Ilex+aquifolium&#34;&gt;Holly&lt;/a&gt; (Ilex species)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Quercus+petraea&#34;&gt;Oak&lt;/a&gt; (Quercus species)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Taraxacum+officinale&#34;&gt;Dandelions&lt;/a&gt; (Taraxacum officinale)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Ilex+aquifolium&#34;&gt;Holly&lt;/a&gt; (Ilex species)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Quercus+petraea&#34;&gt;Oak&lt;/a&gt; (Quercus species)&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Help pollinators in your orchard in spring by planting a &lt;a href=&#34;https://en.wikipedia.org/wiki/Willow&#34;&gt;willow&lt;/a&gt; and a &lt;a href=&#34;https://pfaf.org/user/cmspage.aspx?pageid=59&#34;&gt;hawthorn&lt;/a&gt;. For the smaller garden, there are more compact willow varieties, and there are also some fantastic fruiting hawthorns: take a look at the &lt;a href=&#34;https://pfaf.org/&#34;&gt;Plants For A Future website&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;From a forest garden perspective, these spring flowers can be supplemented with &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Taraxacum+officinale&#34;&gt;Dandelion&lt;/a&gt;, &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Caltha+palustris&#34;&gt;Marsh Marigold&lt;/a&gt;, &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Ulex+europaeus&#34;&gt;Gorse&lt;/a&gt;, &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Lamium+purpureum&#34;&gt;Purple Deadnettle&lt;/a&gt; and &lt;a href=&#34;https://www.rhs.org.uk/Plants/89384/i-Erica-carnea-i-Loughrigg/Details&#34;&gt;Winter Heath&lt;/a&gt;—all of these provide both nectar and pollen (Appendix 3, &lt;a href=&#34;https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/&#34;&gt;Creating a Forest Garden&lt;/a&gt; book).&lt;/p&gt;
+&lt;p&gt;From a forest garden perspective, these spring flowers can be supplemented with &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Taraxacum+officinale&#34;&gt;Dandelion&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Caltha+palustris&#34;&gt;Marsh Marigold&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Ulex+europaeus&#34;&gt;Gorse&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Lamium+purpureum&#34;&gt;Purple Deadnettle&lt;/a&gt; and &lt;a href=&#34;https://www.rhs.org.uk/Plants/89384/i-Erica-carnea-i-Loughrigg/Details&#34;&gt;Winter Heath&lt;/a&gt;—all of these provide both nectar and pollen (Appendix 3, &lt;a href=&#34;https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/&#34;&gt;Creating a Forest Garden&lt;/a&gt; book).&lt;/p&gt;
 
 &lt;p&gt;At the Botanic Gardens, PhD student &lt;a href=&#34;https://botanicgarden.wales/plants-pollinators-creating-pollinator-friendly-seed-mixes-gardens-urban-green-spaces/&#34;&gt;Lucy Witter&lt;/a&gt; is creating an open access list of the best plants for pollinators based on the DNA research, as well creating and testing pollinator friendly seed mixes.&lt;/p&gt;
 
-&lt;p&gt;Until this year-round advice is published, there are plenty of other sources for finding bee and pollinator friendly plants. My &lt;a href=&#34;https://www.forestgarden.wales/blog/top-10-bee-friendly-plants/&#34;&gt;personal favourites&lt;/a&gt; include &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Symphytum+officinale&#34;&gt;Comfrey&lt;/a&gt;, &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Borago+officinalis&#34;&gt;Borage&lt;/a&gt; and &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Lythrum+salicaria&#34;&gt;Purple Loosestrife&lt;/a&gt;, or you can try the &lt;a href=&#34;https://www.bumblebeeconservation.org&#34;&gt;Bumblebee Conservation Trust&lt;/a&gt;’s &lt;a href=&#34;https://beekind.bumblebeeconservation.org/home&#34;&gt;Bee Kind Flower Finder&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Until this year-round advice is published, there are plenty of other sources for finding bee and pollinator friendly plants. My &lt;a href=&#34;https://www.forestgarden.wales/blog/top-10-bee-friendly-plants/&#34;&gt;personal favourites&lt;/a&gt; include &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Symphytum+officinale&#34;&gt;Comfrey&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Borago+officinalis&#34;&gt;Borage&lt;/a&gt; and &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Lythrum+salicaria&#34;&gt;Purple Loosestrife&lt;/a&gt;, or you can try the &lt;a href=&#34;https://www.bumblebeeconservation.org&#34;&gt;Bumblebee Conservation Trust&lt;/a&gt;’s &lt;a href=&#34;https://beekind.bumblebeeconservation.org/home&#34;&gt;Bee Kind Flower Finder&lt;/a&gt;!&lt;/p&gt;
 
       </description>
     </item>
@@ -1446,20 +1690,20 @@ With minimal effort&lt;/p&gt;
 &lt;p&gt;I had ordered quite a few trees and shrubs from &lt;a href=&#34;https://www.agroforestry.co.uk&#34;&gt;Agroforestry Research Trust&lt;/a&gt; and they’d been heeled-in to a raised bed for a couple of months. The warm weather in February made me nervous, leaving it any longer would increase the likelihood of needing to keep the trees well watered throughout the summer. The full list of trees is here:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Cornus+mas&#34;&gt;Cornelian Cherry&lt;/a&gt; (Cornus mas) Gourmet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Crataegus+arnoldiana&#34;&gt;Haw&lt;/a&gt; Crataegus arnoldiana&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=staphylea+pinnata&#34;&gt;Bladdernut&lt;/a&gt; (Staphylea pinnata)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Castanea+sativa&#34;&gt;Chestnut&lt;/a&gt; (Castanea) Marigoule seedling&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Corylus+avellana&#34;&gt;Hazelnut&lt;/a&gt; (Corylus avellana) Corabel, Webbs prize Cob&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Elaeagnus+umbellata&#34;&gt;Elaeagnus umbellata&lt;/a&gt; Big Red&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Viburnum+trilobum&#34;&gt;Highbush Cranberry&lt;/a&gt; (Viburnum trilobum) Phillips, Wentworth&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Phyllostachys+viridiglaucescens&#34;&gt;Phyllostachys viridi-glaucescens&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Yushania+anceps&#34;&gt;Yushania anceps Pitt White&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Cornus+mas&#34;&gt;Cornelian Cherry&lt;/a&gt; (Cornus mas) Gourmet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Crataegus+arnoldiana&#34;&gt;Haw&lt;/a&gt; Crataegus arnoldiana&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=staphylea+pinnata&#34;&gt;Bladdernut&lt;/a&gt; (Staphylea pinnata)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Castanea+sativa&#34;&gt;Chestnut&lt;/a&gt; (Castanea) Marigoule seedling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Corylus+avellana&#34;&gt;Hazelnut&lt;/a&gt; (Corylus avellana) Corabel, Webbs prize Cob&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Elaeagnus+umbellata&#34;&gt;Elaeagnus umbellata&lt;/a&gt; Big Red&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Viburnum+trilobum&#34;&gt;Highbush Cranberry&lt;/a&gt; (Viburnum trilobum) Phillips, Wentworth&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Phyllostachys+viridiglaucescens&#34;&gt;Phyllostachys viridi-glaucescens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Yushania+anceps&#34;&gt;Yushania anceps Pitt White&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Plus I moved the &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Morus+alba&#34;&gt;Mulberry&lt;/a&gt; and &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Cornus+kousa+chinensis&#34;&gt;Cornus kousa &amp;lsquo;Chinensis&amp;rsquo;&lt;/a&gt; from the other forest garden, to a more sheltered position. Together with a couple of &lt;a href=&#34;https://www.orangepippin.com/varieties/plums/excalibur&#34;&gt;plum Excalibur&lt;/a&gt; and apples grafted (&lt;a href=&#34;https://www.orangepippin.com/varieties/apples/ashmeads-kernel&#34;&gt;Ashmead’s Kernel&lt;/a&gt; and Poppit Bubblegum) by own fair hand, that’s enough canopy layer to be getting on with.&lt;/p&gt;
+&lt;p&gt;Plus I moved the &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Morus+alba&#34;&gt;Mulberry&lt;/a&gt; and &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Cornus+kousa+chinensis&#34;&gt;Cornus kousa &amp;lsquo;Chinensis&amp;rsquo;&lt;/a&gt; from the other forest garden, to a more sheltered position. Together with a couple of &lt;a href=&#34;https://www.orangepippin.com/varieties/plums/excalibur&#34;&gt;plum Excalibur&lt;/a&gt; and apples grafted (&lt;a href=&#34;https://www.orangepippin.com/varieties/apples/ashmeads-kernel&#34;&gt;Ashmead’s Kernel&lt;/a&gt; and Poppit Bubblegum) by own fair hand, that’s enough canopy layer to be getting on with.&lt;/p&gt;
 
-&lt;p&gt;In terms of ornamentality, the &lt;a href=&#34;https://www.rhs.org.uk/Plants/4399/i-Cornus-mas-i/Details&#34;&gt;Cornelian Cherry&lt;/a&gt; currently has beautiful witchhazel-like yellow blossom, the &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Crataegus+arnoldiana&#34;&gt;Hawthorn&lt;/a&gt; will have a glorious spring display and the &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Viburnum+trilobum&#34;&gt;Highbush Cranberry&lt;/a&gt; have beautiful open flowers in spring and glorious autumn red berries.&lt;/p&gt;
+&lt;p&gt;In terms of ornamentality, the &lt;a href=&#34;https://www.rhs.org.uk/Plants/4399/i-Cornus-mas-i/Details&#34;&gt;Cornelian Cherry&lt;/a&gt; currently has beautiful witchhazel-like yellow blossom, the &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Crataegus+arnoldiana&#34;&gt;Hawthorn&lt;/a&gt; will have a glorious spring display and the &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Viburnum+trilobum&#34;&gt;Highbush Cranberry&lt;/a&gt; have beautiful open flowers in spring and glorious autumn red berries.&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -1529,7 +1773,7 @@ With minimal effort&lt;/p&gt;
             &lt;figcaption&gt;The inside of Martin Crawford’s Creating a Forest Garden book&lt;/figcaption&gt;
           &lt;/figure&gt;
         
-        &lt;p&gt;I happened to be passing &lt;a href=&#34;https://farmyardnurseries.co.uk&#34;&gt;Farmyard Nurseries&lt;/a&gt; (where I accidentally bought some &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Mentha+longifolia&#34;&gt;Mentha longifolia&lt;/a&gt;) and met someone who wants to start a forest garden. They wanted some quick advice, time was limited so I wrote this list:&lt;/p&gt;
+        &lt;p&gt;I happened to be passing &lt;a href=&#34;https://farmyardnurseries.co.uk&#34;&gt;Farmyard Nurseries&lt;/a&gt; (where I accidentally bought some &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Mentha+longifolia&#34;&gt;Mentha longifolia&lt;/a&gt;) and met someone who wants to start a forest garden. They wanted some quick advice, time was limited so I wrote this list:&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Buy &lt;strong&gt;&lt;a href=&#34;https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/&#34;&gt;Creating a Forest Garden&lt;/a&gt;&lt;/strong&gt; by Martin Crawford. Fantastic design manual and reference.&lt;/li&gt;
@@ -1587,9 +1831,9 @@ With minimal effort&lt;/p&gt;
             &lt;figcaption&gt;Highly detailed illustration showing a mulching technique for a windbreak in a weedy spot&lt;/figcaption&gt;
           &lt;/figure&gt;
         
-        &lt;p&gt;We’ve planted &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Amelanchier+canadensis&#34;&gt;Amelanchier canadensis&lt;/a&gt;, &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Elaeagnus+Umbellata&#34;&gt;Elaeagnus umbellata&lt;/a&gt;, &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Berberis+darwinii&#34;&gt;Berberis darwinii&lt;/a&gt; and &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Viburnum+opulus&#34;&gt;Viburnum opulus&lt;/a&gt; in the northern double-width windbreak hedge of the &lt;a href=&#34;https://www.forestgarden.wales/blog/introducing-ornamental-maintenance-free-forest-garden/&#34;&gt;Ornamental Forest Garden&lt;/a&gt;. They’ve all grown well in the existing forest garden and they’re all available as cheap hedging plants. The Berberis has been chosen because it’s evergreen and is planted by the wildlife pond, so there should be less leaf fall into the pond.&lt;/p&gt;
+        &lt;p&gt;We’ve planted &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Amelanchier+canadensis&#34;&gt;Amelanchier canadensis&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Elaeagnus+Umbellata&#34;&gt;Elaeagnus umbellata&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Berberis+darwinii&#34;&gt;Berberis darwinii&lt;/a&gt; and &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Viburnum+opulus&#34;&gt;Viburnum opulus&lt;/a&gt; in the northern double-width windbreak hedge of the &lt;a href=&#34;https://www.forestgarden.wales/blog/introducing-ornamental-maintenance-free-forest-garden/&#34;&gt;Ornamental Forest Garden&lt;/a&gt;. They’ve all grown well in the existing forest garden and they’re all available as cheap hedging plants. The Berberis has been chosen because it’s evergreen and is planted by the wildlife pond, so there should be less leaf fall into the pond.&lt;/p&gt;
 
-&lt;p&gt;However, there’s a &lt;strong&gt;lot&lt;/strong&gt; of &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Rubus+fruticosus&#34;&gt;bramble&lt;/a&gt; and &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Urtica+dioica&#34;&gt;nettle&lt;/a&gt;, fine forest garden plants in their own right but not what you want in the midst of an establishing windbreak hedge.&lt;/p&gt;
+&lt;p&gt;However, there’s a &lt;strong&gt;lot&lt;/strong&gt; of &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Rubus+fruticosus&#34;&gt;bramble&lt;/a&gt; and &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Urtica+dioica&#34;&gt;nettle&lt;/a&gt;, fine forest garden plants in their own right but not what you want in the midst of an establishing windbreak hedge.&lt;/p&gt;
 
 &lt;p&gt;After digging out most of the bramble, we’re using woven plastic sheet mulch to kill off the rest. We’ve planted a single line &lt;strong&gt;between&lt;/strong&gt; the two rows, so that the sheet can be re-used. There are pegs to temporarily hold down the sheet but it’s imperative to put lots of really heavy objects down, otherwise the sheet &lt;em&gt;will&lt;/em&gt; take off in the next storm! Also, be sure to put down some wood chip or hay mulch between the gaps.&lt;/p&gt;
 
@@ -1612,7 +1856,7 @@ With minimal effort&lt;/p&gt;
 
 
 
-&lt;p&gt;In year 2, we’ll totally remove the front row of sheet mulch and fold back the rear row onto itself, and then plant the second windbreak row. Then it’s a thick wood chip mulch and plant a cheap and cheerful ground cover plant (&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Glechoma+hederacea&#34;&gt;Glechoma hederacea&lt;/a&gt; is a favourite, as it grows well locally).&lt;/p&gt;
+&lt;p&gt;In year 2, we’ll totally remove the front row of sheet mulch and fold back the rear row onto itself, and then plant the second windbreak row. Then it’s a thick wood chip mulch and plant a cheap and cheerful ground cover plant (&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Glechoma+hederacea&#34;&gt;Glechoma hederacea&lt;/a&gt; is a favourite, as it grows well locally).&lt;/p&gt;
 
 &lt;p&gt;The reason why the rear row is folded back onto itself is so that the bramble from next door finds it harder to &lt;a href=&#34;https://www.rhs.org.uk/advice/profile?PID=358&#34;&gt;tip layer&lt;/a&gt; into the hedge. In a few years time, the hedge will thicken up enough so that there’s not enough light for the bramble to grow into the hedge.&lt;/p&gt;
 
@@ -1700,7 +1944,7 @@ With minimal effort&lt;/p&gt;
 
 &lt;p&gt;I roughly marked out the area of the pond with short lengths of bamboo and white string, took a photo and then drew lines in Photoshop. This gives an idea of where the pond will sit in the garden and, equally importantly, where the paths will go.&lt;/p&gt;
 
-&lt;p&gt;I think the paths are critical at this stage. I remember with the first forest garden that the design started with the polytunnel and raised beds and worked outwards. Likewise, the design in the Ornamental Forest starts with the tent, the area around the tent, the pond and then works outwards. I have a pretty good idea that the sun-loving fruit trees will fit past the pond, and the &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Morus+nigra&#34;&gt;mulberry&lt;/a&gt; and &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Cornus+kousa&#34;&gt;Cornus kousa&lt;/a&gt; will lie in the more sheltered south eastern corner. But the paths, they are critical in joining it all together, so that everything flows.&lt;/p&gt;
+&lt;p&gt;I think the paths are critical at this stage. I remember with the first forest garden that the design started with the polytunnel and raised beds and worked outwards. Likewise, the design in the Ornamental Forest starts with the tent, the area around the tent, the pond and then works outwards. I have a pretty good idea that the sun-loving fruit trees will fit past the pond, and the &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Morus+nigra&#34;&gt;mulberry&lt;/a&gt; and &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Cornus+kousa&#34;&gt;Cornus kousa&lt;/a&gt; will lie in the more sheltered south eastern corner. But the paths, they are critical in joining it all together, so that everything flows.&lt;/p&gt;
 
 &lt;p&gt;Gardening, the pastime of visionaries.&lt;/p&gt;
 
@@ -1721,17 +1965,17 @@ With minimal effort&lt;/p&gt;
             &lt;figcaption&gt;Plenty of bramble dug up from the site of the windbreak hedge&lt;/figcaption&gt;
           &lt;/figure&gt;
         
-        &lt;p&gt;Some plants in the garden if left to their own devices will just take over, bramble (&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Rubus+fruticosus&#34;&gt;Rubus fruticosus&lt;/a&gt;) being an excellent example. The bramble pictured was dug up from what will be the Northern Hedge in the &lt;a href=&#34;https://www.forestgarden.wales/blog/introducing-ornamental-maintenance-free-forest-garden/&#34;&gt;Ornamental Forest Garden&lt;/a&gt;. (I know, bramble is a fantastic wildlife plant but it’s in the way of the hedge and will be replaced with a thornless variety!)&lt;/p&gt;
+        &lt;p&gt;Some plants in the garden if left to their own devices will just take over, bramble (&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Rubus+fruticosus&#34;&gt;Rubus fruticosus&lt;/a&gt;) being an excellent example. The bramble pictured was dug up from what will be the Northern Hedge in the &lt;a href=&#34;https://www.forestgarden.wales/blog/introducing-ornamental-maintenance-free-forest-garden/&#34;&gt;Ornamental Forest Garden&lt;/a&gt;. (I know, bramble is a fantastic wildlife plant but it’s in the way of the hedge and will be replaced with a thornless variety!)&lt;/p&gt;
 
 &lt;p&gt;The question is, at one point does the low-maintenance, self-sufficient, drought-tolerant get-on-with-it-and-grow plant turn into a garden thug that crowds out all competition?&lt;/p&gt;
 
-&lt;p&gt;The whole point of a forest garden is that it &lt;em&gt;is&lt;/em&gt; low maintenance, that plants can just get on with it and don’t need any special attention once they’re established. When Pat Causton from the &lt;a href=&#34;https://www.ngs.org.uk&#34;&gt;National Garden Scheme&lt;/a&gt; came to visit, she said about my &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Glechoma+hederacea&#34;&gt;False Ivy&lt;/a&gt; (Glechoma hederacea) ground cover “But that’s a weed!”.&lt;/p&gt;
+&lt;p&gt;The whole point of a forest garden is that it &lt;em&gt;is&lt;/em&gt; low maintenance, that plants can just get on with it and don’t need any special attention once they’re established. When Pat Causton from the &lt;a href=&#34;https://www.ngs.org.uk&#34;&gt;National Garden Scheme&lt;/a&gt; came to visit, she said about my &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Glechoma+hederacea&#34;&gt;False Ivy&lt;/a&gt; (Glechoma hederacea) ground cover “But that’s a weed!”.&lt;/p&gt;
 
 &lt;p&gt;And she’s right. But. It depends on what you’re doing.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://northwestgardennursery.com&#34;&gt;Marietta O’Byrne&lt;/a&gt; wrote the book &lt;a href=&#34;https://www.goodreads.com/book/show/35489114-a-tapestry-garden&#34;&gt;A Tapestry Garden&lt;/a&gt; and in &lt;a href=&#34;https://awaytogarden.com/underplanting-making-a-tapestry-garden-with-marietta-obyrne/&#34;&gt;conversation with Margaret Roach&lt;/a&gt; talks about plants that are amenable to move, with an &lt;a href=&#34;https://www.rhs.org.uk/Plants/90876/i-Lamium-maculatum-i-White-Nancy/Details&#34;&gt;easy root system&lt;/a&gt;. The forest garden stalwart &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Vinca+minor&#34;&gt;Vinca minor&lt;/a&gt; is &lt;strong&gt;not&lt;/strong&gt; one of those plants. “Once you have vinca, deep-rooted, you’ve got it. You want to get rid of it? You never will.”&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://northwestgardennursery.com&#34;&gt;Marietta O’Byrne&lt;/a&gt; wrote the book &lt;a href=&#34;https://www.goodreads.com/book/show/35489114-a-tapestry-garden&#34;&gt;A Tapestry Garden&lt;/a&gt; and in &lt;a href=&#34;https://awaytogarden.com/underplanting-making-a-tapestry-garden-with-marietta-obyrne/&#34;&gt;conversation with Margaret Roach&lt;/a&gt; talks about plants that are amenable to move, with an &lt;a href=&#34;https://www.rhs.org.uk/Plants/90876/i-Lamium-maculatum-i-White-Nancy/Details&#34;&gt;easy root system&lt;/a&gt;. The forest garden stalwart &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Vinca+minor&#34;&gt;Vinca minor&lt;/a&gt; is &lt;strong&gt;not&lt;/strong&gt; one of those plants. “Once you have vinca, deep-rooted, you’ve got it. You want to get rid of it? You never will.”&lt;/p&gt;
 
-&lt;p&gt;You also have to think about &lt;strong&gt;where you are&lt;/strong&gt;. For example, &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Lythrum+salicaria&#34;&gt;Purple Loosestrife&lt;/a&gt; (Lythrum salicaria) is a &lt;a href=&#34;https://www.forestgarden.wales/blog/top-10-bee-friendly-plants/&#34;&gt;fantastic pollinator plant&lt;/a&gt; native to the UK. But &lt;a href=&#34;https://kendruse.com&#34;&gt;Ken Druse&lt;/a&gt; in his book &lt;a href=&#34;https://www.goodreads.com/book/show/940298.Ken_Druse&#34;&gt;The Passion for Gardening&lt;/a&gt; is writing about the US: “wherever &lt;em&gt;Lythrum salicaria&lt;/em&gt; is on the loose, native plants can’t keep a foothold”.&lt;/p&gt;
+&lt;p&gt;You also have to think about &lt;strong&gt;where you are&lt;/strong&gt;. For example, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Lythrum+salicaria&#34;&gt;Purple Loosestrife&lt;/a&gt; (Lythrum salicaria) is a &lt;a href=&#34;https://www.forestgarden.wales/blog/top-10-bee-friendly-plants/&#34;&gt;fantastic pollinator plant&lt;/a&gt; native to the UK. But &lt;a href=&#34;https://kendruse.com&#34;&gt;Ken Druse&lt;/a&gt; in his book &lt;a href=&#34;https://www.goodreads.com/book/show/940298.Ken_Druse&#34;&gt;The Passion for Gardening&lt;/a&gt; is writing about the US: “wherever &lt;em&gt;Lythrum salicaria&lt;/em&gt; is on the loose, native plants can’t keep a foothold”.&lt;/p&gt;
 
 &lt;p&gt;Again, it depends.&lt;/p&gt;
 
@@ -1833,20 +2077,20 @@ With minimal effort&lt;/p&gt;
         
         &lt;p&gt;At last Saturday’s &lt;a href=&#34;https://www.forestgarden.wales/status/190126-thepeoplesorchard/&#34;&gt;pruning workshop&lt;/a&gt; by &lt;a href=&#34;http://www.stdogmaelsabbey.org.uk/peoplesorchard&#34;&gt;The People’s Orchard&lt;/a&gt; I was talking with some people from &lt;a href=&#34;https://en.wikipedia.org/wiki/Fishguard&#34;&gt;Fishguard&lt;/a&gt;. They’re interested in creating a forest garden but they’re in an incredibly windy spot by the sea.&lt;/p&gt;
 
-&lt;p&gt;There is nothing like a challenge to get the brain working. Forest Garden Wales is a good 7 miles from the sea, so although we have a lot of wind, being at the top of the valley, we don’t get any salty sea wind. Which is handy, because I really like &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Amelanchier+canadensis&#34;&gt;Amelanchiers&lt;/a&gt; (Juneberries), and apparently they don’t tolerate maritime exposure.&lt;/p&gt;
+&lt;p&gt;There is nothing like a challenge to get the brain working. Forest Garden Wales is a good 7 miles from the sea, so although we have a lot of wind, being at the top of the valley, we don’t get any salty sea wind. Which is handy, because I really like &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Amelanchier+canadensis&#34;&gt;Amelanchiers&lt;/a&gt; (Juneberries), and apparently they don’t tolerate maritime exposure.&lt;/p&gt;
 
 &lt;p&gt;So, I drew up a short list of possibles. I would use a three deep windbreak hedge, with some sacrificial pioneers at the outermost edge. Exactly what goes where would depend on where the sun is and what the soil is like. In no particular order:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Atriplex+halimus&#34;&gt;Saltbush&lt;/a&gt; (Atriplex halimus). Even when grown in non-coastal sites, it still tastes salty!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Ulex+europaeus&#34;&gt;Gorse&lt;/a&gt; (Ulex europaeus). Fantastic pollinator plant, year round flowers in some places, plus you can make wine from the flowers. Spiky. Some people don’t like it.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Berberis+thunbergii&#34;&gt;Japanese Barberry&lt;/a&gt; (Berberis thunbergii). Lovely, spiky evergreen Barberry.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Cytisus+scoparius&#34;&gt;Broom&lt;/a&gt; (Cytisis scoparius). Pea family, great pioneer plant, nitrogen fixing.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Elaeagnus+umbellata&#34;&gt;Autumn Olive&lt;/a&gt; (Elaeagnus umbellata). Brilliant nitrogen-fixing, berry-carrying 5 metre high star of the show.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Atriplex+halimus&#34;&gt;Saltbush&lt;/a&gt; (Atriplex halimus). Even when grown in non-coastal sites, it still tastes salty!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Ulex+europaeus&#34;&gt;Gorse&lt;/a&gt; (Ulex europaeus). Fantastic pollinator plant, year round flowers in some places, plus you can make wine from the flowers. Spiky. Some people don’t like it.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Berberis+thunbergii&#34;&gt;Japanese Barberry&lt;/a&gt; (Berberis thunbergii). Lovely, spiky evergreen Barberry.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Cytisus+scoparius&#34;&gt;Broom&lt;/a&gt; (Cytisis scoparius). Pea family, great pioneer plant, nitrogen fixing.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Elaeagnus+umbellata&#34;&gt;Autumn Olive&lt;/a&gt; (Elaeagnus umbellata). Brilliant nitrogen-fixing, berry-carrying 5 metre high star of the show.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/cmspage.aspx?pageid=59&#34;&gt;Hawthorn&lt;/a&gt; (Crataegus spp). If I had to have a favourite small tree, this might be the species for me. Great for pollinators, beautiful, hardy, easy to grow and to graft.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Alnus+cordata&#34;&gt;Italian Alder&lt;/a&gt; (Alnus cordata). Maybe a bit big for a permanent hedge, and doesn’t coppice well (I think). Though great pioneer species and superfast growing. Our 3 year old specimen is now about 5 metres tall.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Salix+%27Bowles+hybrid%27&#34;&gt;&amp;lsquo;Bowles hybrid&amp;rsquo; Willow&lt;/a&gt; (Salix). Upright, well-behaved, fast-growing willow. Haven’t grown it myself but itching for an excuse to plant some.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Hippophae+rhamnoides&#34;&gt;Sea Buckthorn&lt;/a&gt; (Hippophae rhamnoides). Classic plant for coastal areas, as its name suggests. Nitrogen fixing, good for stabilising loose ground, edible berries that taste of a pleasant battery acid (though high in vitamins).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Alnus+cordata&#34;&gt;Italian Alder&lt;/a&gt; (Alnus cordata). Maybe a bit big for a permanent hedge, and doesn’t coppice well (I think). Though great pioneer species and superfast growing. Our 3 year old specimen is now about 5 metres tall.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Salix+%27Bowles+hybrid%27&#34;&gt;&amp;lsquo;Bowles hybrid&amp;rsquo; Willow&lt;/a&gt; (Salix). Upright, well-behaved, fast-growing willow. Haven’t grown it myself but itching for an excuse to plant some.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Hippophae+rhamnoides&#34;&gt;Sea Buckthorn&lt;/a&gt; (Hippophae rhamnoides). Classic plant for coastal areas, as its name suggests. Nitrogen fixing, good for stabilising loose ground, edible berries that taste of a pleasant battery acid (though high in vitamins).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Hopefully that may give some windswept sea folk a bit of inspiration.&lt;/p&gt;
@@ -2047,9 +2291,9 @@ With minimal effort&lt;/p&gt;
 
 
 
-&lt;p&gt;So, better late than never, I have finally followed my own advice and &lt;a href=&#34;https://www.forestgarden.wales/blog/when-is-the-best-time-for-hardwood-cuttings/&#34;&gt;planted hardwood cuttings&lt;/a&gt;, a &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Cornus+sericea&#34;&gt;Red Dogwood&lt;/a&gt; (Cornus sericea) hedge. I say hedge, I mean row of sticks ⅔ in the ground. But I am a gardener and I am by nature optimistic with a stubborn personality and it will be a windbreak hedge.&lt;/p&gt;
+&lt;p&gt;So, better late than never, I have finally followed my own advice and &lt;a href=&#34;https://www.forestgarden.wales/blog/when-is-the-best-time-for-hardwood-cuttings/&#34;&gt;planted hardwood cuttings&lt;/a&gt;, a &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Cornus+sericea&#34;&gt;Red Dogwood&lt;/a&gt; (Cornus sericea) hedge. I say hedge, I mean row of sticks ⅔ in the ground. But I am a gardener and I am by nature optimistic with a stubborn personality and it will be a windbreak hedge.&lt;/p&gt;
 
-&lt;p&gt;The beauty of creating a hedge, apart from the protection it will give the &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Castanea+sativa&#34;&gt;Sweet Chestnut&lt;/a&gt; (Castanea sativa &amp;lsquo;Numbo&amp;rsquo;) and the &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Malus+sylvestris&#34;&gt;Crab Apple&lt;/a&gt; &amp;lsquo;John Downie&amp;rsquo;, is that it magically creates more beds. I’ll be sheet mulching the sunny area south of the hedge and planting it with &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Mentha+suaveolens&#34;&gt;Apple Mint&lt;/a&gt; (Mentha suaveolens) on one side of the uphill snaking path and possibly &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Origanum+vulgare&#34;&gt;Oregano&lt;/a&gt; (Origanum vulgare) on the other. To the north of the hedge, I’ll leave it as a Makeshift Meadow for now, which is always useful for wildlife habitat and for creating &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Origanum+vulgare&#34;&gt;hay mulch&lt;/a&gt;. When the Sweet Chestnut gets to a decent size, the grass will start to die back, and I’ll have a think of what else to plant. But that’s a decision for a few years time.&lt;/p&gt;
+&lt;p&gt;The beauty of creating a hedge, apart from the protection it will give the &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Castanea+sativa&#34;&gt;Sweet Chestnut&lt;/a&gt; (Castanea sativa &amp;lsquo;Numbo&amp;rsquo;) and the &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Malus+sylvestris&#34;&gt;Crab Apple&lt;/a&gt; &amp;lsquo;John Downie&amp;rsquo;, is that it magically creates more beds. I’ll be sheet mulching the sunny area south of the hedge and planting it with &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Mentha+suaveolens&#34;&gt;Apple Mint&lt;/a&gt; (Mentha suaveolens) on one side of the uphill snaking path and possibly &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Origanum+vulgare&#34;&gt;Oregano&lt;/a&gt; (Origanum vulgare) on the other. To the north of the hedge, I’ll leave it as a Makeshift Meadow for now, which is always useful for wildlife habitat and for creating &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Origanum+vulgare&#34;&gt;hay mulch&lt;/a&gt;. When the Sweet Chestnut gets to a decent size, the grass will start to die back, and I’ll have a think of what else to plant. But that’s a decision for a few years time.&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -2113,7 +2357,7 @@ With minimal effort&lt;/p&gt;
         &lt;p&gt;One drawback with forest gardening is the name. Firstly, it emulates the &lt;em&gt;edge&lt;/em&gt; of a woodland, not the deepest, darkest depths of a forest. And secondly, you most definitely &lt;strong&gt;can&lt;/strong&gt; have a small forest garden, because it’s about the &lt;em&gt;principles&lt;/em&gt; rather than the size. The principles are:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Productive:&lt;/strong&gt; this means food, possibly twine or canes, and it also applies to plants that support the garden, eg &lt;a href=&#34;https://www.forestgarden.wales/blog/top-10-bee-friendly-plants/&#34;&gt;flowers for pollinators &amp;amp; predators&lt;/a&gt;, plants for nutrients like &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Symphytum+uplandicum&#34;&gt;comfrey&lt;/a&gt; and &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Cytisus+scoparius&#34;&gt;Broom&lt;/a&gt;, and even pretty flowers to encourage the humans outside.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Productive:&lt;/strong&gt; this means food, possibly twine or canes, and it also applies to plants that support the garden, eg &lt;a href=&#34;https://www.forestgarden.wales/blog/top-10-bee-friendly-plants/&#34;&gt;flowers for pollinators &amp;amp; predators&lt;/a&gt;, plants for nutrients like &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Symphytum+uplandicum&#34;&gt;comfrey&lt;/a&gt; and &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Cytisus+scoparius&#34;&gt;Broom&lt;/a&gt;, and even pretty flowers to encourage the humans outside.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Multi-layered:&lt;/strong&gt; the garden is in 3D! This means using all the space, vertically with trees and climbers, a shrub layer and a ground cover. With a small garden, you need to make sure you choose the right-sized tree, which in the case of fruiting trees means a small &lt;a href=&#34;https://www.forestgarden.wales/blog/rootstock-reference/&#34;&gt;rootstock&lt;/a&gt;, eg an M27 for apples or Gisela 5 for a cherry.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;No-dig permanent ground cover:&lt;/strong&gt; you want to keep the ground covered and undisturbed as much as possible, as this encourages soil life. There’s a &lt;a href=&#34;https://pfaf.org/user/cmspage.aspx?pageid=81&#34;&gt;large range of ground cover plants&lt;/a&gt;, that don’t need mowing, which you can use for different situations.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Sustainable:&lt;/strong&gt; by using mineral accumulator plants for nutrients (and human urine!) you don’t need to apply fertilisers or create compost. Likewise, by encouraging healthy soil, pollinators and predators, you eliminate the need for pesticides. The whole garden is self-sustaining.&lt;/li&gt;
@@ -2229,14 +2473,14 @@ Not only are Sara &lt;a href=&#34;https://mobile.twitter.com/Saralimback&#34;&gt
     &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/w_120/v1544372630/comfrey-38830083715.jpg&#34; alt=&#34;Small raised beds with plants&#34; class=&#34;o-media__figure&#34;&gt;
     &lt;div class=&#34;o-media__body&#34;&gt;
       &lt;h3&gt;3. Propagate&lt;/h3&gt;
-      &lt;p&gt;Set up propagation beds 1m² for range of ground cover plants. Establish half a dozen “mother plants” in each bed. My faves are &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Fragaria+chiloensis&#34;&gt;Chilean Strawberry&lt;/a&gt;, &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Glechoma+hederacea&#34;&gt;Alefoot&lt;/a&gt;, &lt;a href=&#34;https://www.rhs.org.uk/plants/details?plantid=1894&#34;&gt;Iberian Comfrey&lt;/a&gt;, &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Vinca+minor&#34;&gt;Lesser Periwinkle&lt;/a&gt;, &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Rubus+nepalensis&#34;&gt;Nepalese Raspberry&lt;/a&gt;. Beds can be temporary: lay cardboard on mown ground, cover with thick layer soil/compost, dig plants in, mulch with wood chip.&lt;/p&gt;
+      &lt;p&gt;Set up propagation beds 1m² for range of ground cover plants. Establish half a dozen “mother plants” in each bed. My faves are &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Fragaria+chiloensis&#34;&gt;Chilean Strawberry&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Glechoma+hederacea&#34;&gt;Alefoot&lt;/a&gt;, &lt;a href=&#34;https://www.rhs.org.uk/plants/details?plantid=1894&#34;&gt;Iberian Comfrey&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Vinca+minor&#34;&gt;Lesser Periwinkle&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Rubus+nepalensis&#34;&gt;Nepalese Raspberry&lt;/a&gt;. Beds can be temporary: lay cardboard on mown ground, cover with thick layer soil/compost, dig plants in, mulch with wood chip.&lt;/p&gt;
     &lt;/div&gt;
   &lt;/li&gt;
   &lt;li class=&#34;o-media&#34;&gt;
     &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/w_120/v1544006420/cornus-stolonifera-flaviramea-K8xbDnRk.jpg&#34; alt=&#34;Yellow dogwood windbreak hedge&#34; class=&#34;o-media__figure&#34;&gt;
     &lt;div class=&#34;o-media__body&#34;&gt;
       &lt;h3&gt;4. Windbreaks&lt;/h3&gt;
-      &lt;p&gt;Windbreaks mean trees establish much quicker. Make sure you take into account final height and widths. My favourite windbreak species are &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Elaeagnus+umbellata&#34;&gt;Autumn Olive&lt;/a&gt;, &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Viburnum+opulus&#34;&gt;Guelder Rose&lt;/a&gt;, &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Amelanchier+canadensis&#34;&gt;Juneberry&lt;/a&gt;, &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Cornus+sericea&#34;&gt;Dogwood&lt;/a&gt; and &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Hippophae+rhamnoides&#34;&gt;Sea Buckthorn&lt;/a&gt;. You can also set up a mini-windbreak, a “nurse tree”, for exposed canopy trees—I’m using &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Cytisus+scoparius&#34;&gt;Broom&lt;/a&gt;, as nitrogen-fixing and short-lived.&lt;/p&gt;
+      &lt;p&gt;Windbreaks mean trees establish much quicker. Make sure you take into account final height and widths. My favourite windbreak species are &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Elaeagnus+umbellata&#34;&gt;Autumn Olive&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Viburnum+opulus&#34;&gt;Guelder Rose&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Amelanchier+canadensis&#34;&gt;Juneberry&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Cornus+sericea&#34;&gt;Dogwood&lt;/a&gt; and &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Hippophae+rhamnoides&#34;&gt;Sea Buckthorn&lt;/a&gt;. You can also set up a mini-windbreak, a “nurse tree”, for exposed canopy trees—I’m using &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Cytisus+scoparius&#34;&gt;Broom&lt;/a&gt;, as nitrogen-fixing and short-lived.&lt;/p&gt;
     &lt;/div&gt;
   &lt;/li&gt;
   &lt;li class=&#34;o-media&#34;&gt;
@@ -2627,7 +2871,7 @@ Not only are Sara &lt;a href=&#34;https://mobile.twitter.com/Saralimback&#34;&gt
 
 &lt;p&gt;It was squally weather, with large rain and the brightest, lowest sunshine. Things glistened, monochromed and silhouetted, flattened out and simplified.&lt;/p&gt;
 
-&lt;p&gt;I’ve decided to leave the &lt;a href=&#34;https://www.rhs.org.uk/Plants/86133/Brachyglottis-(Dunedin-Group)-Sunshine/Details&#34;&gt;Brachyglottis sunshine&lt;/a&gt;, &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Filipendula+ulmaria&#34;&gt;Filipendula ulmaria&lt;/a&gt; (Meadowsweet) and &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Myrrhis+odorata&#34;&gt;Myrrhis odorata&lt;/a&gt; growing where they are next to the &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Cornus+sericea&#34;&gt;Cornus sericea&lt;/a&gt; (Red Dogwood) windbreak hedge, as there’s plenty of room at the front for the new green kids on the block.&lt;/p&gt;
+&lt;p&gt;I’ve decided to leave the &lt;a href=&#34;https://www.rhs.org.uk/Plants/86133/Brachyglottis-(Dunedin-Group)-Sunshine/Details&#34;&gt;Brachyglottis sunshine&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Filipendula+ulmaria&#34;&gt;Filipendula ulmaria&lt;/a&gt; (Meadowsweet) and &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Myrrhis+odorata&#34;&gt;Myrrhis odorata&lt;/a&gt; growing where they are next to the &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Cornus+sericea&#34;&gt;Cornus sericea&lt;/a&gt; (Red Dogwood) windbreak hedge, as there’s plenty of room at the front for the new green kids on the block.&lt;/p&gt;
 
 &lt;p&gt;Addendum: An easter egg for anyone who can find the Star Trek reference.&lt;/p&gt;
 
@@ -2711,9 +2955,9 @@ Not only are Sara &lt;a href=&#34;https://mobile.twitter.com/Saralimback&#34;&gt
             &lt;figcaption&gt;Two Sea Buckthorn, just about visible past the Sumac tree&lt;/figcaption&gt;
           &lt;/figure&gt;
         
-        &lt;p&gt;I bought two &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Hippophae+rhamnoides&#34;&gt;Hippophae rhamnoides&lt;/a&gt; (Sea Buckthorn) &lt;a href=&#34;https://www.agroforestry.co.uk/product/sea-buckthorn-hippophae-rhamnoides-orange-energy/&#34;&gt;&amp;lsquo;Orange Energy&amp;rsquo;&lt;/a&gt; from &lt;a href=&#34;https://www.agroforestry.co.uk/product-category/plants/&#34;&gt;Agroforestry Research Trust&lt;/a&gt;. They’re one of the few native nitrogen fixing trees/shrubs (I can only think of &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Cytisus+scoparius&#34;&gt;Cytisus scoparius&lt;/a&gt; (Broom) off-hand but I’m sure there are others). They produce incredibly healthy fruit for juicing, they’re great for windbreaks and have long thorns, so good for protection too.&lt;/p&gt;
+        &lt;p&gt;I bought two &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Hippophae+rhamnoides&#34;&gt;Hippophae rhamnoides&lt;/a&gt; (Sea Buckthorn) &lt;a href=&#34;https://www.agroforestry.co.uk/product/sea-buckthorn-hippophae-rhamnoides-orange-energy/&#34;&gt;&amp;lsquo;Orange Energy&amp;rsquo;&lt;/a&gt; from &lt;a href=&#34;https://www.agroforestry.co.uk/product-category/plants/&#34;&gt;Agroforestry Research Trust&lt;/a&gt;. They’re one of the few native nitrogen fixing trees/shrubs (I can only think of &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Cytisus+scoparius&#34;&gt;Cytisus scoparius&lt;/a&gt; (Broom) off-hand but I’m sure there are others). They produce incredibly healthy fruit for juicing, they’re great for windbreaks and have long thorns, so good for protection too.&lt;/p&gt;
 
-&lt;p&gt;For the past three years, one has been languishing under an ash tree, the other much perkier &amp;amp; taller by a willow. Today I finally managed to move them to their final growing place, in the Willow Walk at the end of the forest garden. They’re underplanted with &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Rubus+tricolor&#34;&gt;Rubus tricolor&lt;/a&gt; (Chinese Bramble) as ground cover and flanked by a yet-to-be-planted fruiting currant hedge on one side and Willow Coppice on the other, which itself is underplanted with &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Glechoma+hederacea&#34;&gt;Glechoma hederaceae&lt;/a&gt; (Alefoot) and &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Symphytum+uplandicum&#34;&gt;Symphytum x uplandicum &amp;lsquo;Bocking 14&amp;rsquo;&lt;/a&gt; (sterile Comfrey).&lt;/p&gt;
+&lt;p&gt;For the past three years, one has been languishing under an ash tree, the other much perkier &amp;amp; taller by a willow. Today I finally managed to move them to their final growing place, in the Willow Walk at the end of the forest garden. They’re underplanted with &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Rubus+tricolor&#34;&gt;Rubus tricolor&lt;/a&gt; (Chinese Bramble) as ground cover and flanked by a yet-to-be-planted fruiting currant hedge on one side and Willow Coppice on the other, which itself is underplanted with &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Glechoma+hederacea&#34;&gt;Glechoma hederaceae&lt;/a&gt; (Alefoot) and &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Symphytum+uplandicum&#34;&gt;Symphytum x uplandicum &amp;lsquo;Bocking 14&amp;rsquo;&lt;/a&gt; (sterile Comfrey).&lt;/p&gt;
 
 &lt;p&gt;As you can deduce from the crop and the ground cover, it’s a low traffic area at the end of the garden.&lt;/p&gt;
 
@@ -3023,10 +3267,10 @@ Not only are Sara &lt;a href=&#34;https://mobile.twitter.com/Saralimback&#34;&gt
 &lt;p&gt;Here is my plant list for the Greenery:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Beta+vulgaris+flavescens&#34;&gt;Swiss Chard&lt;/a&gt; – perennial with care, keep it from flowering &amp;amp; protect from hard frost&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Beta+vulgaris+flavescens&#34;&gt;Swiss Chard&lt;/a&gt; – perennial with care, keep it from flowering &amp;amp; protect from hard frost&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://backyardlarder.co.uk/shop/nine-star-perennial-broccoli-2/&#34;&gt;Nine Star Broccoli&lt;/a&gt; – small white broccoli heads, keep fed &amp;amp; watered&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.realseeds.co.uk/cabbage.html&#34;&gt;Asturian Tree Cabbage&lt;/a&gt; – will last for 2 years or more, mild, bright green leaves&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Chenopodium+bonus-henricus&#34;&gt;Good King Henry&lt;/a&gt; – fantastic spinach substitute, dies down in winter, big taproot. Plus you can eat the flower heads and seeds&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Chenopodium+bonus-henricus&#34;&gt;Good King Henry&lt;/a&gt; – fantastic spinach substitute, dies down in winter, big taproot. Plus you can eat the flower heads and seeds&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://backyardlarder.co.uk/shop/daubenton-kale/&#34;&gt;Daubenton Kale&lt;/a&gt; – I’m coming round to kale, slowly. Keen to grow this form.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.agroforestry.co.uk/product/rumex-acetosa-large-leaved/&#34;&gt;Broad Leafed Sorrel&lt;/a&gt; – has a lemony zing, early into leaf. I use it to add citrusy flavour to curries &amp;amp; stews&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.agroforestry.co.uk/product/bunias-orientalis-2/&#34;&gt;Turkish Rocket&lt;/a&gt; –&lt;/li&gt;
@@ -3419,16 +3663,16 @@ Not only are Sara &lt;a href=&#34;https://mobile.twitter.com/Saralimback&#34;&gt
 &lt;p&gt;As much for the benefit of my forgetful mind as for you, the dear reader, here’s a list of plants for this seaon’s hardwood cuttings:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Cornus+sericea&#34;&gt;Cornus sericea&lt;/a&gt; (Red Osier Dogwood)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Cornus+sericea&#34;&gt;Cornus sericea&lt;/a&gt; (Red Osier Dogwood)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.rhs.org.uk/Plants/4412/i-Cornus-sericea-i-Flaviramea/Details&#34;&gt;Cornus sericea &amp;lsquo;Flaviramea&amp;rsquo;&lt;/a&gt; (Golden Twig Dogwood)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Amelanchier+canadensis&#34;&gt;Amelanchier canadensis&lt;/a&gt; (Juneberry)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Amelanchier+canadensis&#34;&gt;Amelanchier canadensis&lt;/a&gt; (Juneberry)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Berberis&#34;&gt;Berberis&lt;/a&gt; (Barberry)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Hippophae+rhamnoides&#34;&gt;Hippophae rhamnoides&lt;/a&gt; (Sea buckthorn)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Ribes+x+culverwellii&#34;&gt;Ribes x culverwellii&lt;/a&gt; (Jostaberry)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Ribes+nigrum&#34;&gt;Ribes nigrum&lt;/a&gt; (Blackcurrant)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Ribes+laxiflorum&#34;&gt;Ribes laxiflorum&lt;/a&gt; (Whitecurrant)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Ribes+uva-crispa&#34;&gt;Ribes uva-crispa&lt;/a&gt; (Gooseberry)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Sambucus+canadensis&#34;&gt;Sambucus canadensis&lt;/a&gt; (American Elder)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Hippophae+rhamnoides&#34;&gt;Hippophae rhamnoides&lt;/a&gt; (Sea buckthorn)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Ribes+x+culverwellii&#34;&gt;Ribes x culverwellii&lt;/a&gt; (Jostaberry)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Ribes+nigrum&#34;&gt;Ribes nigrum&lt;/a&gt; (Blackcurrant)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Ribes+laxiflorum&#34;&gt;Ribes laxiflorum&lt;/a&gt; (Whitecurrant)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Ribes+uva-crispa&#34;&gt;Ribes uva-crispa&lt;/a&gt; (Gooseberry)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Sambucus+canadensis&#34;&gt;Sambucus canadensis&lt;/a&gt; (American Elder)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Symphoricarpos&#34;&gt;Symphoricarpos&lt;/a&gt; (Snowberry)&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -3764,7 +4008,7 @@ Not only are Sara &lt;a href=&#34;https://mobile.twitter.com/Saralimback&#34;&gt
 &lt;/figure&gt;
 
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Lamium+purpureum&#34;&gt;Lamium purpureum&lt;/a&gt; (Purple Deadnettle), Jan-Dec&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Lamium+purpureum&#34;&gt;Lamium purpureum&lt;/a&gt; (Purple Deadnettle), Jan-Dec&lt;br /&gt;
 
 &lt;figure &gt;
     
@@ -3783,7 +4027,7 @@ Not only are Sara &lt;a href=&#34;https://mobile.twitter.com/Saralimback&#34;&gt
 &lt;/figure&gt;
 
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Lythrum+salicaria&#34;&gt;Lythrum salicaria&lt;/a&gt; (Purple Loosestrife), Jun-Sep
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Lythrum+salicaria&#34;&gt;Lythrum salicaria&lt;/a&gt; (Purple Loosestrife), Jun-Sep
 
 &lt;figure &gt;
     
@@ -3802,7 +4046,7 @@ Not only are Sara &lt;a href=&#34;https://mobile.twitter.com/Saralimback&#34;&gt
 &lt;/figure&gt;
 
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Glechoma+hederacea&#34;&gt;Glechoma hederacea&lt;/a&gt; (Alefoot), Mar-Jun&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Glechoma+hederacea&#34;&gt;Glechoma hederacea&lt;/a&gt; (Alefoot), Mar-Jun&lt;br /&gt;
 
 &lt;figure &gt;
     
@@ -3840,7 +4084,7 @@ Not only are Sara &lt;a href=&#34;https://mobile.twitter.com/Saralimback&#34;&gt
 &lt;/figure&gt;
 
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Caltha+palustris&#34;&gt;Caltha palustris&lt;/a&gt; (Marsh Marigold), Jan-Dec&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Caltha+palustris&#34;&gt;Caltha palustris&lt;/a&gt; (Marsh Marigold), Jan-Dec&lt;br /&gt;
 
 &lt;figure &gt;
     
@@ -3859,7 +4103,7 @@ Not only are Sara &lt;a href=&#34;https://mobile.twitter.com/Saralimback&#34;&gt
 &lt;/figure&gt;
 
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Borago+officinalis&#34;&gt;Borago officinalis&lt;/a&gt; (Borage), May-Aug
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Borago+officinalis&#34;&gt;Borago officinalis&lt;/a&gt; (Borage), May-Aug
 
 &lt;figure &gt;
     
@@ -3878,7 +4122,7 @@ Not only are Sara &lt;a href=&#34;https://mobile.twitter.com/Saralimback&#34;&gt
 &lt;/figure&gt;
 
 &lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Linaria+vulgaris&#34;&gt;Linaria vulgaris&lt;/a&gt; (Toadflax), Jul-Oct&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Linaria+vulgaris&#34;&gt;Linaria vulgaris&lt;/a&gt; (Toadflax), Jul-Oct&lt;br /&gt;
 
 &lt;figure &gt;
     
@@ -3897,7 +4141,7 @@ Not only are Sara &lt;a href=&#34;https://mobile.twitter.com/Saralimback&#34;&gt
 &lt;/figure&gt;
 
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Reseda+luteola&#34;&gt;Reseda luteola&lt;/a&gt; (European Mignonette, Dyer’s Rocket), Jun-Oct
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Reseda+luteola&#34;&gt;Reseda luteola&lt;/a&gt; (European Mignonette, Dyer’s Rocket), Jun-Oct
 
 &lt;figure &gt;
     
@@ -3916,7 +4160,7 @@ Not only are Sara &lt;a href=&#34;https://mobile.twitter.com/Saralimback&#34;&gt
 &lt;/figure&gt;
 
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Ulex+europaeus&#34;&gt;Ulex europeaus&lt;/a&gt; (Gorse), Jan-Dec
+&lt;li&gt;&lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Ulex+europaeus&#34;&gt;Ulex europeaus&lt;/a&gt; (Gorse), Jan-Dec
 
 &lt;figure &gt;
     
@@ -3962,7 +4206,7 @@ Not only are Sara &lt;a href=&#34;https://mobile.twitter.com/Saralimback&#34;&gt
 &lt;p&gt;I very rarely dig up weeds… instead I just chop them off at soil level&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;In the damp weeks that followed the summer’s drought, there was a lot of growth and a lot of weeding. The mineral accumulating &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Rumex+obtusifolius&#34;&gt;docks&lt;/a&gt;, &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Taraxacum+officinale&#34;&gt;dandelions&lt;/a&gt; and &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Plantago+lanceolata&#34;&gt;plantains&lt;/a&gt; were cut and left to compost in situ. This is in much the same way as you “chop ’n‘ drop” &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Symphytum+uplandicum&#34;&gt;comfrey&lt;/a&gt; under fruit trees. Just imagine, no wheelbarrow, no compost heap, much less bother 🙂&lt;/p&gt;
+&lt;p&gt;In the damp weeks that followed the summer’s drought, there was a lot of growth and a lot of weeding. The mineral accumulating &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Rumex+obtusifolius&#34;&gt;docks&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Taraxacum+officinale&#34;&gt;dandelions&lt;/a&gt; and &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Plantago+lanceolata&#34;&gt;plantains&lt;/a&gt; were cut and left to compost in situ. This is in much the same way as you “chop ’n‘ drop” &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Symphytum+uplandicum&#34;&gt;comfrey&lt;/a&gt; under fruit trees. Just imagine, no wheelbarrow, no compost heap, much less bother 🙂&lt;/p&gt;
 
       </description>
     </item>
@@ -4012,7 +4256,7 @@ Not only are Sara &lt;a href=&#34;https://mobile.twitter.com/Saralimback&#34;&gt
             &lt;figcaption&gt;The healthy Alnus cordata (Italian Alder) doing very well indeed&lt;/figcaption&gt;
           &lt;/figure&gt;
         
-        &lt;p&gt;Three years ago I planted 3 &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Alnus+cordata&#34;&gt;Alnus cordata&lt;/a&gt; (Italian Alder) along the top of the forest garden, all at the same time.&lt;/p&gt;
+        &lt;p&gt;Three years ago I planted 3 &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Alnus+cordata&#34;&gt;Alnus cordata&lt;/a&gt; (Italian Alder) along the top of the forest garden, all at the same time.&lt;/p&gt;
 
 &lt;p&gt;Italian Alders are great: they’re nitrogen fixing, very fast growing and you can raise the canopy to let in light for plants below.&lt;/p&gt;
 
@@ -4167,7 +4411,7 @@ Not only are Sara &lt;a href=&#34;https://mobile.twitter.com/Saralimback&#34;&gt
             &lt;figcaption&gt;The Stinging-less Nettle, Urtica dioica subsp. galeopsifolia, photo by Wicken Fen National Trust Reserve&lt;/figcaption&gt;
           &lt;/figure&gt;
         
-        &lt;p&gt;The stinging nettle &lt;a href=&#34;http://temperate.theferns.info/viewtropical.php?id=Urtica+dioica&#34;&gt;Urtica dioica&lt;/a&gt; is an excellent forest garden plant. Before it flowers*, it makes a &lt;a href=&#34;https://www.forestgarden.wales/blog/nettle-soup/&#34;&gt;fantastic soup&lt;/a&gt;, an excellent if strong-tasting spinach replacement, it makes &lt;a href=&#34;https://www.theguardian.com/lifeandstyle/wordofmouth/2011/may/18/homebrew-from-the-hedgerow&#34;&gt;a nice beer&lt;/a&gt;, it contains &lt;a href=&#34;https://en.wikipedia.org/wiki/Urtica_dioica#Food&#34;&gt;buckets of iron&lt;/a&gt;, oodles of &lt;a href=&#34;https://www.gardenersworld.com/how-to/maintain-the-garden/how-to-make-a-nettle-feed/&#34;&gt;nitrogen&lt;/a&gt;, it can be used as a nutritious &lt;a href=&#34;https://www.gardenmyths.com/composting-the-cut-and-drop-method/&#34;&gt;chop ‘n’ drop&lt;/a&gt; mulching material or made into a fertiliser tea, it’s the &lt;a href=&#34;https://en.wikipedia.org/wiki/Urtica_dioica#Ecology&#34;&gt;main food for many butterflies&lt;/a&gt; and a host of &lt;a href=&#34;https://www.wildlifetrusts.org/wildlife-explorer/wildflowers/stinging-nettle&#34;&gt;other wildlife&lt;/a&gt;, it’s easy to grow.&lt;/p&gt;
+        &lt;p&gt;The stinging nettle &lt;a href=&#34;https://pfaf.org/user/plant.aspx?latinname=Urtica+dioica&#34;&gt;Urtica dioica&lt;/a&gt; is an excellent forest garden plant. Before it flowers*, it makes a &lt;a href=&#34;https://www.forestgarden.wales/blog/nettle-soup/&#34;&gt;fantastic soup&lt;/a&gt;, an excellent if strong-tasting spinach replacement, it makes &lt;a href=&#34;https://www.theguardian.com/lifeandstyle/wordofmouth/2011/may/18/homebrew-from-the-hedgerow&#34;&gt;a nice beer&lt;/a&gt;, it contains &lt;a href=&#34;https://en.wikipedia.org/wiki/Urtica_dioica#Food&#34;&gt;buckets of iron&lt;/a&gt;, oodles of &lt;a href=&#34;https://www.gardenersworld.com/how-to/maintain-the-garden/how-to-make-a-nettle-feed/&#34;&gt;nitrogen&lt;/a&gt;, it can be used as a nutritious &lt;a href=&#34;https://www.gardenmyths.com/composting-the-cut-and-drop-method/&#34;&gt;chop ‘n’ drop&lt;/a&gt; mulching material or made into a fertiliser tea, it’s the &lt;a href=&#34;https://en.wikipedia.org/wiki/Urtica_dioica#Ecology&#34;&gt;main food for many butterflies&lt;/a&gt; and a host of &lt;a href=&#34;https://www.wildlifetrusts.org/wildlife-explorer/wildflowers/stinging-nettle&#34;&gt;other wildlife&lt;/a&gt;, it’s easy to grow.&lt;/p&gt;
 
 &lt;p&gt;In short, what’s not to love? 😍&lt;/p&gt;
 

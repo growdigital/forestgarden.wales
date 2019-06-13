@@ -9,10 +9,19 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Tue, 30 Apr 2019 11:58:53 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2019 11:47:25 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/plan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Forest garden CAD photo</title>
+      <link>http://localhost:1313/blog/forest-garden-cad-photo/</link>
+      <pubDate>Sun, 26 May 2019 11:47:25 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/forest-garden-cad-photo/</guid>
+      <description>I discovered how to easily scale a satellite photo in QCAD to create a #ForestGarden plan.</description>
+    </item>
     
     <item>
       <title>Forest garden plan</title>

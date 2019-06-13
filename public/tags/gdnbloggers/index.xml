@@ -9,10 +9,28 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Thu, 16 May 2019 17:56:15 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 10:38:50 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/gdnbloggers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Forest garden ground cover preparation</title>
+      <link>http://localhost:1313/blog/forest-garden-ground-cover-prep/</link>
+      <pubDate>Wed, 12 Jun 2019 10:38:50 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/forest-garden-ground-cover-prep/</guid>
+      <description>In the original forest garden, I used vast amounts of woven plastic sheet mulch to clear the grass, before laying down bark mulch and planting perennial ground cover (a process I’ve described previously).</description>
+    </item>
+    
+    <item>
+      <title>Forest garden CAD photo</title>
+      <link>http://localhost:1313/blog/forest-garden-cad-photo/</link>
+      <pubDate>Sun, 26 May 2019 11:47:25 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/forest-garden-cad-photo/</guid>
+      <description>I discovered how to easily scale a satellite photo in QCAD to create a #ForestGarden plan.</description>
+    </item>
     
     <item>
       <title>Community Food Forest</title>
