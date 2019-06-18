@@ -1,8 +1,8 @@
 ---
 title: Puddling clay and ponds
 date: 2019-06-18T10:45:19+01:00
-image: 
-imageAlt: 
+image: https://res.cloudinary.com/growdigital/image/upload/v1550874437/pond-483C5342.jpg
+imageAlt: Digging out the pond
 ---
 
 I had some great feedback about creating a pond on the [Forest Garden UK](https://www.facebook.com/groups/405281259629562/) Facebook group. [Nick Balmer](https://www.facebook.com/nick.balmer.14) pretty much wrote a blog post, and he said I could reproduce it here, which is very kind of him 😄:
