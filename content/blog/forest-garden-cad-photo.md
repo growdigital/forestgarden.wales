@@ -18,7 +18,7 @@ I discovered how to easily scale a satellite photo in [QCAD](https://www.qcad.or
 
 1. **Satellite:** Take a screenshot of your satellite map. Apple Maps has the best resolution satellite photos in the UK, although I have been trying to get photos from [USGS EarthExplorer](https://earthexplorer.usgs.gov). Be sure to include the scale.
 2. **Scale:** Using the rectangular selection tool in Photoshop on the scale, calculate the number pixels per metre. In the example, it’s 5.8.
-3. **Width:** Then find out the width in pixels of the entire satellite photo. Trim the canvas size to make it a nice round number of metres. In the example, the width is 754 pixels, divided by 5.8 is exactly 130 metres.
+3. **Width:** Then find out the width in pixels of the entire satellite photo. Trim the canvas size to make it a nice round number of metres. In the example, the width is 754 pixels, divided by 5.8 is exactly 130 metres (you can use a [modulus calculator](https://www.miniwebtool.com/modulo-calculator/) to help with this).
 4. **Import:** Create a new QCAD file, put the satellite photo in the same folder, import the photo image.
 5. **Resize:** The image is scaled at 1 metre per pixel, which means the example is 754 metres. Make sure the image is selected and in the `Property Editor`, enter 130 (metres) into the width box. 
 6. **Voilà:** All done. Using the [Plants For A Future website](https://www.pfaf.org/), find out the diameters of the trees you want to plant, position the trees on the plan and make sure you have the correct [tree spacing](https://www.forestgarden.wales/blog/tree-spacing-forest-garden/) to allow enough light in.
