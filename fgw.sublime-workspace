@@ -28,10 +28,10 @@
 	"buffers":
 	[
 		{
-			"file": "themes/gofgw/src/05-utilities/display/hiddenvisually/hiddenvisually.css",
+			"file": "themes/gofgw/src/02-base/css/01-base.css",
 			"settings":
 			{
-				"buffer_size": 616,
+				"buffer_size": 1912,
 				"line_ending": "Unix"
 			}
 		}
@@ -203,12 +203,22 @@
 	"expanded_folders":
 	[
 		"/Users/fgw/Sites/forestgarden.wales",
-		"/Users/fgw/Sites/forestgarden.wales/content",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog",
-		"/Users/fgw/Sites/forestgarden.wales/public"
+		"/Users/fgw/Sites/forestgarden.wales/themes",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/02-base",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/02-base/css",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/02-base/js",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/03-objects",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/03-objects/list"
 	],
 	"file_history":
 	[
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/02-base/css/03-fontface.css",
+		"/Users/fgw/Sites/peatfree/js/fontface.js",
+		"/Users/fgw/Sites/peatfree/css/fontface.css",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/forest-garden-cad-photo.md",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/05-utilities/display/hiddenvisually/hiddenvisually.css",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/designing-wilderness-well.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/welcome-to-forest-garden-wales-website.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/grow-your-own-website.md",
@@ -233,7 +243,6 @@
 		"/Users/fgw/Desktop/buffer.txt",
 		"/Users/fgw/Sites/forestgarden.wales/public/talks/intro/index.html",
 		"/Users/fgw/Sites/forestgarden.wales/content/talk.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/forest-garden-cad-photo.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/perennial-vegetable-alternatives.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190526-cad.md",
 		"/Users/fgw/Desktop/binme.md",
@@ -332,21 +341,22 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/community-food-forest.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/design.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/lyndas-tayberry-fedge.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/180423-swallow.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190513-single-issue.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190513-swift.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190513-tayberry-fedge.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/180524-pfaf.md"
+		"/Users/fgw/Sites/forestgarden.wales/content/status/180423-swallow.md"
 	],
 	"find":
 	{
-		"height": 32.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
 		"height": 119.0,
 		"where_history":
 		[
+			"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/03-objects",
+			"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src",
+			"/Users/fgw/Sites/forestgarden.wales/themes/gofgw,-*node_modules",
+			"/Users/fgw/Sites/forestgarden.wales/themes/gofgw",
+			"/Users/fgw/Sites/forestgarden.wales/",
 			"/Users/fgw/Sites/forestgarden.wales/content",
 			"/Users/fgw/Sites/forestgarden.wales/",
 			"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/layouts",
@@ -371,6 +381,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"media",
+			"IBMPlexSerif",
+			"Fontface",
 			"http",
 			"IUCN >",
 			"###",
@@ -495,10 +508,7 @@
 			"40em",
 			"wrapper__pad",
 			"orange_tint",
-			"var(--orange)",
-			" --orange",
-			"<main>",
-			"blog"
+			"var(--orange)"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -525,24 +535,27 @@
 			[
 				{
 					"buffer": 0,
-					"file": "themes/gofgw/src/05-utilities/display/hiddenvisually/hiddenvisually.css",
-					"semi_transient": false,
+					"file": "themes/gofgw/src/02-base/css/01-base.css",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 616,
+						"buffer_size": 1912,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								616
+								632,
+								632
 							]
 						],
 						"settings":
 						{
-							"SL.99.region_keys":
+							"SL.183.region_keys":
+							[
+							],
+							"SL.189.region_keys":
 							[
 							],
 							"WordCount":
@@ -632,6 +645,14 @@
 		"selected_items":
 		[
 			[
+				"fontface objs",
+				"themes/gofgw/src/02-base/js/fontface.js"
+			],
+			[
+				"cad photo",
+				"content/blog/forest-garden-cad-photo.md"
+			],
+			[
 				"hidde",
 				"themes/gofgw/src/05-utilities/display/hiddenvisually/hiddenvisually.css"
 			],
@@ -682,10 +703,6 @@
 			[
 				"buff",
 				"content/buffer.md"
-			],
-			[
-				"cad photo",
-				"content/blog/forest-garden-cad-photo.md"
 			],
 			[
 				"perenn",
@@ -1138,10 +1155,6 @@
 			[
 				"status singl",
 				"themes/gofgw/layouts/status/single.html"
-			],
-			[
-				"three",
-				"content/blog/three-ways.md"
 			]
 		],
 		"width": 0.0
@@ -1149,11 +1162,23 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "pea",
+		"last_filter": "peat",
 		"selected_items":
 		[
 			[
+				"peat",
+				"~/Sites/peatfree/peatfree.sublime-project"
+			],
+			[
 				"pea",
+				"~/Sites/peatfree/peatfree.sublime-project"
+			],
+			[
+				"pe",
+				"~/Sites/peatfree/peatfree.sublime-project"
+			],
+			[
+				"peatf",
 				"~/Sites/peatfree/peatfree.sublime-project"
 			],
 			[
