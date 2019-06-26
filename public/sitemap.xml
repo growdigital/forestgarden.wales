@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/blog/clay-lined-pond/</loc>
+    <lastmod>2019-06-26T15:57:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/wildlife-garden-checklist/</loc>
+    <lastmod>2019-06-26T09:37:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190618-handle/</loc>
+    <lastmod>2019-06-18T11:01:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/designing-wilderness-well/</loc>
+    <lastmod>2019-06-18T10:52:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190618-puddling-clay/</loc>
+    <lastmod>2019-06-18T10:45:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190614-pond/</loc>
+    <lastmod>2019-06-14T21:47:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190614-community/</loc>
+    <lastmod>2019-06-14T21:28:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190614-diversity/</loc>
+    <lastmod>2019-06-14T14:00:40+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/190613-land/</loc>
     <lastmod>2019-06-13T16:03:01+01:00</lastmod>
   </url>
@@ -2868,6 +2908,11 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/peatfree/</loc>
+    <lastmod>2018-02-09T19:21:11+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2018-02-09T19:21:11+00:00</lastmod>
   </url>
@@ -2889,11 +2934,6 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2018-02-09T19:21:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/peatfree/</loc>
     <lastmod>2018-02-09T19:21:11+00:00</lastmod>
   </url>
   
@@ -3301,6 +3341,12 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/communityfoodforest/</loc>
+    <lastmod>2019-06-18T10:52:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/cornuskousa/</loc>
     <lastmod>2018-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3356,7 +3402,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2019-06-12T10:38:50+01:00</lastmod>
+    <lastmod>2019-06-26T15:57:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3374,7 +3420,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/gdnbloggers/</loc>
-    <lastmod>2019-06-12T10:38:50+01:00</lastmod>
+    <lastmod>2019-06-26T15:57:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3435,6 +3481,12 @@
   <url>
     <loc>http://localhost:1313/tags/massextinction/</loc>
     <lastmod>2018-12-25T20:24:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/meadow/</loc>
+    <lastmod>2019-06-26T09:37:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3507,6 +3559,12 @@
   <url>
     <loc>http://localhost:1313/tags/polytunnel/</loc>
     <lastmod>2018-12-12T14:44:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/pond/</loc>
+    <lastmod>2019-06-26T09:37:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3609,6 +3667,18 @@
   <url>
     <loc>http://localhost:1313/tags/wildlife/</loc>
     <lastmod>2019-03-21T20:51:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/wildlifegarden/</loc>
+    <lastmod>2019-06-26T09:37:02+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/wildlifepond/</loc>
+    <lastmod>2019-06-26T15:57:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   
