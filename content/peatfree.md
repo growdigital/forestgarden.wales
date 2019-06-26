@@ -2,19 +2,21 @@
 title: '#peatfree'
 shop: true
 date: 2018-02-09T19:21:11Z
-image: 
-imageAlt: 
-imageCap: 
+image: https://res.cloudinary.com/growdigital/image/upload/v1561388232/peatfree-extraction.jpg
+imageAlt: Big peat excavator on vast peat extraction site
+imageCap: Letham Moss commercial peat extraction, photo used with permisson from Lorne Gill
 draft: false
 ---
 
 # #peatfree
 
-With a lot of help from a lot of people (mostly John Walker [@EarthFGardener](https://mobile.twitter.com/EarthFGardener), I’ve submitted a petition to the [UK Parliament](https://www.parliament.uk) [petitions site](https://petition.parliament.uk/) to ban the use of peat in gardening and horticulture.
+With a lot of help from a lot of people (mostly John Walker [@EarthFGardener](https://mobile.twitter.com/EarthFGardener)), I’ve submitted a petition to the [UK Parliament](https://www.parliament.uk) [petitions site](https://petition.parliament.uk/) to ban the use of peat in gardening and horticulture.
 
-It will be “live” for the public to sign some time in the week beginning 17th June, once it’s been checked. You should be able to find it on the site by searching for ["peat"](https://petition.parliament.uk/petitions?q=peat&state=all).
+It was supposed to be “live” for the public to sign some time in the week beginning 17th June. But it isn’t yet 😶. I’ll post a link here when it is.
 
-I will update this page with details. This is the text of the petition:
+You should also be able to find it on the site by searching for ["peat"](https://petition.parliament.uk/petitions?q=peat&state=all).
+
+This is the text of the petition:
 
 > ## What do you want us to do?
 > 
