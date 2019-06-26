@@ -28,10 +28,20 @@
 	"buffers":
 	[
 		{
-			"file": "themes/gofgw/src/02-base/css/01-base.css",
+			"file": "content/blog/wildlife-garden-checklist.md",
 			"settings":
 			{
-				"buffer_size": 1912,
+				"buffer_size": 4320,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/peatfree.md",
+			"settings":
+			{
+				"buffer_size": 1917,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -203,6 +213,8 @@
 	"expanded_folders":
 	[
 		"/Users/fgw/Sites/forestgarden.wales",
+		"/Users/fgw/Sites/forestgarden.wales/content",
+		"/Users/fgw/Sites/forestgarden.wales/content/status",
 		"/Users/fgw/Sites/forestgarden.wales/themes",
 		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw",
 		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src",
@@ -214,6 +226,7 @@
 	],
 	"file_history":
 	[
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190625-wildlife-garden.md",
 		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/02-base/css/03-fontface.css",
 		"/Users/fgw/Sites/peatfree/js/fontface.js",
 		"/Users/fgw/Sites/peatfree/css/fontface.css",
@@ -340,8 +353,7 @@
 		"/Users/fgw/Work/Fieldcraft/creation/theme-fieldcloud/LICENSE",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/community-food-forest.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/design.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/lyndas-tayberry-fedge.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/180423-swallow.md"
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/lyndas-tayberry-fedge.md"
 	],
 	"find":
 	{
@@ -530,49 +542,85 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "themes/gofgw/src/02-base/css/01-base.css",
-					"semi_transient": true,
+					"file": "content/blog/wildlife-garden-checklist.md",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1912,
+						"buffer_size": 4320,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								632,
-								632
+								1394,
+								1394
 							]
 						],
 						"settings":
 						{
-							"SL.183.region_keys":
-							[
-							],
-							"SL.189.region_keys":
-							[
-							],
 							"WordCount":
 							{
-								"changes": -1,
-								"modified": true,
-								"selection": true,
+								"changes": 4318,
+								"count": 521,
+								"modified": false,
+								"selection": false,
 								"status": -1,
-								"syntax": "css"
+								"syntax": "plain text"
 							},
-							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
 							"editorconfig": true,
 							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
+							"trim_trailing_white_space_on_save": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/peatfree.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								925,
+								925
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 268,
+								"count": 234,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -644,6 +692,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"peatfr",
+				"content/peatfree.md"
+			],
+			[
+				"wildlife",
+				"content/status/190625-wildlife-garden.md"
+			],
 			[
 				"fontface objs",
 				"themes/gofgw/src/02-base/js/fontface.js"
@@ -1147,14 +1203,6 @@
 			[
 				"footer.css",
 				"themes/gofgw/src/04-components/section/footer/footer.css"
-			],
-			[
-				"article.",
-				"themes/gofgw/src/04-components/section/article/article.css"
-			],
-			[
-				"status singl",
-				"themes/gofgw/layouts/status/single.html"
 			]
 		],
 		"width": 0.0
@@ -1208,7 +1256,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 285.0,
 	"status_bar_visible": true,
 	"template_settings":
