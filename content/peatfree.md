@@ -2,6 +2,7 @@
 title: '#peatfree'
 shop: true
 date: 2018-02-09T19:21:11Z
+description: Petition to UK Parliament calling for a ban on the use of peat in gardening and horticulture
 image: https://res.cloudinary.com/growdigital/image/upload/v1561388232/peatfree-extraction.jpg
 imageAlt: Big peat excavator on vast peat extraction site
 imageCap: Letham Moss commercial peat extraction, photo used with permisson from Lorne Gill
