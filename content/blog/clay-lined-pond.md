@@ -13,7 +13,7 @@ imageCap: Ancient dew pond at Ditching Beacon on the South Downs, UK. Probably l
 draft: false
 ---
 
-I’m creating yet another wildlife pond, this time in the [Ornamental Forest Garden](). Ponds are truly brilliant, they’re [The Dreaded Gardener]()’s list of [features for a wildlife garden](). For some insightful information, have a look at the [Freshwater Habitats Trust](https://freshwaterhabitats.org.uk). 
+I’m creating yet another wildlife pond, this time in the [Ornamental Forest Garden](https://www.forestgarden.wales/blog/introducing-ornamental-maintenance-free-forest-garden/). Ponds are truly brilliant, they’re top of the [The Dreaded Gardener](https://www.facebook.com/The-Dreaded-Gardener-1403035606578314/)’s list of [features for a wildlife garden](https://www.forestgarden.wales/blog/wildlife-garden-checklist/). For some insightful information, have a look at the [Freshwater Habitats Trust](https://freshwaterhabitats.org.uk). 
 
 I’m very keen to reduce the amount of plastic I’m using, by [scraping the top vegetation instead of using woven plastic sheet mulch](https://www.forestgarden.wales/blog/forest-garden-ground-cover-prep/), and using a [clay rather than butyl liner](https://freshwaterhabitats.org.uk/wp-content/uploads/2013/09/FHT-advice-on-pond-liners_Oct14.pdf) <sup>PDF</sup> for the pond.
 

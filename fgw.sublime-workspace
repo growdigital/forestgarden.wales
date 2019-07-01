@@ -28,19 +28,19 @@
 	"buffers":
 	[
 		{
-			"file": "content/blog/wildlife-garden-checklist.md",
+			"file": "content/peatfree.md",
 			"settings":
 			{
-				"buffer_size": 4320,
+				"buffer_size": 2279,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "content/peatfree.md",
+			"file": "content/blog/a-tale-of-three-trees.md",
 			"settings":
 			{
-				"buffer_size": 1917,
+				"buffer_size": 1573,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -226,6 +226,13 @@
 	],
 	"file_history":
 	[
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/clay-lined-pond.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/buffer.md",
+		"/Users/fgw/Desktop/buffer.txt",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190618-puddling-clay.md",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/layouts/partials/metahead.html",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/wildlife-garden-checklist.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/peatfree.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190625-wildlife-garden.md",
 		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/02-base/css/03-fontface.css",
 		"/Users/fgw/Sites/peatfree/js/fontface.js",
@@ -236,14 +243,11 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/welcome-to-forest-garden-wales-website.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/grow-your-own-website.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190618-handle.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190618-puddling-clay.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190614-community.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190614-pond.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190614-diversity.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/illustrated-forest-garden-stages.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/peatfree.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190613-land.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/buffer.md",
 		"/Users/fgw/Desktop/binme.txt",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/establish-ground-cover.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/forest-garden-ground-cover-prep.md",
@@ -253,7 +257,6 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190612-twitter.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190612-name-change.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190605-wild.md",
-		"/Users/fgw/Desktop/buffer.txt",
 		"/Users/fgw/Sites/forestgarden.wales/public/talks/intro/index.html",
 		"/Users/fgw/Sites/forestgarden.wales/content/talk.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/perennial-vegetable-alternatives.md",
@@ -350,10 +353,7 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190318-bluesausage.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/a-tale-of-three-trees.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/condensed-forest-garden-knowledge.md",
-		"/Users/fgw/Work/Fieldcraft/creation/theme-fieldcloud/LICENSE",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/community-food-forest.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/design.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/lyndas-tayberry-fedge.md"
+		"/Users/fgw/Work/Fieldcraft/creation/theme-fieldcloud/LICENSE"
 	],
 	"find":
 	{
@@ -393,6 +393,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"#GdnBloggers",
 			"media",
 			"IBMPlexSerif",
 			"Fontface",
@@ -519,8 +520,7 @@
 			"udpates",
 			"40em",
 			"wrapper__pad",
-			"orange_tint",
-			"var(--orange)"
+			"orange_tint"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -542,74 +542,32 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "content/blog/wildlife-garden-checklist.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4320,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1394,
-								1394
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 4318,
-								"count": 521,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "content/peatfree.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1917,
+						"buffer_size": 2279,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								925,
-								925
+								166,
+								166
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 268,
-								"count": 234,
+								"changes": 130,
+								"count": 271,
 								"modified": false,
 								"selection": false,
 								"status": -1,
@@ -627,6 +585,48 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/blog/a-tale-of-three-trees.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								133
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 171,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -693,6 +693,26 @@
 		"selected_items":
 		[
 			[
+				"blog/",
+				"content/blog/a-tale-of-three-trees.md"
+			],
+			[
+				"peatr",
+				"content/peatfree.md"
+			],
+			[
+				"clay",
+				"content/blog/clay-lined-pond.md"
+			],
+			[
+				"puddling",
+				"content/status/190618-puddling-clay.md"
+			],
+			[
+				"buff",
+				"content/buffer.md"
+			],
+			[
 				"peatfr",
 				"content/peatfree.md"
 			],
@@ -755,10 +775,6 @@
 			[
 				"talk",
 				"public/talks/intro/index.html"
-			],
-			[
-				"buff",
-				"content/buffer.md"
 			],
 			[
 				"perenn",
@@ -1187,22 +1203,6 @@
 			[
 				"nav.css",
 				"themes/gofgw/src/04-components/navigation/nav/nav.css"
-			],
-			[
-				"archetyp",
-				"themes/gofgw/archetypes/blog.md"
-			],
-			[
-				"single blog",
-				"themes/gofgw/layouts/blog/single.html"
-			],
-			[
-				"redi",
-				"public/_redirects"
-			],
-			[
-				"footer.css",
-				"themes/gofgw/src/04-components/section/footer/footer.css"
 			]
 		],
 		"width": 0.0
@@ -1210,15 +1210,15 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "peat",
+		"last_filter": "pea",
 		"selected_items":
 		[
 			[
-				"peat",
+				"pea",
 				"~/Sites/peatfree/peatfree.sublime-project"
 			],
 			[
-				"pea",
+				"peat",
 				"~/Sites/peatfree/peatfree.sublime-project"
 			],
 			[
