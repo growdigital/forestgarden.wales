@@ -28,19 +28,10 @@
 	"buffers":
 	[
 		{
-			"file": "content/peatfree.md",
+			"file": "content/blog/clay-lined-pond.md",
 			"settings":
 			{
-				"buffer_size": 2279,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "content/blog/a-tale-of-three-trees.md",
-			"settings":
-			{
-				"buffer_size": 1573,
+				"buffer_size": 4773,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -226,13 +217,14 @@
 	],
 	"file_history":
 	[
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/a-tale-of-three-trees.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/peatfree.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/clay-lined-pond.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/buffer.md",
 		"/Users/fgw/Desktop/buffer.txt",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190618-puddling-clay.md",
 		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/layouts/partials/metahead.html",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/wildlife-garden-checklist.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/peatfree.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190625-wildlife-garden.md",
 		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/02-base/css/03-fontface.css",
 		"/Users/fgw/Sites/peatfree/js/fontface.js",
@@ -351,7 +343,6 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-leaves.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-toonasinensis.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190318-bluesausage.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/a-tale-of-three-trees.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/condensed-forest-garden-knowledge.md",
 		"/Users/fgw/Work/Fieldcraft/creation/theme-fieldcloud/LICENSE"
 	],
@@ -547,27 +538,30 @@
 			[
 				{
 					"buffer": 0,
-					"file": "content/peatfree.md",
+					"file": "content/blog/clay-lined-pond.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2279,
+						"buffer_size": 4773,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								166,
-								166
+								1583,
+								1583
 							]
 						],
 						"settings":
 						{
+							"SL.19.region_keys":
+							[
+							],
 							"WordCount":
 							{
-								"changes": 130,
-								"count": 271,
+								"changes": 26,
+								"count": 714,
 								"modified": false,
 								"selection": false,
 								"status": -1,
@@ -585,48 +579,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "content/blog/a-tale-of-three-trees.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1573,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								67,
-								133
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 171,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -692,6 +644,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"clay ",
+				"content/blog/clay-lined-pond.md"
+			],
 			[
 				"blog/",
 				"content/blog/a-tale-of-three-trees.md"
@@ -1199,10 +1155,6 @@
 			[
 				"index.html",
 				"public/index.html"
-			],
-			[
-				"nav.css",
-				"themes/gofgw/src/04-components/navigation/nav/nav.css"
 			]
 		],
 		"width": 0.0
