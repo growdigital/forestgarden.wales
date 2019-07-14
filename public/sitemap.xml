@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/190714-tao/</loc>
+    <lastmod>2019-07-14T21:29:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190708-subtractive/</loc>
+    <lastmod>2019-07-08T13:55:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190705-horsefly/</loc>
+    <lastmod>2019-07-05T22:08:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190705-three-things/</loc>
+    <lastmod>2019-07-05T21:49:32+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/clay-lined-pond/</loc>
     <lastmod>2019-06-26T15:57:25+01:00</lastmod>
   </url>

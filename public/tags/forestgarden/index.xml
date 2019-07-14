@@ -9,10 +9,19 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Wed, 26 Jun 2019 15:57:25 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2019 16:17:07 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wild Food Corridors</title>
+      <link>http://localhost:1313/blog/wild-food-corridors/</link>
+      <pubDate>Sat, 13 Jul 2019 16:17:07 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/wild-food-corridors/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clay lined pond</title>
@@ -20,7 +29,7 @@
       <pubDate>Wed, 26 Jun 2019 15:57:25 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/blog/clay-lined-pond/</guid>
-      <description>I’m creating yet another wildlife pond, this time in the [Ornamental Forest Garden]().</description>
+      <description>I’m creating yet another wildlife pond, this time in the Ornamental Forest Garden.</description>
     </item>
     
     <item>
