@@ -9,9 +9,9 @@ tags:
 - ClimateBreakdown
 - MassExtinction
 - GdnBloggers
-image: https://res.cloudinary.com/growdigital/image/upload/v1560851849/botanicalmartin-scrubland.jpg
-imageAlt: Scrubland, grass paths, wild flowers, house through trees
-imageCap: Greenvale urban scub/grassland, ideal wildlife and recreational habitat, photo by Martin Allen
+image: https://res.cloudinary.com/growdigital/image/upload/v1563283256/wild-food-corridor.jpg
+imageAlt: Sketch of strip of forest garden on grass verge
+imageCap: The Wild Food Corridor, leading to the woodland, visualised neatly with colour pencils
 draft: false
 ---
 
@@ -21,7 +21,7 @@ Wildlife and edible gardening in public spaces creates habitat for wildlife, cro
 
 My proposal is to **facilitate community groups and schools creating [forest garden](https://www.forestgarden.wales/blog/what-is-a-forest-garden/) strips on public land, leading to and joining wild spaces**. That is the essence of Wild Food Corridors.
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1563283256/wild-food-corridor.jpg" alt="Sketch of strip of forest garden on grass verge" caption="The Wild Food Corridor idea, visualised with colour pencils" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1560851849/botanicalmartin-scrubland.jpg" alt="Scrubland, grass paths, wild flowers, house through trees" caption="Greenvale urban scub/grassland, an example of managed wildlife and recreational habitat, photo by Martin Allen" >}}
 
 I’m currently putting together just such a proposal for a site in Aberystwyth, and the feedback from the council, conservationist, community centre and primary school has been overwhelmingly positive.
 
