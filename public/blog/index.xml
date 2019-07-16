@@ -15,6 +15,24 @@
     
     
     <item>
+      <title>Wild Food Corridors</title>
+      <link>http://localhost:1313/blog/wild-food-corridors/</link>
+      <pubDate>Sat, 13 Jul 2019 16:17:07 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/wild-food-corridors/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+          &lt;figure&gt;
+            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1560851849/botanicalmartin-scrubland.jpg&quot; alt=&quot;Scrubland, grass paths, wild flowers, house through trees&quot;&gt;
+            &lt;figcaption&gt;&lt;/figcaption&gt;
+          &lt;/figure&gt;
+        
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Clay lined pond</title>
       <link>http://localhost:1313/blog/clay-lined-pond/</link>
       <pubDate>Wed, 26 Jun 2019 15:57:25 +0100</pubDate>

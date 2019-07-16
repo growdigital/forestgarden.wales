@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/blog/wild-food-corridors/</loc>
+    <lastmod>2019-07-13T16:17:07+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/190708-subtractive/</loc>
     <lastmod>2019-07-08T13:55:00+01:00</lastmod>
   </url>
@@ -3326,7 +3331,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/climatebreakdown/</loc>
-    <lastmod>2019-04-19T14:42:46+01:00</lastmod>
+    <lastmod>2019-07-13T16:17:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3422,7 +3427,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2019-06-26T15:57:25+01:00</lastmod>
+    <lastmod>2019-07-13T16:17:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3440,7 +3445,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/gdnbloggers/</loc>
-    <lastmod>2019-06-26T15:57:25+01:00</lastmod>
+    <lastmod>2019-07-13T16:17:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3500,7 +3505,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/massextinction/</loc>
-    <lastmod>2018-12-25T20:24:32+00:00</lastmod>
+    <lastmod>2019-07-13T16:17:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3686,7 +3691,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/wildlife/</loc>
-    <lastmod>2019-03-21T20:51:04+00:00</lastmod>
+    <lastmod>2019-07-13T16:17:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
