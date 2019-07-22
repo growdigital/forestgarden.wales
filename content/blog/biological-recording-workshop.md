@@ -17,6 +17,7 @@ draft: false
 * 4 areas in Wales collaborate in Local Environmental Records Centres Wales ([LERC](https://www.lercwales.org.uk)), website is called [Aderyn](https://aderyn.lercwales.org.uk). Good for area and distribution maps.
 * [iSpot](https://www.ispotnature.org) website (Open University) for ID.
 * [LERC app](https://www.lercwales.org.uk/app.php) for recording
+* Watkins & Doncaster for nets, hand lenses, containers etc [www.watdon.co.uk](https://www.watdon.co.uk)
 
 ## What is a biological record?
 
