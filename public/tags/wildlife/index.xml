@@ -9,10 +9,28 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Thu, 21 Mar 2019 20:51:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2019 22:14:06 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/wildlife/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Biological recording workshop</title>
+      <link>http://localhost:1313/blog/biological-recording-workshop/</link>
+      <pubDate>Wed, 17 Jul 2019 22:14:06 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/biological-recording-workshop/</guid>
+      <description>West Wales Biodiversity Information Centre (WWBIC), made up of Pembrokeshire, Ceredigion &amp;amp; Carmarthen.</description>
+    </item>
+    
+    <item>
+      <title>Wild Food Corridors</title>
+      <link>http://localhost:1313/blog/wild-food-corridors/</link>
+      <pubDate>Sat, 13 Jul 2019 16:17:07 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/wild-food-corridors/</guid>
+      <description>We need to protect and restore our wildlife whilst dramatically reducing our Greenhouse Gas emissions, which means sustainable food production on a global scale, something that can only happen with public awareness, understanding and support.</description>
+    </item>
     
     <item>
       <title>Bird nest box plan</title>

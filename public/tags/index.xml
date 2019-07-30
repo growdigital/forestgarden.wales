@@ -80,7 +80,7 @@
     <item>
       <title>Climatebreakdown</title>
       <link>http://localhost:1313/tags/climatebreakdown/</link>
-      <pubDate>Fri, 19 Apr 2019 14:42:46 +0100</pubDate>
+      <pubDate>Sat, 13 Jul 2019 16:17:07 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/climatebreakdown/</guid>
       <description></description>
@@ -224,7 +224,7 @@
     <item>
       <title>Forestgarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Sat, 13 Jul 2019 16:17:07 +0100</pubDate>
+      <pubDate>Mon, 29 Jul 2019 21:43:30 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
@@ -251,7 +251,7 @@
     <item>
       <title>Gdnbloggers</title>
       <link>http://localhost:1313/tags/gdnbloggers/</link>
-      <pubDate>Sat, 13 Jul 2019 16:17:07 +0100</pubDate>
+      <pubDate>Mon, 29 Jul 2019 21:43:30 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/gdnbloggers/</guid>
       <description></description>
@@ -341,7 +341,7 @@
     <item>
       <title>Massextinction</title>
       <link>http://localhost:1313/tags/massextinction/</link>
-      <pubDate>Tue, 25 Dec 2018 20:24:32 +0000</pubDate>
+      <pubDate>Sat, 13 Jul 2019 16:17:07 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/massextinction/</guid>
       <description></description>
@@ -510,6 +510,15 @@
     </item>
     
     <item>
+      <title>Recording</title>
+      <link>http://localhost:1313/tags/recording/</link>
+      <pubDate>Wed, 17 Jul 2019 22:14:06 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/recording/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reference</title>
       <link>http://localhost:1313/tags/reference/</link>
       <pubDate>Wed, 20 Mar 2019 13:29:51 +0000</pubDate>
@@ -611,7 +620,7 @@
     <item>
       <title>Wildlife</title>
       <link>http://localhost:1313/tags/wildlife/</link>
-      <pubDate>Thu, 21 Mar 2019 20:51:04 +0000</pubDate>
+      <pubDate>Wed, 17 Jul 2019 22:14:06 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/wildlife/</guid>
       <description></description>

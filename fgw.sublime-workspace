@@ -27,15 +27,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "content/blog/clay-lined-pond.md",
-			"settings":
-			{
-				"buffer_size": 4773,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -204,23 +195,32 @@
 	"expanded_folders":
 	[
 		"/Users/fgw/Sites/forestgarden.wales",
-		"/Users/fgw/Sites/forestgarden.wales/content",
-		"/Users/fgw/Sites/forestgarden.wales/content/status",
-		"/Users/fgw/Sites/forestgarden.wales/themes",
-		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw",
-		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src",
-		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/02-base",
-		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/02-base/css",
-		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/02-base/js",
-		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/03-objects",
-		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/03-objects/list"
+		"/Users/fgw/Sites/forestgarden.wales/content"
 	],
 	"file_history":
 	[
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/a-tale-of-three-trees.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190722-jack.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/biological-recording-workshop.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/wild-food-corridors.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/buffer.md",
+		"/Users/fgw/Desktop/binme.txt",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/bird-nest-box-plan.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/wildflower-meadow-genesis.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/designing-wilderness-well.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190714-tao.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/post/190714-writing-again.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/contact.md",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/layouts/partials/footer.html",
+		"/Users/fgw/Sites/forestgarden.wales/config.yml",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190708-meadow.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190708-subtractive-gardening.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190708-subtractive.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190705-horsefly.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/peatfree-friday.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190705-three-things.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/peatfree.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/clay-lined-pond.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/buffer.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/a-tale-of-three-trees.md",
 		"/Users/fgw/Desktop/buffer.txt",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190618-puddling-clay.md",
 		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/layouts/partials/metahead.html",
@@ -231,7 +231,6 @@
 		"/Users/fgw/Sites/peatfree/css/fontface.css",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/forest-garden-cad-photo.md",
 		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/05-utilities/display/hiddenvisually/hiddenvisually.css",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/designing-wilderness-well.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/welcome-to-forest-garden-wales-website.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/grow-your-own-website.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190618-handle.md",
@@ -240,7 +239,6 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190614-diversity.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/illustrated-forest-garden-stages.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190613-land.md",
-		"/Users/fgw/Desktop/binme.txt",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/establish-ground-cover.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/forest-garden-ground-cover-prep.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/forest-garden-plan-ofg.md",
@@ -254,7 +252,6 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/perennial-vegetable-alternatives.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190526-cad.md",
 		"/Users/fgw/Desktop/binme.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/contact.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190525-gkh.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190525-gkh",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190525-soil.md",
@@ -287,7 +284,6 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/top-10-bee-friendly-plants.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/weeding-forest-garden-style.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/when-is-the-best-time-for-hardwood-cuttings.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/wildflower-meadow-genesis.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/windbreak-hedges-exposed-coastal-site.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/180503-cornus.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/180703-toona-sinensis.md",
@@ -330,21 +326,7 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190126-springflowers.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190202-pulmonaria.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190204-buds.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190207-sheetmulch.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190213-ofg.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190214-berberis.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190215-bonfire.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190219-vinca.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190227-minted.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190307-berberis.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190312-alefoot.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-babbington.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-dandelion.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-leaves.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190314-toonasinensis.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190318-bluesausage.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/condensed-forest-garden-knowledge.md",
-		"/Users/fgw/Work/Fieldcraft/creation/theme-fieldcloud/LICENSE"
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190207-sheetmulch.md"
 	],
 	"find":
 	{
@@ -355,6 +337,7 @@
 		"height": 119.0,
 		"where_history":
 		[
+			"/Users/fgw/Sites/forestgarden.wales/content",
 			"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/03-objects",
 			"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src",
 			"/Users/fgw/Sites/forestgarden.wales/themes/gofgw,-*node_modules",
@@ -384,6 +367,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"(",
+			". ",
+			"#ForestGarden",
+			" #ForestGarden #GdnBloggers",
+			"botanicalmartin",
+			"@botanicalmartin",
 			"#GdnBloggers",
 			"media",
 			"IBMPlexSerif",
@@ -505,13 +494,7 @@
 			"WebPage",
 			"class=\"breakout\"",
 			"helo",
-			"helo@forestgarden.wales",
-			"_",
-			"\"",
-			"udpates",
-			"40em",
-			"wrapper__pad",
-			"orange_tint"
+			"helo@forestgarden.wales"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -533,54 +516,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "content/blog/clay-lined-pond.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4773,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1583,
-								1583
-							]
-						],
-						"settings":
-						{
-							"SL.19.region_keys":
-							[
-							],
-							"WordCount":
-							{
-								"changes": 26,
-								"count": 714,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -644,6 +581,54 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"wild f",
+				"content/blog/wild-food-corridors.md"
+			],
+			[
+				"bi",
+				"content/blog/bird-nest-box-plan.md"
+			],
+			[
+				"wildfoo",
+				"content/blog/wild-food-corridors.md"
+			],
+			[
+				"wild",
+				"content/blog/wildflower-meadow-genesis.md"
+			],
+			[
+				"buf",
+				"content/buffer.md"
+			],
+			[
+				"WILD FOOD",
+				"content/blog/wild-food-corridors.md"
+			],
+			[
+				"footer",
+				"themes/gofgw/layouts/partials/footer.html"
+			],
+			[
+				"contact",
+				"content/contact.md"
+			],
+			[
+				"subtr",
+				"content/status/190708-subtractive.md"
+			],
+			[
+				"three thing",
+				"content/status/190705-three-things.md"
+			],
+			[
+				"peatfree frid",
+				"content/blog/peatfree-friday.md"
+			],
+			[
+				"peatfre",
+				"content/peatfree.md"
+			],
 			[
 				"clay ",
 				"content/blog/clay-lined-pond.md"
@@ -735,10 +720,6 @@
 			[
 				"perenn",
 				"content/blog/perennial-vegetable-alternatives.md"
-			],
-			[
-				"contact",
-				"content/contact.md"
 			],
 			[
 				"pere",
@@ -937,10 +918,6 @@
 				"content/blog/tree-spacing-forest-garden.md"
 			],
 			[
-				"wild",
-				"content/blog/wildflower-meadow-genesis.md"
-			],
-			[
 				"workshop _index",
 				"content/workshop/_index.md"
 			],
@@ -987,10 +964,6 @@
 			[
 				"meta",
 				"themes/gofgw/layouts/partials/metahead.html"
-			],
-			[
-				"footer",
-				"themes/gofgw/layouts/partials/footer.html"
 			],
 			[
 				"pollin",
@@ -1119,42 +1092,6 @@
 			[
 				"grafting workshop",
 				"content/blog/grafting-workshop-feb-2019.md"
-			],
-			[
-				"190207",
-				"content/status/190207-sheetmulch.md"
-			],
-			[
-				"status single",
-				"themes/gofgw/layouts/status/single.html"
-			],
-			[
-				"blog single",
-				"themes/gofgw/layouts/blog/single.html"
-			],
-			[
-				"sea hed",
-				"content/blog/windbreak-hedges-exposed-coastal-site.md"
-			],
-			[
-				"rss.cs",
-				"themes/gofgw/src/04-components/navigation/rss/rss.css"
-			],
-			[
-				"icon.cs",
-				"themes/gofgw/src/04-components/graphics/icon/icon.css"
-			],
-			[
-				"social.css",
-				"themes/gofgw/src/04-components/navigation/social/social.css"
-			],
-			[
-				"navse",
-				"themes/gofgw/src/04-components/navigation/navsec/navsec.css"
-			],
-			[
-				"index.html",
-				"public/index.html"
 			]
 		],
 		"width": 0.0
@@ -1162,7 +1099,7 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "pea",
+		"last_filter": "",
 		"selected_items":
 		[
 			[
