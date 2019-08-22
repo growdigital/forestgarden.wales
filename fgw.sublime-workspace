@@ -199,10 +199,15 @@
 	],
 	"file_history":
 	[
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/nodeal-brexit-garden.md",
+		"/Users/fgw/Sites/forestgarden.wales/.forestry/settings.yml",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190810-scale.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/buffer.md",
+		"/Users/fgw/Desktop/buffer.txt",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/let-go-control.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190722-jack.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/biological-recording-workshop.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/wild-food-corridors.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/buffer.md",
 		"/Users/fgw/Desktop/binme.txt",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/bird-nest-box-plan.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/wildflower-meadow-genesis.md",
@@ -221,7 +226,6 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/peatfree.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/clay-lined-pond.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/a-tale-of-three-trees.md",
-		"/Users/fgw/Desktop/buffer.txt",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190618-puddling-clay.md",
 		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/layouts/partials/metahead.html",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/wildlife-garden-checklist.md",
@@ -322,15 +326,11 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190112-kale.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190117-chaenomeles.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190117-leaves.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190117-windbreak.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190126-springflowers.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190202-pulmonaria.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190204-buds.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190207-sheetmulch.md"
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190117-windbreak.md"
 	],
 	"find":
 	{
-		"height": 42.0
+		"height": 32.0
 	},
 	"find_in_files":
 	{
@@ -367,6 +367,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"area",
 			"(",
 			". ",
 			"#ForestGarden",
@@ -493,8 +494,7 @@
 			"\"",
 			"WebPage",
 			"class=\"breakout\"",
-			"helo",
-			"helo@forestgarden.wales"
+			"helo"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -582,6 +582,14 @@
 		"selected_items":
 		[
 			[
+				"setting",
+				".forestry/settings.yml"
+			],
+			[
+				"buff",
+				"content/buffer.md"
+			],
+			[
 				"wild f",
 				"content/blog/wild-food-corridors.md"
 			],
@@ -648,10 +656,6 @@
 			[
 				"puddling",
 				"content/status/190618-puddling-clay.md"
-			],
-			[
-				"buff",
-				"content/buffer.md"
 			],
 			[
 				"peatfr",
@@ -1088,10 +1092,6 @@
 			[
 				"graftin",
 				"content/blog/grafting-workshop-feb-2019.md"
-			],
-			[
-				"grafting workshop",
-				"content/blog/grafting-workshop-feb-2019.md"
 			]
 		],
 		"width": 0.0
@@ -1102,6 +1102,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/Sites/owncloud/owncloud.sublime-workspace"
+			],
 			[
 				"pea",
 				"~/Sites/peatfree/peatfree.sublime-project"
@@ -1117,10 +1121,6 @@
 			[
 				"peatf",
 				"~/Sites/peatfree/peatfree.sublime-project"
-			],
-			[
-				"",
-				"~/Work/Fieldcraft/admin/fieldcraft.sublime-project"
 			],
 			[
 				"fie",
@@ -1145,7 +1145,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 285.0,
 	"status_bar_visible": true,
 	"template_settings":
