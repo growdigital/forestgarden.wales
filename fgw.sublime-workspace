@@ -195,11 +195,19 @@
 	"expanded_folders":
 	[
 		"/Users/fgw/Sites/forestgarden.wales",
-		"/Users/fgw/Sites/forestgarden.wales/content"
+		"/Users/fgw/Sites/forestgarden.wales/content",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog",
+		"/Users/fgw/Sites/forestgarden.wales/content/status"
 	],
 	"file_history":
 	[
+		"/Users/fgw/Desktop/unltd-eoi.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190829-politics.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190828-guelder-rose.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/the-place-you-want-to-be.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190824-politics.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/nodeal-brexit-garden.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/flowers-annual-veg.md",
 		"/Users/fgw/Sites/forestgarden.wales/.forestry/settings.yml",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190810-scale.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/buffer.md",
@@ -320,13 +328,7 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/status/181218-broom.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/181226-gorse.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/181228-saxifrage.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190106-gooseberry.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190108-weeding.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190109-cardoon.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190112-kale.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190117-chaenomeles.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190117-leaves.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190117-windbreak.md"
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190106-gooseberry.md"
 	],
 	"find":
 	{
@@ -367,6 +369,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"inspirational",
 			"area",
 			"(",
 			". ",
@@ -493,8 +496,7 @@
 			"_",
 			"\"",
 			"WebPage",
-			"class=\"breakout\"",
-			"helo"
+			"class=\"breakout\""
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1099,9 +1101,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "FIE",
 		"selected_items":
 		[
+			[
+				"FIE",
+				"~/Work/Fieldcraft/admin/fieldcraft.sublime-project"
+			],
 			[
 				"",
 				"~/Sites/owncloud/owncloud.sublime-workspace"

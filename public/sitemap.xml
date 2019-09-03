@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/190903-grass-roof/</loc>
+    <lastmod>2019-09-03T22:10:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190829-politics/</loc>
+    <lastmod>2019-08-29T21:24:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190828-guelder-rose/</loc>
+    <lastmod>2019-08-28T06:37:36+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/flowers-annual-veg/</loc>
     <lastmod>2019-08-22T09:20:22+01:00</lastmod>
   </url>
