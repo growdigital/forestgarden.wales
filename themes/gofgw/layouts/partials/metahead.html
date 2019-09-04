@@ -1,6 +1,5 @@
 <head>
   <meta charset="UTF-8">
-  {{- partial "pwa-register-serviceworker.html" . -}}
   <title>
     {{- if eq .Kind "home" -}}
       {{ .Site.Title }}
@@ -19,7 +18,6 @@
   {{- if .Params.shop -}}
     {{- partial "snipcart.html" . -}}
   {{- end -}}
-  {{- partial "pwa.html" . -}}
   {{- partial "microformat-twitter.html" . -}}
   {{- partial "microformat-og.html" . -}}
 </head>
