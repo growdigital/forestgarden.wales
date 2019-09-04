@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/190904-autumn/</loc>
+    <lastmod>2019-09-04T22:52:37+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/peatfree-climate-emergency/</loc>
     <lastmod>2019-09-04T16:36:54+01:00</lastmod>
   </url>
