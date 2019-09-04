@@ -96,6 +96,15 @@
     </item>
     
     <item>
+      <title>Climateemergency</title>
+      <link>http://localhost:1313/tags/climateemergency/</link>
+      <pubDate>Wed, 04 Sep 2019 16:36:54 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/climateemergency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cloudinary</title>
       <link>http://localhost:1313/tags/cloudinary/</link>
       <pubDate>Tue, 11 Dec 2018 12:09:29 +0000</pubDate>
@@ -224,7 +233,7 @@
     <item>
       <title>Forestgarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Thu, 22 Aug 2019 09:20:22 +0100</pubDate>
+      <pubDate>Wed, 04 Sep 2019 16:36:54 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
@@ -407,6 +416,15 @@
       <pubDate>Mon, 04 Mar 2019 20:09:24 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/ofg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peatfree</title>
+      <link>http://localhost:1313/tags/peatfree/</link>
+      <pubDate>Wed, 04 Sep 2019 16:36:54 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/peatfree/</guid>
       <description></description>
     </item>
     

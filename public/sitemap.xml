@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/blog/peatfree-climate-emergency/</loc>
+    <lastmod>2019-09-04T16:36:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190904-free/</loc>
+    <lastmod>2019-09-04T10:30:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190904-hiatus/</loc>
+    <lastmod>2019-09-04T07:26:24+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/190903-grass-roof/</loc>
     <lastmod>2019-09-03T22:10:24+01:00</lastmod>
   </url>
@@ -3382,6 +3397,12 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/climateemergency/</loc>
+    <lastmod>2019-09-04T16:36:54+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/cloudinary/</loc>
     <lastmod>2018-12-11T12:09:29+00:00</lastmod>
     <priority>0</priority>
@@ -3467,7 +3488,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2019-08-22T09:20:22+01:00</lastmod>
+    <lastmod>2019-09-04T16:36:54+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3588,6 +3609,12 @@
   <url>
     <loc>http://localhost:1313/tags/ofg/</loc>
     <lastmod>2019-03-04T20:09:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/peatfree/</loc>
+    <lastmod>2019-09-04T16:36:54+01:00</lastmod>
     <priority>0</priority>
   </url>
   
