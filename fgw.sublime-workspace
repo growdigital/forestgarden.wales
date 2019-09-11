@@ -196,11 +196,31 @@
 	[
 		"/Users/fgw/Sites/forestgarden.wales",
 		"/Users/fgw/Sites/forestgarden.wales/content",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog",
-		"/Users/fgw/Sites/forestgarden.wales/content/status"
+		"/Users/fgw/Sites/forestgarden.wales/content/status",
+		"/Users/fgw/Sites/forestgarden.wales/themes",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/layouts",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/layouts/partials",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/layouts/shortcodes"
 	],
 	"file_history":
 	[
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190910-rubus.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190909-badger.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190909-hs2.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190909-full-stack.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190908-mulch.md",
+		"/Users/fgw/Desktop/nas-tcpdump.txt",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190907-authoritarian.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190906-river.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190907-groundcherry.md",
+		"/Users/fgw/Library/Group Containers/group.com.apple.notes/Media/CCCBF1EA-6662-4F6F-AE88-360C37F68419/test.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190905-woods.md",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/layouts/partials/metahead.html",
+		"/Users/fgw/Sites/forestgarden.wales/content/shop.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190904-whammy.md",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/layouts/partials/pwa.html",
+		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/layouts/partials/pwa-register-serviceworker.html",
 		"/Users/fgw/Desktop/unltd-eoi.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190829-politics.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190828-guelder-rose.md",
@@ -235,7 +255,6 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/clay-lined-pond.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/a-tale-of-three-trees.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190618-puddling-clay.md",
-		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/layouts/partials/metahead.html",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/wildlife-garden-checklist.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190625-wildlife-garden.md",
 		"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/02-base/css/03-fontface.css",
@@ -313,22 +332,7 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/status/181004-ouch.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/181005-tricolor.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/181009-colour.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/181009-v2.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/181010-morning.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/181018-elaeagnus.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/181115-hogweed.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/181117-borage.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/181119-agroforestry.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/181119-blood.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/181122-damage.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/181123-delivery.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/181202-heather.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/181210-brighteyes.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/181212-polytunnel.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/181218-broom.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/181226-gorse.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/181228-saxifrage.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190106-gooseberry.md"
+		"/Users/fgw/Sites/forestgarden.wales/content/status/181009-v2.md"
 	],
 	"find":
 	{
@@ -339,6 +343,8 @@
 		"height": 119.0,
 		"where_history":
 		[
+			"/Users/fgw/Sites/forestgarden.wales/themes",
+			"/Users/fgw/Sites/forestgarden.wales/",
 			"/Users/fgw/Sites/forestgarden.wales/content",
 			"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src/03-objects",
 			"/Users/fgw/Sites/forestgarden.wales/themes/gofgw/src",
@@ -369,6 +375,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"microformat-",
+			"pwa.html",
+			"manifest.json",
 			"inspirational",
 			"area",
 			"(",
@@ -493,10 +502,7 @@
 			"CAD",
 			"**",
 			"\"",
-			"_",
-			"\"",
-			"WebPage",
-			"class=\"breakout\""
+			"_"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -583,6 +589,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"1909",
+				"content/status/190908-mulch.md"
+			],
+			[
+				"pwa-re",
+				"themes/gofgw/layouts/partials/pwa-register-serviceworker.html"
+			],
 			[
 				"setting",
 				".forestry/settings.yml"
@@ -1086,14 +1100,6 @@
 			[
 				"grafter",
 				"content/blog/grafting-workshop-feb-2019.md"
-			],
-			[
-				"graf",
-				"content/blog/grafting-workshop-feb-2019.md"
-			],
-			[
-				"graftin",
-				"content/blog/grafting-workshop-feb-2019.md"
 			]
 		],
 		"width": 0.0
@@ -1101,9 +1107,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "FIE",
+		"last_filter": "fiel",
 		"selected_items":
 		[
+			[
+				"fiel",
+				"~/Work/Fieldcraft/admin/fieldcraft.sublime-project"
+			],
 			[
 				"FIE",
 				"~/Work/Fieldcraft/admin/fieldcraft.sublime-project"
