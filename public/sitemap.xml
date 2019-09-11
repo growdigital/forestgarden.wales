@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/190911-acorn/</loc>
+    <lastmod>2019-09-11T21:00:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190911-portal/</loc>
+    <lastmod>2019-09-11T07:32:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190910-rubus/</loc>
+    <lastmod>2019-09-10T06:41:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190909-hs2/</loc>
+    <lastmod>2019-09-09T11:28:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190909-badger/</loc>
+    <lastmod>2019-09-09T11:22:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190908-mulch/</loc>
+    <lastmod>2019-09-08T10:33:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190907-groundcherry/</loc>
+    <lastmod>2019-09-07T10:26:11+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/190907-authoritarian/</loc>
     <lastmod>2019-09-07T09:40:51+01:00</lastmod>
   </url>
