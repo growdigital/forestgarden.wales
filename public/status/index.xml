@@ -15,13 +15,120 @@
     
     
     <item>
-      <link>http://localhost:1313/status/190911-mullein/</link>
-      <title>Mullein</title>
-      <pubDate>Wed, 11 Sep 2019 21:20:42 +0100</pubDate>
+      <link>http://localhost:1313/status/190918-strike4climate/</link>
+      <title>Strike4climate</title>
+      <pubDate>Wed, 18 Sep 2019 11:51:15 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/status/190911-mullein/</guid>
-      <description>test
-test</description>
+      <guid>http://localhost:1313/status/190918-strike4climate/</guid>
+      <description>This Friday is #Strike4Climate, a global climate strike for everyone. Find a UK event near you ukscn.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/190918-crickethill/</link>
+      <title>Crickethill</title>
+      <pubDate>Wed, 18 Sep 2019 11:30:53 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/190918-crickethill/</guid>
+      <description>Excellent podcast about edible landscaping @margaretroach A Way To Garden with Dan Furman from Cricket Hill Garden @PeonyHeaven #ForestGarden awaytogarden.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/190918-sedum/</link>
+      <title>Sedum</title>
+      <pubDate>Wed, 18 Sep 2019 07:35:24 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/190918-sedum/</guid>
+      <description>Bore da fyd, morning world! Sedum in the #ForestGarden starting to look glorious, great late season food for pollinators 🙂</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/190916-rain/</link>
+      <title>Rain</title>
+      <pubDate>Mon, 16 Sep 2019 09:37:12 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/190916-rain/</guid>
+      <description>Bore da fyd, morning world! Fine rain on Snowberry in the #ForestGarden. I’d like to plant strawberry ground cover but will probably be working inside all day!</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/190915-butterfly/</link>
+      <title>Butterfly</title>
+      <pubDate>Sun, 15 Sep 2019 19:25:03 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/190915-butterfly/</guid>
+      <description>Beautiful Small Copper butterfly on the #ForestGarden lavender yesterday, feeds on Common Sorrel, Sheep’s Sorrel &amp;amp; occasionally Broad-leaved Dock.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/190914-sumac/</link>
+      <title>Sumac</title>
+      <pubDate>Sat, 14 Sep 2019 08:46:46 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/190914-sumac/</guid>
+      <description>Bore da fyd, morning world! The Stag’s Horn Sumach is dead, though luckily it has suckered.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/190914-ivy/</link>
+      <title>Ivy</title>
+      <pubDate>Sat, 14 Sep 2019 08:43:52 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/190914-ivy/</guid>
+      <description>Ivy flower in the hedgerow, great source of late season pollen and nectar for pollinators.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/190914-dragonfly/</link>
+      <title>Dragonfly</title>
+      <pubDate>Sat, 14 Sep 2019 08:42:22 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/190914-dragonfly/</guid>
+      <description>Saw what I think is a male Vagrant Darter #dragonfly in the #ForestGarden yesterday, sunning itself on a wooden fence.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/190913-hawthorn/</link>
+      <title>Hawthorn</title>
+      <pubDate>Fri, 13 Sep 2019 19:55:30 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/190913-hawthorn/</guid>
+      <description>I 💚 autumn</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/190913-wasps/</link>
+      <title>Wasps</title>
+      <pubDate>Fri, 13 Sep 2019 17:51:22 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/190913-wasps/</guid>
+      <description>Noticed a large wasp (the queen?) being chased off by other wasps, who were munching on a stem of Jerusalem Artichoke in the #ForestGarden.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/190913-mess/</link>
+      <title>Mess</title>
+      <pubDate>Fri, 13 Sep 2019 09:21:55 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/190913-mess/</guid>
+      <description>Bore da fyd, morning world! Tomorrow, #ForestGarden tour! Lots to prepare today, including cake 🍰</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/190912-wood-betony/</link>
+      <title>Wood-Betony</title>
+      <pubDate>Thu, 12 Sep 2019 21:48:24 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/190912-wood-betony/</guid>
+      <description>Learnt about Wood Betony today, which prevents “frightful nocturnal goblins and terrible sights and dreams”.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/190912-flies/</link>
+      <title>Flies</title>
+      <pubDate>Thu, 12 Sep 2019 07:01:45 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/190912-flies/</guid>
+      <description>Bore da fyd, morning world! Two lovely flies on a geranium! #YearOfTheFly</description>
     </item>
     
     <item>
