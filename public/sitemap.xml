@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/190923-native/</loc>
+    <lastmod>2019-09-23T20:59:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190922-lizard/</loc>
+    <lastmod>2019-09-22T18:39:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190919-secateurs/</loc>
+    <lastmod>2019-09-19T20:14:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190919-hearts/</loc>
+    <lastmod>2019-09-19T09:19:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190919-tour/</loc>
+    <lastmod>2019-09-19T08:33:14+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/peat-free-nurseries/</loc>
     <lastmod>2019-09-18T20:25:57+01:00</lastmod>
   </url>
