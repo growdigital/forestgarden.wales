@@ -194,10 +194,32 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/fgw/Sites/forestgarden.wales"
+		"/Users/fgw/Sites/forestgarden.wales",
+		"/Users/fgw/Sites/forestgarden.wales/content",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog",
+		"/Users/fgw/Sites/forestgarden.wales/content/status"
 	],
 	"file_history":
 	[
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190930-brigit.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190923-native.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/rootstock-reference.md",
+		"/Users/fgw/Desktop/nginx config.txt",
+		"/Users/fgw/Downloads/download_2019-09-27_11-01-57/conf.d/default.conf",
+		"/Users/fgw/Desktop/binme.txt",
+		"/Users/fgw/Work/Fieldcraft/_bak/nginx working/default.conf.working",
+		"/Users/fgw/Downloads/download_2019-09-27_11-01-57/conf.d/default.conf.auto",
+		"/Users/fgw/Downloads/download_2019-09-27_11-01-57/conf.d/default.conf.backup-20190909",
+		"/Users/fgw/Downloads/download_2019-09-27_11-01-57/conf.d/default.conf.fergal",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190922-lizard.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190919-secateurs.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190919-hearts.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190919-tour.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/calculating-groundwork.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/peat-free-nurseries.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190918-strike4climate.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190918-crickethill.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190918-sedum.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190916-rain.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190915-butterfly.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190914-sumac.md",
@@ -244,7 +266,6 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190722-jack.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/biological-recording-workshop.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/wild-food-corridors.md",
-		"/Users/fgw/Desktop/binme.txt",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/bird-nest-box-plan.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/wildflower-meadow-genesis.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/designing-wilderness-well.md",
@@ -307,25 +328,7 @@
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/creating-forest-garden-8-steps.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/dead-hedging-forest-garden.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/designing-small-forest-garden.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/eat-your-greens-forest-garden-greenery.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/flowers-pollinators-orchard.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/forest-garden-midwinter-2019.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/gardeners-log.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/howto-propagation-bed.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/joy-of-planning.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/leave-space.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/plant-mulch-windbreak.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/sea-buckthorn-willow-walk.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/small-forest-garden.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/splashes-colour-sea-shimmering-green.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/the-lure-of-the-stinging-less-nettle.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/thug-or-doer.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/top-10-bee-friendly-plants.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/weeding-forest-garden-style.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/when-is-the-best-time-for-hardwood-cuttings.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/windbreak-hedges-exposed-coastal-site.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/180503-cornus.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/180703-toona-sinensis.md"
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/eat-your-greens-forest-garden-greenery.md"
 	],
 	"find":
 	{
@@ -336,6 +339,7 @@
 		"height": 119.0,
 		"where_history":
 		[
+			"/Users/fgw/Sites/forestgarden.wales/content",
 			"/Users/fgw/Sites/forestgarden.wales/themes",
 			"/Users/fgw/Sites/forestgarden.wales/",
 			"/Users/fgw/Sites/forestgarden.wales/content",
@@ -368,6 +372,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"# User shortcuts for easy maintenance\n\n# nas-stop to gracefully shut down web apps\nalias nas-stop='cd /share/CACHEDEV2_DATA/Apps/nginx-proxy && docker-compose stop && cd /share/CACHEDEV2_DATA/Apps/cloud.fieldcraftstudios.com/ && docker-compose stop && cd /share/CACHEDEV2_DATA/Apps/media.fieldcraftstudios.com/ && docker-compose stop && cd /share/CACHEDEV2_DATA/Apps/'\n\n# nas-start to stop Qhttpd service from hogging port 80 & start web apps\nalias nas-start='/etc/init.d/Qthttpd.sh stop && cd /share/CACHEDEV2_DATA/Apps/nginx-proxy && docker-compose start && cd /share/CACHEDEV2_DATA/Apps/cloud.fieldcraftstudios.com/ && docker-compose start && cd /share/CACHEDEV2_DATA/Apps/media.fieldcraftstudios.com/ && docker-compose start && cd /share/CACHEDEV2_DATA/Apps/'\n",
+			"docker-compose up",
+			"docker-compose down",
+			"docker-compose start",
+			"start",
+			"docker-compose stop",
+			"\n",
+			"draft: true",
 			"microformat-",
 			"pwa.html",
 			"manifest.json",
@@ -487,15 +499,7 @@
 			"rite('",
 			"\n\n",
 			"@media ",
-			".share .icon__figure",
-			"aside.html",
-			"h2>",
-			"<h2",
-			"view-from-windy-corner-over-polytunnel",
-			"CAD",
-			"**",
-			"\"",
-			"_"
+			".share .icon__figure"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -582,6 +586,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"brigit",
+				"content/status/190930-brigit.md"
+			],
+			[
+				"190923",
+				"content/status/190923-native.md"
+			],
+			[
+				"roo",
+				"content/blog/rootstock-reference.md"
+			],
 			[
 				"1909",
 				"content/status/190908-mulch.md"
@@ -891,10 +907,6 @@
 				"content/status/190403-kale.md"
 			],
 			[
-				"roo",
-				"content/blog/rootstock-reference.md"
-			],
-			[
 				"tree spa",
 				"content/blog/tree-spacing-forest-garden.md"
 			],
@@ -1085,14 +1097,6 @@
 			[
 				"conta",
 				"content/contact.md"
-			],
-			[
-				"foo",
-				"themes/gofgw/layouts/partials/footer.html"
-			],
-			[
-				"grafter",
-				"content/blog/grafting-workshop-feb-2019.md"
 			]
 		],
 		"width": 0.0
@@ -1154,7 +1158,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 285.0,
 	"status_bar_visible": true,
 	"template_settings":
