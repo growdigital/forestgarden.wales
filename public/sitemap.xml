@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/190930-native/</loc>
+    <lastmod>2019-09-30T13:58:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/190930-brigit/</loc>
+    <lastmod>2019-09-30T12:52:03+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/190923-native/</loc>
     <lastmod>2019-09-23T20:59:44+01:00</lastmod>
   </url>
