@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/blog/hawthorn-all-the-way/</loc>
+    <lastmod>2019-10-06T12:57:49+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/190930-native/</loc>
     <lastmod>2019-09-30T13:58:15+01:00</lastmod>
   </url>
@@ -3648,7 +3653,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2019-09-18T20:25:57+01:00</lastmod>
+    <lastmod>2019-10-06T12:57:49+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3666,7 +3671,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/gdnbloggers/</loc>
-    <lastmod>2019-08-22T09:20:22+01:00</lastmod>
+    <lastmod>2019-10-06T12:57:49+01:00</lastmod>
     <priority>0</priority>
   </url>
   
