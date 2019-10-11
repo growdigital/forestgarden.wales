@@ -9,10 +9,28 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Sun, 06 Oct 2019 12:57:49 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2019 17:38:28 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wildlife: know their names</title>
+      <link>http://localhost:1313/blog/wildlife-know-their-names/</link>
+      <pubDate>Thu, 10 Oct 2019 17:38:28 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/wildlife-know-their-names/</guid>
+      <description>Benjamin Vogt’s @BRVogt article Native Plants, Racism, &amp;amp; the Colonizing Nature of Garden Language is properly thought provoking.</description>
+    </item>
+    
+    <item>
+      <title>Pivot</title>
+      <link>http://localhost:1313/blog/design-pivot/</link>
+      <pubDate>Wed, 09 Oct 2019 11:45:43 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/design-pivot/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hawthorn all the way</title>
@@ -20,7 +38,7 @@
       <pubDate>Sun, 06 Oct 2019 12:57:49 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/blog/hawthorn-all-the-way/</guid>
-      <description>   A logpile is one of the easiest wildlife features to add     Hawthorn hedge planted, although they’ll need a lot of mulching to get them established in that ivy     Ivy makes a great habitat, although bare stone walls are a great habitat as well   </description>
+      <description>I’m very lucky to be working on a large farm garden in Pembrokeshire. It’s mostly been clearing bramble and nettles from well-established perennial shrubs and a lovely range of aromatic herbs such as Southernwood and oregano.</description>
     </item>
     
     <item>

@@ -196,11 +196,21 @@
 	[
 		"/Users/fgw/Sites/forestgarden.wales",
 		"/Users/fgw/Sites/forestgarden.wales/content",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog",
-		"/Users/fgw/Sites/forestgarden.wales/content/status"
+		"/Users/fgw/Sites/forestgarden.wales/content/status",
+		"/Users/fgw/Sites/forestgarden.wales/static",
+		"/Users/fgw/Sites/forestgarden.wales/static/talks",
+		"/Users/fgw/Sites/forestgarden.wales/static/talks/smaller",
+		"/Users/fgw/Sites/forestgarden.wales/static/talks/template"
 	],
 	"file_history":
 	[
+		"/Users/fgw/Sites/forestgarden.wales/content/blog/hawthorn-all-the-way.md",
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190930-native.md",
+		"/Users/fgw/Sites/forestgarden.wales/static/talks/veg/index.html",
+		"/Users/fgw/Sites/forestgarden.wales/static/talks/smaller/index.html",
+		"/Users/fgw/Sites/forestgarden.wales/.editorconfig",
+		"/Users/fgw/Sites/forestgarden.wales/static/talks/.editorconfig",
+		"/Users/fgw/Sites/forestgarden.wales/static/talks/template/index.html",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190930-brigit.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/status/190923-native.md",
 		"/Users/fgw/Sites/forestgarden.wales/content/blog/rootstock-reference.md",
@@ -321,14 +331,7 @@
 		"/Users/fgw/Work/Fieldcraft/creation/theme-fieldcloud/core/css/styles.css",
 		"/Users/fgw/Work/Fieldcraft/creation/theme-fieldcloud/appinfo/info.xml",
 		"/Users/fgw/Work/Fieldcraft/creation/theme-fieldcloud/LICENSE2",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190519-deturfing.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190519-now.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190519-mulching-mulching-mulching.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/status/190517-ferns.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/creating-forest-garden-8-steps.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/dead-hedging-forest-garden.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/designing-small-forest-garden.md",
-		"/Users/fgw/Sites/forestgarden.wales/content/blog/eat-your-greens-forest-garden-greenery.md"
+		"/Users/fgw/Sites/forestgarden.wales/content/status/190519-deturfing.md"
 	],
 	"find":
 	{
@@ -1104,9 +1107,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "fie",
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/Work/Fieldcraft/admin/fieldcraft.sublime-project"
+			],
 			[
 				"fie",
 				"~/Work/Fieldcraft/admin/fieldcraft.sublime-project"
@@ -1118,10 +1125,6 @@
 			[
 				"FIE",
 				"~/Work/Fieldcraft/admin/fieldcraft.sublime-project"
-			],
-			[
-				"",
-				"~/Sites/owncloud/owncloud.sublime-workspace"
 			],
 			[
 				"pea",

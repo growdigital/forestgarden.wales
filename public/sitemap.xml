@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/blog/wildlife-know-their-names/</loc>
+    <lastmod>2019-10-10T17:38:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/pivot/</loc>
+    <lastmod>2019-10-09T11:45:43+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/hawthorn-all-the-way/</loc>
     <lastmod>2019-10-06T12:57:49+01:00</lastmod>
   </url>
@@ -3653,7 +3663,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2019-10-06T12:57:49+01:00</lastmod>
+    <lastmod>2019-10-10T17:38:28+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3726,6 +3736,12 @@
   <url>
     <loc>http://localhost:1313/tags/journal/</loc>
     <lastmod>2018-11-28T21:28:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/knowtheirnames/</loc>
+    <lastmod>2019-10-10T17:38:28+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3929,7 +3945,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/wildlife/</loc>
-    <lastmod>2019-07-17T22:14:06+01:00</lastmod>
+    <lastmod>2019-10-10T17:38:28+01:00</lastmod>
     <priority>0</priority>
   </url>
   

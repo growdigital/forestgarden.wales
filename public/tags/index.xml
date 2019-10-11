@@ -233,7 +233,7 @@
     <item>
       <title>Forestgarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Sun, 06 Oct 2019 12:57:49 +0100</pubDate>
+      <pubDate>Thu, 10 Oct 2019 17:38:28 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
@@ -344,6 +344,15 @@
       <pubDate>Wed, 28 Nov 2018 21:28:34 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowtheirnames</title>
+      <link>http://localhost:1313/tags/knowtheirnames/</link>
+      <pubDate>Thu, 10 Oct 2019 17:38:28 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/knowtheirnames/</guid>
       <description></description>
     </item>
     
@@ -638,7 +647,7 @@
     <item>
       <title>Wildlife</title>
       <link>http://localhost:1313/tags/wildlife/</link>
-      <pubDate>Wed, 17 Jul 2019 22:14:06 +0100</pubDate>
+      <pubDate>Thu, 10 Oct 2019 17:38:28 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/wildlife/</guid>
       <description></description>

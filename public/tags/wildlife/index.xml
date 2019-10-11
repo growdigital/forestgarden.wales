@@ -9,10 +9,19 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Wed, 17 Jul 2019 22:14:06 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2019 17:38:28 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/wildlife/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wildlife: know their names</title>
+      <link>http://localhost:1313/blog/wildlife-know-their-names/</link>
+      <pubDate>Thu, 10 Oct 2019 17:38:28 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/wildlife-know-their-names/</guid>
+      <description>Benjamin Vogt’s @BRVogt article Native Plants, Racism, &amp;amp; the Colonizing Nature of Garden Language is properly thought provoking.</description>
+    </item>
     
     <item>
       <title>Biological recording workshop</title>
