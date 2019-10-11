@@ -5,7 +5,8 @@ menu:
   secondary:
     weight: -10
 date: 2018-02-09T19:21:11Z
-image: ""
+image: 
+- ""
 imageAlt: ""
 imageCap: ""
 draft: false

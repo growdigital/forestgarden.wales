@@ -1,7 +1,8 @@
 ---
 title: Leaf mulch
 date: 2019-01-05T21:23:42Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1546708567/bed-093A915C.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1546708567/bed-093A915C.jpg
 imageAlt: Wheelbarrow above flower bed on a slope, covered in leaf litter mulch
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Workshops
 date: 2019-02-08T19:40:40Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1549654953/poster-190208.png
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1549654953/poster-190208.png
 imageAlt: Poster for The People's Orchard planting and pruning workshops
 ---
 

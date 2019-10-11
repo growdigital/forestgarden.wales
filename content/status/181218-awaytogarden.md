@@ -1,7 +1,8 @@
 ---
 title: A Way To Garden
 date: 2018-12-18T12:13:30Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1545139294/screenshot-20181218.png
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1545139294/screenshot-20181218.png
 imageAlt: Screenshot of A Way To Garden website
 ---
 

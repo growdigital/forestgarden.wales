@@ -1,7 +1,8 @@
 ---
 title: Simplenote
 date: 2019-03-13T10:49:49Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1552427101/simplenote-190312.png
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1552427101/simplenote-190312.png
 imageAlt: Screenshot of notes published on web by Simplenote
 ---
 

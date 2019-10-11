@@ -1,7 +1,8 @@
 ---
 title: Biochar
 date: 2019-01-05T19:27:48Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1546716417/biochar-190105.png
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1546716417/biochar-190105.png
 imageAlt: Screenshot of Biochar factsheet
 ---
 

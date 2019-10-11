@@ -1,7 +1,8 @@
 ---
 title: "Harvest"
 date: 2018-08-17T12:38:42+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/v1544305038/grapes-30220462088.jpg"
+image: 
+- "https://res.cloudinary.com/growdigital/image/upload/v1544305038/grapes-30220462088.jpg"
 imageAlt: "Open hand, 2 small bunches of white grapes"
 ---
 

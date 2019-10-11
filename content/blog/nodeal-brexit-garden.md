@@ -6,7 +6,8 @@ description: The original plan was to slowly build up the forest garden and incr
 tags: 
 - ForestGarden
 - GdnBloggers
-image: https://res.cloudinary.com/growdigital/image/upload/v1565295186/compostbay-5A3C3B80.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1565295186/compostbay-5A3C3B80.jpg
 imageAlt: Pallet compost bays, covered in old plastic
 imageCap: It’s time to make compost, fast
 draft: true

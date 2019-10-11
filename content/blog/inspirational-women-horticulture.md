@@ -5,7 +5,8 @@ description: Botanic Garden of Wales’ has an excellent series of talks called 
 tags: 
 - ForestGarden
 - GdnBloggers
-image: https://res.cloudinary.com/growdigital/image/upload/v1547562262/walesbotanic-190115.png
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1547562262/walesbotanic-190115.png
 imageAlt: Screenshot of Botanic Garden Wales’ Inspirational Women in Horticulture talks website
 imageCap: Sarah Price is the second in the “Inspirational Women in Horticulture” series of three talks 
 draft: false

@@ -1,7 +1,8 @@
 ---
 title: "Hot tip: hedging"
 date: 2018-07-18T11:10:12+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/v1544297620/cornus-28601281207.jpg"
+image: 
+- "https://res.cloudinary.com/growdigital/image/upload/v1544297620/cornus-28601281207.jpg"
 imageAlt: "Photo of deciduous hedging shrub in front of spiky rose shrub"
 ---
 

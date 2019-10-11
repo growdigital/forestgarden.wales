@@ -1,7 +1,8 @@
 ---
 title: Weeding
 date: 2019-01-08T19:13:40Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1546962436/weeding-25A22788.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1546962436/weeding-25A22788.jpg
 imageAlt: Spikey new foliage of cardoon, surrounded by grass
 ---
 

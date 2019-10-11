@@ -2,7 +2,8 @@
 title: "About the name…"
 date: 2018-01-19
 description: "A small clarification about the origins of the name Forest Garden Wales"
-image: ""
+image: 
+- ""
 imageAlt: ""
 imageCap: ""
 draft: false

@@ -7,7 +7,8 @@ tags:
 - ForestGarden
 - GdnBloggers
 - PermacultureNews
-image: https://res.cloudinary.com/growdigital/image/upload/v1554229765/measuring-E9325B00.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1554229765/measuring-E9325B00.jpg
 imageAlt: Tape measure, geometric maths set and A4 paper pad on grass
 imageCap: "The lo-tech equipment you need to create an analog plan: tape measure, maths compass, squared paper pad. Total cost less than $13USD."
 draft: true

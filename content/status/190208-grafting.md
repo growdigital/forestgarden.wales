@@ -1,7 +1,8 @@
 ---
 title: Grafting
 date: 2019-02-08T22:15:16Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1549651704/CF5FDAA3-9822-4658-9088-D3F8EC598DA2.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1549651704/CF5FDAA3-9822-4658-9088-D3F8EC598DA2.jpg
 imageAlt: Collection of pots in a polytunnel
 ---
 

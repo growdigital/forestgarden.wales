@@ -6,7 +6,8 @@ description: Forest gardening is not a “style”, rather it is a practical and
 tags: 
 - ForestGarden
 - GdnBloggers
-image: https://res.cloudinary.com/growdigital/image/upload/v1554155578/allotment-46711013841.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1554155578/allotment-46711013841.jpg
 imageAlt: Allotment in winter with ramshackle buildings
 imageCap: Winter over Fitzroy Allotments by Marc Barrot
 draft: false

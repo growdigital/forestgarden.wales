@@ -5,7 +5,8 @@ discussionId: pivot
 description: I’m switching my work to concentrate on wildlife and forest garden design, with a view to an online course next year.
 tags: 
 - ForestGarden
-image: https://res.cloudinary.com/growdigital/image/upload/v1570785794/greenroom-cad-screenshots-nophoto.png
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1570785794/greenroom-cad-screenshots-nophoto.png
 imageAlt: Computer Aided Design screenshot of small garden design
 imageCap: There’ll be more of this in my new career as Wildlife Forest Garden Designer
 draft: false

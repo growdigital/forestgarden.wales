@@ -1,7 +1,8 @@
 ---
 title: Woodchip
 date: 2018-12-30T22:39:26Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1544305254/wood-chip-44193784521.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1544305254/wood-chip-44193784521.jpg
 imageAlt: Pile of freshly chipped wood chip
 ---
 

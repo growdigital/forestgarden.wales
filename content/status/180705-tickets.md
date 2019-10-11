@@ -1,7 +1,8 @@
 ---
 title: "Tickets"
 date: 2018-07-05T10:38:20+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/v1544269991/tour-42324668894.jpg"
+image: 
+- "https://res.cloudinary.com/growdigital/image/upload/v1544269991/tour-42324668894.jpg"
 imageAlt: "Group of people around a raised bed full of greenery next to a polytunnel"
 ---
 

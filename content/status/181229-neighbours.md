@@ -1,7 +1,8 @@
 ---
 title: Neighbours
 date: 2018-12-29T21:56:37Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1546174835/ediblelandscaping-logo-181230.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1546174835/ediblelandscaping-logo-181230.jpg
 imageAlt: Edible Landscaping logo
 ---
 

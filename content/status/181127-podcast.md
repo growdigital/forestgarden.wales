@@ -1,7 +1,8 @@
 ---
 title: Podcast
 date: 2018-11-27T09:49:47Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1543312216/gardens-weeds-words-s01e04_header.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1543312216/gardens-weeds-words-s01e04_header.jpg
 imageAlt: Header for Gardens, Weeds & Words podcast, episode 4 with Alice Vincent
 ---
 

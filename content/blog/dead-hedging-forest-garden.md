@@ -8,7 +8,8 @@ tags:
 - GdnBloggers
 - DeadHedge
 - Howto
-image: https://res.cloudinary.com/growdigital/image/upload/v1555776614/deadhedge-39D0EDB7.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1555776614/deadhedge-39D0EDB7.jpg
 imageAlt: Dead hedge in field, made out of posts and old branches
 imageCap: Dead hedge in the Ornamental Forest Garden, protecting a bamboo
 draft: false

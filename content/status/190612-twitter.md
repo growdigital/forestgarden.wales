@@ -1,7 +1,8 @@
 ---
 title: Twitter
 date: 2019-06-12T08:59:56+01:00
-image: https://res.cloudinary.com/growdigital/image/upload/v1546449622/seaweed-59E7EA41.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1546449622/seaweed-59E7EA41.jpg
 imageAlt: A handful of seaweed that would make great compost
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Sheetmulch
 date: 2019-02-07T20:29:45Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1549564117/sheetmulch-EF6898D1.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1549564117/sheetmulch-EF6898D1.jpg
 imageAlt: Sheet mulch along farmers fence
 ---
 

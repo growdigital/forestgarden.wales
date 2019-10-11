@@ -1,7 +1,8 @@
 ---
 title: "Symphytum"
 date: 2018-05-07T22:14:56+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/v1544129756/comfrey-41912940381.jpg"
+image: 
+- "https://res.cloudinary.com/growdigital/image/upload/v1544129756/comfrey-41912940381.jpg"
 imageAlt: "Close up of white & pink comfrey flower and leaves"
 ---
 

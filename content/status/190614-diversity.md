@@ -1,7 +1,8 @@
 ---
 title: Diversity
 date: 2019-06-14T14:00:40+01:00
-image: https://res.cloudinary.com/growdigital/image/upload/v1560502966/bumblebee-6EBBA4FD.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1560502966/bumblebee-6EBBA4FD.jpg
 imageAlt: Dark bumblebee on chive flowerhead
 ---
 

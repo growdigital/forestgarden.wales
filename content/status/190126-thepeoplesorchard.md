@@ -1,7 +1,8 @@
 ---
 title: The Peoples’ Orchard
 date: 2019-01-26T19:51:36Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1548532332/dutchcut-60183BB2.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1548532332/dutchcut-60183BB2.jpg
 imageAlt: Close up of horizontal cut on apple tree branch to encourage side shoots
 ---
 

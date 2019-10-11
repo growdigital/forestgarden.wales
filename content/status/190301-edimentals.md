@@ -1,7 +1,8 @@
 ---
 title: Edimentals tour
 date: 2019-03-01T20:34:26Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1551472652/edimentals-screenshot-190301.png
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1551472652/edimentals-screenshot-190301.png
 imageAlt: Screenshot of Edimental tour dates
 ---
 

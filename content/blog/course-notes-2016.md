@@ -2,7 +2,8 @@
 title: "Forest Garden Design Course notes 2016"
 date: 2018-01-19
 description: "Notes from Martin Crawford forest garden course back in the summer of 2016"
-image: "https://res.cloudinary.com/growdigital/image/upload/v1543874067/windbreak-41165268411.jpg"
+image: 
+- "https://res.cloudinary.com/growdigital/image/upload/v1543874067/windbreak-41165268411.jpg"
 imageAlt: "Japanese Rose hedgerow"
 imageCap: "Rosa rugosa (Japanese Rose) windbreak hedge"
 draft: false

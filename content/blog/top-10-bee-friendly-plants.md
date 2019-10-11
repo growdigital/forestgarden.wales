@@ -6,7 +6,8 @@ tags:
 - ForestGarden
 - BeeFriendly
 - Pollinator
-image: https://res.cloudinary.com/growdigital/image/upload/v1543959826/comfrey-flower-29851000577.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1543959826/comfrey-flower-29851000577.jpg
 imageAlt: Close up of purple drooping comfrey flowers
 imageCap: Comfrey (Bocking 14), a fantastic bee plant, mulch plant and all-round thuggish good guy
 draft: false

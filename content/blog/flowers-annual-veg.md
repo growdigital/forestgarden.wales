@@ -6,7 +6,8 @@ description: Every garden is dynamic, changing over time. When you’re starting
 tags: 
 - ForestGarden
 - GdnBloggers
-image: https://res.cloudinary.com/growdigital/image/upload/v1562699072/geranium-dianthus-B50F2E10.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1562699072/geranium-dianthus-B50F2E10.jpg
 imageAlt: Bright pink and purple flowers next a gravel path
 imageCap: People and pollinator friendly flowers, a great way to start a forest garden
 draft: false

@@ -1,7 +1,8 @@
 ---
 title: "Diversity"
 date: 2018-06-09T22:02:12+01:00
-image: "https://res.cloudinary.com/growdigital/image/upload/v1544219347/meadow-28824815048.jpg"
+image: 
+- "https://res.cloudinary.com/growdigital/image/upload/v1544219347/meadow-28824815048.jpg"
 imageAlt: "Long grass, trees in background"
 ---
 

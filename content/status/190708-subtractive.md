@@ -1,7 +1,8 @@
 ---
 title: Subtractive gardening
 date: 2019-07-08T13:55:00+01:00
-image: https://res.cloudinary.com/growdigital/image/upload/v1562357899/rosa-rugosa-0A63905C.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1562357899/rosa-rugosa-0A63905C.jpg
 imageAlt: White open rose flower
 ---
 

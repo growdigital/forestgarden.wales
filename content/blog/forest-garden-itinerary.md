@@ -6,7 +6,8 @@ description: The itinerary for my forest garden tours and workshops, with a link
 tags: 
 - ForestGarden
 - GdnBloggers
-image: https://res.cloudinary.com/growdigital/image/upload/v1544300867/chaenomeles-41478572351.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1544300867/chaenomeles-41478572351.jpg
 imageAlt: Red flower on spiky branch
 imageCap: Chaenomeles x superba 'Crimson and Gold', emblem of the forest garden
 draft: false

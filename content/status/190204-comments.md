@@ -1,7 +1,8 @@
 ---
 title: Comments
 date: 2019-02-04T21:11:01Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1549314615/comments-190204.png
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1549314615/comments-190204.png
 imageAlt: Screenshot of Forest Garden Wales blog with comments 
 ---
 

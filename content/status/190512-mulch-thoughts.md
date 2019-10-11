@@ -1,7 +1,8 @@
 ---
 title: Mulch thoughts
 date: 2019-05-12T18:59:12+01:00
-image: https://res.cloudinary.com/growdigital/image/upload/v1557683115/woodchip-25045B38.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1557683115/woodchip-25045B38.jpg
 imageAlt: Newly laid woodchip next to sheet mulch, trees in background
 ---
 

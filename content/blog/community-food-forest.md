@@ -8,7 +8,8 @@ tags:
 - GdnBloggers
 - Community
 - FoodForest
-image: https://res.cloudinary.com/growdigital/image/upload/v1557320235/fruittriangle-36B5E7BD.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1557320235/fruittriangle-36B5E7BD.jpg
 imageAlt: Bundle of green plants in a mixed up bed of fruit
 imageCap: A veritable forest of fruity food in the offing
 draft: false

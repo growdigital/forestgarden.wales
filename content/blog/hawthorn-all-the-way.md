@@ -6,7 +6,8 @@ description: Creating wildlife habitat in a farm garden
 tags: 
 - ForestGarden
 - GdnBloggers
-image: https://res.cloudinary.com/growdigital/image/upload/v1569962637/fence-933CE454.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1569962637/fence-933CE454.jpg
 imageAlt: View over stock fence to cloudy sunlit sky
 imageCap: Stormy clouds over a Pembrokeshire farm
 draft: false

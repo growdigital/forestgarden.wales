@@ -1,7 +1,8 @@
 ---
 title: Single issue
 date: 2019-05-13T13:13:44+01:00
-image: https://res.cloudinary.com/growdigital/image/upload/v1544360284/drought-42583069085.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1544360284/drought-42583069085.jpg
 imageAlt: Brown grass of drought hit pasture field
 ---
 

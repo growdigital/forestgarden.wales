@@ -1,7 +1,8 @@
 ---
 title: "Understand"
 date: 2018-09-25T10:08:41+01:00
-image: ""
+image: 
+- ""
 imageAlt: ""
 ---
 

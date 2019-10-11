@@ -5,7 +5,8 @@ discussionId: grow-your-own-website
 description: Advice on how to set up a website for an organisation, as promised to Teresa Filipponi at the Hub Cymru Africa permaculture event at Botanic Garden Wales! 
 tags: 
 - Website
-image: https://res.cloudinary.com/growdigital/image/upload/v1554810661/etalon-gardener-wordpress-theme.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1554810661/etalon-gardener-wordpress-theme.jpg
 imageAlt: WordPress theme for garden website
 imageCap: The Etalon theme, the kind of theme you can use with a WordPress.com website
 draft: false

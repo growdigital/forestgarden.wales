@@ -1,7 +1,8 @@
 ---
 title: Babington’s Leek
 date: 2019-03-14T21:54:38Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1552584217/babingtons-046C0643.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1552584217/babingtons-046C0643.jpg
 imageAlt: Green shoots of allium coming up through brown bark
 ---
 

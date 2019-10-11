@@ -1,7 +1,8 @@
 ---
 title: Geekout
 date: 2018-12-18T17:39:01Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1545154778/theodolite-010395DD.png
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1545154778/theodolite-010395DD.png
 imageAlt: Screenshot of satellite mapping iOS application Theodolite
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Comments
 date: 2019-02-06T10:24:36Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1549448887/talkyard-190206.png
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1549448887/talkyard-190206.png
 imageAlt: Screenshot of Talkyard comment service, showing comment on blog
 ---
 

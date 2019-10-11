@@ -1,7 +1,8 @@
 ---
 title: Mailchimp
 date: 2019-02-04T09:51:08Z
-image: https://res.cloudinary.com/growdigital/image/upload/v1549273831/mailchimp-190204.png
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1549273831/mailchimp-190204.png
 imageAlt: Screenshot of Mailchimp signup form designer
 ---
 

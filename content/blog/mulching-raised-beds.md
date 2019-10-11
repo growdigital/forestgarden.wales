@@ -7,7 +7,8 @@ tags:
 - GdnBloggers
 - Weblog
 - Mulch
-image: https://res.cloudinary.com/growdigital/image/upload/v1546027543/wheelbarrow-72310D61.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1546027543/wheelbarrow-72310D61.jpg
 imageAlt: Old wheelbarrow full of rotting hay in a field
 imageCap: The hay from the Ornamental Forest Garden could have been gathered sooner but it’s good enough for mulch
 draft: false

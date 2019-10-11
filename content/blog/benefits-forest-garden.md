@@ -5,7 +5,8 @@ discussionId: benefits-forest-garden
 description: These are just some of the benefits of a forest garden
 tags: 
 - ForestGarden
-image: https://res.cloudinary.com/growdigital/image/upload/v1548185046/orchard-218D384A.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1548185046/orchard-218D384A.jpg
 imageAlt: Snow covered young orchard on hill and chickens
 imageCap: The orchard area of the first forest garden
 draft: false

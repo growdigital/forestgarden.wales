@@ -1,7 +1,8 @@
 ---
 title: Authoritarian
 date: 2019-09-07T09:40:51+01:00
-image: https://res.cloudinary.com/growdigital/image/upload/v1567846598/caterpillar-60EDBC67.jpg
+image: 
+- https://res.cloudinary.com/growdigital/image/upload/v1567846598/caterpillar-60EDBC67.jpg
 imageAlt: Black and yellow caterpillars munching nasturtium leaves
 ---
 
