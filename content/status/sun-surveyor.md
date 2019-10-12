@@ -1,7 +1,7 @@
 ---
 title: "Sun Surveyor"
 date: 2018-11-17T21:29:26Z
-image: 
+images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1542489153/sun-nov.jpg"
 imageAlt: "Screenshot of Sun Surveyor app on iPhone"
 ---

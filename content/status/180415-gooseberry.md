@@ -1,7 +1,7 @@
 ---
 title: "Gooseberry"
 date: 2018-04-15T21:22:34+01:00
-image: 
+images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1544109598/rosa-rugosa-leaf-41478590801.jpg"
 imageAlt: "Close-up of new gooseberry leaves unfurling"
 ---

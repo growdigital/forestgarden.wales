@@ -7,7 +7,7 @@ tags:
 - gdnbloggers
 - cuttings
 - journal
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1543516077/symphoricarpos-0FAF5409.jpg
 imageAlt: Close up of pink round snowberry, with sinewy branches & shiny leaves
 imageCap: Symphoricarpos, ripe for taking hardwood cuttings, a great bee & wildlife plant as well as solid hedge that does well in the shade

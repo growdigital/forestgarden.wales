@@ -1,7 +1,7 @@
 ---
 title: Chillies
 date: 2019-01-08T20:54:30Z
-image: 
+images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1544352559/chillies-44722319261.jpg"
 imageAlt: "Willow basket half full of small red chillies"
 ---

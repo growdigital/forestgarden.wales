@@ -1,7 +1,7 @@
 ---
 title: Vacancy
 date: 2019-01-30T13:21:49Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1548854675/screenshot-190130.png
 imageAlt: Screenshot of PDF job advert for Horticultural Trainer
 ---

@@ -2,7 +2,7 @@
 title: "The Green Tangle"
 date: 2018-06-16T13:07:48+01:00
 description: "All that doesn’t glitter isn’t not gold! Or, it’s okay to have a green garden like a #ForestGarden"
-image: 
+images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543959152/green-triangle-42802735621.jpg"
 imageAlt: "Photo of a very green bed surrounded by grass path"
 imageCap: "The Green Tangle of Fruit Triangle at Forest Garden Wales"

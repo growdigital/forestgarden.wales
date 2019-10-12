@@ -1,7 +1,7 @@
 ---
 title: "Climatechange"
 date: 2018-10-08T09:51:17+01:00
-image: 
+images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1544360284/drought-42583069085.jpg"
 imageAlt: "Dry and brown pasture field"
 ---

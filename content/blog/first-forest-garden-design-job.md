@@ -6,7 +6,7 @@ tags:
 - ForestGarden
 - gdnbloggers
 - design
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1543789181/final-plan-fgrp.jpg
 imageAlt: CAD forest garden plan
 imageCap: Final forest garden outline planting plan 

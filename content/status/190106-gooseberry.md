@@ -1,7 +1,7 @@
 ---
 title: Gooseberry cuttings
 date: 2019-01-06T20:52:44Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1546797093/gooseberry-7C755D00.jpg
 imageAlt: Small sticks in the ground, surrounded by hay mulch on one side, sheet mulch on the other
 ---

@@ -1,7 +1,7 @@
 ---
 title: Homepage
 date: 2019-02-16T20:53:59Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1550350386/fgwscreenshot-190216.png
 imageAlt: Screenshot of new Forest Garden Wales home page
 ---

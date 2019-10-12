@@ -8,7 +8,7 @@ tags:
 - ClimateEmergency
 - ClimateBreakdown
 - PeatFree
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1568834890/190918-dogwooddays.png
 imageAlt: Screenshot of peat free nursery list web page
 imageCap: Nic Wilson’s list on her web site

@@ -2,7 +2,7 @@
 title: "Even in the smallest moments"
 date: 2018-01-09
 description: "No matter how much administration there is in the world, I try to find some time to garden"
-image: 
+images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1544373031/marker-39572886252.jpg"
 imageAlt: "Bark mulch covered area, bamboo markers, faint line of ground lime"
 imageCap: "Using ground lime to mark the edge of an Aronia hedge"

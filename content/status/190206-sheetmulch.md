@@ -1,7 +1,7 @@
 ---
 title: Sheetmulch
 date: 2019-02-06T22:11:38Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1549490893/sheetmulch-6EF6A903.jpg
 imageAlt: Sheet mulch next to farm fence
 ---

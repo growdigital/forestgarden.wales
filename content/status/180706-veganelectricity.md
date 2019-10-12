@@ -1,7 +1,7 @@
 ---
 title: "Veganelectricity"
 date: 2018-07-06T11:25:20+01:00
-image: 
+images: 
 - ""
 imageAlt: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: Compost
 date: 2018-12-11T20:42:00Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1544547208/compost-62AE4A3F.jpg
 imageAlt: Old wheelbarrow in front of compost bays made from pallets
 ---

@@ -2,7 +2,7 @@
 title: "Plants that make mycorrhizal associations"
 date: 2018-02-01
 description: "Excerpt from Radical Mycology listing which plants have which mycorrhizal associations"
-image: 
+images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543956138/radical-mycology-28246251219.jpg"
 imageAlt: "Radical Mycology - decompose toxins to cultivate life"
 imageCap: "Banner image from Radical Mycology website"

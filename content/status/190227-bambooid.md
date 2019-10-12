@@ -1,7 +1,7 @@
 ---
 title: Bamboo ID
 date: 2019-02-27T21:47:52Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1551304062/bamboo-A3E3907E.jpg
 imageAlt: Hand stretched out to big bamboo
 ---

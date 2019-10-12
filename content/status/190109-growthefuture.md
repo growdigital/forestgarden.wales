@@ -1,7 +1,7 @@
 ---
 title: Growthefuture
 date: 2019-01-09T20:25:33Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1547065414/mirandajanatka-190109.png
 imageAlt: Screenshot of Grow the Future Eventbrite page for Miranda Janatka talk
 ---

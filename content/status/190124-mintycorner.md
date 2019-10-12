@@ -1,7 +1,7 @@
 ---
 title: Minty corner
 date: 2019-01-24T21:40:17Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1548185042/snowmintycorner-64FE6786.jpg
 imageAlt: Snow covered mulch corner, with path laid out
 ---

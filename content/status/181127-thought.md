@@ -1,7 +1,7 @@
 ---
 title: Thought
 date: 2018-11-27T11:00:59Z
-image: 
+images: 
 - 
 imageAlt: 
 ---

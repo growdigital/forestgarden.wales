@@ -5,7 +5,7 @@ description: We’ve just been added to this informal network of forest gardens,
 tags: 
 - ForestGarden
 - GdnBloggers
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1548881116/190130-fgn.png
 imageAlt: Graphic with the words "Forest Garden Network"
 imageCap: Quite simply, a network of forest gardens, and agroforestry projects

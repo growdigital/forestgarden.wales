@@ -1,7 +1,7 @@
 ---
 title: "Okeeffe"
 date: 2018-11-18T11:27:40Z
-image: 
+images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1542540401/GeorgiaOkeeffe.jpg"
 imageAlt: "Georgia O’Keeffe Canna painting bright red flower"
 ---

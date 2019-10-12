@@ -5,7 +5,7 @@ discussionId: {{ .Name }}
 description: 
 tags: 
 - ForestGarden
-image: 
+images: 
 imageAlt: 
 imageCap: 
 draft: false

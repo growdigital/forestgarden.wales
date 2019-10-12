@@ -1,7 +1,7 @@
 ---
 title: "Benefits"
 date: 2018-09-30T11:43:37+01:00
-image: 
+images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1544353867/branches-27259608937.jpg"
 imageAlt: "Black and white photo of tree branches against the sky"
 ---

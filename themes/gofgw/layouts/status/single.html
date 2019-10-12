@@ -5,9 +5,9 @@
       <h1 class="p-name">
         {{ .Date.Format "Monday" }}, {{ .Date.Format "2" | humanize}} {{ .Date.Format "January 2006 03:04pm" }}
       </h1>
-      {{ if .Params.image }}
+      {{ if .Params.images }}
         <figure>
-          <img src="{{ .Site.Params.cloudinary_base_url }}f_auto,q_70,w_736/{{ substr (index .Params.image 0) 52 }}" alt="{{ .Params.imageAlt }}">
+          <img src="{{ .Site.Params.cloudinary_base_url }}f_auto,q_70,w_736/{{ substr (index .Params.images 0) 52 }}" alt="{{ .Params.imageAlt }}">
           <figcaption>{{ .Params.imageCap }}</figcaption>
         </figure>
       {{ end }}

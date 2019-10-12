@@ -1,7 +1,7 @@
 ---
 title: Jackwallington
 date: 2019-01-07T14:52:05Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1546872674/jackwallington-190107.png
 imageAlt: Screenshot of Jack Wallington’s blog post on hardwood cuttings
 ---

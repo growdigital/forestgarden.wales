@@ -2,7 +2,7 @@
 title: "Welcome to Forest Garden Wales website!"
 date: 2017-12-15
 description: "Forest Garden Wales has a website"
-image: 
+images: 
 - ""
 imageAlt: ""
 imageCap: ""

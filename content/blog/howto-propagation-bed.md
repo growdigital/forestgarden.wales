@@ -7,7 +7,7 @@ tags:
 - ForestGarden
 - GdnBloggers
 - Propagation
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1546624241/propagation-04BF2CD2.jpg
 imageAlt: Patch of leaves in a sloping field, fence in the background
 imageCap: It doesn’t look much but that’s not the point! A simple propagation bed planted up with Glechomae hederacea.

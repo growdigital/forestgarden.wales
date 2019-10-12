@@ -1,7 +1,7 @@
 ---
 title: The three W’s
 date: 2019-01-14T12:05:15Z
-image: 
+images: 
 - 
 imageAlt: 
 ---

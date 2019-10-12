@@ -6,7 +6,7 @@ description: These nifty plant labels keep on expanding with a growing branch, a
 tags: 
 - ForestGarden
 - GdnBloggers
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1557599027/label-F892524B.jpg
 imageAlt: Hand holding plant label curled around small branch
 imageCap: This label has been in place on the Victoria Plum for two years now.

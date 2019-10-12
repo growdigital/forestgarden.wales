@@ -1,7 +1,7 @@
 ---
 title: Sequester
 date: 2019-02-28T12:22:45Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1551356716/silvermaple-jeffkubina.jpg
 imageAlt: Green tree against blue sky, photo by Jeff Kubina on Flickr
 ---

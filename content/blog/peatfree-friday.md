@@ -6,7 +6,7 @@ description:
 tags: 
 - ForestGarden
 - GdnBloggers
-image: 
+images: 
 - 
 imageAlt: 
 imageCap: 

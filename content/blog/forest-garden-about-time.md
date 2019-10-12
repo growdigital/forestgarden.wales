@@ -6,7 +6,7 @@ tags:
 - ForestGarden
 - GdnBloggers
 - Weblog
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1546090270/book-B547B28A.jpg
 imageAlt: "Journal with the title “One Line a Day: A Five Year Memory Book”"
 imageCap: The latest craze in journals is diary entries that span multiple years. Good for gardeners!

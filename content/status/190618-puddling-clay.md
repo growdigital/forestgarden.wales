@@ -1,7 +1,7 @@
 ---
 title: Puddling clay and ponds
 date: 2019-06-18T10:45:19+01:00
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1550874437/pond-483C5342.jpg
 imageAlt: Digging out the pond
 ---

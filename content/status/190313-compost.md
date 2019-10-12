@@ -1,7 +1,7 @@
 ---
 title: Compost
 date: 2019-03-13T15:10:25Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1552489770/compost-190313.jpg
 imageAlt: Compost and scoop on table. Creative Commons - Attribution (BY) garden
 ---

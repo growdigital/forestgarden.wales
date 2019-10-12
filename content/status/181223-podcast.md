@@ -1,7 +1,7 @@
 ---
 title: Podcast
 date: 2018-12-23T23:45:31Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1545609289/podcast-181223.jpg
 imageAlt: Screenshot of Gardens, Weeds & Words podcast with Kate Bradbury
 ---

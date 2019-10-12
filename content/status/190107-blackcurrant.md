@@ -1,7 +1,7 @@
 ---
 title: Blackcurrant
 date: 2019-01-07T13:48:32Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1546867675/blackcurrant-32B6E4CA.jpg
 imageAlt: Barely visible blackcurrant cuttings in front of small bamboo sticks, forming a hedge
 ---

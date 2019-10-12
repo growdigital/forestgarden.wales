@@ -1,7 +1,7 @@
 ---
 title: Monbiot
 date: 2019-04-21T20:07:51+01:00
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1555875622/monbiot-190421.png
 imageAlt: George Monbiot on Frankie Boyle's New World Order
 ---

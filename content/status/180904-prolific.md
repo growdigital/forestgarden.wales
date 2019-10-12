@@ -1,7 +1,7 @@
 ---
 title: "Prolific"
 date: 2018-09-04T10:38:52+01:00
-image: 
+images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1544344292/plum-29516501417.jpg"
 imageAlt: "Close up of small blue plum on tree surrounded by leaves"
 ---

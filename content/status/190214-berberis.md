@@ -1,7 +1,7 @@
 ---
 title: Berberis
 date: 2019-02-14T19:54:59Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1550168079/berberis-06A6A658.jpg
 imageAlt: Small spiky plant close-up between sheet mulch, big trees in the background
 ---

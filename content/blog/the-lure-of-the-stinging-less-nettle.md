@@ -6,7 +6,7 @@ tags:
 - ForestGarden
 - Edible
 - Mulch
-image: 
+images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543959354/stingingless-nettle-43399566341.jpg"
 imageAlt: "Close up of nettle, with flowers and slightly curled leaves"
 imageCap: "The Stinging-less Nettle, Urtica dioica subsp. galeopsifolia, photo by Wicken Fen National Trust Reserve"

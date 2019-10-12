@@ -1,7 +1,7 @@
 ---
 title: Quickcrop
 date: 2018-11-27T12:11:29Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1543320647/quickcrop-afbf00bc.jpg
 imageAlt: Branch with lichen and ferns over dark river
 ---

@@ -6,7 +6,7 @@
 <meta itemprop="description" content="{{ .Description }}">
 {{ end }}
 {{ if .Params.images }}
-<meta itemprop="image" content="{{ .Site.Params.cloudinary_base_url }}f_auto,q_70,w_736/{{ substr (index .Params.images 0) 52 }}">
+<meta itemprop="image" content="{{ substr (index .Params.images 0) 52 }}" alt="{{ .Params.imageAlt }}">
 {{ else }}
 <meta itemprop="image" content="{{ .Site.BaseURL }}{{ .Site.Params.publisherLogo }}">
 {{ end }}

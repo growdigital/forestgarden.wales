@@ -17,9 +17,9 @@
         </ul>
       </div>
       {{ end }}
-      {{ if .Params.image }}
+      {{ if .Params.images }}
         <figure>
-          <img src="{{ .Site.Params.cloudinary_base_url }}f_auto,q_70,w_736/{{ substr (index .Params.image 0) 52 }}" alt="{{ .Params.imageAlt }}">
+          <img src="{{ .Site.Params.cloudinary_base_url }}f_auto,q_70,w_736/{{ substr (index .Params.images 0) 52 }}" alt="{{ .Params.imageAlt }}">
           <figcaption>{{ .Params.imageCap }}</figcaption>
         </figure>
       {{ end }}

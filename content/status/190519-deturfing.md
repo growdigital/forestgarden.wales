@@ -1,7 +1,7 @@
 ---
 title: Deturfing
 date: 2019-05-19T21:17:12+01:00
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1556482477/soil-B1AF007F.jpg
 imageAlt: Wood chip, bare soil and sheet mulch, side-by-side
 ---

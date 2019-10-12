@@ -1,7 +1,7 @@
 ---
 title: Bonfire
 date: 2019-02-15T19:37:19Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1550259423/bonfire-B26CE199.jpg
 imageAlt: Bonfire on fire
 ---

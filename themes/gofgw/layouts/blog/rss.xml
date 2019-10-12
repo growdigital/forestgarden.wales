@@ -21,9 +21,9 @@
       <guid>{{ .Permalink }}</guid>
       <description>
         &lt;p class="p-summary"&gt;{{ .Description }}&lt;/p&gt;
-        {{ if .Params.image }}
+        {{ if .Params.images }}
           &lt;figure&gt;
-            &lt;img src=&quot;{{ .Site.Params.cloudinary_base_url }}f_auto,q_70,w_736/{{ substr (index .Params.image 0) 52 }}&quot; alt=&quot;{{ .Params.imageAlt }}&quot;&gt;
+            &lt;img src=&quot;{{ .Site.Params.cloudinary_base_url }}f_auto,q_70,w_736/{{ substr (index .Params.images 0) 52 }}&quot; alt=&quot;{{ .Params.imageAlt }}&quot;&gt;
             &lt;figcaption&gt;{{ .Params.imageCap }}&lt;/figcaption&gt;
           &lt;/figure&gt;
         {{ end }}

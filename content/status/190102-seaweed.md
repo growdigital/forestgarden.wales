@@ -1,7 +1,7 @@
 ---
 title: Seaweed
 date: 2019-01-02T22:47:04Z
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1546449622/seaweed-59E7EA41.jpg
 imageAlt: Hand holding leaf litter mixed with seaweed from the shore
 ---

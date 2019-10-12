@@ -5,7 +5,7 @@ description: Three years after buying Hippophae rhamnoides 'Orange Energy', they
 tags: 
 - ForestGarden
 - GdnBloggers
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1544710245/hippophae-243582AF.jpg
 imageAlt: Newly planted trees in recently mulched beds
 imageCap: Two Sea Buckthorn, just about visible past the Sumac tree

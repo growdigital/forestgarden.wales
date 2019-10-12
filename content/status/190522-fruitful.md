@@ -1,7 +1,7 @@
 ---
 title: Fruitful
 date: 2019-05-22T21:29:53+01:00
-image: 
+images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1557865516/strawberry-F5E1C1A2.jpg
 imageAlt: Hand holding strawberry
 ---
