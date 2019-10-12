@@ -17,7 +17,7 @@ params:
   publisherLogo: https://res.cloudinary.com/growdigital/image/upload/v1570899988/logo-fgw.png
   images:
     - https://res.cloudinary.com/growdigital/image/upload/v1570899988/logo-fgw.png
-  cloudinary_base_url: https://res.cloudinary.com/growdigital/image/upload/
+  cloudinary: https://res.cloudinary.com/growdigital/image/upload/
   talkyardServerUrl: https://comments-for-www-forestgarden-wales.talkyard.net
   email: hello@forestgarden.wales
   eventbrite: jake-rayson-17248421654
