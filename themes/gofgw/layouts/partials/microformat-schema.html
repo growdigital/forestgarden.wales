@@ -8,14 +8,14 @@
 {{ if .Params.images }}
 <meta itemprop="image" content="{{ substr (index .Params.images 0) 52 }}" alt="{{ .Params.imageAlt }}">
 {{ else }}
-<meta itemprop="image" content="{{ .Site.BaseURL }}{{ .Site.Params.publisherLogo }}">
+<meta itemprop="image" content="{{ .Site.Params.publisherLogo }}" alt="Forest Garden Wales logo showing 3 layers of the forest garden">
 {{ end }}
 <meta itemprop="author" content="{{ .Site.Author.name }}">
 <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
   <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-    <meta itemprop="url" content="{{ .Site.BaseURL }}{{ .Site.Params.publisherLogo }}">
-    <meta itemprop="width" content="{{ .Site.Params.publisherLogoWidth }}">
-    <meta itemprop="height" content="{{ .Site.Params.publisherLogoHeight }}">
+    <meta itemprop="url" content="{{ .Site.Params.publisherLogo }}">
+    <meta itemprop="width" content="220">
+    <meta itemprop="height" content="220">
   </div>
   <meta itemprop="name" content="{{ .Site.Params.publisher }}">
 </div>
