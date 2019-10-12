@@ -1,14 +1,14 @@
 ---
-title: "Talk"
-menu: "secondary"
+title: Talk
+menu: secondary
 menu: 
   secondary:
     weight: -10
 date: 2018-02-09T19:21:11Z
 image: 
-- ""
-imageAlt: ""
-imageCap: ""
+- 
+imageAlt: 
+imageCap: 
 draft: false
 ---
 
