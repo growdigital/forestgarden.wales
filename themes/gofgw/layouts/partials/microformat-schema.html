@@ -6,7 +6,7 @@
 <meta itemprop="description" content="{{ .Description }}">
 {{ end }}
 {{ if .Params.images }}
-<meta itemprop="image" content="{{ substr (index .Params.images 0) 52 }}" alt="{{ .Params.imageAlt }}">
+<meta itemprop="image" content="{{ (index .Params.images 0) }}" alt="{{ .Params.imageAlt }}">
 {{ else }}
 <meta itemprop="image" content="{{ .Site.Params.publisherLogo }}" alt="Forest Garden Wales logo showing 3 layers of the forest garden">
 {{ end }}
