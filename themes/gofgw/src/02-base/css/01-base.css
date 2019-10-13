@@ -108,3 +108,17 @@ figcaption {
   font-style: italic;
   padding: 0.3rem 0.1rem 0.3rem 0.2rem;
 }
+
+/* Breakpoints */
+/*medium: 46em / 736px*/
+@media (min-width: 46em) {
+  h1 {
+    font-size: 2.625rem;
+  }
+}
+
+/* Forms */
+input[type=text],
+input[type=email] {
+  padding: 0.3rem .55rem;
+}

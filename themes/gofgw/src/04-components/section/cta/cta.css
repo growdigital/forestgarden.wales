@@ -1,0 +1,26 @@
+/* Call To Action component */
+
+.cta {
+  margin-bottom: 1rem;
+}
+
+.cta__btn {
+  display: block;
+}
+
+@media (min-width: 46em) {
+  .cta {
+    columns: 2;
+  }
+  .cta__btnbox {
+    position: relative;
+  }
+  .cta__btnbox img {
+    border-radius: 3px;
+  }
+  .cta__btn {
+    bottom: 0.75rem;
+    left: 0.75rem;
+    position: absolute;
+  }
+}
