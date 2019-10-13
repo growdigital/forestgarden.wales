@@ -50,16 +50,10 @@ gulp.task('js', () =>
 		.pipe(gulp.dest('./static/assets/'))
 );
 
-// Clean task
-gulp.task('clean', function(cb) {
-	del(['./static/**/*'], cb);
-});
-
 // Watch task
 gulp.task('watch', function() {
 	gulp.watch(paths.css, ['css']);
 	gulp.watch(paths.js, ['js']);
-	gulp.watch(paths.img, ['minimage']);
 });
 
 // Browsersync
@@ -67,11 +61,6 @@ gulp.task('browser-sync', function () {
   browserSync.init({
     proxy: "http://localhost:1313/"
   });
-});
-
-// Clean task, delete generated files
-gulp.task('clean', function(cb) {
-	del(['./static/**/*'], cb);
 });
 
 // Default task
