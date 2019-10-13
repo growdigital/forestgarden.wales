@@ -2,11 +2,18 @@
 <html lang="{{ .Site.LanguageCode }}">
 {{ partial "metahead.html" . }}
 <body>
-    {{ partial "header.html" . }}
-    {{ block "main" . }}
-    {{ end }}
-    {{ partial "aside.html" . }}
-    {{ partial "footer.html" . }}
+  {{ partial "header.html" . }}
+  {{ block "main" . }}
+  {{ end }}
+  {{ partial "aside.html" . }}
+  {{ partial "footer.html" . }}
+{{ with }}
+  <link rel="stylesheet" href="/assets/photoswipe/photoswipe.css">
+  <link rel="stylesheet" href="/assets/photoswipe/default-skin/default-skin.css">
+  {{ partial "photoswipe.html" . }}
+  <script src="/assets/photoswipe/photoswipe.min.js"></script>
+  <script src="/assets/photoswipe/photoswipe-ui-default.min.js"></script>
+{{ end }}
 <script src="/assets/app.js"></script>
 </body>
 </html>
