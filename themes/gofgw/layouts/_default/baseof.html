@@ -7,7 +7,7 @@
   {{ end }}
   {{ partial "aside.html" . }}
   {{ partial "footer.html" . }}
-{{ with }}
+{{ with .Params.gallery }}
   <link rel="stylesheet" href="/assets/photoswipe/photoswipe.css">
   <link rel="stylesheet" href="/assets/photoswipe/default-skin/default-skin.css">
   {{ partial "photoswipe.html" . }}
