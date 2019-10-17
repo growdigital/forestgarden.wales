@@ -15,6 +15,17 @@
     
     
     <item>
+      <link>http://localhost:1313/status/191016-experiment/</link>
+      <title>No experiment ever fails</title>
+      <pubDate>Wed, 16 Oct 2019 12:56:07 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/191016-experiment/</guid>
+      <description>“No experiment ever fails”
+~ Martin Wolfe
+I love this quote, it’s so positive and succint.</description>
+    </item>
+    
+    <item>
       <link>http://localhost:1313/status/191014-gallery/</link>
       <title>Gallery</title>
       <pubDate>Mon, 14 Oct 2019 11:09:23 +0100</pubDate>
