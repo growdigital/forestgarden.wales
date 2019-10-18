@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543958719/brownies-42957769501.jpg"
 imageAlt: 
 - "Plate piled high with chocolate brownies"
-imageCap: "Delicious, moist, very chocolatey vegan chocolate brownies, this batch with nuts and sultanas"
+imageCap:
+- "Delicious, moist, very chocolatey vegan chocolate brownies, this batch with nuts and sultanas"
 draft: false
 ---
 

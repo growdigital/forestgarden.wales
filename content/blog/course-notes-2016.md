@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543874067/windbreak-41165268411.jpg"
 imageAlt: 
 - "Japanese Rose hedgerow"
-imageCap: "Rosa rugosa (Japanese Rose) windbreak hedge"
+imageCap:
+- "Rosa rugosa (Japanese Rose) windbreak hedge"
 draft: false
 ---
 

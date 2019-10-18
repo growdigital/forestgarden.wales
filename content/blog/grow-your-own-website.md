@@ -9,7 +9,8 @@ images:
 - https://res.cloudinary.com/growdigital/image/upload/v1554810661/etalon-gardener-wordpress-theme.jpg
 imageAlt: 
 - WordPress theme for garden website
-imageCap: The Etalon theme, the kind of theme you can use with a WordPress.com website
+imageCap:
+- The Etalon theme, the kind of theme you can use with a WordPress.com website
 draft: false
 ---
 

@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543959435/raised-bed-27120257158.jpg"
 imageAlt: 
 - "Small raised bed with bark mulch and small plants, old wheelbarrow behind"
-imageCap: "Replanted Rubus nepalensis ground cover propagation bed. Start early"
+imageCap:
+- "Replanted Rubus nepalensis ground cover propagation bed. Start early"
 draft: false
 ---
 

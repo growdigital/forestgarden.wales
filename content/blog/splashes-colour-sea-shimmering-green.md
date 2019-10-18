@@ -13,7 +13,8 @@ images:
 - https://res.cloudinary.com/growdigital/image/upload/v1554283384/borage-34874866562.jpg
 imageAlt: 
 - Bumblebee on open blue flower https://www.flickr.com/photos/sarashotley/34874866562/
-imageCap: Bumble Borage by Sara K Bishop on Flickr
+imageCap:
+- Bumble Borage by Sara K Bishop on Flickr
 draft: false
 ---
 

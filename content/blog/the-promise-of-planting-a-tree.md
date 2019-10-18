@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543959649/tpo-27226348918.jpg"
 imageAlt: 
 - "People planting trees on bracken covered mound, field & hill in background"
-imageCap: "Nia and volunteers planting trees on Martin’s mound, ’twixt the hills & the sea"
+imageCap:
+- "Nia and volunteers planting trees on Martin’s mound, ’twixt the hills & the sea"
 draft: false
 ---
 

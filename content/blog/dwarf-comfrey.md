@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1544372630/comfrey-38830083715.jpg"
 imageAlt: 
 - "Dwarf comfrey in raised bed"
-imageCap: "Symphytum ibericum in a rustic propagation bed, before being lifted, divided and planted out"
+imageCap:
+- "Symphytum ibericum in a rustic propagation bed, before being lifted, divided and planted out"
 draft: false
 ---
 

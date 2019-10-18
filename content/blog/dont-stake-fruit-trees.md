@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543958825/buds-38517307965.jpg"
 imageAlt: 
 - "Photo of hand holding tree branch buds"
-imageCap: "Apple tree buds"
+imageCap:
+- "Apple tree buds"
 draft: false
 ---
 

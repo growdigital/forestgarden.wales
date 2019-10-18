@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543956797/misty-wood-38558978625.jpg"
 imageAlt: 
 - "Path through misty trees"
-imageCap: "Path through misty trees"
+imageCap:
+- "Path through misty trees"
 draft: false
 ---
 

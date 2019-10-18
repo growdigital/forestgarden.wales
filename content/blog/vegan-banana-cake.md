@@ -9,7 +9,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543960136/vegan-banana-cake-43255228442.jpg"
 imageAlt: 
 - "Cake with fruity topping in tin"
-imageCap: "Vegan banana cake topped with part-cooked gooseberries"
+imageCap:
+- "Vegan banana cake topped with part-cooked gooseberries"
 draft: false
 ---
 

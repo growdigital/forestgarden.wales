@@ -6,7 +6,8 @@ images:
 - ""
 imageAlt: 
 - ""
-imageCap: ""
+imageCap:
+- ""
 draft: false
 ---
 

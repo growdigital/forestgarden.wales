@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543959984/cupboard-39529628612.jpg"
 imageAlt: 
 - "Old knackered cupboard with open doors"
-imageCap: "Sometimes the freebie ones are the best"
+imageCap:
+- "Sometimes the freebie ones are the best"
 draft: false
 ---
 

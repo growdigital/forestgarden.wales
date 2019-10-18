@@ -10,7 +10,8 @@ images:
 - https://res.cloudinary.com/growdigital/image/upload/v1543874050/good-king-henry-41163987821.jpg
 imageAlt: 
 - Legs of man standing next to green vegetable
-imageCap: Martin Crawford standing next to bed of Good King Henry 
+imageCap:
+- Martin Crawford standing next to bed of Good King Henry 
 draft: false
 ---
 

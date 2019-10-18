@@ -12,7 +12,8 @@ images:
 - https://res.cloudinary.com/growdigital/image/upload/v1556622039/Penralltgeri_Isaf_0.44.jpg
 imageAlt: 
 - CAD plan of forest garden
-imageCap: It’s a plan, a bit out of date but a plan
+imageCap:
+- It’s a plan, a bit out of date but a plan
 draft: false
 ---
 

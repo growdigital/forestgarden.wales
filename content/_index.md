@@ -8,7 +8,8 @@ images:
 - https://res.cloudinary.com/growdigital/image/upload/v1543929583/view-42802795151.jpg
 imageAlt: 
 - View over polytunnel and house to valley beyond
-imageCap: View over the polytunnel from north west corner of the forest garden
+imageCap:
+- View over the polytunnel from north west corner of the forest garden
 draft: false
 ---
 

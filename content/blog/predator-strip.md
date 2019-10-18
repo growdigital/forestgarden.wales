@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543958912/brachyglottis-38350635275.jpg"
 imageAlt: 
 - "Bright yellow flower on evergreen plant"
-imageCap: "Brachyglottis 'Senecio' in flower"
+imageCap:
+- "Brachyglottis 'Senecio' in flower"
 draft: false
 ---
 

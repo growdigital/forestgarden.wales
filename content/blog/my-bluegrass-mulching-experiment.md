@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543956914/glaswellt-scythed-27854471018.jpg"
 imageAlt: 
 - "Wooden hay rake leaning on apple tree in front of freshly scythed grass"
-imageCap: "It may look bucolic but I can tell you it’s hard work…"
+imageCap:
+- "It may look bucolic but I can tell you it’s hard work…"
 draft: false
 ---
 

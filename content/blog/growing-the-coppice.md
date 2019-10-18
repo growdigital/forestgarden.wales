@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1544376909/coppice-39653194582.jpg"
 imageAlt: 
 - "New rows of coppice trees with two rows of sheet mulch in the foreground"
-imageCap: "Two new rows of sheet mulch down, ready for the Castanea sativa (sweet chestnut) coppice"
+imageCap:
+- "Two new rows of sheet mulch down, ready for the Castanea sativa (sweet chestnut) coppice"
 draft: false
 ---
 

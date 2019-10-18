@@ -11,7 +11,8 @@ images:
 - https://res.cloudinary.com/growdigital/image/upload/v1544624170/groundcherry-4D279C3E.jpg
 imageAlt: 
 - Gloved hand holding secateurs and bright orange Groundcherry fruit
-imageCap: Small but delicious, Groundcherry fruit are juicy, sweet, acid with a hint of passion fruit
+imageCap:
+- Small but delicious, Groundcherry fruit are juicy, sweet, acid with a hint of passion fruit
 draft: false
 ---
 

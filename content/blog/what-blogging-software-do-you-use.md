@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543960296/blogging-software-40359939864.jpg"
 imageAlt: 
 - "Screenshot of Forest Garden Wales website in browser, with browser tools showing"
-imageCap: "The new Forest Garden Wales website. Was it worth it?!?"
+imageCap:
+- "The new Forest Garden Wales website. Was it worth it?!?"
 draft: false
 ---
 

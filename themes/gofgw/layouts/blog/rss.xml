@@ -24,7 +24,7 @@
         {{ if .Params.images }}
           &lt;figure&gt;
             &lt;img src=&quot;{{ .Site.Params.cloudinary }}f_auto,q_70,w_736/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}&quot; alt=&quot;{{ (index .Params.imageAlt 0) }}&quot;&gt;
-            &lt;figcaption&gt;{{ .Params.imageCap }}&lt;/figcaption&gt;
+            &lt;figcaption&gt;{{ (index .Params.imageCap 0) }}&lt;/figcaption&gt;
           &lt;/figure&gt;
         {{ end }}
         {{ .Content | html }}

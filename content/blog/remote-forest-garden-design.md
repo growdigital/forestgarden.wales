@@ -10,7 +10,8 @@ images:
 - https://res.cloudinary.com/growdigital/image/upload/v1543789181/final-plan-fgrp.jpg
 imageAlt: 
 - Outline forest garden CAD plan
-imageCap: The final outline forest garden CAD plan for a remote client
+imageCap:
+- The final outline forest garden CAD plan for a remote client
 draft: false
 ---
 

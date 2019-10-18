@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543958825/buds-38517307965.jpg"
 imageAlt: 
 - "Fruit and growth buds on apple tree"
-imageCap: "Martin Hayes, Consultant Orchardist, planting trees with The People’s Orchard project, St Dogmaels"
+imageCap:
+- "Martin Hayes, Consultant Orchardist, planting trees with The People’s Orchard project, St Dogmaels"
 draft: false
 ---
 

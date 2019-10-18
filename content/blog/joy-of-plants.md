@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543955952/joy-of-plants-39354215564.png"
 imageAlt: 
 - "Screenshots of Joy of Plants database app"
-imageCap: "Joy of Plants app, alas only avaiable on iPhone"
+imageCap:
+- "Joy of Plants app, alas only avaiable on iPhone"
 draft: false
 ---
 

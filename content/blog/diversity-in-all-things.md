@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543953947/north-face-39615815062.jpg"
 imageAlt: 
 - "Wheelbarrow in foreground by long hedge receding to oak tree"
-imageCap: "Replaced casualties in the North Face windbreak hedge"
+imageCap:
+- "Replaced casualties in the North Face windbreak hedge"
 draft: false
 ---
 

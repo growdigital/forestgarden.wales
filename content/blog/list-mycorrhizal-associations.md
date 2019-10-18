@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543956138/radical-mycology-28246251219.jpg"
 imageAlt: 
 - "Radical Mycology - decompose toxins to cultivate life"
-imageCap: "Banner image from Radical Mycology website"
+imageCap:
+- "Banner image from Radical Mycology website"
 draft: false
 ---
 

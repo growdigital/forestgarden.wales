@@ -11,7 +11,8 @@ images:
 - https://res.cloudinary.com/growdigital/image/upload/v1554229764/graft-0A59BB10.jpg
 imageAlt: 
 - Hand cradling newly grafted apple in leaf
-imageCap: The Poppit Persawrus variety I grafted is in glorious leaf! 
+imageCap:
+- The Poppit Persawrus variety I grafted is in glorious leaf! 
 draft: false
 ---
 

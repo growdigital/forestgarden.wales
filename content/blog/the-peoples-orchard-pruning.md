@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543959502/martin-39784408711.jpg"
 imageAlt: 
 - "Man pruning goblet shape fruit tree with onlooker"
-imageCap: "Martin Hayes, Orchardist, pruning goblet shape fruit tree"
+imageCap:
+- "Martin Hayes, Orchardist, pruning goblet shape fruit tree"
 draft: false
 ---
 

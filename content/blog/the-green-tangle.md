@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543959152/green-triangle-42802735621.jpg"
 imageAlt: 
 - "Photo of a very green bed surrounded by grass path"
-imageCap: "The Green Tangle of Fruit Triangle at Forest Garden Wales"
+imageCap:
+- "The Green Tangle of Fruit Triangle at Forest Garden Wales"
 draft: false
 ---
 

@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1544373031/marker-39572886252.jpg"
 imageAlt: 
 - "Bark mulch covered area, bamboo markers, faint line of ground lime"
-imageCap: "Using ground lime to mark the edge of an Aronia hedge"
+imageCap:
+- "Using ground lime to mark the edge of an Aronia hedge"
 draft: false
 ---
 

@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543954270/ron-bum-25739902778.jpg"
 imageAlt: 
 - "Grass path leading to mature trees, young hedge on the right, sheet mulch on the left"
-imageCap: "Our young forest garden in the making"
+imageCap:
+- "Our young forest garden in the making"
 draft: false
 ---
 

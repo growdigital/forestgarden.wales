@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543954722/tour-poster-40947287805.jpg"
 imageAlt: 
 - "Screenshot of Forest Garden tour poster"
-imageCap: "Forest garden tours, first Saturday of the month, May–September inclusive!"
+imageCap:
+- "Forest garden tours, first Saturday of the month, May–September inclusive!"
 draft: false
 ---
 

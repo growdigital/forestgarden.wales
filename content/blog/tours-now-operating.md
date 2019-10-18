@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543959905/polytunnel-40249165324.jpg"
 imageAlt: 
 - "Photo of polytunnel on a slope with raised beds to the side, mature leafless trees behind and blue sky"
-imageCap: "The polytunnel, raised beds and propagation area in the forest garden"
+imageCap:
+- "The polytunnel, raised beds and propagation area in the forest garden"
 draft: false
 ---
 

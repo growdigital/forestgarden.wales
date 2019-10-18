@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1544219005/valeriana-41717565655.jpg"
 imageAlt: 
 - "Hover fly on pale pink composite flower"
-imageCap: "Hover fly on Valeriana officinalis in the Forest Garden Wales propagation bed"
+imageCap:
+- "Hover fly on Valeriana officinalis in the Forest Garden Wales propagation bed"
 draft: false
 ---
 

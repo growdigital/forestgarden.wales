@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1544219074/mulch-41116737764.jpg"
 imageAlt: 
 - "Woodchip used as a mulch in a border"
-imageCap: "Woodchip mulch in a bed at Scolton Manor walled garden"
+imageCap:
+- "Woodchip mulch in a bed at Scolton Manor walled garden"
 draft: false
 ---
 

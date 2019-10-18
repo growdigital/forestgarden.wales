@@ -12,7 +12,8 @@ images:
 - https://res.cloudinary.com/growdigital/image/upload/v1558867390/01-satellite.jpg
 imageAlt: 
 - Satellite photo
-imageCap: Satellite photo of the Forest Garden Wales forest garden
+imageCap:
+- Satellite photo of the Forest Garden Wales forest garden
 draft: false
 ---
 

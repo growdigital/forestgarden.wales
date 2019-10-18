@@ -11,7 +11,8 @@ images:
 - https://res.cloudinary.com/growdigital/image/upload/v1550425859/ofg-E983F6D5.jpg
 imageAlt: 
 - Big cumulus cloud, blue sky over mature trees on horizon, new garden foreground
-imageCap: Big sky over the Ornamental Forest Garden
+imageCap:
+- Big sky over the Ornamental Forest Garden
 draft: false
 ---
 

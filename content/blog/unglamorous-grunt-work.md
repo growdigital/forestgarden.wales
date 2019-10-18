@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543960068/bark-38665529034.jpg"
 imageAlt: 
 - "A mound of bark"
-imageCap: "It’s not the most glamorous of photographs but then a lot of gardening is about the grunt work"
+imageCap:
+- "It’s not the most glamorous of photographs but then a lot of gardening is about the grunt work"
 draft: false
 ---
 

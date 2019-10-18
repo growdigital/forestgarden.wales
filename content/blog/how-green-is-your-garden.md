@@ -9,7 +9,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543955046/timelapse-28510026388.jpg"
 imageAlt: 
 - "Photo of yellow mustard flowers in foreground with tree lined hedge and bark mulch in distance"
-imageCap: "Forest Garden Wales, planting in progress"
+imageCap:
+- "Forest Garden Wales, planting in progress"
 draft: false
 ---
 

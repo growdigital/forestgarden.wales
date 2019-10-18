@@ -6,7 +6,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543873332/prickly-quad-39763874211.jpg"
 imageAlt: 
 - "Photo of bare earth prepared bed, trees to the back, grass path to the front"
-imageCap: "Bare earth, blank mind"
+imageCap:
+- "Bare earth, blank mind"
 draft: false
 ---
 

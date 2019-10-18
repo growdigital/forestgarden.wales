@@ -10,7 +10,8 @@ images:
 - https://res.cloudinary.com/growdigital/image/upload/v1564497085/bluebeanborder-7C8993FA.jpg
 imageAlt: 
 - Messy hedge thing with young trees in the background
-imageCap: There is a forest garden there somewhere, in amongst the stubbly growth
+imageCap:
+- There is a forest garden there somewhere, in amongst the stubbly growth
 draft: false
 ---
 

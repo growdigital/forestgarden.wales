@@ -9,7 +9,8 @@ images:
 - "https://res.cloudinary.com/growdigital/image/upload/v1543954134/quince-blossom-41405332295.jpg"
 imageAlt: 
 - "Sunset over close up of white pink blossom"
-imageCap: "The quince blossom in the first forest garden"
+imageCap:
+- "The quince blossom in the first forest garden"
 draft: false
 ---
 
