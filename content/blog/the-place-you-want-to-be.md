@@ -7,7 +7,8 @@ tags:
 - GdnBloggers
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1547913131/hellebore-B0684443.jpg
-imageAlt: Hanging white flowers of a Hellebore, wet green foliage
+imageAlt: 
+- Hanging white flowers of a Hellebore, wet green foliage
 imageCap: Hellebores in the freezing rain, on the day of the talk
 draft: false
 ---

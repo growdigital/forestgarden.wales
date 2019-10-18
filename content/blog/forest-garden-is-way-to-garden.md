@@ -7,7 +7,8 @@ tags:
 - GdnBloggers
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543954134/quince-blossom-41405332295.jpg"
-imageAlt: "Pale pink Quince blossom in the low evening sun"
+imageAlt: 
+- "Pale pink Quince blossom in the low evening sun"
 imageCap: "A quince tree, part of the canopy layer. Choosing other plants has been more challenging."
 draft: false
 ---

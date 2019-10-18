@@ -4,7 +4,8 @@ date: 2018-01-14
 description: "Starting the final section of the Coppice, with sweet chestnut to be planted soon"
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1544376909/coppice-39653194582.jpg"
-imageAlt: "New rows of coppice trees with two rows of sheet mulch in the foreground"
+imageAlt: 
+- "New rows of coppice trees with two rows of sheet mulch in the foreground"
 imageCap: "Two new rows of sheet mulch down, ready for the Castanea sativa (sweet chestnut) coppice"
 draft: false
 ---

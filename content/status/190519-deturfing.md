@@ -3,7 +3,8 @@ title: Deturfing
 date: 2019-05-19T21:17:12+01:00
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1556482477/soil-B1AF007F.jpg
-imageAlt: Wood chip, bare soil and sheet mulch, side-by-side
+imageAlt: 
+- Wood chip, bare soil and sheet mulch, side-by-side
 ---
 
 I’m not happy about the amount of plastic I use in the #ForestGarden. I use a woven plastic sheet mulch to clear the ground, it takes about 6-12 months to work. But it’s plastic. I re-use it but I’m forever picking up plastic threads that have come loose. 

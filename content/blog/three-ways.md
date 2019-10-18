@@ -7,7 +7,8 @@ tags:
 - GdnBloggers
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1544130070/crabapple-41314675045.jpg
-imageAlt: White apple blossom
+imageAlt: 
+- White apple blossom
 imageCap: Crab apple 'John Downie' in full bloom
 draft: false
 ---

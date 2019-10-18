@@ -10,7 +10,8 @@ tags:
   - DIY
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543956262/bait-plants-8kfKR9Bn.jpg"
-imageAlt: "Close up of top of white woven sack with plants growing out the top"
+imageAlt: 
+- "Close up of top of white woven sack with plants growing out the top"
 imageCap: "Bait plants growing in woven sack, multiplying the mycorrhizal fungi & ready for harvest"
 draft: false
 ---

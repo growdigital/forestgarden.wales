@@ -7,7 +7,8 @@ tags:
 - gdnbloggers
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1543873983/toona-sinensis-new-zealand-flax-41164041491.jpg
-imageAlt: Jungly forest garden, with spiky leafed plant and opposing leaf tree
+imageAlt: 
+- Jungly forest garden, with spiky leafed plant and opposing leaf tree
 imageCap: Martin Crawford’s forest garden at Dartington. Now that’s a miniature woodland!
 draft: false
 ---

@@ -3,7 +3,8 @@ title: Tomatillo
 date: 2019-01-06T20:57:46Z
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1546797095/tomatillo-BBF188B3.jpg
-imageAlt: Tomatilloes, one in paper husk, on chopping board
+imageAlt: 
+- Tomatilloes, one in paper husk, on chopping board
 ---
 
 Not exactly #ForestGarden but still impressed with plentiful #[tomatillo](http://www.realseeds.co.uk/physalis.html) harvest from polytunnel. Have roasted them previously, now trying to oven-dry them at 70°C. Like a citrusy tomato, lovely on pizza.

@@ -4,7 +4,8 @@ date: 2018-04-10T13:16:46+01:00
 description: "Thanks to inspriation from The People’s Orchard and Permaculture Tywi, we now offer a half-day forest garden tour and talk! £10 per person, minimum 5 people"
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543959905/polytunnel-40249165324.jpg"
-imageAlt: "Photo of polytunnel on a slope with raised beds to the side, mature leafless trees behind and blue sky"
+imageAlt: 
+- "Photo of polytunnel on a slope with raised beds to the side, mature leafless trees behind and blue sky"
 imageCap: "The polytunnel, raised beds and propagation area in the forest garden"
 draft: false
 ---

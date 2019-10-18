@@ -3,7 +3,8 @@ title: "Tricolor"
 date: 2018-10-05T20:48:38+01:00
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1544360174/tricolor-45121576931.jpg"
-imageAlt: "Mass of brambly Chinese bramble in a brick planter"
+imageAlt: 
+- "Mass of brambly Chinese bramble in a brick planter"
 ---
 
 I want a low hedge to rein in the unruly [Rubus tricolor](https://pfaf.org/user/plant.aspx?latinname=Rubus+tricolor) (Chinese Bramble) in the #ForestGarden. My accountant mentioned gooseberry, and I thought blackcurrant would do equally well, and now is the time of year to [take hardwood cuttings](https://www.rhs.org.uk/advice/profile?pid=387).

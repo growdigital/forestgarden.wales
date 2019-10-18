@@ -11,7 +11,8 @@ tags:
 - GroundCover
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1556482470/mustardflower-B6D1F640.jpg
-imageAlt: Bright yellow flowers of mustard by a grass path
+imageAlt: 
+- Bright yellow flowers of mustard by a grass path
 imageCap: The temporary ground cover 
 draft: false
 ---

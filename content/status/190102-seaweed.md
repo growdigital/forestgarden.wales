@@ -3,7 +3,8 @@ title: Seaweed
 date: 2019-01-02T22:47:04Z
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1546449622/seaweed-59E7EA41.jpg
-imageAlt: Hand holding leaf litter mixed with seaweed from the shore
+imageAlt: 
+- Hand holding leaf litter mixed with seaweed from the shore
 ---
 
 Amazing ready made compost on a small beach in Pembrokeshire—seaweed mixed up with crumbled leaf litter, all washed 8 inches thick on the shore. #compost #ForestGarden

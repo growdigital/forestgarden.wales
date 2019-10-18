@@ -10,7 +10,8 @@ tags:
 - ClimateChange
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1552859213/bumblebee-4ED5F504.jpg
-imageAlt: Bumblebee on purple periwinkle flower
+imageAlt: 
+- Bumblebee on purple periwinkle flower
 imageCap: Everything you love, including bumblebees, is under threat
 draft: false
 ---

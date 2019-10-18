@@ -9,7 +9,8 @@ tags:
   - gdnbloggers
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1542316696/chickens-measuring-ofg.jpg
-imageAlt: Two chickens running toward camera across measuring tape on rough cut field
+imageAlt: 
+- Two chickens running toward camera across measuring tape on rough cut field
 imageCap: Joan Crawford & Betty Davies helping out with the surveying in the Ornamental Forest Garden. Soooo helpful…
 draft: false
 ---

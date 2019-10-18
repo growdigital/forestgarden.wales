@@ -4,7 +4,8 @@ date: 2018-01-08
 description: "Picked up a freebie old chipboard cupboard from the dump, working fantastically as a tray cupboard. +1 recycling"
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543959984/cupboard-39529628612.jpg"
-imageAlt: "Old knackered cupboard with open doors"
+imageAlt: 
+- "Old knackered cupboard with open doors"
 imageCap: "Sometimes the freebie ones are the best"
 draft: false
 ---

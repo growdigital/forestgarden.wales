@@ -7,7 +7,8 @@ tags:
 - definition
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1544373844/misty-garden-42143351375.jpg
-imageAlt: Misty view of mature trees in middle distance, foreground young trees in grass in garden 
+imageAlt: 
+- Misty view of mature trees in middle distance, foreground young trees in grass in garden 
 imageCap: The multi-layered nature of a Forest Garden just about visible through the mist
 draft: false
 ---

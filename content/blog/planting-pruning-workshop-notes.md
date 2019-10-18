@@ -4,7 +4,8 @@ date: 2017-12-25
 description: "Scant notes from the Planting & Pruning workshop held by The People’s Orchard in St Dogmaels on 7th December 2017"
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543958825/buds-38517307965.jpg"
-imageAlt: "Fruit and growth buds on apple tree"
+imageAlt: 
+- "Fruit and growth buds on apple tree"
 imageCap: "Martin Hayes, Consultant Orchardist, planting trees with The People’s Orchard project, St Dogmaels"
 draft: false
 ---

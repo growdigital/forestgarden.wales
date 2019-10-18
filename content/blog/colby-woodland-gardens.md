@@ -8,7 +8,8 @@ tags:
 - Colby
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1543873414/cornus-kousa-fruit-39541199411.jpg
-imageAlt: Bright red Cornus kousa fruit
+imageAlt: 
+- Bright red Cornus kousa fruit
 imageCap: Lovely red Cornus kousa fruit seen on a visit to Colby Woodland Garden
 draft: false
 ---

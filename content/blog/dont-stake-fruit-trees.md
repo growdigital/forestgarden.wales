@@ -4,7 +4,8 @@ date: 2018-01-24
 description: "I am always wary of outright statements but this one is interesting and time saving"
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543958825/buds-38517307965.jpg"
-imageAlt: "Photo of hand holding tree branch buds"
+imageAlt: 
+- "Photo of hand holding tree branch buds"
 imageCap: "Apple tree buds"
 draft: false
 ---

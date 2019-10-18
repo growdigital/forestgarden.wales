@@ -7,7 +7,8 @@ tags:
 - GdnBloggers
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1544710245/hippophae-243582AF.jpg
-imageAlt: Newly planted trees in recently mulched beds
+imageAlt: 
+- Newly planted trees in recently mulched beds
 imageCap: Two Sea Buckthorn, just about visible past the Sumac tree
 draft: false
 ---

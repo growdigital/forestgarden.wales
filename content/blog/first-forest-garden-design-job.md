@@ -8,7 +8,8 @@ tags:
 - design
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1543789181/final-plan-fgrp.jpg
-imageAlt: CAD forest garden plan
+imageAlt: 
+- CAD forest garden plan
 imageCap: Final forest garden outline planting plan 
 draft: false
 ---

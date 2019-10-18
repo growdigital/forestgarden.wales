@@ -4,7 +4,8 @@ date: 2018-04-11T16:43:09+01:00
 description: "Instructions for making your own thermostatically controlled propagator, cribbed from @GWandShows"
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543954912/propagator-40495146015.jpg"
-imageAlt: "Side view of thermostatic propagator with clear plastic lid in a shed"
+imageAlt: 
+- "Side view of thermostatic propagator with clear plastic lid in a shed"
 imageCap: "Finished propagator, squeezed into a small shed!"
 draft: false
 ---

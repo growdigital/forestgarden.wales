@@ -9,7 +9,8 @@ tags:
 - PeoplesOrchardStDogs
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1549651704/pots-CF5FDAA3.jpg
-imageAlt: Pots in the polytunnel
+imageAlt: 
+- Pots in the polytunnel
 imageCap: My first ever grafting experiments, a Bubblegum Tree and an Ashmead’s Kernel
 draft: false
 ---

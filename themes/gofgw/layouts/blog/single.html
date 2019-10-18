@@ -19,7 +19,7 @@
       {{ end }}
       {{ if .Params.images }}
         <figure>
-          <img src="{{ .Site.Params.cloudinary }}f_auto,q_70,w_736/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}" alt="{{ .Params.imageAlt }}">
+          <img src="{{ .Site.Params.cloudinary }}f_auto,q_70,w_736/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}" alt="{{ (index .Params.imageAlt 0) }}">
           <figcaption>{{ .Params.imageCap }}</figcaption>
         </figure>
       {{ end }}

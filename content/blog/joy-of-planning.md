@@ -10,7 +10,8 @@ tags:
 - GdnBloggers
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1549915260/ofg-190211-mockup.png
-imageAlt: Satellite photo of field overlayed with forest garden CAD plan
+imageAlt: 
+- Satellite photo of field overlayed with forest garden CAD plan
 imageCap: Using satellite photo of Ornamental Forest Garden and QCAD software for planning
 draft: false
 ---

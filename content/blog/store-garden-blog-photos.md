@@ -9,7 +9,8 @@ tags:
 - Cloudinary
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1544530290/cloudinary-1544530290.png
-imageAlt: Screenshot of online photo catalog interface
+imageAlt: 
+- Screenshot of online photo catalog interface
 imageCap: The Cloudinary Media Library interface
 draft: false
 ---

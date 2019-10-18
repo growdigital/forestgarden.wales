@@ -10,7 +10,8 @@ tags:
 - Tour
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1551629417/fgwfacebook-190303.png
-imageAlt: Screenshot of Forest Garden Wales’ events page
+imageAlt: 
+- Screenshot of Forest Garden Wales’ events page
 imageCap: Exciting times ahead, planning the workshops & tours for Facebook
 draft: false
 ---

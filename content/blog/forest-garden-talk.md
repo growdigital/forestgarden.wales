@@ -4,7 +4,8 @@ date: 2018-02-02
 description: "A 1 hour talk entitled ‘An introduction to forest gardening’, St Dogmaels Abbey, 7.30PM Friday 23rd February 2018, hosted by The People’s Orchard"
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543954270/ron-bum-25739902778.jpg"
-imageAlt: "Grass path leading to mature trees, young hedge on the right, sheet mulch on the left"
+imageAlt: 
+- "Grass path leading to mature trees, young hedge on the right, sheet mulch on the left"
 imageCap: "Our young forest garden in the making"
 draft: false
 ---

@@ -3,7 +3,8 @@ title: "Understand"
 date: 2018-09-25T10:08:41+01:00
 images: 
 - ""
-imageAlt: ""
+imageAlt: 
+- ""
 ---
 
 > “if you understand each other you will be kind to each other”

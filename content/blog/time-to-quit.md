@@ -7,7 +7,8 @@ tags:
 - GdnBloggers
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543959737/cornus-hedge-43356338845.jpg"
-imageAlt: "Big clouds behind row of trees, telephone line and small green hedge"
+imageAlt: 
+- "Big clouds behind row of trees, telephone line and small green hedge"
 imageCap: "Full steam ahead #ForestGarden!"
 draft: false
 ---

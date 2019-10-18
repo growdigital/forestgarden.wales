@@ -8,7 +8,8 @@ tags:
 - GdnBloggers
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1551348505/creating-forest-garden-inside.jpg
-imageAlt: Screenshot of inside of forest garden book
+imageAlt: 
+- Screenshot of inside of forest garden book
 imageCap: The inside of Martin Crawford’s Creating a Forest Garden book
 draft: false
 ---

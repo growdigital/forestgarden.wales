@@ -8,7 +8,8 @@ tag:
   - blog
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543959053/Buffer-v81Q4jbm.png"
-imageAlt: "Screenshot of bulk auto-scheduling service"
+imageAlt: 
+- "Screenshot of bulk auto-scheduling service"
 imageCap: "Screenshot from Buffer, showing calendar view of automated posts"
 draft: false
 ---

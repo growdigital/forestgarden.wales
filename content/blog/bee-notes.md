@@ -4,7 +4,8 @@ date: 2018-02-11
 description: "Wild Bees in Pembrokeshire - an introduction to Species, Diversity and Learning to Record Wildlife with Clare Flynn @wildaboutnature, talk at Moylegrove Old School Hall, Tue 23 Jan 7.30pm"
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543873154/clare-flynn-bee-talk-28421254799.jpg"
-imageAlt: "Backs of heads looking at projector screen in hall"
+imageAlt: 
+- "Backs of heads looking at projector screen in hall"
 imageCap: "Wild Bees in Pembrokeshire talk with Clare Flynn at Moylegrove Old School Hall, Tue 23 Jan 7.30pm, photo via @wildaboutnature"
 draft: false
 ---

@@ -4,7 +4,8 @@ menu: main
 date: 2018-02-09T19:21:11Z
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1543789181/final-plan-fgrp.jpg
-imageAlt: CAD forest garden plan
+imageAlt: 
+- CAD forest garden plan
 imageCap: An example of a forest garden outline planting plan
 draft: false
 ---

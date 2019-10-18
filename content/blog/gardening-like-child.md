@@ -8,7 +8,8 @@ tags:
 - Weblog
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1546624243/minty-corner-E3090B70.jpg
-imageAlt: Sheet mulch and rather untidy corner of the garden
+imageAlt: 
+- Sheet mulch and rather untidy corner of the garden
 imageCap: My 3 year old planted Horsemint in that there pile of old stems
 draft: false
 ---

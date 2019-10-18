@@ -8,7 +8,8 @@ tags:
 - GdnBloggers
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1550874433/digger-11EE9734.jpg
-imageAlt: Man in mini-digger, scraping the top soil
+imageAlt: 
+- Man in mini-digger, scraping the top soil
 imageCap: Scraping away the grass with a mini-digger may be a less wasteful approach
 draft: false
 ---

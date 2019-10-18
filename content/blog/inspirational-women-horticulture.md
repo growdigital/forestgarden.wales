@@ -7,7 +7,8 @@ tags:
 - GdnBloggers
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1547562262/walesbotanic-190115.png
-imageAlt: Screenshot of Botanic Garden Wales’ Inspirational Women in Horticulture talks website
+imageAlt: 
+- Screenshot of Botanic Garden Wales’ Inspirational Women in Horticulture talks website
 imageCap: Sarah Price is the second in the “Inspirational Women in Horticulture” series of three talks 
 draft: false
 ---

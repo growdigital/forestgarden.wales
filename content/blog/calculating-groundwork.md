@@ -4,7 +4,8 @@ date: 2017-12-29
 description: "A quick summary of how I calculate an estimate for how long the groundwork will take"
 images: 
 - ""
-imageAlt: ""
+imageAlt: 
+- ""
 imageCap: ""
 draft: true
 ---

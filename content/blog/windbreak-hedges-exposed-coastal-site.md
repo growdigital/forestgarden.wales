@@ -9,7 +9,8 @@ tags:
 - coastal
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1548971912/saltbush-190131.jpg
-imageAlt: Close up of blue green stalk and leaves of the Saltbush
+imageAlt: 
+- Close up of blue green stalk and leaves of the Saltbush
 imageCap: The blueish, glaucous leaves of the Saltbush
 draft: false
 ---

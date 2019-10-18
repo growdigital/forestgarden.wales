@@ -9,7 +9,8 @@ tags:
 - HowTo
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1550608074/windbreak-illustration-190217.png
-imageAlt: Illustration showing how to sheet mulch new windbreak hedge in weedy area
+imageAlt: 
+- Illustration showing how to sheet mulch new windbreak hedge in weedy area
 imageCap: Highly detailed illustration showing a mulching technique for a windbreak in a weedy spot
 draft: false
 ---

@@ -6,7 +6,8 @@ tags:
 - ForestGarden
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543960218/weeding-44068045164.jpg"
-imageAlt: "Weeded plants on a bark mulch"
+imageAlt: 
+- "Weeded plants on a bark mulch"
 imageCap: "Some call the look scruffy, I call it efficient"
 draft: false
 ---
