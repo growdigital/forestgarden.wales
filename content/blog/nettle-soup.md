@@ -8,8 +8,10 @@ tags:
 - nettle
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543957166/nettle-soup-42746778580.jpg"
-imageAlt: "Bowl of nettle soup with creme fraiche"
-imageCap: "Nettle soup, by Leslie Seaton from Seattle, WA, USA"
+imageAlt: 
+- "Bowl of nettle soup with creme fraiche"
+imageCap:
+- "Nettle soup, by Leslie Seaton from Seattle, WA, USA"
 draft: false
 ---
 

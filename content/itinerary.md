@@ -3,7 +3,8 @@ title: Itinerary
 date: 2019-04-11T19:21:11Z
 image: 
 - https://res.cloudinary.com/growdigital/image/upload/v1550263489/tour-42993811082-crop.jpg
-imageAlt: Group of people stood around bloke with a hat talking about plants
+imageAlt: 
+- Group of people stood around bloke with a hat talking about plants
 draft: false
 ---
 

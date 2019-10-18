@@ -3,7 +3,8 @@ title: Mulch thoughts
 date: 2019-05-12T18:59:12+01:00
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1557683115/woodchip-25045B38.jpg
-imageAlt: Newly laid woodchip next to sheet mulch, trees in background
+imageAlt: 
+- Newly laid woodchip next to sheet mulch, trees in background
 ---
 
 [@hilltopgina](https://mobile.twitter.com/hilltopgina) getting there one barrow load at a time! 

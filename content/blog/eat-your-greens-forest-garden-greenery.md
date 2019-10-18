@@ -9,8 +9,10 @@ tags:
 - Weblog
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1544459708/broccoli-D2890009.jpg
-imageAlt: Close up from above of purple sprouting broccoli leaves
-imageCap: There are perennial alternatives to greens like this purple sprouting broccoli
+imageAlt: 
+- Close up from above of purple sprouting broccoli leaves
+imageCap:
+- There are perennial alternatives to greens like this purple sprouting broccoli
 draft: false
 ---
 

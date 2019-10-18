@@ -8,8 +8,10 @@ tags:
 - GdnBloggers
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1543873983/toona-sinensis-new-zealand-flax-41164041491.jpg
-imageAlt: Tree shrubs crowded up against each other
-imageCap: Toona sinensis & Phormium tenax in Martin Crawford’s forest garden
+imageAlt: 
+- Tree shrubs crowded up against each other
+imageCap:
+- Toona sinensis & Phormium tenax in Martin Crawford’s forest garden
 draft: false
 ---
 

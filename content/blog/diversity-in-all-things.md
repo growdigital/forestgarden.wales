@@ -4,8 +4,10 @@ date: 2018-01-12
 description: "A mixed species north boundary windbreak hedge has grown on leaps and bounds"
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543953947/north-face-39615815062.jpg"
-imageAlt: "Wheelbarrow in foreground by long hedge receding to oak tree"
-imageCap: "Replaced casualties in the North Face windbreak hedge"
+imageAlt: 
+- "Wheelbarrow in foreground by long hedge receding to oak tree"
+imageCap:
+- "Replaced casualties in the North Face windbreak hedge"
 draft: false
 ---
 

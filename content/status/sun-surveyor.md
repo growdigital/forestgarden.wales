@@ -3,7 +3,8 @@ title: "Sun Surveyor"
 date: 2018-11-17T21:29:26Z
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1542489153/sun-nov.jpg"
-imageAlt: "Screenshot of Sun Surveyor app on iPhone"
+imageAlt: 
+- "Screenshot of Sun Surveyor app on iPhone"
 ---
 
 Used [Sun Surveyor](https://www.sunsurveyor.com) app on mobile this afternoon, whilst planning out the Ornamental #ForestGarden. Really useful, can see where the sun will be in relation to trees etc at different times of year. Main photo showing today’s sun position, this photo shows September’s sun position:

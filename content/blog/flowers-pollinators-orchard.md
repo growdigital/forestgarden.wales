@@ -10,8 +10,10 @@ tags:
 - BeeFriendly
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1551304077/bumblebee-F68CBD93.jpg
-imageAlt: Bumblebee on yellow willow catkins
-imageCap: Willow is the most important spring flower for honey bees, based on DNA research. I know, it’s a bumblebee…
+imageAlt: 
+- Bumblebee on yellow willow catkins
+imageCap:
+- Willow is the most important spring flower for honey bees, based on DNA research. I know, it’s a bumblebee…
 draft: false
 ---
 

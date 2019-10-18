@@ -6,8 +6,10 @@ tags:
 - ForestGarden
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543960547/bumblebee-rosa-rugosa-flower-29680293497.jpg"
-imageAlt: "Closeup of white Rosa rugosa flower with bumblebee in centre"
-imageCap: "White Rosa rugosa flower, and bumblebee, both very alive"
+imageAlt: 
+- "Closeup of white Rosa rugosa flower with bumblebee in centre"
+imageCap:
+- "White Rosa rugosa flower, and bumblebee, both very alive"
 draft: false
 ---
 

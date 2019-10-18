@@ -8,8 +8,10 @@ tags:
 - GdnBloggers
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1549395281/bramblehedge-528AD594.jpg
-imageAlt: Large clump of bramble dug out of hedge
-imageCap: Plenty of bramble dug up from the site of the windbreak hedge
+imageAlt: 
+- Large clump of bramble dug out of hedge
+imageCap:
+- Plenty of bramble dug up from the site of the windbreak hedge
 draft: false
 ---
 

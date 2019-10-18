@@ -8,8 +8,10 @@ tags:
 - Wildlife
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1570783782/ladybird-D47D1F26.jpg
-imageAlt: Ladybird climbing up stem
-imageCap: A ladybird, alas I didn’t count the spots
+imageAlt: 
+- Ladybird climbing up stem
+imageCap:
+- A ladybird, alas I didn’t count the spots
 draft: false
 ---
 

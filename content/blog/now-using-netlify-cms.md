@@ -4,8 +4,10 @@ date: 2018-04-17T12:55:44+01:00
 description: "A bit of a geeky post about the software that powers forestgarden.wales"
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543958046/netlifycms-39708805630.png"
-imageAlt: "Screenshot of Netlify CMS screen on forestgarden.wales"
-imageCap: "Netlify CMS working on forestgarden.wales – note Blog and Status categories"
+imageAlt: 
+- "Screenshot of Netlify CMS screen on forestgarden.wales"
+imageCap:
+- "Netlify CMS working on forestgarden.wales – note Blog and Status categories"
 draft: false
 ---
 

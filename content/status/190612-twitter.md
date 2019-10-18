@@ -3,7 +3,8 @@ title: Twitter
 date: 2019-06-12T08:59:56+01:00
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1546449622/seaweed-59E7EA41.jpg
-imageAlt: A handful of seaweed that would make great compost
+imageAlt: 
+- A handful of seaweed that would make great compost
 ---
 
 Twitter has been invaluable in organising the #peatfree [@UKparliament](https://mobile.twitter.com/UKparliament) petition, big thanks to [@earthFgardener](https://mobile.twitter.com/earthFgardener), [@DanielR61592267](https://mobile.twitter.com/DanielR61592267), [@swilson09](https://twitter.com/swilson09), 

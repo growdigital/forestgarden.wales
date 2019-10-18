@@ -10,8 +10,10 @@ tags:
 - CAD
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1556622039/OFG_3.22.jpg
-imageAlt: CAD plan of forest garden, overlaying satellite photo
-imageCap: The Ornamental Forest Garden CAD plan, overlaying a satellite photo.
+imageAlt: 
+- CAD plan of forest garden, overlaying satellite photo
+imageCap:
+- The Ornamental Forest Garden CAD plan, overlaying a satellite photo.
 draft: false
 ---
 

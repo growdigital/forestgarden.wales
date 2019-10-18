@@ -10,8 +10,10 @@ tags:
 - Tour
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1547145078/airbnb-190110.png
-imageAlt: Screenshot of Airbnb forest garden workshop booking page
-imageCap: The Forest Garden Wales workshop, tickets are on sale at an Airbnb near you
+imageAlt: 
+- Screenshot of Airbnb forest garden workshop booking page
+imageCap:
+- The Forest Garden Wales workshop, tickets are on sale at an Airbnb near you
 draft: false
 ---
 

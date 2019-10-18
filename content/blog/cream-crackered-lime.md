@@ -9,8 +9,10 @@ tags:
 - Weblog
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1546110957/liming-5F96A6CD.jpg
-imageAlt: Lines of grey powdered lime on rough pasture field
-imageCap: Powdered lime is heavier than it looks 😅
+imageAlt: 
+- Lines of grey powdered lime on rough pasture field
+imageCap:
+- Powdered lime is heavier than it looks 😅
 draft: false
 ---
 

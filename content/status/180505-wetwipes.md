@@ -3,7 +3,8 @@ title: "Wet wipes"
 date: 2018-05-05T09:21:35+01:00
 images: 
 - ""
-imageAlt: ""
+imageAlt: 
+- ""
 ---
 
 Via @UE, how come wet wipes aren’t biodegradable?!? Craziness! Contact your wet wipe supplier and your MP <https://www.writetothem.com>

@@ -8,8 +8,10 @@ tags:
 - GdnBloggers
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1544351384/mulberry-44462831472.jpg
-imageAlt: Solitary black mulberry on a tree
-imageCap: There was only one mulberry on the mulberry tree last summer, lucky it was black…
+imageAlt: 
+- Solitary black mulberry on a tree
+imageCap:
+- There was only one mulberry on the mulberry tree last summer, lucky it was black…
 draft: false
 ---
 

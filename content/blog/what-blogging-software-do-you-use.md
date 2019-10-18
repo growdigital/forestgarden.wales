@@ -4,8 +4,10 @@ date: 2018-03-28T10:46:19+01:00
 description: "After days of building my own blog, I’m curious as to what other people are using and how well it fits in with social media."
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543960296/blogging-software-40359939864.jpg"
-imageAlt: "Screenshot of Forest Garden Wales website in browser, with browser tools showing"
-imageCap: "The new Forest Garden Wales website. Was it worth it?!?"
+imageAlt: 
+- "Screenshot of Forest Garden Wales website in browser, with browser tools showing"
+imageCap:
+- "The new Forest Garden Wales website. Was it worth it?!?"
 draft: false
 ---
 

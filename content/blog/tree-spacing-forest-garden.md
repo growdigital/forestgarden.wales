@@ -10,8 +10,10 @@ tags:
 - QCAD
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1553089647/tree-spacing.png
-imageAlt: CAD plan drawing of trees, showing two examples of spacing
-imageCap: Nice bit of CAD to illustrate the ¼ to ½ gap between trees
+imageAlt: 
+- CAD plan drawing of trees, showing two examples of spacing
+imageCap:
+- Nice bit of CAD to illustrate the ¼ to ½ gap between trees
 draft: false
 ---
 

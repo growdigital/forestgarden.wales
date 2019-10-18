@@ -9,8 +9,10 @@ tags:
 - Weblog
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1545324919/greenery-FD64065C.jpg
-imageAlt: Freshly deturfed and mulched side of an existing bed, next to raised beds
-imageCap: The Greenery, finished. Apart from planting the actual green stuff.
+imageAlt: 
+- Freshly deturfed and mulched side of an existing bed, next to raised beds
+imageCap:
+- The Greenery, finished. Apart from planting the actual green stuff.
 draft: false
 ---
 

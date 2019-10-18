@@ -4,8 +4,10 @@ date: 2018-04-07T09:51:47+01:00
 description: "A legion of People Orchardoers made the inaugural tour around Forest Garden Wales"
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543959573/the-peoples-orchard-39482524460.jpg"
-imageAlt: "Five peoople about to plant trees, in front of a ruined building"
-imageCap: "I forgot to take photos, so here’s one of The People’s Orchard back in St Dogmaels"
+imageAlt: 
+- "Five peoople about to plant trees, in front of a ruined building"
+imageCap:
+- "I forgot to take photos, so here’s one of The People’s Orchard back in St Dogmaels"
 draft: false
 ---
 

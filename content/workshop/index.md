@@ -5,7 +5,8 @@ menu: main
 date: 2018-02-09T19:21:11Z
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1550263489/tour-42993811082-crop.jpg
-imageAlt: Group of people gathered around forest garden bed
+imageAlt: 
+- Group of people gathered around forest garden bed
 draft: false
 ---
 

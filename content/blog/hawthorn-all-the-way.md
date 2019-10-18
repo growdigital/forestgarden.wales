@@ -8,8 +8,10 @@ tags:
 - GdnBloggers
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1569962637/fence-933CE454.jpg
-imageAlt: View over stock fence to cloudy sunlit sky
-imageCap: Stormy clouds over a Pembrokeshire farm
+imageAlt: 
+- View over stock fence to cloudy sunlit sky
+imageCap:
+- Stormy clouds over a Pembrokeshire farm
 draft: false
 ---
 

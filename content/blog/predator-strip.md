@@ -4,8 +4,10 @@ date: 2017-12-22
 description: "Martin Crawford’s predator strip is a combination of perennial flowering plants to attract predatory and pollinating insects"
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543958912/brachyglottis-38350635275.jpg"
-imageAlt: "Bright yellow flower on evergreen plant"
-imageCap: "Brachyglottis 'Senecio' in flower"
+imageAlt: 
+- "Bright yellow flower on evergreen plant"
+imageCap:
+- "Brachyglottis 'Senecio' in flower"
 draft: false
 ---
 

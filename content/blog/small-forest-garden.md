@@ -8,8 +8,10 @@ tags:
 - SmallGarden
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1544219292/fruit-triangle-40810050980.jpg
-imageAlt: Small white dog in front of sunny green plant bed, with dark trees in background
-imageCap: The Fruit Triangle at Forest Garden Wales is less than 40m square but still has 3 distinct layers and permanent ground cover (collar model’s own)
+imageAlt: 
+- Small white dog in front of sunny green plant bed, with dark trees in background
+imageCap:
+- The Fruit Triangle at Forest Garden Wales is less than 40m square but still has 3 distinct layers and permanent ground cover (collar model’s own)
 draft: false
 ---
 

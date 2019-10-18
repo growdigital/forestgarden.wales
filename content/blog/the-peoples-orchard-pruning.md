@@ -4,8 +4,10 @@ date: 2018-01-19
 description: "Notes from another excellent pruning and planting workshop with Martin Hayes, Orchardist, near Llandudoch in Pembrokeshire"
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543959502/martin-39784408711.jpg"
-imageAlt: "Man pruning goblet shape fruit tree with onlooker"
-imageCap: "Martin Hayes, Orchardist, pruning goblet shape fruit tree"
+imageAlt: 
+- "Man pruning goblet shape fruit tree with onlooker"
+imageCap:
+- "Martin Hayes, Orchardist, pruning goblet shape fruit tree"
 draft: false
 ---
 

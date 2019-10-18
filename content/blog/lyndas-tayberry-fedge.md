@@ -9,8 +9,10 @@ tags:
 - DeadHedge
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1557923337/tayberry-fedge-D68067CC.jpg
-imageAlt: Newly planted shrubs in front of dead hedge made from old branches
-imageCap: The Tayberrys have been planted in front of the dead hedge to much fanfare
+imageAlt: 
+- Newly planted shrubs in front of dead hedge made from old branches
+imageCap:
+- The Tayberrys have been planted in front of the dead hedge to much fanfare
 draft: false
 ---
 

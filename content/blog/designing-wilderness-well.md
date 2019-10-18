@@ -9,8 +9,10 @@ tags:
 - CommunityFoodForest
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1560851849/botanicalmartin-scrubland.jpg
-imageAlt: Scrubland, grass paths, wild flowers, house through trees
-imageCap: The future of urban green spaces? Low maintenance, wildlife friendly…
+imageAlt: 
+- Scrubland, grass paths, wild flowers, house through trees
+imageCap:
+- The future of urban green spaces? Low maintenance, wildlife friendly…
 draft: false
 ---
 

@@ -8,8 +8,10 @@ tags:
 - GdnBloggers
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1557599027/label-F892524B.jpg
-imageAlt: Hand holding plant label curled around small branch
-imageCap: This label has been in place on the Victoria Plum for two years now.
+imageAlt: 
+- Hand holding plant label curled around small branch
+imageCap:
+- This label has been in place on the Victoria Plum for two years now.
 draft: false
 ---
 

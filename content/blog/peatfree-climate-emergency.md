@@ -9,8 +9,10 @@ tags:
 - ClimateEmergency
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1561388232/peatfree-extraction.jpg
-imageAlt: Massive peat mining field with tiny yellow mining machine
-imageCap: Peat mining is an industrial process
+imageAlt: 
+- Massive peat mining field with tiny yellow mining machine
+imageCap:
+- Peat mining is an industrial process
 draft: false
 ---
 

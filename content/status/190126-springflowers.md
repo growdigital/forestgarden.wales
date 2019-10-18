@@ -3,7 +3,8 @@ title: Springflowers
 date: 2019-01-26T21:37:43Z
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1548538598/screenshot-190126.png
-imageAlt: Screenshot of Botanic Garden Wales blog post "Honey bees like living close to the hedge - it's official"
+imageAlt: 
+- Screenshot of Botanic Garden Wales blog post "Honey bees like living close to the hedge - it's official"
 ---
 
 [@walesbotanic](https://mobile.twitter.com/walesbotanic) has a list of the [top 10 spring flowers for honey bees](https://botanicgarden.wales/honey-bees-like-living-close-hedge-official/). Of these, 8 are #ForestGarden stalwarts:

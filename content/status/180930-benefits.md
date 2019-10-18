@@ -3,7 +3,8 @@ title: "Benefits"
 date: 2018-09-30T11:43:37+01:00
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1544353867/branches-27259608937.jpg"
-imageAlt: "Black and white photo of tree branches against the sky"
+imageAlt: 
+- "Black and white photo of tree branches against the sky"
 ---
 
 A #ForestGarden is all about the trees, and [Urban Forestry Network](http://urbanforestrynetwork.org/index.htm) handily [lists the benefits](http://urbanforestrynetwork.org/benefits/index.htm). Trees: 

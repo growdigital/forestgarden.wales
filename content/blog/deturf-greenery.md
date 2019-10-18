@@ -9,8 +9,10 @@ tags:
 - Weblog
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1545237984/rainbow-ED42F8EA.jpg
-imageAlt: Rainbow over the forest garden
-imageCap: The sun came out mid storm to great effect
+imageAlt: 
+- Rainbow over the forest garden
+imageCap:
+- The sun came out mid storm to great effect
 draft: false
 ---
 

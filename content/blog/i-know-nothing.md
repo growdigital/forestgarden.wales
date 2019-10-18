@@ -8,8 +8,10 @@ tags:
 - Pruning
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1548532332/dutchcut-60183BB2.jpg
-imageAlt: Close up of cut in bark of apple tree branch
-imageCap: The “Dutch Cut” is used to stimulate the growth of a new branch
+imageAlt: 
+- Close up of cut in bark of apple tree branch
+imageCap:
+- The “Dutch Cut” is used to stimulate the growth of a new branch
 draft: false
 ---
 

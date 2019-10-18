@@ -3,7 +3,8 @@ title: Community Forest Garden thoughts
 date: 2019-06-14T21:28:32+01:00
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1560502964/chivebumble-B0095748.jpg
-imageAlt: Bumblebees on chive flowers
+imageAlt: 
+- Bumblebees on chive flowers
 ---
 
 Today I started the Community Forest Garden ball rolling. [@FutureGenCymru](https://mobile.twitter.com/FutureGenCymru) (the Future Generations Commissioner for Wales) has a heading [A Resilient Wales](https://futuregenerations.wales/aotp/resilience/), and one goal for public bodies is to…

@@ -3,7 +3,8 @@ title: Market garden
 date: 2019-06-07T23:08:15+01:00
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1559940610/lupin-A6FB53E4.jpg
-imageAlt: Pendulous leaves and faint blue flower of the edible lupin
+imageAlt: 
+- Pendulous leaves and faint blue flower of the edible lupin
 ---
 
 Had my first ever day working at the [local market garden](http://glebelandsmarketgarden.co.uk/). A great experience, if a bit tiring, and very different from a #ForestGarden. To grow fruit & veg to sell direct to the public is an incredibly intensive process. As an affluent citizen of a developed country, growing my own food is a luxury, not quite yet a necessity. And with this luxury I’m really keen to explore the potential of massed perennial vegetables. 

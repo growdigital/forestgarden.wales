@@ -3,7 +3,8 @@ title: Authoritarian
 date: 2019-09-07T09:40:51+01:00
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1567846598/caterpillar-60EDBC67.jpg
-imageAlt: Black and yellow caterpillars munching nasturtium leaves
+imageAlt: 
+- Black and yellow caterpillars munching nasturtium leaves
 ---
 
 My hunch is that authoritarian governments have a worse environmental record than democracies. This is why I’ve turned so political this past couple of years, because the fate of this planet depends on an inclusive socio-political paradigm that is interventionist but **not** authoritarian. Neoliberalism has failed, environmentally and economically. 

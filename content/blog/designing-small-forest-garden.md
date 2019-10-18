@@ -10,8 +10,10 @@ tags:
 - GardenDesign
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1552399158/diana-montage2.jpg
-imageAlt: Montage of original photo, sketch and two photoshop mockups
-imageCap: Starting with a photo, I created a rough sketch to elicit feedback from the client, before moving on to a couple of scampy montages. CAD is the next stage.
+imageAlt: 
+- Montage of original photo, sketch and two photoshop mockups
+imageCap:
+- Starting with a photo, I created a rough sketch to elicit feedback from the client, before moving on to a couple of scampy montages. CAD is the next stage.
 draft: false
 ---
 

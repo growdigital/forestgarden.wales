@@ -4,7 +4,8 @@ menu: main
 date: 2018-02-09T19:21:11Z
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1544300867/chaenomeles-41478572351.jpg
-imageAlt: Red flower of Japanese Quince
+imageAlt: 
+- Red flower of Japanese Quince
 draft: false
 ---
 

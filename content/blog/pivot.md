@@ -7,8 +7,10 @@ tags:
 - ForestGarden
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1570785794/greenroom-cad-screenshots-nophoto.png
-imageAlt: Computer Aided Design screenshot of small garden design
-imageCap: There’ll be more of this in my new career as Wildlife Forest Garden Designer
+imageAlt: 
+- Computer Aided Design screenshot of small garden design
+imageCap:
+- There’ll be more of this in my new career as Wildlife Forest Garden Designer
 draft: false
 ---
 

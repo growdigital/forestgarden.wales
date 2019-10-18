@@ -3,7 +3,8 @@ title: Killing
 date: 2018-12-14T13:55:27Z
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1544795783/raven-rds-conservation.jpg
-imageAlt: Dead black raven bird held up in hand
+imageAlt: 
+- Dead black raven bird held up in hand
 ---
 
 Can we just stop killing things? 

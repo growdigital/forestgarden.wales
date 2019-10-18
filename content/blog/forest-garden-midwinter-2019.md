@@ -8,8 +8,10 @@ tags:
 - Weblog
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1547411535/sunset-DF330309.jpg
-imageAlt: Stunning pink sunset over line of bare trees
-imageCap: The most amazing sunset, fleeting and dramatic, this week over the Ornamental Forest Garden
+imageAlt: 
+- Stunning pink sunset over line of bare trees
+imageCap:
+- The most amazing sunset, fleeting and dramatic, this week over the Ornamental Forest Garden
 draft: false
 ---
 

@@ -4,8 +4,10 @@ date: 2018-07-05T10:41:22+01:00
 description: "A recipe for the kind of world famous cakes you can expect on our #ForestGarden tour! "
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543958719/brownies-42957769501.jpg"
-imageAlt: "Plate piled high with chocolate brownies"
-imageCap: "Delicious, moist, very chocolatey vegan chocolate brownies, this batch with nuts and sultanas"
+imageAlt: 
+- "Plate piled high with chocolate brownies"
+imageCap:
+- "Delicious, moist, very chocolatey vegan chocolate brownies, this batch with nuts and sultanas"
 draft: false
 ---
 

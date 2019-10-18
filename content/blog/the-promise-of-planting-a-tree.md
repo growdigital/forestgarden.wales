@@ -4,8 +4,10 @@ date: 2018-04-02T19:36:54+01:00
 description: "Fun but serious work on Thursday morning, planting an apple and plum orchard by the car park at Poppit Sands, St Dogmaels, Pembrokeshire"
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1543959649/tpo-27226348918.jpg"
-imageAlt: "People planting trees on bracken covered mound, field & hill in background"
-imageCap: "Nia and volunteers planting trees on Martin’s mound, ’twixt the hills & the sea"
+imageAlt: 
+- "People planting trees on bracken covered mound, field & hill in background"
+imageCap:
+- "Nia and volunteers planting trees on Martin’s mound, ’twixt the hills & the sea"
 draft: false
 ---
 
