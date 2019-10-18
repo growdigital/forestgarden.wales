@@ -21,7 +21,7 @@ Using peat-based compost [contributes to #ClimateBreakdown and wildlife habitat 
 
 Nic Wilson [@dogwooddays_nic](https://mobile.twitter.com/dogwooddays_nic) has put together a list of peat-free nurseries here:
 
-**[dogwooddays.net/2019/09/18/save-our-rainforests-the-peat-free-nurseries-list/](dogwooddays.net/2019/09/18/save-our-rainforests-the-peat-free-nurseries-list/)**
+**[dogwooddays.net/2019/09/18/save-our-rainforests-the-peat-free-nurseries-list/](http://dogwooddays.net/2019/09/18/save-our-rainforests-the-peat-free-nurseries-list/)**
 
 I even made a shortened URL to celebrate: **[bit.ly/peatfree-nurseries](http://bit.ly/peatfree-nurseries)**
 
