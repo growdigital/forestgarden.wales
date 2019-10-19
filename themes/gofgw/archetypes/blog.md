@@ -7,7 +7,7 @@ tags:
 - ForestGarden
 images: 
 -
-(index .Params.imageAlt 0):
+imageAlt:
 - 
 imageCap:
 -
