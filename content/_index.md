@@ -11,9 +11,7 @@ imageAlt:
 imageCap:
 - View over the polytunnel from north west corner of the forest garden
 draft: false
----
-
-> A forest garden is like a wildlife orchard underplanted with edible shrubs and perennial vegetables. It is productive, sustainable and low maintenance.
+--- 
 
 ## Testimonials
 

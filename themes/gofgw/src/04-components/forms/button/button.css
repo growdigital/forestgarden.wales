@@ -4,7 +4,9 @@
 
 .button {
   background-color: var(--red);
+  background-image: none;
   border-radius: 3px;
+  -webkit-border-radius: 0;
   border: 0 transparent;
   color: white;
   cursor: pointer;
