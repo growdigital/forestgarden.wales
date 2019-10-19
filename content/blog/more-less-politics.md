@@ -5,12 +5,12 @@ discussionId: more-less-politics
 description: Time to redirect my politically charged radical sentiments elsewhere methinks
 tags: 
 - ForestGarden
-images: https://res.cloudinary.com/growdigital/image/upload/v1569076003/climatestrike-0756EC15.jpg
--
-imageAlt: Crowd with banners in front of modern buildings
-- 
-imageCap: Strike for Climate in front of council offices in Haverfordwest
--
+images: 
+- https://res.cloudinary.com/growdigital/image/upload/v1569076003/climatestrike-0756EC15.jpg
+imageAlt: 
+- Crowd with banners in front of modern buildings
+imageCap: 
+- Strike for Climate in front of council offices in Haverfordwest
 draft: false
 ---
 
