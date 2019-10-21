@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/191021-spider/</loc>
+    <lastmod>2019-10-21T19:40:41+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/bruce-slark-forest-garden-talk/</loc>
     <lastmod>2019-10-21T13:27:26+01:00</lastmod>
   </url>
