@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/blog/overview-forest-garden-design-process/</loc>
+    <lastmod>2019-10-22T21:04:37+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/191021-fox/</loc>
     <lastmod>2019-10-22T07:06:58+01:00</lastmod>
   </url>
@@ -3688,7 +3693,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/design/</loc>
-    <lastmod>2019-02-12T20:51:01+00:00</lastmod>
+    <lastmod>2019-10-22T21:04:37+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3718,13 +3723,19 @@
   
   <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2019-10-21T13:27:26+01:00</lastmod>
+    <lastmod>2019-10-22T21:04:37+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/fungi/</loc>
     <lastmod>2018-01-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/garden/</loc>
+    <lastmod>2019-10-22T21:04:37+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3994,7 +4005,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/wildlife/</loc>
-    <lastmod>2019-10-10T17:38:28+01:00</lastmod>
+    <lastmod>2019-10-22T21:04:37+01:00</lastmod>
     <priority>0</priority>
   </url>
   
