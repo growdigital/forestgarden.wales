@@ -3253,6 +3253,16 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/workshop/accommodation/</loc>
+    <lastmod>2018-02-09T19:21:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/workshop/canopy/</loc>
+    <lastmod>2018-02-09T19:21:11+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2018-02-09T19:21:11+00:00</lastmod>
   </url>
@@ -3263,7 +3273,42 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/workshop/ground-cover/</loc>
+    <lastmod>2018-02-09T19:21:11+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2018-02-09T19:21:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/workshop/plan/</loc>
+    <lastmod>2018-02-09T19:21:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/workshop/propagate/</loc>
+    <lastmod>2018-02-09T19:21:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/workshop/sheet-mulch/</loc>
+    <lastmod>2018-02-09T19:21:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/workshop/shrub/</loc>
+    <lastmod>2018-02-09T19:21:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/course/survey/</loc>
+    <lastmod>2018-02-09T19:21:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/workshop/survey/</loc>
     <lastmod>2018-02-09T19:21:11+00:00</lastmod>
   </url>
   
@@ -3274,6 +3319,21 @@
   
   <url>
     <loc>http://localhost:1313/tour/</loc>
+    <lastmod>2018-02-09T19:21:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/workshop/windbreaks/</loc>
+    <lastmod>2018-02-09T19:21:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/course/</loc>
+    <lastmod>2018-02-09T19:21:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/workshop/</loc>
     <lastmod>2018-02-09T19:21:11+00:00</lastmod>
   </url>
   
