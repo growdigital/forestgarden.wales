@@ -1,48 +1,38 @@
 ---
-title: Workshop
-shop: true
+title: Course
 menu: main
 date: 2018-02-09T19:21:11Z
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1550263489/tour-42993811082-crop.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1544130286/medlar-42254180632.jpg
 imageAlt: 
-- Group of people gathered around forest garden bed
+- White open Medlar flower
+imageCap:
+- A Medlar is a beautiful and unusual tree in all seasons
 draft: false
 ---
 
-# Forest Garden workshop
+# Online wildlife forest garden course
 
-A one day practical course for beginners, from April to September. We cover the whole process, from surveying, to planning, propagating and planting. Make it part of your holiday! Only £75 per person, workshop from 10am-4pm, refreshments included. Maximum 8 people per workshop. It is available to book [via Airbnb](https://www.airbnb.co.uk/experiences/524767). 
+I’m currently filming the new online course, due to be launched at the end of November 2019. Please [signup to the Forest Garden Wales](http://eepurl.com/dqwytj) newsletter to be sure of catching announcements and giveaways.
 
-<a class="button" href="https://www.airbnb.co.uk/experiences/524767">Book workshop</a><br><br>
+Here is a taster of the format, a small screencast I made for some clients to give them an overview of the design process:
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1543954590/permatywi-orchard-43060641451.jpg" alt="Man in hat standing in grass, talking about plants to assembled people" caption="Jake talking about plants in the Accidental Meadow. Photo © Christine Jones" >}}
+{{< vimeo 368061342 >}}
+
+And this is the proposed course content:
 
 ## Course content
 
-1. **Survey your site**: Measure out the land, test the soil, mark features.
-2. **Plan**: using low cost tools to create a plan of action.
-3. **Propagate**: It’s never too early to start propagating.
+**Introduction:** What is a forest garden, why would you want one & the importance of wildlife
+
+1. **Propagate**: It’s never too early to start propagating.
+2. **Perennial veg**: Get a quick return on your initial planting.
+3. **Survey your site**: Where are the sun, the wind, the water and the things?
+2. **Design**: using low cost tools to create a plan of action.
 4. **Windbreaks**: Windbreaks now & your plants will love you 4ever.
 5. **Canopy**: Plant the big trees, the canopy layer.
-6. **Sheet mulch**: Cover the ground to kill off the grass.
-7. **Shrubs**: Once your sheet mulch is up, shrubs away.
+6. **Ground prep**: Clear the ground to plant in your plants.
+7. **Shrubs**: Once the ground is clear, shrubs away.
 8. **Ground cover**: Keep the ground covered at all times & at all costs.
 
-<!-- 
-1. **[Survey your site](/workshop/survey/)**: Measure out the land, test the soil, mark features.
-2. **[Plan](/workshop/plan/)**: using low cost tools to create a plan of action.
-3. **[Propagate](/workshop/propagate/)**: It’s never too early to start propagating.
-4. **[Windbreaks](/workshop/windbreaks/)**: Windbreaks now & your plants will love you 4ever.
-5. **[Canopy](/workshop/canopy/)**: Plant the big trees, the canopy layer.
-6. **[Sheet mulch](/workshop/sheet-mulch/)**: Cover the ground to kill off the grass.
-7. **[Shrubs](/workshop/shrubs/)**: Once your sheet mulch is up, shrubs away.
-8. **[Ground cover](/workshop/ground-cover/)**: Keep the ground covered at all times & at all costs.
--->
-
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1551263069/OFG_3.21.jpg" alt="CAD plan over satellite photo" caption="Learn how to create a simple plan for your own forest garden" >}}
-
-## Directions
-
-For directions, see [www.forestgarden.wales/contact](/contact/)
-
+If there’s something that you’d like to be covered that isn’t listed, please do email me [hello@forestgarden.wales](mailto:hello@forestgarden.wales) or tweet me [@ForestGdnWales](https://twitter.com/ForestGdnWales), and I will try to incorporate it, in a bonus video if not the main course.

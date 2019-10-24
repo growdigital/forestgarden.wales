@@ -15,6 +15,24 @@
     
     
     <item>
+      <link>http://localhost:1313/status/191024-inkcap/</link>
+      <title>Inkcap</title>
+      <pubDate>Thu, 24 Oct 2019 15:35:55 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/191024-inkcap/</guid>
+      <description>A Shaggy Inkcap mushroom, I think, in a paddock by the farmhouse. One had dissolved in mush, the other chewed by slugs.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/191024-fungi/</link>
+      <title>Fungi</title>
+      <pubDate>Thu, 24 Oct 2019 15:32:49 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/191024-fungi/</guid>
+      <description>Spent a quiet few minutes in a walled orchard yesterday, amazing fungi on what I think is a plum tree.</description>
+    </item>
+    
+    <item>
       <link>http://localhost:1313/status/191021-fox/</link>
       <title>Fox</title>
       <pubDate>Tue, 22 Oct 2019 07:06:58 +0100</pubDate>
