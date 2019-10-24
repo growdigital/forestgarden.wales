@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/191024-fungi/</loc>
+    <lastmod>2019-10-24T15:32:49+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/overview-forest-garden-design-process/</loc>
     <lastmod>2019-10-22T21:04:37+01:00</lastmod>
   </url>
