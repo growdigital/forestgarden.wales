@@ -2,7 +2,7 @@
 title: Overview of my forest garden design process
 date: 2019-10-22T21:04:37+01:00
 discussionId: overview-forest-garden-design-process
-description: A bird’s eye view of my approach to designing a forest garden, in the form a slideshow and screencast
+description: A bird’s eye view of my approach to designing a forest garden, in the form of a slideshow and screencast
 tags: 
 - ForestGarden
 - Garden

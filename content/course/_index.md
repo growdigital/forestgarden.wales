@@ -19,9 +19,19 @@ Here is a taster of the format, a small screencast I made for some clients to gi
 
 {{< vimeo 368061342 >}}
 
-And this is the proposed course content:
+Signup to the newsletter to be updated about the course:
 
-## Course content
+<form class="subscribe" action="https://wales.us17.list-manage.com/subscribe/post" method="POST">
+ <input type="hidden" name="u" value="bef914615b5448ad5636c38fb">
+ <input type="hidden" name="id" value="10e50a6c17">
+ <label for="MERGE0">Email</label>
+ <input class="subscribe__textinput" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value=""><br>
+ <input class="button" type="submit" name="submit" value="Subscribe">
+ <input type="hidden" name="ht" value="72fb9d19eda695ba45e6107c0063acd2bfd6a81b:MTU0OTIzMTE4Mi45MDk4">
+ <input type="hidden" name="mc_signupsource" value="hosted">
+</form>
+
+## Proposed course content
 
 **Introduction:** What is a forest garden, why would you want one & the importance of wildlife
 
