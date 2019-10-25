@@ -41,7 +41,7 @@ Signup to the newsletter to be updated about the course:
 2. **Design**: using low cost tools to create a plan of action.
 4. **Windbreaks**: Windbreaks now & your plants will love you 4ever.
 5. **Canopy**: Plant the big trees, the canopy layer.
-6. **Ground prep**: Clear the ground to plant in your plants.
+6. **Ground prep**: Clear the ground to plant your plants.
 7. **Shrubs**: Once the ground is clear, shrubs away.
 8. **Ground cover**: Keep the ground covered at all times & at all costs.
 
