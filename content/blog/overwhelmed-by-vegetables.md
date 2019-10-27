@@ -35,4 +35,4 @@ On the harvest front, I have been simplifying my recipes and bunging stuff in a 
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1572182705/tomato-1DDC32C0.jpg" alt="Pan of bubbling green tomato purée" caption="Tomato experiment in progress" >}}
 
-Today, I thought, why not green tomato purée? So, this is I’m doing. Fingers crossed & no big worry if it doesn’t work, as no experiment fails 🙂
+Today, I thought, why not green tomato purée? So, this is where I’m going. Fingers crossed & no big worry if it doesn’t work, as no experiment fails 🙂
