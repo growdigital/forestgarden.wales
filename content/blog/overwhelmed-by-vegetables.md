@@ -31,7 +31,7 @@ Harvest time, paradoxically, can be the most overwhelming time. Rather than bein
 
 My way of dealing with this has been to concentrate on one vegetable at a time. Tomatoes are good now, and this year has been the year of the aubergine for me (a good compost mulch plus regular watering is my tip). 
 
-On the harvest front, I have been simplifying my recipes and bunging stuff in a pot! In our first year here, I was _roasting_ tomatoes before puréeing them. They tasted glorious but took an age. Now, I put everything in a pot (see link to tomato purée recipe above).
+On the harvest front, I have been simplifying my recipes and bunging stuff in a pot! In our first year here, I was _roasting_ tomatoes before puréeing them. They tasted glorious but took an age. Now, I put everything in a pot (see my [tomato purée recipe](http://simp.ly/p/bcRzGy)).
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1572182705/tomato-1DDC32C0.jpg" alt="Pan of bubbling green tomato purée" caption="Tomato experiment in progress" >}}
 
