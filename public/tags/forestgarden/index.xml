@@ -9,10 +9,19 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Tue, 22 Oct 2019 21:04:37 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2019 13:13:09 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Overwhelmed by Vegetables</title>
+      <link>http://localhost:1313/blog/overwhelmed-by-vegetables/</link>
+      <pubDate>Sun, 27 Oct 2019 13:13:09 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/overwhelmed-by-vegetables/</guid>
+      <description>First off, here’s my simple, pot-bound, bung-it-in-together tomato purée recipe. TL;DR don’t fret, chuck it in a pot.</description>
+    </item>
     
     <item>
       <title>Overview of my forest garden design process</title>
