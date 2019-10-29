@@ -5,7 +5,7 @@ html {
 }
 body {
   color: #444;
-  font-family: sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
 }
 
 .remark-slide-content li,
@@ -22,7 +22,7 @@ h2, h3 {
 }
 
 h1, h2, h3, h4 {
-  font-family: Georgia, serif;
+  font-family: "IBM Plex Serif", Georgia, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -51,4 +51,18 @@ blockquote {
 
 .remark-slide-scaler {
   box-shadow: 0 0 0 transparent;
+}
+
+/* Full screen image */
+
+.remark-slide {
+  position: relative;
+}
+
+.full-screen {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
 }
