@@ -1,0 +1,68 @@
+{{ define "main" }}
+  <main class="article">
+    <article class="article breakout h-entry" itemscope itemtype="https://schema.org/Article">
+      {{ partial "microformat-schema.html" . }}
+      <h1 class="p-name">{{ .Title }}</h1>
+      <p class="article__summary p-summary">{{ .Description }}</p>
+      <div class="share--blog">
+        {{ partial "share.html" . }}
+      </div>
+      {{ if .Params.tags }}
+      <div class="article__tags o-list-inline">
+        <h3>Tags:</h3>
+        <ul class="o-list-bare o-list-inline p-category">
+          {{ range .Params.tags }}
+            <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+      {{ if .Params.images }}
+        <figure>
+          <img src="{{ .Site.Params.cloudinary }}f_auto,q_70,w_736/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}" alt="{{ (index .Params.imageAlt 0) }}">
+          <figcaption>{{ (index .Params.imageCap 0) }}</figcaption>
+        </figure>
+      {{ end }}
+      <div class="e-content" itemprop="mainEntityOfPage">
+        {{ .Content }}
+      </div>
+      <dl class="meta">
+        <dt>Author:</dt>
+        <dd rel="author" class="p-author h-card">{{ .Site.Author.name }}</dd>
+        <dt>Date:</dt>
+        <dd>
+          <time class="dt-published" pubdate itemprop="datePublished" content="{{ .Date.Format "2006-01-02" }}">
+            {{ .Date.Format "Monday" }}, {{ .Date.Format "2" | humanize}} {{ .Date.Format "January 2006" }}
+          </time>
+        </dd>
+        <dt>Permalink:</dt>
+        <dd>
+          <a class="u-url" href="{{ .Permalink }}">{{ .Permalink }}</a>
+        </dd>
+      </dl>
+      <section>
+        <h3>Comments</h3>
+        <script>talkyardServerUrl='{{ .Site.Params.talkyardServerUrl }}';</script>
+        <script async defer src="{{ .Site.Params.talkyardScriptUrl | default "https://c1.ty-cdn.net/-/talkyard-comments.min.js" }}"></script>
+        <!-- You can specify a per page discussion id on the next line, if your URLs might change. -->
+        <div class="talkyard-comments" data-discussion-id="{{ .Params.discussionId }}" style="margin-top: 45px;">
+        <noscript>Please enable Javascript to view comments.</noscript>
+        <p style="margin-top: 25px; opacity: 0.9">Comments powered by
+        <a href="https://www.talkyard.io">Talkyard</a>.</p>
+        </div>
+      </section>
+      <section>
+        <p>Subscribe to blog posts by email</p>
+        <form class="subscribe" action="https://wales.us17.list-manage.com/subscribe/post" method="POST">
+            <input type="hidden" name="u" value="bef914615b5448ad5636c38fb">
+            <input type="hidden" name="id" value="5fbfe7af82">
+            <label for="MERGE0">Email</label>
+            <input class="subscribe__textinput" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
+            <input class="button" type="submit" name="submit" value="Subscribe">
+            <input type="hidden" name="ht" value="cfca6edc3f5239e914c7cab70c6d10622e1e3334:MTU0OTQ2NjA1MC42NzIy">
+            <input type="hidden" name="mc_signupsource" value="hosted">
+        </form>
+      </section>
+    </article>
+  </main>
+{{ end }}
