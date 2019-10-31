@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/191031-slugs/</loc>
+    <lastmod>2019-10-31T09:22:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/article/test/</loc>
+    <lastmod>2019-10-30T09:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/191029-pocket-parks/</loc>
+    <lastmod>2019-10-29T19:54:11+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/191028-spider/</loc>
     <lastmod>2019-10-28T17:12:56+00:00</lastmod>
   </url>
@@ -3625,6 +3640,12 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/article/</loc>
+    <lastmod>2019-10-30T09:46:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/beefriendly/</loc>
     <lastmod>2019-04-03T10:17:38+01:00</lastmod>
     <priority>0</priority>
@@ -3758,7 +3779,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2019-10-27T13:13:09+00:00</lastmod>
+    <lastmod>2019-10-30T09:46:32+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3885,6 +3906,12 @@
   <url>
     <loc>http://localhost:1313/tags/ofg/</loc>
     <lastmod>2019-03-04T20:09:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/orchard/</loc>
+    <lastmod>2019-10-30T09:46:32+00:00</lastmod>
     <priority>0</priority>
   </url>
   

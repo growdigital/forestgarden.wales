@@ -9,10 +9,19 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Sun, 27 Oct 2019 13:13:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2019 09:46:32 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Know 4 things before planting an orchard</title>
+      <link>http://localhost:1313/article/test/</link>
+      <pubDate>Wed, 30 Oct 2019 09:46:32 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/article/test/</guid>
+      <description> Aspect  sun angle latitude  Protection  windbreak nurse tree dead hedge  Size  height diameter shape rootstock species  Soil  Drainage Fertility Soil type   </description>
+    </item>
     
     <item>
       <title>Overwhelmed by Vegetables</title>
