@@ -3,7 +3,6 @@ title: Know 4 things before planting an orchard
 date: 2019-10-30T09:46:32Z
 discussionId: 4-things-planting-orchard
 description: 
-slug: test
 tags: 
 - ForestGarden
 - Orchard

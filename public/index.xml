@@ -15,6 +15,15 @@
     
     
     <item>
+      <title>Blog: My favourite place #ForestGarden #Orchard </title>
+      <link>http://localhost:1313/blog/my-favourite-place/</link>
+      <pubDate>Sat, 02 Nov 2019 14:29:31 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/my-favourite-place/</guid>
+      <description>I like being in forest gardens &amp; living places. You can give it a name (biophilia) if you like. But I just like being there.</description>
+    </item>
+    
+    <item>
       <title>You probably don’t want to hear this but slugs are great, here’s one doing its slug thing in the compost heap, essential part of the ecosystem in the #ForestGarden #SlugWeek #Love-a-slug</title>
       <link>http://localhost:1313/status/191031-slugs/</link>
       <pubDate>Thu, 31 Oct 2019 09:22:26 +0000</pubDate>
@@ -25,10 +34,10 @@
     
     <item>
       <title>Blog: Know 4 things before planting an orchard #ForestGarden #Orchard </title>
-      <link>http://localhost:1313/article/test/</link>
+      <link>http://localhost:1313/article/4-things-planting-orchard/</link>
       <pubDate>Wed, 30 Oct 2019 09:46:32 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/article/test/</guid>
+      <guid>http://localhost:1313/article/4-things-planting-orchard/</guid>
       <description></description>
     </item>
     

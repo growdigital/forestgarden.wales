@@ -11,6 +11,7 @@ imageAlt:
 - 
 imageCap:
 - 
+gallery: false
 draft: false
 ---
 
