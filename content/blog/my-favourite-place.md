@@ -9,17 +9,17 @@ tags:
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1572704768/pear-410F45BF.jpg
 - https://res.cloudinary.com/growdigital/image/upload/v1572704771/orchard-1D437D6D.jpg
-- https://res.cloudinary.com/growdigital/image/upload/v1572706609/lizard-414B839B.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1572706609/newt-414B839B.jpg
 - https://res.cloudinary.com/growdigital/image/upload/v1572704765/orchard-C2C42300.jpg
 imageAlt:
 - Pear hanging on branch
 - Walled orchard
-- Closeup small orange lizard
+- Closeup small orange newt
 - Newly mulched tree in walled orchard
 imageCap:
 - Pear tree laden with fruit
 - The walled orchard
-- Lizard inadvertently uncovered
+- Newt inadvertently uncovered
 - Mulching young trees in the orchard
 gallery: true
 draft: false
@@ -39,8 +39,10 @@ By the wall are half a dozen plastic sacks filled with wood chip. My job is to c
 
 The work is satisfying and there is something indulgent about working somewhere so private and calm. I am in my own world, planning my [online course](/course) and fretting gently about my upcoming talk on the [smaller forest garden](https://www.forestgarden.wales/talks/smaller/). I notice some things too. How the wind whips around the edge of the wall, and I think the mature trees could be underplanted with a windbreak. I notice the unbound spring, near the entrance. Someone has started cutting a channel out of the turf to corral the spring into a stream.
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1572706609/lizard-414B839B.jpg" alt="Closeup small orange lizard" caption="Lizard inadvertently uncovered" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1572706609/newt-414B839B.jpg" alt="Closeup small orange newt" caption="Newt inadvertently uncovered" >}}
 
-And then I see the lizard. I have uncovered some nettle and grass, and the lizard is motionless. I think I can detect an air of annoyance but that is probably my overactive anthropomorphism flooding my nervous system. Quickly, I find some dry wood chip and carefully place it around the bemused lizard, and then I find a large, flattish stone that I put nearby. Lizards like to bask on stones. But the sky’s expression stays stubbornly overcast. I hope the lizard will be okay.
+And then I see the newt. I have uncovered some nettle and grass, and they are motionless. I think I can detect an air of annoyance but that is probably my overactive anthropomorphism flooding my nervous system. Quickly, I find some wood chip and carefully place it around the bemused newt. I hope it will be okay.*
 
 After a couple of hours, my work is done. It’s time to move on.
+
+\* Edit: In my wide-ranging ignorance of wildlife, I originally thought they were a [lizard](https://en.wikipedia.org/wiki/Viviparous_lizard) but a reader graciously pointed out my mistake. Thank you Lou!

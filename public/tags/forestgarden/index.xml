@@ -9,17 +9,26 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Wed, 30 Oct 2019 09:46:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2019 14:29:31 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>My favourite place</title>
+      <link>http://localhost:1313/blog/my-favourite-place/</link>
+      <pubDate>Sat, 02 Nov 2019 14:29:31 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/my-favourite-place/</guid>
+      <description>I finished weeding in the morning. The geranium has taken well in most places, pungent where I tread too close.</description>
+    </item>
+    
+    <item>
       <title>Know 4 things before planting an orchard</title>
-      <link>http://localhost:1313/article/test/</link>
+      <link>http://localhost:1313/article/4-things-planting-orchard/</link>
       <pubDate>Wed, 30 Oct 2019 09:46:32 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/article/test/</guid>
+      <guid>http://localhost:1313/article/4-things-planting-orchard/</guid>
       <description> Aspect  sun angle latitude  Protection  windbreak nurse tree dead hedge  Size  height diameter shape rootstock species  Soil  Drainage Fertility Soil type   </description>
     </item>
     
