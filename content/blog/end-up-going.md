@@ -2,7 +2,7 @@
 title: If we don’t change direction, we’ll end up where we’re going
 date: 2019-11-05T09:45:05Z
 discussionId: end-up-going
-description: I gave a talk last night to Llangwm Gardening Club about The Smaller Forest Garden. I digressed on to Native Plants and the Climate Emergency. Oops.
+description: I gave a talk to Llangwm Gardening Club about The Smaller Forest Garden. I digressed onto Native Plants and the Climate Emergency. Oops.
 tags: 
 - ForestGarden
 - NativePlants
