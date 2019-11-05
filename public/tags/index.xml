@@ -69,6 +69,15 @@
     </item>
     
     <item>
+      <title>Climate Emergency</title>
+      <link>http://localhost:1313/tags/climate-emergency/</link>
+      <pubDate>Tue, 05 Nov 2019 09:45:05 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/climate-emergency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Climateaction</title>
       <link>http://localhost:1313/tags/climateaction/</link>
       <pubDate>Fri, 19 Apr 2019 14:42:46 +0100</pubDate>
@@ -393,6 +402,15 @@
     </item>
     
     <item>
+      <title>Nativeplants</title>
+      <link>http://localhost:1313/tags/nativeplants/</link>
+      <pubDate>Tue, 05 Nov 2019 09:45:05 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/nativeplants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nestbox</title>
       <link>http://localhost:1313/tags/nestbox/</link>
       <pubDate>Thu, 21 Mar 2019 20:51:04 +0000</pubDate>
@@ -614,6 +632,15 @@
       <pubDate>Tue, 20 Nov 2018 09:50:02 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk</title>
+      <link>http://localhost:1313/tags/talk/</link>
+      <pubDate>Tue, 05 Nov 2019 09:45:05 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/talk/</guid>
       <description></description>
     </item>
     
