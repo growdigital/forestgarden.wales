@@ -2,11 +2,11 @@
 title: Newsletter
 date: 2019-11-05T09:00:00Z
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1543789181/final-plan-fgrp.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1565295179/hoverfly-25218545.jpg
 imageAlt: 
-- CAD forest garden plan
+- Hoverfly on small flowers
 imageCap:
-- An example of a forest garden outline planting plan
+- Hoverfly on a oregano flowers
 draft: false
 ---
 
