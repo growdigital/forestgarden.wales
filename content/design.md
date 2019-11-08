@@ -26,7 +26,7 @@ We also offer a remote forest garden service, which costs from £100 for a satel
 1. Satellite CAD plan £100
 2. Structural & tree plan £150
 3. Detailed planting plan £150
-4. Photoshop mockups, 2 views £100
+4. Sketches/mockups, 2 views £100
 
 The whole process takes about 2 weeks, and communication is via [Zoom](https://zoom.us) video calls, [Whatsapp](https://www.whatsapp.com) and email. I use [Simplenote](https://simplenote.com) to document the design. The design software I use is [QCAD](https://qcad.org), [available for free](https://qcad.org/en/download). 
 
