@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/blog/inter-disciplinary-forest-garden/</loc>
+    <lastmod>2019-11-09T10:47:22+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/screenshot-think-native-plants/</loc>
     <lastmod>2019-11-08T21:38:23+00:00</lastmod>
   </url>
@@ -3810,7 +3815,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2019-11-08T21:38:23+00:00</lastmod>
+    <lastmod>2019-11-09T10:47:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   

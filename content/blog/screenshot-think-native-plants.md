@@ -18,12 +18,12 @@ imageCap:
 draft: false
 ---
 
-The [Database of Insects and their Food Plants](https://www.brc.ac.uk/dbif/homepage.aspx) is a fantastic resource created by the [Biological Records Centre](https://www.brc.ac.uk) that lists native plant and inverterbrates which they are hosts for. 
+The [Database of Insects and their Food Plants](https://www.brc.ac.uk/dbif/homepage.aspx) is a fantastic resource created by the [Biological Records Centre](https://www.brc.ac.uk) that lists native plants and which inverterbrates they are hosts for. 
 
-The reason to use native plants in a garden is because they have co-evolved with local fauna and so are better for wildlife. To illustrate this, the [Common Oak](https://en.wikipedia.org/wiki/Quercus_robur) is [host to](https://www.brc.ac.uk/dbif/hostsresults.aspx?hostid=4595) **274 species of inverterbrate**. That is a huge number. Here is a screenshot of the list (I had to rotate it to fit it on the page!):
+The reason to use native plants in a garden is because they have co-evolved with local fauna and so are better for wildlife. To illustrate this, the [Common Oak](https://en.wikipedia.org/wiki/Quercus_robur) is host to **274 species of inverterbrate**. That is a huge number. Here is a screenshot of the list (rotated   to fit it on the page):
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1573293631/quercus-robur-host-90deg.png" alt="Screenshot of host inverterbrates for Common Oak" caption="The 274 species of inverterbrate that call the Common Oak home" >}}
 
 See the [Quercus Robur entry for the full list](https://www.brc.ac.uk/dbif/hostsresults.aspx?hostid=4595).
 
-_This_ is the reason we should be using native plants in our gardens wherever possible, because we need to start thinking species other than ourselves. In a time of Climate Emergency and Mass Extinction, by providing habitat and food for our native wildlife, we increase its resilience. It also extends our thoughts beyond the confines of our gardens and into the wider landscape.
+_This_ is the reason we should be using native plants in our gardens wherever possible, because we need to start thinking about species other than ourselves. In a time of Climate Emergency and Mass Extinction, by providing habitat and food for our native wildlife, we increase its resilience. It also extends our thoughts beyond the confines of our gardens and into the wider landscape.
