@@ -15,7 +15,7 @@ imageCap:
 draft: false
 ---
 
-I gave a talk about [The Smaller Forest Garden](https://www.forestgarden.wales/talks/smaller/) the other day, and only 3 people out of the two dozen strong audience had heard of the [State of Nature report 2019](https://www.bto.org/our-science/publications/state-nature-report/state-nature-report-2019). 
+I gave a talk about [The Smaller Forest Garden](https://www.forestgarden.wales/talks/smaller/) the other day, and only 3 people out of the two dozen strong audience had heard of the [State of Nature report 2019](https://www.bto.org/our-science/publications/state-nature-report/state-nature-report-2019) published October 2019. 
 
 > “State of Nature 2019 documents how human impacts are driving sweeping changes in wildlife in the UK. As well as an overarching assessment of UK flora and fauna, there are separate reports for England, Scotland, Northern Ireland and Wales to look at each country in more depth. The reports pool data and expertise from 53 nature conservation and research organisations, a partnership unparalleled in UK conservation.”
 
