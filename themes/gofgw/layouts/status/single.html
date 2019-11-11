@@ -5,7 +5,7 @@
       <h1 class="p-name">
         {{ .Date.Format "Monday" }}, {{ .Date.Format "2" | humanize}} {{ .Date.Format "January 2006 03:04pm" }}
       </h1>
-      {{ if .Params.images }}
+      {{ if (index .Params.images 0) }}
         <figure>
           <img src="{{ .Site.Params.cloudinary }}f_auto,q_70,w_736/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}" alt="{{ (index .Params.imageAlt 0) }}">
         </figure>

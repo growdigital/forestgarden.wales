@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/191111-definition/</loc>
+    <lastmod>2019-11-11T16:20:04+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/state-nature-report-2019/</loc>
     <lastmod>2019-11-10T19:09:23+00:00</lastmod>
   </url>
