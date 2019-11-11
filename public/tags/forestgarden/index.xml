@@ -9,18 +9,36 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Fri, 08 Nov 2019 21:38:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2019 19:09:23 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>State of Nature report 2019</title>
+      <link>http://localhost:1313/blog/state-nature-report-2019/</link>
+      <pubDate>Sun, 10 Nov 2019 19:09:23 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/state-nature-report-2019/</guid>
+      <description>I gave a talk about The Smaller Forest Garden the other day, and only 3 people out of the two dozen strong audience had heard of the State of Nature report 2019 published October 2019.</description>
+    </item>
+    
+    <item>
+      <title>Inter-disciplinary forest garden</title>
+      <link>http://localhost:1313/blog/inter-disciplinary-forest-garden/</link>
+      <pubDate>Sat, 09 Nov 2019 10:47:22 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/inter-disciplinary-forest-garden/</guid>
+      <description>In my previous life as web designer, I attended the leftfield tech conference dConstruct back in 2012.</description>
+    </item>
+    
+    <item>
       <title>One screenshot to change the way you think about native plants</title>
-      <link>http://localhost:1313/blog/think-plant-think-native/</link>
+      <link>http://localhost:1313/blog/screenshot-think-native-plants/</link>
       <pubDate>Fri, 08 Nov 2019 21:38:23 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/blog/think-plant-think-native/</guid>
-      <description>The Database of Insects and their Food Plants is a fantastic resource created by the Biological Records Centre that lists native plant and inverterbrates which they are hosts for.</description>
+      <guid>http://localhost:1313/blog/screenshot-think-native-plants/</guid>
+      <description>The Database of Insects and their Food Plants is a fantastic resource created by the Biological Records Centre that lists native plants and which inverterbrates they are hosts for.</description>
     </item>
     
     <item>

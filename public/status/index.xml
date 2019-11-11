@@ -15,6 +15,24 @@
     
     
     <item>
+      <link>http://localhost:1313/status/191110-branches/</link>
+      <title>Branches</title>
+      <pubDate>Sun, 10 Nov 2019 19:06:27 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/191110-branches/</guid>
+      <description>Glorious oak tree in the glorious autumn light in the #ForestGarden.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/191110-beach/</link>
+      <title>Beach</title>
+      <pubDate>Sun, 10 Nov 2019 18:53:55 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/191110-beach/</guid>
+      <description>Had a lovely trip to Poppit Sand’s last week, a huge range of wild plants in amongst the sand dunes.</description>
+    </item>
+    
+    <item>
       <link>http://localhost:1313/status/191108-know/</link>
       <title>Know</title>
       <pubDate>Fri, 08 Nov 2019 19:36:44 +0000</pubDate>

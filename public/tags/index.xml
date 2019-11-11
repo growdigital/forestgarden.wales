@@ -242,7 +242,7 @@
     <item>
       <title>Forestgarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Fri, 08 Nov 2019 21:38:23 +0000</pubDate>
+      <pubDate>Sun, 10 Nov 2019 19:09:23 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
@@ -623,6 +623,15 @@
       <pubDate>Sun, 09 Dec 2018 12:47:07 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/spinach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stateofnature</title>
+      <link>http://localhost:1313/tags/stateofnature/</link>
+      <pubDate>Sun, 10 Nov 2019 19:09:23 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/stateofnature/</guid>
       <description></description>
     </item>
     
