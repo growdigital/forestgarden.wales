@@ -66,3 +66,9 @@ blockquote {
   top: 0;
   width: 100%;
 }
+
+/* Text decoration underline */
+
+.u-underline {
+  text-decoration: underline !important;
+}

@@ -242,7 +242,7 @@
     <item>
       <title>Forestgarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Sun, 10 Nov 2019 19:09:23 +0000</pubDate>
+      <pubDate>Tue, 12 Nov 2019 10:25:34 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
@@ -362,6 +362,15 @@
       <pubDate>Wed, 28 Nov 2018 21:28:34 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latin</title>
+      <link>http://localhost:1313/tags/latin/</link>
+      <pubDate>Tue, 12 Nov 2019 10:25:34 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/latin/</guid>
       <description></description>
     </item>
     
@@ -501,6 +510,15 @@
     </item>
     
     <item>
+      <title>Plantnames</title>
+      <link>http://localhost:1313/tags/plantnames/</link>
+      <pubDate>Tue, 12 Nov 2019 10:25:34 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/plantnames/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pollinator</title>
       <link>http://localhost:1313/tags/pollinator/</link>
       <pubDate>Wed, 03 Apr 2019 10:17:38 +0100</pubDate>
@@ -609,6 +627,15 @@
     </item>
     
     <item>
+      <title>Scientific</title>
+      <link>http://localhost:1313/tags/scientific/</link>
+      <pubDate>Tue, 12 Nov 2019 10:25:34 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/scientific/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Smallgarden</title>
       <link>http://localhost:1313/tags/smallgarden/</link>
       <pubDate>Mon, 18 Mar 2019 13:29:09 +0000</pubDate>
@@ -686,6 +713,15 @@
       <pubDate>Tue, 09 Apr 2019 12:27:44 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wild</title>
+      <link>http://localhost:1313/tags/wild/</link>
+      <pubDate>Sat, 16 Jun 2018 13:07:48 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/wild/</guid>
       <description></description>
     </item>
     
