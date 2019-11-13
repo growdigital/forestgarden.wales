@@ -39,6 +39,14 @@ blockquote {
   font-style: italic;
 }
 
+/* Links */
+
+a:visited {
+  color: #0000EE !important;
+}
+
+/* Remark slide styling */
+
 .remark-slide-content {
   background-color: #f6fce6;
 }
