@@ -15,10 +15,12 @@ body {
 
 h1 {
   line-height: 1.1;
+  margin: 0.7rem 0 2rem;
 }
 
 h2, h3 {
   line-height: 1.2;
+  margin: 1rem 0 2.2rem
 }
 
 h1, h2, h3, h4 {
