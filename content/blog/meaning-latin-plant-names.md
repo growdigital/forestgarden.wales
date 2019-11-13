@@ -9,11 +9,11 @@ tags:
 - PlantNames
 - Scientific
 images: 
-- 
+- https://res.cloudinary.com/growdigital/image/upload/v1573645773/carl-linnaeus.jpg
 imageAlt:
-- 
+- Painting of distinguished 18th Century academic
 imageCap:
-- 
+- Carl Linnaeus, the Swedish botanist, zoologist & physician who formalised binomial nomenclature, the modern system of naming organisms
 draft: false
 ---
 
