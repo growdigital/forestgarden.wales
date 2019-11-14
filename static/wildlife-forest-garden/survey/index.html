@@ -173,18 +173,40 @@ by Jake Rayson
 
 ## Cool digital tools
 
-* Map apps
+* Map web apps 👈
 * [QCAD](https://qcad.org) Computer Aided Design
 * [Sun Surveyor](https://www.sunsurveyor.com) app
 
-![CAD garden plan, showing CAD controls](https://res.cloudinary.com/growdigital/image/upload/w_560/v1570785794/greenroom-cad-screenshots-nophoto.png)
+![3D satellite photo](https://res.cloudinary.com/growdigital/image/upload/w_560/v1573757348/greenroom-satellite-3d-google-south-west.png)
 
 ???
 
-* OS data not always that accurate!
-* Ordnance Survey data, [buy custom OS maps The Map Centre](https://www.themapcentre.com)
+* [Google Maps](https://www.google.com/maps), [Bing maps](https://www.bing.com/maps), try [USGS EarthExplorer](https://earthexplorer.usgs.gov)
 * [Ground Stability website](https://groundstability.com/public/web/log-order?execution=e1s5)
+* Ordnance Survey data, [buy custom OS maps The Map Centre](https://www.themapcentre.com)
+* OS data not always that accurate!
 * Drones for the future!
+
+---
+
+## Cool digital tools
+
+* Map web apps
+* [QCAD](https://qcad.org) Computer Aided Design 👈
+* [Sun Surveyor](https://www.sunsurveyor.com) app
+
+![CAD garden plan, showing CAD controls](https://res.cloudinary.com/growdigital/image/upload/w_560/v1570785794/greenroom-cad-screenshots-nophoto.jpg)
+
+---
+
+## Cool digital tools
+
+* Map web apps
+* [QCAD](https://qcad.org) Computer Aided Design
+* [Sun Surveyor](https://www.sunsurveyor.com) app 👈
+
+![Screenshot Sun Surveyor app](https://res.cloudinary.com/growdigital/image/upload/w_560/v1542489153/sun-nov.jpg)
+
 ---
 
 ## Paper scale
@@ -231,37 +253,56 @@ Instructions online: [Forest garden CAD photo](https://www.forestgarden.wales/bl
 
 ## 1. Screenshot satellite
 
-<h6 style="position:absolute; bottom:4px; left:60px"><span class="u-underline">Screenshot satellite</span> – Scale photo – Calculate scale — Trim screenshot – Import into CAD – Resize image</h6>
+* Highest resolution possible
+* Be sure to include scale, in metres
+* Save as good quality JPEG
+
+![Screenshot 2D satellite window, including browser chrome](https://res.cloudinary.com/growdigital/image/upload/w_560/v1573757850/course-screenshot-satellite-photo.jpg)
+
+<h6 style="position:absolute; bottom:4px; left:60px"><span class="u-underline">Screenshot satellite</span> – Calculate ratio — Trim screenshot – Import into CAD – Resize image</h6>
+
+???
+
+* Resolution varies between vendors
 
 ---
 
-## 2. Scale photo
+## 2. Calculate ratio
 
-<h6 style="position:absolute; bottom:4px; left:60px">Screenshot satellite – <span class="u-underline">Scale photo</span> – Calculate scale — Trim screenshot – Import into CAD – Resize image</h6>
+1. Measure pixel length of metres scale
+2. Work out **_pixels per metre_** ratio
+3. Eg _106px ÷ 5 metres_ → _21.2px per metre_
 
----
+![Closeup of scale in metres on satellite screenshot](https://res.cloudinary.com/growdigital/image/upload/w_560/v1573759452/course-satellite-scale.jpg)
 
-## 3. Calculate scale
+<h6 style="position:absolute; bottom:4px; left:60px">Screenshot satellite – <span class="u-underline">Calculate ratio</span> — Trim screenshot – Import into CAD – Resize image</h6>
 
-<h6 style="position:absolute; bottom:4px; left:60px">Screenshot satellite – Scale photo – <span class="u-underline">Calculate scale</span> — Trim screenshot – Import into CAD – Resize image</h6>
+???
 
----
-
-## 4. Trim screenshot
-
-<h6 style="position:absolute; bottom:4px; left:60px">Screenshot satellite – Scale photo – Calculate scale — <span class="u-underline">Trim screenshot</span> – Import into CAD – Resize image</h6>
+* Use Photoshop or Open Source [GIMP](https://www.gimp.org)
 
 ---
 
-## 5. Import into CAD
+## 3. _Not_ Magic Number!
 
-<h6 style="position:absolute; bottom:4px; left:60px">Screenshot satellite – Scale photo – Calculate scale — Trim screenshot – <span class="u-underline">Import into CAD</span> – Resize image</h6>
+* QCAD imports image at 1 metre per 
+* We want 1 : px per metre 
+* To scale image, _1 ÷ pixels per metre_ ratio
+* Eg _1 ÷ 21.2 = **0.047169811**_
 
 ---
 
-## 6. Resize image
+## 3. Import into CAD
 
-<h6 style="position:absolute; bottom:4px; left:60px">Screenshot satellite – Scale photo – Calculate scale — Trim screenshot – Import into CAD – <span class="u-underline">Resize image</span></h6>
+* `File → Import` 
+* Select image, `View → Property Editor`
+* Width & Height Factor: Magic Number eg **0.047169811**
+
+<h6 style="position:absolute; bottom:4px; left:60px">Screenshot satellite – Calculate ratio — Trim screenshot – <span class="u-underline">Import into CAD</span> – Resize image</h6>
+
+???
+
+* QCAD document same folder as image
 
 ---
 
