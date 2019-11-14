@@ -229,11 +229,10 @@ by Jake Rayson
 
 ## Digital satellite
 
-1. Screenshot satellite photo
-2. Calculate scale
-3. Trim screenshot
-4. Import into CAD
-5. Resize image
+1. Screenshot satellite
+2. Pixels per metre
+3. Image scale factor
+4. Scale image
 
 ![Satellite photo terraced houses with gardens](https://res.cloudinary.com/growdigital/image/upload/w_480/v1565176320/greenroom-satellite.jpg)
 
@@ -259,7 +258,7 @@ Instructions online: [Forest garden CAD photo](https://www.forestgarden.wales/bl
 
 ![Screenshot 2D satellite window, including browser chrome](https://res.cloudinary.com/growdigital/image/upload/w_560/v1573757850/course-screenshot-satellite-photo.jpg)
 
-<h6 style="position:absolute; bottom:4px; left:60px"><span class="u-underline">Screenshot satellite</span> – Calculate ratio — Trim screenshot – Import into CAD – Resize image</h6>
+<h6 style="position:absolute; bottom:4px; left:60px"><span class="u-underline">Screenshot satellite</span> – Pixels per metre — Image scale factor – Scale image</h6>
 
 ???
 
@@ -267,7 +266,7 @@ Instructions online: [Forest garden CAD photo](https://www.forestgarden.wales/bl
 
 ---
 
-## 2. Calculate ratio
+## 2. Pixels per metre
 
 1. Measure pixel length of metres scale
 2. Work out **_pixels per metre_** ratio
@@ -275,7 +274,7 @@ Instructions online: [Forest garden CAD photo](https://www.forestgarden.wales/bl
 
 ![Closeup of scale in metres on satellite screenshot](https://res.cloudinary.com/growdigital/image/upload/w_560/v1573759452/course-satellite-scale.jpg)
 
-<h6 style="position:absolute; bottom:4px; left:60px">Screenshot satellite – <span class="u-underline">Calculate ratio</span> — Trim screenshot – Import into CAD – Resize image</h6>
+<h6 style="position:absolute; bottom:4px; left:60px">Screenshot satellite – <span class="u-underline">Pixels per metre</span> — Image scale factor – Scale image</h6>
 
 ???
 
@@ -283,22 +282,25 @@ Instructions online: [Forest garden CAD photo](https://www.forestgarden.wales/bl
 
 ---
 
-## 3. _Not_ Magic Number!
+## 3. Image scale factor
 
-* QCAD imports image at 1 metre per 
-* We want 1 : px per metre 
-* To scale image, _1 ÷ pixels per metre_ ratio
-* Eg _1 ÷ 21.2 = **0.047169811**_
+1. QCAD imports image _1px per metre_
+2. We want **our** ratio eg _21.2px per metre_
+3. Divide 1 by our ratio eg _1 ÷ 21.2 = 0.047169811_
+4. **0.047169811** is our scale factor
+
+<h6 style="position:absolute; bottom:4px; left:60px">Screenshot satellite – Pixels per metre — <span class="u-underline">Image scale factor</span> – Scale image</h6>
 
 ---
 
-## 3. Import into CAD
+## 4. Scale image
 
-* `File → Import` 
-* Select image, `View → Property Editor`
-* Width & Height Factor: Magic Number eg **0.047169811**
+1. `File → Import` 
+2. Select image, `View → Property Editor`
+3. `Width & Height Factor:` image scale factor
+4. eg **0.047169811**
 
-<h6 style="position:absolute; bottom:4px; left:60px">Screenshot satellite – Calculate ratio — Trim screenshot – <span class="u-underline">Import into CAD</span> – Resize image</h6>
+<h6 style="position:absolute; bottom:4px; left:60px">Screenshot satellite – Pixels per metre — Image scale factor – <span class="u-underline">Scale image</span></h6>
 
 ???
 
