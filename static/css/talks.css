@@ -63,6 +63,11 @@ a:visited {
   box-shadow: 0 0 0 transparent;
 }
 
+.remark-inline-code {
+  background-color: yellow;
+  outline: 2px solid yellow;
+}
+
 /* Full screen image */
 
 .remark-slide {
@@ -81,6 +86,14 @@ a:visited {
 .full-screen--remote {
   background-position: center center;
   background-repeat: no-repeat;
+}
+
+/* Breadcrumb */
+
+.breadcrumb {
+  bottom:4px;
+  left:60px;
+  position:absolute;
 }
 
 /* Text decoration underline */

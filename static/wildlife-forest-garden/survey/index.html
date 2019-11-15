@@ -36,6 +36,15 @@
 
   <link rel="stylesheet" href="/css/talks.css">
   <link rel="shortcut icon" href="/img/favicon.ico">
+
+  <style>
+    .our-scale-factor {
+      position:absolute; 
+      right:50px; 
+      text-align:center;
+      top:270px; 
+    }
+  </style>
 </head>
 
 <body>
@@ -258,7 +267,7 @@ Instructions online: [Forest garden CAD photo](https://www.forestgarden.wales/bl
 
 ![Screenshot 2D satellite window, including browser chrome](https://res.cloudinary.com/growdigital/image/upload/w_560/v1573757850/course-screenshot-satellite-photo.jpg)
 
-<h6 style="position:absolute; bottom:4px; left:60px"><span class="u-underline">Screenshot satellite</span> – Pixels per metre — Image scale factor – Scale image</h6>
+<h6 class="breadcrumb"><span class="u-underline">Screenshot satellite</span> – Pixels per metre — Image scale factor – Scale image</h6>
 
 ???
 
@@ -274,7 +283,7 @@ Instructions online: [Forest garden CAD photo](https://www.forestgarden.wales/bl
 
 ![Closeup of scale in metres on satellite screenshot](https://res.cloudinary.com/growdigital/image/upload/w_560/v1573759452/course-satellite-scale.jpg)
 
-<h6 style="position:absolute; bottom:4px; left:60px">Screenshot satellite – <span class="u-underline">Pixels per metre</span> — Image scale factor – Scale image</h6>
+<h6 class="breadcrumb">Screenshot satellite – <span class="u-underline">Pixels per metre</span> — Image scale factor – Scale image</h6>
 
 ???
 
@@ -284,27 +293,139 @@ Instructions online: [Forest garden CAD photo](https://www.forestgarden.wales/bl
 
 ## 3. Image scale factor
 
-1. QCAD imports image _1px per metre_
+1. QCAD imports image _1px per metre_ 
 2. We want **our** ratio eg _21.2px per metre_
 3. Divide 1 by our ratio eg _1 ÷ 21.2 = 0.047169811_
-4. **0.047169811** is our scale factor
+4. **0.047169811** is our _image scale factor_
 
-<h6 style="position:absolute; bottom:4px; left:60px">Screenshot satellite – Pixels per metre — <span class="u-underline">Image scale factor</span> – Scale image</h6>
+<h6 class="breadcrumb">Screenshot satellite – Pixels per metre — <span class="u-underline">Image scale factor</span> – Scale image</h6>
 
 ---
 
 ## 4. Scale image
 
-1. `File → Import` 
-2. Select image, `View → Property Editor`
-3. `Width & Height Factor:` image scale factor
-4. eg **0.047169811**
+1. `File → Import` , `Select → Select All` 👈
+3. `View → Property Editor`
+4. `Width & Height Factor:` _image scale factor_
 
-<h6 style="position:absolute; bottom:4px; left:60px">Screenshot satellite – Pixels per metre — Image scale factor – <span class="u-underline">Scale image</span></h6>
+<span class="our-scale-factor">Our <em>image<br>scale factor</em><br><strong>0.047169811</strong></span>
+
+![Screenshot of CAD program, showing Import image](https://res.cloudinary.com/growdigital/image/upload/w_560/v1573817365/scale-image-01-import.png)
+
+<h6 class="breadcrumb">Screenshot satellite – Pixels per metre — Image scale factor – <span class="u-underline">Scale image</span></h6>
 
 ???
 
 * QCAD document same folder as image
+* File → Import
+
+---
+
+## 4. Scale image
+
+1. `File → Import` , `Select → Select All` 👈
+3. `View → Property Editor`
+4. `Width & Height Factor:` _image scale factor_
+
+<span class="our-scale-factor">Our <em>image<br>scale factor</em><br><strong>0.047169811</strong></span>
+
+![Screenshot of CAD program, showing Select All](https://res.cloudinary.com/growdigital/image/upload/w_560/v1573817366/scale-image-02-selectall.png)
+
+<h6 class="breadcrumb">Screenshot satellite – Pixels per metre — Image scale factor – <span class="u-underline">Scale image</span></h6>
+
+???
+
+* Select → Select All
+
+---
+
+## 4. Scale image
+
+1. `File → Import` , `Select → Select All`
+3. `View → Property Editor` 👈
+4. `Width & Height Factor:` _image scale factor_
+
+<span class="our-scale-factor">Our <em>image<br>scale factor</em><br><strong>0.047169811</strong></span>
+
+![Screenshot of CAD program, showing Property Editor](https://res.cloudinary.com/growdigital/image/upload/w_560/v1573817366/scale-image-03-propertyeditor.png)
+
+<h6 class="breadcrumb">Screenshot satellite – Pixels per metre — Image scale factor – <span class="u-underline">Scale image</span></h6>
+
+???
+
+* View → Property Editor
+
+---
+
+## 4. Scale image
+
+1. `File → Import` , `Select → Select All`
+3. `View → Property Editor` 👈
+4. `Width & Height Factor:` _image scale factor_
+
+<span class="our-scale-factor">Our <em>image<br>scale factor</em><br><strong>0.047169811</strong></span>
+
+![Screenshot of CAD program, showing Property Editor](https://res.cloudinary.com/growdigital/image/upload/w_560/v1573817366/scale-image-04-propertyeditor.png)
+
+<h6 class="breadcrumb">Screenshot satellite – Pixels per metre — Image scale factor – <span class="u-underline">Scale image</span></h6>
+
+???
+
+* View → Property Editor
+
+---
+
+## 4. Scale image
+
+1. `File → Import` , `Select → Select All`
+3. `View → Property Editor`
+4. `Width & Height Factor:` _image scale factor_ 👈
+
+<span class="our-scale-factor">Our <em>image<br>scale factor</em><br><strong>0.047169811</strong></span>
+
+![Screenshot of CAD program, showing Property Editor Width Factor](https://res.cloudinary.com/growdigital/image/upload/w_560/v1573817366/scale-image-05-widthfactor.png)
+
+<h6 class="breadcrumb">Screenshot satellite – Pixels per metre — Image scale factor – <span class="u-underline">Scale image</span></h6>
+
+???
+
+* Width & Height Factor
+
+---
+
+## 4. Scale image
+
+1. `File → Import` , `Select → Select All`
+3. `View → Property Editor`
+4. `Width & Height Factor:` _image scale factor_ 👈
+
+<span class="our-scale-factor">Our <em>image<br>scale factor</em><br><strong>0.047169811</strong></span>
+
+![Screenshot of CAD program, showing Property Editor Height Factor](https://res.cloudinary.com/growdigital/image/upload/w_560/v1573817366/scale-image-06-heightfactor.png)
+
+<h6 class="breadcrumb">Screenshot satellite – Pixels per metre — Image scale factor – <span class="u-underline">Scale image</span></h6>
+
+???
+
+* Width & Height Factor
+
+---
+
+## 4. Scale image
+
+1. `File → Import` , `Select → Select All`
+3. `View → Property Editor`
+4. `Width & Height Factor:` _image scale factor_ 👈
+
+<span class="our-scale-factor">Our <em>image<br>scale factor</em><br><strong>0.047169811</strong></span>
+
+![Screenshot of CAD program, showing scaled image](https://res.cloudinary.com/growdigital/image/upload/w_560/v1573817366/scale-image-07-complete.png)
+
+<h6 class="breadcrumb">Screenshot satellite – Pixels per metre — Image scale factor – <span class="u-underline">Scale image</span></h6>
+
+???
+
+* Width & Height Factor
 
 ---
 
@@ -326,25 +447,25 @@ Instructions online: [Forest garden CAD photo](https://www.forestgarden.wales/bl
 
 ## 1. Direct line
 
-<h6 style="position:absolute; bottom:4px; left:60px"><span class="u-underline">Direct line</span> – Running dimension – Triangulation — Offsets</h6>
+<h6 class="breadcrumb"><span class="u-underline">Direct line</span> – Running dimension – Triangulation — Offsets</h6>
 
 ---
 
 ## 2. Running dimension
 
-<h6 style="position:absolute; bottom:4px; left:60px">Direct line – <span class="u-underline">Running dimension</span> – Triangulation — Offsets</h6>
+<h6 class="breadcrumb">Direct line – <span class="u-underline">Running dimension</span> – Triangulation — Offsets</h6>
 
 ---
 
 ## 3. Triangulation
 
-<h6 style="position:absolute; bottom:4px; left:60px">Direct line – Running dimension – <span class="u-underline">Triangulation</span> — Offsets</h6>
+<h6 class="breadcrumb">Direct line – Running dimension – <span class="u-underline">Triangulation</span> — Offsets</h6>
 
 ---
 
 ## 4. Offsets
 
-<h6 style="position:absolute; bottom:4px; left:60px">Direct line – Running dimension – Triangulation — <span class="u-underline">Offsets</span></h6>
+<h6 class="breadcrumb">Direct line – Running dimension – Triangulation — <span class="u-underline">Offsets</span></h6>
 
 ---
 
