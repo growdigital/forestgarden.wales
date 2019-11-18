@@ -101,3 +101,9 @@ a:visited {
 .u-underline {
   text-decoration: underline !important;
 }
+
+/* Highlight */
+
+.u-highlight {
+  color: #eb4b2d !important;
+}

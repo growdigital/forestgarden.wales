@@ -15,10 +15,12 @@ body {
 
 h1 {
   line-height: 1.1;
+  margin: 0.7rem 0 2rem;
 }
 
 h2, h3 {
   line-height: 1.2;
+  margin: 1rem 0 2.2rem
 }
 
 h1, h2, h3, h4 {
@@ -37,6 +39,14 @@ blockquote {
   font-style: italic;
 }
 
+/* Links */
+
+a:visited {
+  color: #0000EE !important;
+}
+
+/* Remark slide styling */
+
 .remark-slide-content {
   background-color: #f6fce6;
 }
@@ -51,6 +61,11 @@ blockquote {
 
 .remark-slide-scaler {
   box-shadow: 0 0 0 transparent;
+}
+
+.remark-inline-code {
+  background-color: yellow;
+  outline: 2px solid yellow;
 }
 
 /* Full screen image */
@@ -73,8 +88,22 @@ blockquote {
   background-repeat: no-repeat;
 }
 
+/* Breadcrumb */
+
+.breadcrumb {
+  bottom:4px;
+  left:60px;
+  position:absolute;
+}
+
 /* Text decoration underline */
 
 .u-underline {
   text-decoration: underline !important;
+}
+
+/* Highlight */
+
+.u-highlight {
+  color: #eba12d !important;
 }
