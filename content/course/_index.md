@@ -35,14 +35,14 @@ Signup to the newsletter to be updated about the course:
 
 **Introduction:** What is a forest garden, why would you want one & the importance of wildlife
 
-1. **Propagate**: It’s never too early to start propagating.
-2. **Perennial veg**: Get a quick return on your initial planting.
-3. **Survey your site**: Where are the sun, the wind, the water and the things?
+1. **Propagate**: it’s never too early to start propagating.
+2. **Perennial veg**: get a quick return on your initial planting.
+3. **Survey your site**: where are the sun, the wind, the water and the things?
 2. **Design**: using low cost tools to create a plan of action.
-4. **Windbreaks**: Windbreaks now & your plants will love you 4ever.
-5. **Canopy**: Plant the big trees, the canopy layer.
-6. **Ground prep**: Clear the ground to plant your plants.
-7. **Shrubs**: Once the ground is clear, shrubs away.
-8. **Ground cover**: Keep the ground covered at all times & at all costs.
+4. **Windbreaks**: windbreaks now & your plants will love you 4ever.
+5. **Canopy**: plant the big trees, the canopy layer.
+6. **Ground prep**: clear the ground to plant your plants.
+7. **Shrubs**: once the ground is clear, shrubs away.
+8. **Ground cover**: keep the ground covered at all times & at all costs.
 
 If there’s something that you’d like to be covered that isn’t listed, please do email me [hello@forestgarden.wales](mailto:hello@forestgarden.wales) or tweet me [@ForestGdnWales](https://twitter.com/ForestGdnWales), and I will try to incorporate it, in a bonus video if not the main course.

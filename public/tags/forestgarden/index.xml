@@ -9,10 +9,19 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Tue, 12 Nov 2019 10:25:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 10:44:07 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recording Online Course</title>
+      <link>http://localhost:1313/blog/recording-online-course/</link>
+      <pubDate>Mon, 18 Nov 2019 10:44:07 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/recording-online-course/</guid>
+      <description>I’m in the middle of writing the slideshow script for the forest garden online course, and I thought somebody might be interested in my recording setup, particularly if you’d like to create a course yourself.</description>
+    </item>
     
     <item>
       <title>The meaning of Latin plant names</title>

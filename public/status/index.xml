@@ -15,6 +15,15 @@
     
     
     <item>
+      <link>http://localhost:1313/status/191116-pear/</link>
+      <title>Pear</title>
+      <pubDate>Sat, 16 Nov 2019 14:58:38 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/191116-pear/</guid>
+      <description>According to Martin Hayes, Orchardist to the stars, this is a Black Worcester pear, and it takes about 3 hours cooking to make it soft.</description>
+    </item>
+    
+    <item>
       <link>http://localhost:1313/status/191111-definition/</link>
       <title>Definition</title>
       <pubDate>Mon, 11 Nov 2019 16:20:04 +0000</pubDate>

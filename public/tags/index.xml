@@ -168,6 +168,15 @@
     </item>
     
     <item>
+      <title>Course</title>
+      <link>http://localhost:1313/tags/course/</link>
+      <pubDate>Mon, 18 Nov 2019 10:44:07 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cuttings</title>
       <link>http://localhost:1313/tags/cuttings/</link>
       <pubDate>Wed, 28 Nov 2018 21:28:34 +0000</pubDate>
@@ -242,7 +251,7 @@
     <item>
       <title>Forestgarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Tue, 12 Nov 2019 10:25:34 +0000</pubDate>
+      <pubDate>Mon, 18 Nov 2019 10:44:07 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
@@ -461,6 +470,15 @@
       <pubDate>Mon, 04 Mar 2019 20:09:24 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/ofg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online</title>
+      <link>http://localhost:1313/tags/online/</link>
+      <pubDate>Mon, 18 Nov 2019 10:44:07 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/online/</guid>
       <description></description>
     </item>
     
@@ -782,7 +800,7 @@
     <item>
       <title>Workshop</title>
       <link>http://localhost:1313/tags/workshop/</link>
-      <pubDate>Tue, 05 Mar 2019 20:00:37 +0000</pubDate>
+      <pubDate>Mon, 18 Nov 2019 10:44:07 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/workshop/</guid>
       <description></description>

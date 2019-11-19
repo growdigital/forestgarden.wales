@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/blog/recording-online-course/</loc>
+    <lastmod>2019-11-18T10:44:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/191116-pear/</loc>
+    <lastmod>2019-11-16T14:58:38+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/meaning-latin-plant-names/</loc>
     <lastmod>2019-11-12T10:25:34+00:00</lastmod>
   </url>
@@ -3791,6 +3801,12 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/course/</loc>
+    <lastmod>2019-11-18T10:44:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/cuttings/</loc>
     <lastmod>2018-11-28T21:28:34+00:00</lastmod>
     <priority>0</priority>
@@ -3840,7 +3856,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2019-11-12T10:25:34+00:00</lastmod>
+    <lastmod>2019-11-18T10:44:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3985,6 +4001,12 @@
   <url>
     <loc>http://localhost:1313/tags/ofg/</loc>
     <lastmod>2019-03-04T20:09:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/online/</loc>
+    <lastmod>2019-11-18T10:44:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4206,7 +4228,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/workshop/</loc>
-    <lastmod>2019-03-05T20:00:37+00:00</lastmod>
+    <lastmod>2019-11-18T10:44:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
