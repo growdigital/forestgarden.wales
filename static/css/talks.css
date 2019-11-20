@@ -96,6 +96,10 @@ a:visited {
   position:absolute;
 }
 
+/* ==========================================================================
+   Utilities
+   ========================================================================== */
+
 /* Text decoration underline */
 
 .u-underline {
@@ -106,4 +110,14 @@ a:visited {
 
 .u-highlight {
   color: #eb4b2d !important;
+}
+
+/* Smaller text */
+
+.u-smaller {
+  font-size: smaller !important;
+}
+
+.other {
+  color:red;
 }
