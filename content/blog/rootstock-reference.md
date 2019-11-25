@@ -11,7 +11,7 @@ imageCap:
 draft: false
 ---
 
-The rootstock you choose for your fruit trees determines the height, diameter and vigour of the tree. As a rule of thumb, you only need to stake semi-dwarfing and smaller rootstocks.
+A roostock is the well developed root system on which you graft a known fruiting variety. The rootstock you choose determines the height, diameter and vigour of the tree. As a rule of thumb, you only need to stake semi-dwarfing and smaller rootstocks.
 
 This is the best [rootstock diagram](https://res.cloudinary.com/growdigital/image/upload/v1543958990/rootstocks-24453546047.png) that I’ve found, from [Johnstown Garden Centre](https://www.johnstowngardencentre.ie/blog/johnstowngardencentre.ie/2016/03/08/rootstocks-explained/)
 
