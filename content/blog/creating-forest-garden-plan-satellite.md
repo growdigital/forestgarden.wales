@@ -71,7 +71,7 @@ If you found this tutorial helpful, please [sign up to my newsletter](https://ww
 
 I made a short, unedited video of this process which you can view here:
 
-{{< vimeo 374928303 >}}
+{{< vimeo 375367632 >}}
 
 And the slideshow is online here:
 
