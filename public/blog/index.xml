@@ -15,6 +15,246 @@
     
     
     <item>
+      <title>This is a local garden, for local species</title>
+      <link>http://localhost:1313/blog/local-garden-local-species/</link>
+      <pubDate>Wed, 04 Dec 2019 20:07:15 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/local-garden-local-species/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+          &lt;figure&gt;
+            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1553974918/wildflower-A6CDB378.jpg&quot; alt=&quot;Tubular pinkish flowers&quot;&gt;
+            &lt;figcaption&gt;Fumitory growing wild near the forest garden&lt;/figcaption&gt;
+          &lt;/figure&gt;
+        
+        &lt;p&gt;Humans are strange creatures, capable of abstracting their minds unfathomable distances from their situation. There is a need somehow to escape, to get away. Maybe it’s because I grew up in a small English market town, fled South then North then West, all the while yearning for the ethereal cosmopolitan.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.monarchgard.com&#34;&gt;Benajamin Vogt&lt;/a&gt;’s book ‘&lt;a href=&#34;https://newsociety.com/Books/N/A-New-Garden-Ethic&#34;&gt;A New Garden Ethic&lt;/a&gt;’ has brought me back to earth with a definite and welcome bump. I am wary of the parochial, repelled by small-mindedness, terrified by &lt;a href=&#34;https://en.wikipedia.org/wiki/The_League_of_Gentlemen&#34;&gt;The League of Gentlemen&lt;/a&gt;, a UK comedy about a small northern town (“This is a local shop, for local people”).&lt;/p&gt;
+
+&lt;p&gt;But. Small does not have to mean small-minded, it can be expansive and hugely liberating. I thorougly enjoyed the book because at its core, it’s about gardening for species other than ourselves. Vogt calls this “human supremacy”, which makes some people squirm. I think it’s the right choice of words because the destruction of our natural world (and ultimately ourselves) is &lt;em&gt;all&lt;/em&gt; about human supremacy.&lt;/p&gt;
+
+&lt;p&gt;The obverse, industrialisation of everything&lt;/p&gt;
+
+&lt;p&gt;homogeniety&lt;/p&gt;
+
+&lt;p&gt;industrialisation of everything&lt;/p&gt;
+
+&lt;p&gt;digitalised&lt;/p&gt;
+
+&lt;p&gt;modelled&lt;/p&gt;
+
+&lt;p&gt;abstracted&lt;/p&gt;
+
+&lt;p&gt;Infinity is in the smallest places&lt;/p&gt;
+
+&lt;p&gt;We shall not cease from exploration&lt;br /&gt;
+And the end of all our exploring&lt;br /&gt;
+Will be to arrive where we started&lt;br /&gt;
+And know the place for the first time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/T._S._Eliot&#34;&gt;T.S. Eliot&lt;/a&gt; — “Little Gidding”&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Creating a forest garden plan with a satellite background image</title>
+      <link>http://localhost:1313/blog/creating-forest-garden-plan-satellite/</link>
+      <pubDate>Fri, 22 Nov 2019 18:11:00 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/creating-forest-garden-plan-satellite/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;As part of my online forest garden course, I’ve been looking at how to use a screenshot of a satellite photo as the basis of a forest garden plan. If you’re comfortable with computers, the process is relatively straightforward.&lt;/p&gt;
+        
+          &lt;figure&gt;
+            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1574448595/avant-garden-trees.jpg&quot; alt=&quot;Screenshot of CAD program with large scale satellite photo in background and circles for trees&quot;&gt;
+            &lt;figcaption&gt;Using a satellite photo as the basis for a CAD forest garden plan is only 4 steps away&lt;/figcaption&gt;
+          &lt;/figure&gt;
+        
+        
+
+&lt;p&gt;Using a CAD plan, it’s easy to move trees around to try out different ideas. The hard bit is setting up the boundaries of the land in the first place.&lt;/p&gt;
+
+&lt;p&gt;The easiest way I’ve found to achieve this is to take a screenshot of a satellite photo and scale it down to the right size in the CAD software.&lt;/p&gt;
+
+&lt;p&gt;This walkthrough will show you the 4 steps of importing and scaling the image.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-you-need&#34;&gt;What you need&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A copy of &lt;a href=&#34;https://qcad.org/en/download&#34;&gt;QCAD&lt;/a&gt;, Computer Aided Design software that is Free and Open Source. There’s a free version which is absolutely fine for our purposes. In the demo, we’re using &lt;strong&gt;metres&lt;/strong&gt; as the unit!&lt;/li&gt;
+&lt;li&gt;A bitmap editor like &lt;a href=&#34;https://en.wikipedia.org/wiki/Adobe_Photoshop&#34;&gt;Photoshop&lt;/a&gt;. &lt;a href=&#34;https://www.gimp.org&#34;&gt;GIMP&lt;/a&gt; is a Free Open Source alternative.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;1-take-a-screenshot-of-your-satellite-image&#34;&gt;1. Take a screenshot of your satellite image&lt;/h2&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1574447386/avant-garden-background.jpg&#34; alt=&#34;Satellite photo of farm area&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Satellite photo of land in Apple Maps
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;ol&gt;
+&lt;li&gt;Use &lt;a href=&#34;https://www.google.co.uk/maps&#34;&gt;Google Maps&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Apple_Maps&#34;&gt;Apple Maps&lt;/a&gt; or &lt;a href=&#34;https://www.bing.com/maps&#34;&gt;Bing Maps&lt;/a&gt; and get the highest resolution satellite image of your land that you can.&lt;/li&gt;
+&lt;li&gt;Make sure to include a &lt;strong&gt;metres&lt;/strong&gt; scale (this demo is in metric!)&lt;/li&gt;
+&lt;li&gt;Take a &lt;a href=&#34;https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows&#34;&gt;screenshot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Open in your image editor and save as a JPEG in the same folder you’ll save your CAD file.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;2-measure-pixels-per-metre&#34;&gt;2. Measure pixels per metre&lt;/h2&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1574447778/avant-garden-px-per-metre.png&#34; alt=&#34;Screenshot of metres scale on satellite photo in Photoshop&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Rectangular marquee tool measuring the width of the scale
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;ol&gt;
+&lt;li&gt;Using the rectangular marquee tool and measure the metres scale.&lt;/li&gt;
+&lt;li&gt;In our example, there are 210 pixels per 30 metres.&lt;/li&gt;
+&lt;li&gt;210 divided by 30 equals &lt;strong&gt;7 pixels per metre&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;3-calculate-image-scale-factor&#34;&gt;3. Calculate image scale factor&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;QCAD imports images in at &lt;strong&gt;1 pixel per 1 metre&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;In our example, we want &lt;strong&gt;7 pixels per metre&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;So, we divide 1 by 7, which gives us &lt;strong&gt;0.142857143&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This is the &lt;strong&gt;image scale factor&lt;/strong&gt;, ie how much we need to scale the image once it’s in QCAD.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-scale-the-image-in-qcad&#34;&gt;4. Scale the image in QCAD&lt;/h2&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1573817366/scale-image-05-widthfactor.png&#34; alt=&#34;Screenshot of bitmap image in CAD software&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Enter the image scale factor into the Width and Height Factor field in the Property Editor
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;ol&gt;
+&lt;li&gt;Hop into QCAD, save a new file in the same folder as your background image&lt;/li&gt;
+&lt;li&gt;Choose &lt;code&gt;File → Import&lt;/code&gt; from the drop-down menu, then import your image&lt;/li&gt;
+&lt;li&gt;Select your image with &lt;code&gt;Select → Select All&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Bring up the Property Editor with &lt;code&gt;View → Property Editor&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Enter the image scale factor (our example is 0.142857143) into both the &lt;code&gt;Width Factor:&lt;/code&gt; and &lt;code&gt;Height Factor:&lt;/code&gt; fields&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You’ll see the image scale down. And now you can use the &lt;code&gt;Circle&lt;/code&gt; tools to create circles of a set diameter, which will represent trees. You can find the approximate height and diameter of common forest garden trees and shrubs from the brilliant &lt;a href=&#34;https://pfaf.org/user/Default.aspx&#34;&gt;Plants For A Future&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you found this tutorial helpful, please &lt;a href=&#34;https://www.forestgarden.wales/newsletter/&#34;&gt;sign up to my newsletter&lt;/a&gt; for information about free forest garden mini-courses and resources.&lt;/p&gt;
+
+&lt;p&gt;I made a short, unedited video of this process which you can view here:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/375367632&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;And the slideshow is online here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.forestgarden.wales/wildlife-forest-garden/plan/#13&#34;&gt;www.forestgarden.wales/wildlife-forest-garden/plan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Happy forest gardening! 🌳 💚&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Pretty forest garden pictures</title>
+      <link>http://localhost:1313/blog/pretty-forest-garden-pictures/</link>
+      <pubDate>Wed, 20 Nov 2019 11:57:58 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/pretty-forest-garden-pictures/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Despite my ambivalence toward aesthetics, a pretty picture can connect a wildlife forest garden with a wider audience&lt;/p&gt;
+        
+          &lt;figure&gt;
+            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1574251756/goldfinch-pl1000000968.jpg&quot; alt=&quot;Small bird on a seed head&quot;&gt;
+            &lt;figcaption&gt;Goldfinch feeding on a Teasel perfectly captures the idea of a native wildlife garden&lt;/figcaption&gt;
+          &lt;/figure&gt;
+        
+        &lt;p&gt;Whilst designing a &lt;a href=&#34;https://app.simplenote.com/p/JZlZ1N&#34;&gt;small wildlife forest garden&lt;/a&gt; for some clients in London, I was searching for information about the &lt;a href=&#34;https://pfaf.org/user/Plant.aspx?LatinName=Dipsacus+fullonum&#34;&gt;Teasel&lt;/a&gt; on the &lt;a href=&#34;https://www.rhs.org.uk/Plants/Search-Form&#34;&gt;RHS plant finder&lt;/a&gt;. I happened to stumble across the seed sale page, and was greeted by a glorious photograph of a feeding [Goldfinch]().&lt;/p&gt;
+
+&lt;p&gt;I showed the photo to the client and straightaway they said “I want Teasels!”.&lt;/p&gt;
+
+&lt;p&gt;This really brought home the importance of a good photo. &lt;a href=&#34;https://www.monarchgard.com&#34;&gt;Benjamin Vogt&lt;/a&gt;, author of the vital book &lt;a href=&#34;https://newsociety.com/Books/N/A-New-Garden-Ethic&#34;&gt;A New Garden Ethic&lt;/a&gt; is doing some pioneering work in native plant gardening in North America, and some of his &lt;a href=&#34;https://www.monarchgard.com/portfolio.html&#34;&gt;photos&lt;/a&gt; are just gorgeous. Even if I wasn’t aware of the ecosystem benefits of native plants, I would be &lt;strong&gt;sold&lt;/strong&gt; on the idea!&lt;/p&gt;
+
+&lt;p&gt;I wrote a &lt;a href=&#34;https://www.forestgarden.wales/blog/screenshot-think-native-plants/&#34;&gt;blog post recently&lt;/a&gt; about the sheer number of insect species a Common Oak tree supports. I took a screenshot from the amazing &lt;a href=&#34;https://www.brc.ac.uk/dbif/hosts.aspx&#34;&gt;Database of Insects and their Food Plants&lt;/a&gt; because it blew me away: &lt;strong&gt;247 species of inverterbrate&lt;/strong&gt;. I just think that is &lt;em&gt;so&lt;/em&gt; cool. But, it’s not a pretty picture!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1573293631/quercus-robur-host-90deg.png&#34; alt=&#34;Screenshot of host inverterbrates for Common Oak&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The 274 species of inverterbrate that call the Common Oak home
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;I think wildlife and forest gardens are &lt;em&gt;essential&lt;/em&gt;, because the emphasis is on working with nature. They are still quite niche though and my work is to help spread the word about why they are so good. And a huge part of this is conveying the sense and wonder of the forest garden, with pretty picutres if need be. A case in point is the stunning &lt;a href=&#34;https://www.nationalgeographic.com/video/shorts/1438178883749/&#34;&gt;National Geographic short film&lt;/a&gt; of &lt;a href=&#34;https://www.agroforestry.co.uk&#34;&gt;Martin Crawford&lt;/a&gt;’s forest garden (374,000 views!).&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Q_m_0UPOzuI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Recording Online Course</title>
       <link>http://localhost:1313/blog/recording-online-course/</link>
       <pubDate>Mon, 18 Nov 2019 10:44:07 +0000</pubDate>
@@ -8528,7 +8768,7 @@ but hopefully I can share some of the lessons I’ve learned with other garden b
             &lt;figcaption&gt;Rootstocks explained illustration, I think from Johnstown Garden Centre&lt;/figcaption&gt;
           &lt;/figure&gt;
         
-        &lt;p&gt;The rootstock you choose for your fruit trees determines the height, diameter and vigour of the tree. As a rule of thumb, you only need to stake semi-dwarfing and smaller rootstocks.&lt;/p&gt;
+        &lt;p&gt;A roostock is the well developed root system on which you graft a known fruiting variety. The rootstock you choose determines the height, diameter and vigour of the tree. As a rule of thumb, you only need to stake semi-dwarfing and smaller rootstocks.&lt;/p&gt;
 
 &lt;p&gt;This is the best &lt;a href=&#34;https://res.cloudinary.com/growdigital/image/upload/v1543958990/rootstocks-24453546047.png&#34;&gt;rootstock diagram&lt;/a&gt; that I’ve found, from &lt;a href=&#34;https://www.johnstowngardencentre.ie/blog/johnstowngardencentre.ie/2016/03/08/rootstocks-explained/&#34;&gt;Johnstown Garden Centre&lt;/a&gt;&lt;/p&gt;
 

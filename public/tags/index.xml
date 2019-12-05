@@ -9,7 +9,7 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Fri, 25 May 2018 21:15:33 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 11:57:58 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,7 @@
     <item>
       <title></title>
       <link>http://localhost:1313/tags/</link>
-      <pubDate>Fri, 25 May 2018 21:15:33 +0100</pubDate>
+      <pubDate>Wed, 20 Nov 2019 11:57:58 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/</guid>
       <description></description>
@@ -53,7 +53,7 @@
     <item>
       <title>Cad</title>
       <link>http://localhost:1313/tags/cad/</link>
-      <pubDate>Tue, 30 Apr 2019 11:58:53 +0100</pubDate>
+      <pubDate>Fri, 22 Nov 2019 18:11:00 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/cad/</guid>
       <description></description>
@@ -251,7 +251,7 @@
     <item>
       <title>Forestgarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Mon, 18 Nov 2019 10:44:07 +0000</pubDate>
+      <pubDate>Wed, 04 Dec 2019 20:07:15 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
@@ -341,9 +341,18 @@
     <item>
       <title>Howto</title>
       <link>http://localhost:1313/tags/howto/</link>
-      <pubDate>Fri, 19 Apr 2019 14:49:04 +0100</pubDate>
+      <pubDate>Fri, 22 Nov 2019 18:11:00 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/howto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humansupremacy</title>
+      <link>http://localhost:1313/tags/humansupremacy/</link>
+      <pubDate>Wed, 04 Dec 2019 20:07:15 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/humansupremacy/</guid>
       <description></description>
     </item>
     
@@ -416,6 +425,15 @@
       <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/mycorrhizal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Native</title>
+      <link>http://localhost:1313/tags/native/</link>
+      <pubDate>Wed, 04 Dec 2019 20:07:15 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/native/</guid>
       <description></description>
     </item>
     
@@ -521,7 +539,7 @@
     <item>
       <title>Plan</title>
       <link>http://localhost:1313/tags/plan/</link>
-      <pubDate>Sun, 26 May 2019 11:47:25 +0100</pubDate>
+      <pubDate>Fri, 22 Nov 2019 18:11:00 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/plan/</guid>
       <description></description>
@@ -638,7 +656,7 @@
     <item>
       <title>Satellite</title>
       <link>http://localhost:1313/tags/satellite/</link>
-      <pubDate>Sun, 26 May 2019 11:47:25 +0100</pubDate>
+      <pubDate>Fri, 22 Nov 2019 18:11:00 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/satellite/</guid>
       <description></description>
@@ -713,6 +731,24 @@
       <pubDate>Tue, 05 Mar 2019 20:00:37 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/tags/tutorial/</link>
+      <pubDate>Fri, 22 Nov 2019 18:11:00 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>http://localhost:1313/tags/video/</link>
+      <pubDate>Wed, 20 Nov 2019 11:57:58 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/video/</guid>
       <description></description>
     </item>
     

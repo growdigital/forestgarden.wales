@@ -9,10 +9,37 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Mon, 18 Nov 2019 10:44:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2019 20:07:15 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>This is a local garden, for local species</title>
+      <link>http://localhost:1313/blog/local-garden-local-species/</link>
+      <pubDate>Wed, 04 Dec 2019 20:07:15 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/local-garden-local-species/</guid>
+      <description>Humans are strange creatures, capable of abstracting their minds unfathomable distances from their situation.</description>
+    </item>
+    
+    <item>
+      <title>Creating a forest garden plan with a satellite background image</title>
+      <link>http://localhost:1313/blog/creating-forest-garden-plan-satellite/</link>
+      <pubDate>Fri, 22 Nov 2019 18:11:00 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/creating-forest-garden-plan-satellite/</guid>
+      <description>Using a CAD plan, it’s easy to move trees around to try out different ideas.</description>
+    </item>
+    
+    <item>
+      <title>Pretty forest garden pictures</title>
+      <link>http://localhost:1313/blog/pretty-forest-garden-pictures/</link>
+      <pubDate>Wed, 20 Nov 2019 11:57:58 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/pretty-forest-garden-pictures/</guid>
+      <description>Whilst designing a small wildlife forest garden for some clients in London, I was searching for information about the Teasel on the RHS plant finder.</description>
+    </item>
     
     <item>
       <title>Recording Online Course</title>

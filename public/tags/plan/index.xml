@@ -9,10 +9,19 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Sun, 26 May 2019 11:47:25 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2019 18:11:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/plan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Creating a forest garden plan with a satellite background image</title>
+      <link>http://localhost:1313/blog/creating-forest-garden-plan-satellite/</link>
+      <pubDate>Fri, 22 Nov 2019 18:11:00 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/creating-forest-garden-plan-satellite/</guid>
+      <description>Using a CAD plan, it’s easy to move trees around to try out different ideas.</description>
+    </item>
     
     <item>
       <title>Forest garden CAD photo</title>
