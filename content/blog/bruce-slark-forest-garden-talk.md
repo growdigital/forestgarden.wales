@@ -16,7 +16,7 @@ draft: false
 
 Bruce’s talk on his well-established forest garden at [Moylgrove Hall](https://www.moylgrove.wales/events) was very interesting, particularly because it _is_ well-established. Here at Forest Garden Wales, the fruit trees on a windy hillside are only just starting to bear fruit, so it was great to see a full complement of produce on display.
 
-The other point that hit home is the health aspect. [Robert Hart](https://en.wikipedia.org/wiki/Robert_Hart_%28horticulturist%29), a pionner of temprate forest gardens and author of [Forest Gardening](https://www.amazon.co.uk/Forest-Gardening-Robert-Hart/dp/1900322021), apparently had an 80% raw food vegan diet.
+The other point that hit home is the health aspect. [Robert Hart](https://en.wikipedia.org/wiki/Robert_Hart_%28horticulturist%29), a pioneer of temperate forest gardens and author of [Forest Gardening](https://www.amazon.co.uk/Forest-Gardening-Robert-Hart/dp/1900322021), apparently had an 80% raw food vegan diet.
 
 Here are my random notes from the evening, really for my benefit but you’re welcome to peruse if you want:
 

@@ -13,7 +13,7 @@ draft: false
 
 # Online wildlife forest garden course
 
-I’m currently filming the new online course, due to be launched at the end of November 2019. Please [signup to the Forest Garden Wales](http://eepurl.com/dqwytj) newsletter to be sure of catching announcements and giveaways.
+I’m currently filming the new online course, due to be launched at the end of January 2020. Please [signup to the Forest Garden Wales](http://eepurl.com/dqwytj) newsletter to be sure of catching announcements and giveaways.
 
 Here is a taster of the format, a small screencast I made for some clients to give them an overview of the design process:
 
