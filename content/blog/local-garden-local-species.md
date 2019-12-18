@@ -18,7 +18,7 @@ draft: false
 
 Humans are strange creatures, capable of abstracting their minds unfathomable distances from their situation. There is a need somehow to escape, to get away. Maybe it’s because I grew up in a small English market town, fled South then North then West, all the while yearning for the ethereal cosmopolitan.
 
-[Benajamin Vogt](https://www.monarchgard.com)’s book ‘[A New Garden Ethic](https://newsociety.com/Books/N/A-New-Garden-Ethic)’ has brought me back to earth with a definite and welcome bump. I am wary of the parochial, repelled by small-mindedness, terrified by [The League of Gentlemen](https://en.wikipedia.org/wiki/The_League_of_Gentlemen) (a UK comedy about a small northern town with the catchphrase “This is a local shop, for local people”.
+[Benajamin Vogt](https://www.monarchgard.com)’s book ‘[A New Garden Ethic](https://newsociety.com/Books/N/A-New-Garden-Ethic)’ has brought me back to earth with a definite and welcome bump. I am wary of the parochial, repelled by small-mindedness, terrified by [The League of Gentlemen](https://en.wikipedia.org/wiki/The_League_of_Gentlemen) (a UK comedy about a small northern town with the catchphrase “This is a local shop, for local people”).
 
 But. Small does not have to mean small-minded, it can be expansive and hugely liberating. Vogt’s book has struck a chord because at its core it’s about gardening for species other than ourselves. Vogt calls this “human supremacy”, which makes some people squirm. I think it’s the right choice of words: the destruction of our natural world (and ultimately ourselves) is _all_ about human supremacy. 
 
