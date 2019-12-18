@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/191218-another-definition/</loc>
+    <lastmod>2019-12-18T10:19:38+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/191217-my-definition/</loc>
     <lastmod>2019-12-17T21:15:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/japanese-forest-garden/</loc>
+    <lastmod>2019-12-17T20:51:11+00:00</lastmod>
   </url>
   
   <url>
@@ -3788,6 +3798,12 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/botanicgardenwales/</loc>
+    <lastmod>2019-12-17T20:51:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/cad/</loc>
     <lastmod>2019-11-22T18:11:00+00:00</lastmod>
     <priority>0</priority>
@@ -3921,7 +3937,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2019-12-04T20:07:15+00:00</lastmod>
+    <lastmod>2019-12-17T20:51:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4000,6 +4016,12 @@
   <url>
     <loc>http://localhost:1313/tags/italian-alder/</loc>
     <lastmod>2018-09-15T20:32:03+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/japanesegarden/</loc>
+    <lastmod>2019-12-17T20:51:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   

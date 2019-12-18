@@ -8,11 +8,11 @@ tags:
 - GdnBloggers
 - WildlifePond
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1561561862/dewpond-12085020966.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1561538356/pond-7531DF77.jpg
 imageAlt: 
-- Circular dew pond in rolling chalk hills
+- Natural wild pond
 imageCap:
-- Ancient dew pond at Ditching Beacon on the South Downs, UK. Probably lined with clay. Photo by Helen Haden on Flickr.
+- Clay-lined pond at Wyndrush Wild meadows, created from clay dug out for building
 draft: false
 ---
 
