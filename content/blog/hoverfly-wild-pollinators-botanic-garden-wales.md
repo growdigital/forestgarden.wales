@@ -15,7 +15,7 @@ imageAlt:
 - Close up of hoverfly on oregano flowers
 imageCap:
 - Hoverflies are crucial wild pollinators
-draft: false
+draft: true
 ---
 
 On a [recent visit](https://www.forestgarden.wales/blog/japanese-forest-garden/) to [Botanic Garden Wales](https://botanicgarden.wales), I met up with [Abigail Lowe](@abigailjayne26 ), a [PhD student](https://botanicgarden.wales/cyflwyniad-ymchwilydd-phd-newydd-abigail-lowe/) with the Garden’s Science Team who is continuing the [critical research](https://botanicgarden.wales/science/saving-pollinators/) into which flowers pollinators prefer, focussing on the [role of hoverflies](https://botanicgarden.wales/science/saving-pollinators/hoverfly-ecology/).
