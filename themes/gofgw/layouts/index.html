@@ -1,5 +1,6 @@
 {{ define "main" }}
   <main class="breakout u-cf">
+
     <div class="cta">
       <h2>Wildlife & forest garden design</h2>
       <h3>We are in a time of Climate Emergency and Mass Extinction. We need to garden in a way that encourages wildlife and engages people with the wider landscape.</h3>
@@ -10,7 +11,21 @@
         <a class="button cta__btn" href="mailto:{{ .Site.Params.email }}" rel="me">email me!</a>
       </div>
     </div>
-    <img src="https://res.cloudinary.com/growdigital/image/upload/w_760,q_70/v1570785798/greenroom-cad-screenshot-satellite.jpg" alt="Screenshot of forest garden design in CAD" style="margin: 10px 0;">
+    <img src="https://res.cloudinary.com/growdigital/image/upload/w_760,q_70/v1570785798/greenroom-cad-screenshot-satellite.jpg" alt="Screenshot of forest garden design in CAD" style="margin: 10px 0 16px">
+    <h2>Free ‘Make a Forest Garden Plan’ mini-course</h2>
+    <div class="cta">
+      <div class="cta__btnbox">
+        <a href="https://course.forestgarden.wales/p/make-forest-garden-plan/"><img src="https://res.cloudinary.com/growdigital/image/upload/v1576678567/screenshot-191218.jpg" alt="Screenshot of screenscast"></a>
+        <a class="button cta__btn" href="https://course.forestgarden.wales/p/make-forest-garden-plan/">Book now!</a>
+      </div><br>
+      <ul>
+        <li>Choosing correct scale for paper plan</li>
+        <li>Use satellite photo for CAD plan</li>
+        <li>Measuring techniques, incl. triangulation</li>
+        <li>Which observations to record when surveying your site</li>
+        <li><a href="https://course.forestgarden.wales/p/make-forest-garden-plan/">Book your free place now</a></li>
+      </ul>
+    </div>
     {{ .Content }}
   </main>
 {{ end }}
