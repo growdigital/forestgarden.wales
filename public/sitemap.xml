@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/191229-plan/</loc>
+    <lastmod>2019-12-29T12:15:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/191229-bird/</loc>
+    <lastmod>2019-12-29T12:14:35+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/191223-human-centric/</loc>
     <lastmod>2019-12-23T09:33:11+00:00</lastmod>
   </url>
