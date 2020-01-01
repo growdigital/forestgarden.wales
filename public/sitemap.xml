@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200101-wenlock/</loc>
+    <lastmod>2020-01-01T21:40:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/191230-mission/</loc>
+    <lastmod>2019-12-30T15:29:55+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/191230-me/</loc>
     <lastmod>2019-12-30T09:52:03+00:00</lastmod>
   </url>
