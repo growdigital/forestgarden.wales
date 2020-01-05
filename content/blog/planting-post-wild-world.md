@@ -29,7 +29,7 @@ I hit peak pique when I read the statement _“Planting exists to please people.
 
 To my mind, this attitude of human supremacy is the driving force behind our terrible relationship with the natural world (you know, mass extinction, climate breakdown). It really ought to be the other way round, people should exist to please plants and ecosystems, which in a virtuous circle would please people.
 
-The lovely [Andrew O’Brien](https://www.gardensweedsandwords.com) did [tweet in defence](https://twitter.com/AndrewTimothyOB/status/1209058231714234368) and I do agree with him in part. There is some good stuff in there, particularly for a novice like myself, including 5 very sound principles, some good advice on soil preparation, the emphasis on management rather than maintenance, ideas for how to create plant communities etc.
+The lovely [Andrew O’Brien](https://www.gardensweedsandwords.com) did [tweet in defence](https://twitter.com/AndrewTimothyOB/status/1209058231714234368) and I do agree with him in part. There is some good stuff in the book, particularly for a novice like myself, including 5 very sound principles, some good advice on soil preparation, the emphasis on management rather than maintenance, ideas for how to create plant communities etc.
 
 Overall though, I think the book reflects an imbalance which lies at the heart of contemporary garden design. Much of garden design has the sense of irrelevance because it is first and foremost about how a garden **looks**, not how it works.
 
@@ -37,4 +37,4 @@ This is where the book gets itself properly confused, distinguishing between des
 
 Let’s be clear, **design is not how something looks**. Design is a purposeful response to a specific challenge, it is not merely decoration tacked on to a “functional” layer.
 
-It doesn’t take much to turn this around, we just have to start with how a garden properly **functions**. Yes, for people, as a space to be. But also as a productive space. And _equally_ as food and habitat for wildlife. Already, that’s looking far more balanced and sounding rather like a forest garden.
+It doesn’t take much to turn this around, we just have to start with how a garden properly **functions**, particularly in a time of climate emergency. Yes, for people, as a space to be. But also as a productive space. And _equally_ as food and habitat for wildlife. Already, that’s looking far more balanced and sounding rather like a forest garden.
