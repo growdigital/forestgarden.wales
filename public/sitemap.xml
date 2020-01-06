@@ -238,6 +238,11 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/article/test/</loc>
+    <lastmod>2019-10-30T09:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/191029-pocket-parks/</loc>
     <lastmod>2019-10-29T19:54:11+00:00</lastmod>
   </url>
@@ -3830,6 +3835,11 @@
   <url>
     <loc>http://localhost:1313/blog/unglamorous-grunt-work/</loc>
     <lastmod>2017-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/article/rootstock-reference/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
