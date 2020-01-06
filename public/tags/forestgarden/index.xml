@@ -9,10 +9,46 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Tue, 17 Dec 2019 20:51:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2020 11:54:52 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recommended Books Suppliers</title>
+      <link>http://localhost:1313/blog/recommended-books-suppliers/</link>
+      <pubDate>Mon, 06 Jan 2020 11:54:52 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/recommended-books-suppliers/</guid>
+      <description>Suppliers  Backyard Larder, Alison Tindale Incredible Veg, Mandy Barber Agroforestry Research Trust, Martin Crawford Cool Temperate, Phil Corbett Future Forests, for hedging  ## Books &amp;amp; info</description>
+    </item>
+    
+    <item>
+      <title>Top 10 perennial vegetables</title>
+      <link>http://localhost:1313/blog/top-10-perennial-vegetables/</link>
+      <pubDate>Mon, 06 Jan 2020 11:22:50 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/top-10-perennial-vegetables/</guid>
+      <description>Big thank you to Alison Tindale at Backyard Larder for some great plants, profiles and photos, to Martin Crawford for writing Creating a Forest Garden, to Mandy Barber at Incredible Vegetables for the inspiration, and to Stephen Barstow for his unrelenting exploration of all things edimental.</description>
+    </item>
+    
+    <item>
+      <title>My take on Planting in a Post-wild World</title>
+      <link>http://localhost:1313/blog/planting-post-wild-world/</link>
+      <pubDate>Thu, 02 Jan 2020 13:46:10 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/planting-post-wild-world/</guid>
+      <description>My entry into gardening was via the forest garden, so I find the emphasis on the ornamental in mainstream gardening quite perplexing, particularly after reading Benjamin Vogt’s A New Garden Ethic.</description>
+    </item>
+    
+    <item>
+      <title>Hoverfly &amp; wild pollinators research at Botanic Garden Wales</title>
+      <link>http://localhost:1313/blog/hoverfly-wild-pollinators-botanic-garden-wales/</link>
+      <pubDate>Tue, 17 Dec 2019 23:57:30 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/hoverfly-wild-pollinators-botanic-garden-wales/</guid>
+      <description>On a recent visit to Botanic Garden Wales, I met up with Abigail Lowe, a PhD student with the Garden’s Science Team who is continuing the critical research into which flowers pollinators prefer, focussing on the role of hoverflies.</description>
+    </item>
     
     <item>
       <title>The Japanese Forest Garden</title>
@@ -20,7 +56,7 @@
       <pubDate>Tue, 17 Dec 2019 20:51:11 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/blog/japanese-forest-garden/</guid>
-      <description></description>
+      <description>At first glance, the idea of a Japanese Garden is at odds with a forest garden: clipped cloud hedges, carefully trained trees, layer upon layer of symbolism and meaning.</description>
     </item>
     
     <item>
@@ -111,15 +147,6 @@
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/blog/my-favourite-place/</guid>
       <description>I finished weeding in the morning. The geranium has taken well in most places, pungent where I tread too close.</description>
-    </item>
-    
-    <item>
-      <title>Know 4 things before planting an orchard</title>
-      <link>http://localhost:1313/article/4-things-planting-orchard/</link>
-      <pubDate>Wed, 30 Oct 2019 09:46:32 +0000</pubDate>
-      <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/article/4-things-planting-orchard/</guid>
-      <description> Aspect  sun angle latitude  Protection  windbreak nurse tree dead hedge  Size  height diameter shape rootstock species  Soil  Drainage Fertility Soil type   </description>
     </item>
     
     <item>

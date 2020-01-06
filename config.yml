@@ -11,6 +11,8 @@ pluralizeListTitles: false
 summaryLength: 13
 taxonomies:
   tag: tags
+permalinks:
+  article: /:title
 params:
   description: Wildlife forest garden design for edible crops
   publisher: Forest Garden Wales

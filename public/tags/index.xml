@@ -51,6 +51,15 @@
     </item>
     
     <item>
+      <title>Botanicgardenwales</title>
+      <link>http://localhost:1313/tags/botanicgardenwales/</link>
+      <pubDate>Tue, 17 Dec 2019 23:57:30 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/botanicgardenwales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cad</title>
       <link>http://localhost:1313/tags/cad/</link>
       <pubDate>Fri, 22 Nov 2019 18:11:00 +0000</pubDate>
@@ -231,6 +240,15 @@
     </item>
     
     <item>
+      <title>Edimentals</title>
+      <link>http://localhost:1313/tags/edimentals/</link>
+      <pubDate>Mon, 06 Jan 2020 11:22:50 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/edimentals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Flickr</title>
       <link>http://localhost:1313/tags/flickr/</link>
       <pubDate>Tue, 11 Dec 2018 12:09:29 +0000</pubDate>
@@ -251,7 +269,7 @@
     <item>
       <title>Forestgarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Tue, 17 Dec 2019 20:51:11 +0000</pubDate>
+      <pubDate>Mon, 06 Jan 2020 11:54:52 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
@@ -339,6 +357,15 @@
     </item>
     
     <item>
+      <title>Hoverfly</title>
+      <link>http://localhost:1313/tags/hoverfly/</link>
+      <pubDate>Tue, 17 Dec 2019 23:57:30 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/hoverfly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Howto</title>
       <link>http://localhost:1313/tags/howto/</link>
       <pubDate>Fri, 22 Nov 2019 18:11:00 +0000</pubDate>
@@ -371,6 +398,15 @@
       <pubDate>Sat, 15 Sep 2018 20:32:03 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/italian-alder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Japanesegarden</title>
+      <link>http://localhost:1313/tags/japanesegarden/</link>
+      <pubDate>Tue, 17 Dec 2019 20:51:11 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/japanesegarden/</guid>
       <description></description>
     </item>
     
@@ -528,6 +564,15 @@
     </item>
     
     <item>
+      <title>Perennialveg</title>
+      <link>http://localhost:1313/tags/perennialveg/</link>
+      <pubDate>Mon, 06 Jan 2020 11:22:50 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/perennialveg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Physalis</title>
       <link>http://localhost:1313/tags/physalis/</link>
       <pubDate>Wed, 12 Dec 2018 14:44:14 +0000</pubDate>
@@ -566,7 +611,7 @@
     <item>
       <title>Pollinators</title>
       <link>http://localhost:1313/tags/pollinators/</link>
-      <pubDate>Sat, 09 Mar 2019 10:20:06 +0000</pubDate>
+      <pubDate>Tue, 17 Dec 2019 23:57:30 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/pollinators/</guid>
       <description></description>
@@ -800,7 +845,7 @@
     <item>
       <title>Wildlifegarden</title>
       <link>http://localhost:1313/tags/wildlifegarden/</link>
-      <pubDate>Wed, 26 Jun 2019 09:37:02 +0100</pubDate>
+      <pubDate>Thu, 02 Jan 2020 13:46:10 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/wildlifegarden/</guid>
       <description></description>
@@ -839,6 +884,15 @@
       <pubDate>Mon, 18 Nov 2019 10:44:07 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yearofthefly</title>
+      <link>http://localhost:1313/tags/yearofthefly/</link>
+      <pubDate>Tue, 17 Dec 2019 23:57:30 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/yearofthefly/</guid>
       <description></description>
     </item>
     

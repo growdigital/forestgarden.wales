@@ -9,10 +9,19 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Sat, 09 Mar 2019 10:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2019 23:57:30 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/pollinators/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hoverfly &amp; wild pollinators research at Botanic Garden Wales</title>
+      <link>http://localhost:1313/blog/hoverfly-wild-pollinators-botanic-garden-wales/</link>
+      <pubDate>Tue, 17 Dec 2019 23:57:30 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/hoverfly-wild-pollinators-botanic-garden-wales/</guid>
+      <description>On a recent visit to Botanic Garden Wales, I met up with Abigail Lowe, a PhD student with the Garden’s Science Team who is continuing the critical research into which flowers pollinators prefer, focussing on the role of hoverflies.</description>
+    </item>
     
     <item>
       <title>Flowers for pollinators in an orchard</title>
