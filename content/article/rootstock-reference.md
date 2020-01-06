@@ -9,6 +9,8 @@ imageAlt:
 imageCap:
 - Rootstocks explained illustration, I think from Johnstown Garden Centre
 draft: false
+aliases: 
+- /blog/rootstock-reference/
 ---
 
 A roostock is the well developed root system on which you graft a known fruiting variety. The rootstock you choose determines the height, diameter and vigour of the tree. As a rule of thumb, you only need to stake semi-dwarfing and smaller rootstocks.

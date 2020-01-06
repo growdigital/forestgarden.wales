@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200106-comments/</loc>
+    <lastmod>2020-01-06T20:39:12+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/recommended-books-suppliers/</loc>
     <lastmod>2020-01-06T11:54:52+00:00</lastmod>
   </url>
@@ -3829,11 +3834,6 @@
   
   <url>
     <loc>http://localhost:1313/rootstock-reference/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/blog/rootstock-reference/</loc>
     <lastmod>2017-12-26T00:00:00+00:00</lastmod>
   </url>
   
