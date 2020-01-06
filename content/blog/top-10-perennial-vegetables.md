@@ -29,4 +29,6 @@ Big thank you to [Alison Tindale](https://twitter.com/backyardlarder) at [Backya
 9. [Turkish Rocket](https://pfaf.org/user/plant.aspx?latinname=Bunias+orientalis)
 10. [Wild Garlic](https://pfaf.org/user/plant.aspx?LatinName=Allium+ursinum)
 
+This list is very much a work in progress, I’ll be updating it on an ad hoc basis.
 
+Any suggestions for your favourite perennial veg, please email me [hello@forestgarden.wales](mailto:hello@forestgarden.wales)
