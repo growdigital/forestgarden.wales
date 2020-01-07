@@ -150,6 +150,15 @@
     </item>
     
     <item>
+      <title>Comfrey</title>
+      <link>http://localhost:1313/tags/comfrey/</link>
+      <pubDate>Tue, 07 Jan 2020 10:30:45 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/comfrey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Community</title>
       <link>http://localhost:1313/tags/community/</link>
       <pubDate>Thu, 16 May 2019 17:56:15 +0100</pubDate>
@@ -269,7 +278,7 @@
     <item>
       <title>Forestgarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Mon, 06 Jan 2020 11:54:52 +0000</pubDate>
+      <pubDate>Tue, 07 Jan 2020 10:30:45 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
@@ -449,7 +458,7 @@
     <item>
       <title>Mulch</title>
       <link>http://localhost:1313/tags/mulch/</link>
-      <pubDate>Tue, 30 Apr 2019 20:10:44 +0100</pubDate>
+      <pubDate>Tue, 07 Jan 2020 10:30:45 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/mulch/</guid>
       <description></description>

@@ -1,7 +1,7 @@
 ---
 title: Rootstock reference
 date: 2017-12-26
-description: Quick reference for fruiting tree rootstocks
+description: Fruit varities are grafted on rootstocks, which determine the trees height and vigour. This is a quick reference for the different rootstocks available.
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1543958990/rootstocks-24453546047.png
 imageAlt: 

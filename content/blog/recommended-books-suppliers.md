@@ -1,14 +1,14 @@
 ---
-title: Recommended Books Suppliers
+title: Recommended books & suppliers
 date: 2020-01-06T11:54:52Z
 discussionId: recommended-books-suppliers
 description: 
 tags: 
 - ForestGarden
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1573477841/book-creating-a-forest-garden.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1551348505/creating-forest-garden-inside.jpg
 imageAlt:
-- Cover of book Creating a Forest Garden
+- Inside of book Creating a Forest Garden
 imageCap:
 - Martin Crawford’s invaluable introduction and reference for creating a forest garden
 draft: false

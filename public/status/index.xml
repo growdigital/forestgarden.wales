@@ -15,6 +15,15 @@
     
     
     <item>
+      <link>http://localhost:1313/status/200106-comments/</link>
+      <title>Comments</title>
+      <pubDate>Mon, 06 Jan 2020 20:39:12 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200106-comments/</guid>
+      <description>Greetings peeps, I have removed comments from my blog. No big shakes, only 6 comments since starting, and 1 of them was by me.</description>
+    </item>
+    
+    <item>
       <link>http://localhost:1313/status/200106-xmas/</link>
       <title>True spirit of Christmas</title>
       <pubDate>Mon, 06 Jan 2020 09:14:09 +0000</pubDate>

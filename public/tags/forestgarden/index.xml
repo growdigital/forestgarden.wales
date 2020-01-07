@@ -9,13 +9,22 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Mon, 06 Jan 2020 11:54:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2020 10:30:45 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Recommended Books Suppliers</title>
+      <title>Chop ‘n’ drop comfrey mulch</title>
+      <link>http://localhost:1313/chop-n-drop-comfrey-mulch/</link>
+      <pubDate>Tue, 07 Jan 2020 10:30:45 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/chop-n-drop-comfrey-mulch/</guid>
+      <description>Comfrey is a garden workhorse. As a mineral accumulator, it’s rich in potassium and is used to make a liquid compost.</description>
+    </item>
+    
+    <item>
+      <title>Recommended books &amp; suppliers</title>
       <link>http://localhost:1313/blog/recommended-books-suppliers/</link>
       <pubDate>Mon, 06 Jan 2020 11:54:52 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
