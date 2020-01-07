@@ -1,7 +1,7 @@
 ---
-title: Recommended books & suppliers
+title: Recommended
 date: 2020-01-06T11:54:52Z
-discussionId: recommended-books-suppliers
+discussionId: recommended
 description: 
 tags: 
 - ForestGarden
