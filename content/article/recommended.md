@@ -19,9 +19,9 @@ aliases:
 
 ## Books
 
-* [Around the world in 80 plants](https://permanentpublications.co.uk/port/around-the-world-in-80-plants-an-edible-perennial-vegetable-adventure-for-temperate-climates-by-stephen-barstow/) by [Stephen Barstow](https://mobile.twitter.com/s_barstow)
 * [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/) by [Martin Crawford](https://facebook.com/agroforestry.co.uk)
 * [A New Garden Ethic](https://newsociety.com/Books/N/A-New-Garden-Ethic) by [Benjamin Vogt](https://www.monarchgard.com/benjamin-vogt.html)
+* [Around the world in 80 plants](https://permanentpublications.co.uk/port/around-the-world-in-80-plants-an-edible-perennial-vegetable-adventure-for-temperate-climates-by-stephen-barstow/) by [Stephen Barstow](https://mobile.twitter.com/s_barstow)
 
 ## Suppliers
 
