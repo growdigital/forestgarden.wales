@@ -2,7 +2,7 @@
 title: Recommended
 date: 2020-01-06T11:54:52Z
 discussionId: recommended
-description: 
+description: Recommended books, suppliers, websites and podcasts. Saving you time and enlarging your brain 🧠
 tags: 
 - ForestGarden
 - reference
