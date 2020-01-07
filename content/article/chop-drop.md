@@ -1,7 +1,7 @@
 ---
 title: Chop ‘n’ drop
 date: 2020-01-07T10:30:45Z
-description: Plant comfrey by your fruit trees, then chop the leaves once or twice a year and mulch in-situ. This is the chop ‘n’ drop comfrey mulch technique, no compost required.
+description: Plant comfrey by your fruit trees, then chop the leaves once or twice a year and mulch in-situ. This is the chop ‘n’ drop comfrey mulch technique, no composting required.
 tags: 
 - ForestGarden
 - Mulch
