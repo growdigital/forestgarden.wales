@@ -17,7 +17,7 @@ aliases:
 - /blog/recommended-books-suppliers/
 ---
 
-## Books
+## Books
 
 * [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/) by [Martin Crawford](https://facebook.com/agroforestry.co.uk)
 * [A New Garden Ethic](https://newsociety.com/Books/N/A-New-Garden-Ethic) by [Benjamin Vogt](https://www.monarchgard.com/benjamin-vogt.html)
@@ -31,7 +31,7 @@ aliases:
 * [Cool Temperate](http://www.cooltemperate.co.uk/), Phil Corbett
 * [Future Forests](https://futureforests.ie/), for hedging
 
-## Websites
+## Websites
 
 * [Plants For A Future](https://pfaf.org/) brilliant database of useful plants, essential
 * [Database of Insects & their Food](https://www.brc.ac.uk/dbif/hosts.aspx) intoxifying amount of info about which plants are hosts for which insects
@@ -39,7 +39,7 @@ aliases:
 * [RHS Plant Finder](https://www.rhs.org.uk/Plants/Search-Form), with checkbox for native plants filter
 * [orangepippin.com](https://www.orangepippin.com) for information on fruit varieties
 
-## Podcasts
+## Podcasts
 
 * [Roots and All](https://rootsandall.co.uk) best wildlife gardening podcast out there
 * [A Way To Garden](https://awaytogarden.com) with Margaret Roach: long running, always interesting
