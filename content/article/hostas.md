@@ -1,7 +1,7 @@
 ---
 title: Hostas
 date: 2020-01-08T14:34:33Z
-description: Many hostas are used as vegetables, list from Martin Crawford’s ‘Creating a Forest Garden’ pp223
+description: Many hostas are used as vegetables, list from Martin Crawford’s ‘Creating a Forest Garden’
 tags: 
 - ForestGarden
 images: 
