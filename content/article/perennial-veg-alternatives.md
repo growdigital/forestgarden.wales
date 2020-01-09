@@ -5,7 +5,8 @@ discussionId: perennial-vegetable-alternatives
 description: Perennial vegetables are less work and more nutritious but it’s a big cultural shift to adopt new veg. Here’s a simple table of perennial vegetable equivalents to annual vegetables to help the process.
 tags: 
 - ForestGarden
-- GdnBloggers
+- PerennialVeg
+- Edimentals
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1543874050/good-king-henry-41163987821.jpg
 imageAlt: 
@@ -13,6 +14,8 @@ imageAlt:
 imageCap:
 - Martin Crawford standing next to bed of Good King Henry 
 draft: false
+aliases: 
+- /blog/perennial-vegetable-alternatives/
 ---
 
 Perennial vegetable alternatives to annual vegetables, a reference to help make the transition to perennial veg. Let me know suggested additions <hello@forestgarden.wales> 🙂

@@ -1,5 +1,5 @@
 ---
-title: Top 10 perennial vegetables
+title: Top 10 perennial veg
 date: 2020-01-06T11:22:50Z
 discussionId: top-10-perennial-vegetables
 description: Inspired by Backyard Larder, Incredible Vegetables and Martin Crawford, here’s my ‘it could change at any moment’ top 10 perennial veg
@@ -14,9 +14,9 @@ imageAlt:
 imageCap:
 - Flowering Sea Kale, photo by UnconventionalEmma on Flickr
 draft: false
+aliases: 
+- /blog/top-10-perennial-vegetables/
 ---
-
-Big thank you to [Alison Tindale](https://twitter.com/backyardlarder) at [Backyard Larder](https://backyardlarder.co.uk) for some great plants, profiles and photos, to Martin Crawford for writing [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/), to [Mandy Barber](https://twitter.com/incredibleveg) at [Incredible Vegetables](https://www.incrediblevegetables.co.uk) for the inspiration, and to [Stephen Barstow](https://twitter.com/s_barstow) for his unrelenting [exploration of all things edimental](http://www.edimentals.com).
 
 1. [Caucasian Spinach](https://pfaf.org/user/Plant.aspx?LatinName=Hablitzia+tamnoides)
 2. [Day Lillies](https://pfaf.org/user/cmspage.aspx?pageid=63)
@@ -29,6 +29,6 @@ Big thank you to [Alison Tindale](https://twitter.com/backyardlarder) at [Backya
 9. [Turkish Rocket](https://pfaf.org/user/plant.aspx?latinname=Bunias+orientalis)
 10. [Wild Garlic](https://pfaf.org/user/plant.aspx?LatinName=Allium+ursinum)
 
-This list is very much a work in progress, I’ll be updating it on an ad hoc basis.
+Big thank you to [Alison Tindale](https://twitter.com/backyardlarder) at [Backyard Larder](https://backyardlarder.co.uk) for some great plants, profiles and photos, to Martin Crawford for writing [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/), to [Mandy Barber](https://twitter.com/incredibleveg) at [Incredible Vegetables](https://www.incrediblevegetables.co.uk) for the inspiration, and to [Stephen Barstow](https://twitter.com/s_barstow) for his unrelenting [exploration of all things edimental](http://www.edimentals.com).
 
 Any suggestions for your favourite perennial veg, please email me [hello@forestgarden.wales](mailto:hello@forestgarden.wales)
