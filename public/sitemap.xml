@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200109-bacon/</loc>
+    <lastmod>2020-01-09T09:29:04+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/hostas/</loc>
     <lastmod>2020-01-08T14:34:33+00:00</lastmod>
   </url>
@@ -749,6 +754,11 @@
   
   <url>
     <loc>http://localhost:1313/blog/perennial-vegetable-alternatives/</loc>
+    <lastmod>2019-05-16T12:39:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/perennial-veg-alternatives/</loc>
     <lastmod>2019-05-16T12:39:12+01:00</lastmod>
   </url>
   
