@@ -72,11 +72,11 @@
     </item>
     
     <item>
-      <title>Blog: Top 10 perennial vegetables #ForestGarden #PerennialVeg #Edimentals </title>
-      <link>http://localhost:1313/blog/top-10-perennial-vegetables/</link>
+      <title>Blog: Top 10 perennial veg #ForestGarden #PerennialVeg #Edimentals </title>
+      <link>http://localhost:1313/top-10-perennial-veg/</link>
       <pubDate>Mon, 06 Jan 2020 11:22:50 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/blog/top-10-perennial-vegetables/</guid>
+      <guid>http://localhost:1313/top-10-perennial-veg/</guid>
       <description>Inspired by Backyard Larder, Incredible Vegetables and Martin Crawford, here’s my ‘it could change at any moment’ top 10 perennial veg</description>
     </item>
     
@@ -1139,11 +1139,11 @@ It was biting me
     </item>
     
     <item>
-      <title>Blog: Clay lined pond #ForestGarden #GdnBloggers #WildlifePond </title>
-      <link>http://localhost:1313/blog/clay-lined-pond/</link>
+      <title>Blog: Clay lined pond #ForestGarden #WildlifePond #Clay #Pond </title>
+      <link>http://localhost:1313/clay-lined-pond/</link>
       <pubDate>Wed, 26 Jun 2019 15:57:25 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/blog/clay-lined-pond/</guid>
+      <guid>http://localhost:1313/clay-lined-pond/</guid>
       <description>Nick Balmer wrote a fantastic summary of creating a clay-lined pond in the closed Facebook Forest Garden UK group, reproduced here with his kind permission 🙂</description>
     </item>
     
@@ -1373,16 +1373,7 @@ It was biting me
     </item>
     
     <item>
-      <title>Blog: Perennial alternatives to annual vegetables #ForestGarden #GdnBloggers </title>
-      <link>http://localhost:1313/blog/perennial-vegetable-alternatives/</link>
-      <pubDate>Thu, 16 May 2019 12:39:12 +0100</pubDate>
-      <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/blog/perennial-vegetable-alternatives/</guid>
-      <description>Perennial vegetables are less work and more nutritious but it’s a big cultural shift to adopt new veg. Here’s a simple table of perennial vegetable equivalents to annual vegetables to help the process.</description>
-    </item>
-    
-    <item>
-      <title>Blog: Perennial veg alternatives #ForestGarden #GdnBloggers </title>
+      <title>Blog: Perennial veg alternatives #ForestGarden #PerennialVeg #Edimentals </title>
       <link>http://localhost:1313/perennial-veg-alternatives/</link>
       <pubDate>Thu, 16 May 2019 12:39:12 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>

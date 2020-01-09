@@ -5,8 +5,9 @@ discussionId: clay-lined-pond
 description: Nick Balmer wrote a fantastic summary of creating a clay-lined pond in the closed Facebook Forest Garden UK group, reproduced here with his kind permission 🙂
 tags: 
 - ForestGarden
-- GdnBloggers
 - WildlifePond
+- Clay
+- Pond
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1561538356/pond-7531DF77.jpg
 imageAlt: 
@@ -14,6 +15,8 @@ imageAlt:
 imageCap:
 - Clay-lined pond at Wyndrush Wild meadows, created from clay dug out for building
 draft: false
+aliases: 
+- /blog/clay-lined-pond/
 ---
 
 I’m creating yet another wildlife pond, this time in the [Ornamental Forest Garden](https://www.forestgarden.wales/blog/introducing-ornamental-maintenance-free-forest-garden/). Ponds are truly brilliant, they’re top of the [The Dreaded Gardener](https://www.facebook.com/The-Dreaded-Gardener-1403035606578314/)’s list of [features for a wildlife garden](https://www.forestgarden.wales/blog/wildlife-garden-checklist/). For some insightful information, have a look at the [Freshwater Habitats Trust](https://freshwaterhabitats.org.uk). 

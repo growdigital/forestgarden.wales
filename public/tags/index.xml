@@ -78,6 +78,15 @@
     </item>
     
     <item>
+      <title>Clay</title>
+      <link>http://localhost:1313/tags/clay/</link>
+      <pubDate>Wed, 26 Jun 2019 15:57:25 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/clay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Climate Emergency</title>
       <link>http://localhost:1313/tags/climate-emergency/</link>
       <pubDate>Tue, 05 Nov 2019 09:45:05 +0000</pubDate>
@@ -278,7 +287,7 @@
     <item>
       <title>Forestgarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Tue, 07 Jan 2020 10:30:45 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2020 14:34:33 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
@@ -638,7 +647,7 @@
     <item>
       <title>Pond</title>
       <link>http://localhost:1313/tags/pond/</link>
-      <pubDate>Wed, 26 Jun 2019 09:37:02 +0100</pubDate>
+      <pubDate>Wed, 26 Jun 2019 15:57:25 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/pond/</guid>
       <description></description>
@@ -692,7 +701,7 @@
     <item>
       <title>Reference</title>
       <link>http://localhost:1313/tags/reference/</link>
-      <pubDate>Wed, 20 Mar 2019 13:29:51 +0000</pubDate>
+      <pubDate>Mon, 06 Jan 2020 11:54:52 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/reference/</guid>
       <description></description>

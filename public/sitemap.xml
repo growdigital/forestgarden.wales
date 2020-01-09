@@ -33,7 +33,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/top-10-perennial-vegetables/</loc>
+    <loc>http://localhost:1313/top-10-perennial-veg/</loc>
     <lastmod>2020-01-06T11:22:50+00:00</lastmod>
   </url>
   
@@ -623,7 +623,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/clay-lined-pond/</loc>
+    <loc>http://localhost:1313/clay-lined-pond/</loc>
     <lastmod>2019-06-26T15:57:25+01:00</lastmod>
   </url>
   
@@ -750,11 +750,6 @@
   <url>
     <loc>http://localhost:1313/blog/community-food-forest/</loc>
     <lastmod>2019-05-16T17:56:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/blog/perennial-vegetable-alternatives/</loc>
-    <lastmod>2019-05-16T12:39:12+01:00</lastmod>
   </url>
   
   <url>
@@ -3926,6 +3921,12 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/clay/</loc>
+    <lastmod>2019-06-26T15:57:25+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/climate-emergency/</loc>
     <lastmod>2019-11-05T09:45:05+00:00</lastmod>
     <priority>0</priority>
@@ -4299,7 +4300,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/pond/</loc>
-    <lastmod>2019-06-26T09:37:02+01:00</lastmod>
+    <lastmod>2019-06-26T15:57:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   

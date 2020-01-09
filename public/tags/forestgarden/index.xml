@@ -9,36 +9,46 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Tue, 07 Jan 2020 10:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 14:34:33 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Chop ‘n’ drop comfrey mulch</title>
-      <link>http://localhost:1313/chop-n-drop-comfrey-mulch/</link>
+      <title>Hostas</title>
+      <link>http://localhost:1313/hostas/</link>
+      <pubDate>Wed, 08 Jan 2020 14:34:33 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/hostas/</guid>
+      <description>Hosta crispula 0.6m x 1m
+ Hosta longipes 0.3m x 1m</description>
+    </item>
+    
+    <item>
+      <title>Chop ‘n’ drop</title>
+      <link>http://localhost:1313/chop-n-drop/</link>
       <pubDate>Tue, 07 Jan 2020 10:30:45 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/chop-n-drop-comfrey-mulch/</guid>
+      <guid>http://localhost:1313/chop-n-drop/</guid>
       <description>Comfrey is a garden workhorse. As a mineral accumulator, it’s rich in potassium and is used to make a liquid compost.</description>
     </item>
     
     <item>
-      <title>Recommended books &amp; suppliers</title>
-      <link>http://localhost:1313/blog/recommended-books-suppliers/</link>
+      <title>Recommended</title>
+      <link>http://localhost:1313/recommended/</link>
       <pubDate>Mon, 06 Jan 2020 11:54:52 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/blog/recommended-books-suppliers/</guid>
-      <description>Suppliers  Backyard Larder, Alison Tindale Incredible Veg, Mandy Barber Agroforestry Research Trust, Martin Crawford Cool Temperate, Phil Corbett Future Forests, for hedging  ## Books &amp;amp; info</description>
+      <guid>http://localhost:1313/recommended/</guid>
+      <description>Books  Creating a Forest Garden by Martin Crawford A New Garden Ethic by Benjamin Vogt Around the world in 80 plants by Stephen Barstow  Suppliers  Backyard Larder, Alison Tindale Incredible Veg, Mandy Barber Agroforestry Research Trust, Martin Crawford Cool Temperate, Phil Corbett Future Forests, for hedging  Websites  Plants For A Future brilliant database of useful plants, essential Database of Insects &amp;amp; their Food intoxifying amount of info about which plants are hosts for which insects Edimentals.</description>
     </item>
     
     <item>
-      <title>Top 10 perennial vegetables</title>
-      <link>http://localhost:1313/blog/top-10-perennial-vegetables/</link>
+      <title>Top 10 perennial veg</title>
+      <link>http://localhost:1313/top-10-perennial-veg/</link>
       <pubDate>Mon, 06 Jan 2020 11:22:50 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/blog/top-10-perennial-vegetables/</guid>
-      <description>Big thank you to Alison Tindale at Backyard Larder for some great plants, profiles and photos, to Martin Crawford for writing Creating a Forest Garden, to Mandy Barber at Incredible Vegetables for the inspiration, and to Stephen Barstow for his unrelenting exploration of all things edimental.</description>
+      <guid>http://localhost:1313/top-10-perennial-veg/</guid>
+      <description>Caucasian Spinach Day Lillies Welsh Onion Garden Sorrel Good King Henry Perennial Kale Perennial Leek Siberian Purslane Turkish Rocket Wild Garlic  Big thank you to Alison Tindale at Backyard Larder for some great plants, profiles and photos, to Martin Crawford for writing Creating a Forest Garden, to Mandy Barber at Incredible Vegetables for the inspiration, and to Stephen Barstow for his unrelenting exploration of all things edimental.</description>
     </item>
     
     <item>
@@ -277,10 +287,10 @@
     
     <item>
       <title>Clay lined pond</title>
-      <link>http://localhost:1313/blog/clay-lined-pond/</link>
+      <link>http://localhost:1313/clay-lined-pond/</link>
       <pubDate>Wed, 26 Jun 2019 15:57:25 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/blog/clay-lined-pond/</guid>
+      <guid>http://localhost:1313/clay-lined-pond/</guid>
       <description>I’m creating yet another wildlife pond, this time in the Ornamental Forest Garden.</description>
     </item>
     
@@ -331,12 +341,12 @@
     </item>
     
     <item>
-      <title>Perennial alternatives to annual vegetables</title>
-      <link>http://localhost:1313/blog/perennial-vegetable-alternatives/</link>
+      <title>Perennial veg alternatives</title>
+      <link>http://localhost:1313/perennial-veg-alternatives/</link>
       <pubDate>Thu, 16 May 2019 12:39:12 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/blog/perennial-vegetable-alternatives/</guid>
-      <description>I was twittering away with @BackyardLarder about how a #ForestGarden can feed a family, and thought a table of perennial vegetable equivalents of annual veg would be handy.</description>
+      <guid>http://localhost:1313/perennial-veg-alternatives/</guid>
+      <description>Perennial vegetable alternatives to annual vegetables, a reference to help make the transition to perennial veg.</description>
     </item>
     
     <item>
@@ -385,11 +395,11 @@
     </item>
     
     <item>
-      <title>Dead hedging in the forest garden</title>
-      <link>http://localhost:1313/blog/dead-hedging-forest-garden/</link>
+      <title>Dead hedge</title>
+      <link>http://localhost:1313/dead-hedge/</link>
       <pubDate>Fri, 19 Apr 2019 14:49:04 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/blog/dead-hedging-forest-garden/</guid>
+      <guid>http://localhost:1313/dead-hedge/</guid>
       <description>I’ve just found out about the benefits of a dead hedge from Janie who came on the forest garden workshop.</description>
     </item>
     

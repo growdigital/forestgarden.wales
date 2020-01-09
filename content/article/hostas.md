@@ -41,5 +41,8 @@ Hosta sieboldiana:
 
 Information gleaned from the fantastic [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/) by Martin Crawford, page 223. Edibilty rating out of 5 <span style="color:#BCB5B5"></span> is from [Plants For A Future](https://pfaf.org/) website.
 
+### All hostas are edible
+
+[Stephen Barstow](http://www.edimentals.com/) says all hostas are edible but it’s the larger cultivars which are used, as they’re easier to harvest. You can harvest all the spring shoots and it will regrow and flower in the same year; ornamental hosta growers do this for new leaves anyway. It’s also an easy plant to propagate by taking divisions.
 
 _Photo copyright Creative Commons by Andrew Duff on [Flickr](https://flickr.com/photos/deadhorse/133926488)._
