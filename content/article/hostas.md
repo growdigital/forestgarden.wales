@@ -38,8 +38,9 @@ Hosta sieboldiana:
 * ['Big Daddy'](https://www.rhs.org.uk/Plants/75241/Hosta-Big-Daddy-(sieboldiana-hybrid)-(v)/Details)
 * ['Blue Umbrella'](https://www.rhs.org.uk/Plants/92320/Hosta-Blue-Umbrellas-(sieboldiana-hybrid)/Details)
 * ['Elegans'](https://www.rhs.org.uk/Plants/99289/Hosta-sieboldiana-var-elegans/Details)
+* ['Blue Angel'](https://www.rhs.org.uk/Plants/67486/Hosta-Blue-Angel-(sieboldiana)/Details)
 
-Information gleaned from the fantastic [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/) by Martin Crawford, page 223. Edibilty rating out of 5 <span style="color:#BCB5B5"></span> is from [Plants For A Future](https://pfaf.org/) website.
+Information gleaned from the fantastic [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/) by Martin Crawford, page 223. Edibilty rating out of 5 <span style="color:#BCB5B5"></span> is from [Plants For A Future](https://pfaf.org/) website. 'Blue Angel' recommended by [Johann Kuntz](https://johannsgarden.square.site).
 
 ### All hostas are edible
 

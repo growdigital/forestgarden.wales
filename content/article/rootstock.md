@@ -1,5 +1,5 @@
 ---
-title: Rootstock reference
+title: Rootstock
 date: 2017-12-26
 description: Fruit varities are grafted on rootstocks, which determine the trees height and vigour. This is a quick reference for the different rootstocks available.
 images: 
@@ -11,6 +11,7 @@ imageCap:
 draft: false
 aliases: 
 - /blog/rootstock-reference/
+- /rootstock-reference/
 ---
 
 A roostock is the well developed root system on which you graft a known fruiting variety. The rootstock you choose determines the height, diameter and vigour of the tree. As a rule of thumb, you only need to stake semi-dwarfing and smaller rootstocks.
