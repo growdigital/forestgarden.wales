@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/articles/</loc>
+    <lastmod>2020-01-11T20:14:46+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200109-bacon/</loc>
     <lastmod>2020-01-09T09:29:04+00:00</lastmod>
   </url>
@@ -3886,7 +3891,7 @@
   
   <url>
     <loc>http://localhost:1313/article/</loc>
-    <lastmod>2020-01-08T14:34:33+00:00</lastmod>
+    <lastmod>2020-01-11T20:14:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4060,7 +4065,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2020-01-08T14:34:33+00:00</lastmod>
+    <lastmod>2020-01-11T20:14:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   

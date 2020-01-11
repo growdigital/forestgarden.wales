@@ -26,6 +26,8 @@ imageCap:
 - Dwarf comfrey makes a good ground cover
 gallery: true
 draft: false
+aliases: 
+- /chop-drop/
 ---
 
 [Comfrey](https://en.wikipedia.org/wiki/Symphytum) is a garden workhorse. As a mineral accumulator, it’s rich in [potassium](https://en.wikipedia.org/wiki/Potassium#Fertilizer) and is used to make a [liquid compost](https://www.gardenersworld.com/how-to/maintain-the-garden/how-to-make-a-comfrey-liquid-feed/). It’s also a beautiful pollinator plant flowering in late spring and early summer.
