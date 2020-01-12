@@ -15,6 +15,8 @@ imageAlt:
 imageCap:
 - Irish Ladies Tresses, Spiranthes romanzoffiana
 draft: false
+aliases:
+- /blog/wild-orchards-in-wales
 ---
 
 Great talk by Sue Parker at [Llechryd & District Gardening Club](http://llechrydgardenclub.co.uk). She’s part of [First Nature](https://www.first-nature.com) who publish a whole range of wildlife guides and books, and she’s Publicity Officer for the [Hardy Orchid Society](http://www.hardyorchidsociety.org.uk).
