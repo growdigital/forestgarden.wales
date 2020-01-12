@@ -35,9 +35,12 @@ aliases:
 
 * [Plants For A Future](https://pfaf.org/) brilliant database of useful plants, essential
 * [Database of Insects & their Food](https://www.brc.ac.uk/dbif/hosts.aspx) intoxifying amount of info about which plants are hosts for which insects
-* [Edimentals.com](http://www.edimentals.com/blog/) by [Stephen Barstow](https://mobile.twitter.com/s_barstow)
-* [RHS Plant Finder](https://www.rhs.org.uk/Plants/Search-Form), with checkbox for native plants filter
 * [orangepippin.com](https://www.orangepippin.com) for information on fruit varieties
+* [RHS Plant Finder](https://www.rhs.org.uk/Plants/Search-Form), with checkbox for native plants filter
+* [fruitID](https://www.fruitid.com) fruit ID website!
+* [Edimentals.com](http://www.edimentals.com/blog/) by [Stephen Barstow](https://mobile.twitter.com/s_barstow)
+* [Edimentals](https://www.facebook.com/groups/273637002647408/) Facebook group
+* [Forest Garden UK](https://www.facebook.com/groups/405281259629562/) Facebook group
 
 ## Podcasts
 
