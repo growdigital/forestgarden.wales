@@ -47,3 +47,5 @@ These are my rather random notes from the talk, in no particular order. Lots abo
   * Spiranthes romanzoffiana, Irish Ladies Tresses, extinct now in England, recorded for 1st time ever in Wales, July 2019. The talk of the orchid town!
   * Doesn’t occur in Europe: Wales, Ireland & North America
 * Orchid requires fungi to propagate because seed so small it carries no nutrients, needs symbiotic exchange with fungi
+
+After the talk, I managed to talk with Sue’s partner Pat O’Reilly, author of [Fascinated by Fungi](https://www.first-nature.com/books/fungi2.php). Short but very interesting chat about fungi. There’s a totally purple orchid in France that is only found by a certain species of Pine and [Russula](https://en.wikipedia.org/wiki/Russula) fungi. It doesn’t have any chlorophyll, and parasitises the relationship between the pine and the fungi. Fascinating.
