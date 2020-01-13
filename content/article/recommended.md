@@ -47,3 +47,4 @@ aliases:
 * [Roots and All](https://rootsandall.co.uk) best wildlife gardening podcast out there
 * [A Way To Garden](https://awaytogarden.com) with Margaret Roach: long running, always interesting
 * [Gardens, Weeds & Words](https://www.gardensweedsandwords.com) mellifluous, with [Andrew O’Brien](https://twitter.com/andrewtimothyOB)
+* [Garden Organic](https://podcasts.apple.com/gb/podcast/the-organic-gardening-podcast/id1455955334) increasingly vegan, increasingly perennial
