@@ -2,11 +2,11 @@
 title: Wildlife features
 date: 2019-06-26T09:37:02+01:00
 discussionId: wildlife-garden-checklist
-description: Inspired by Malcolm Berry’s talk, here’s a simple checklist of invaluable features for your wildlife-friendly garden
+description: Checklist of invaluable features for your wildlife friendly garden
 tags: 
 - ForestGarden
-- GdnBloggers
 - WildlifeGarden
+- WildFlower
 - Pond
 - Meadow
 images: 
@@ -30,6 +30,6 @@ A simple list of features that benefit wildlife in any garden.
 * **Log piles:** So easy to do, put some logs in a pile. If you have a neat garden, you can tuck your logs out of sight, they’ll still do a great job of providing habitat for a multitude of inverterbrates and amphibians and a food source for everyone.
 * **Stone piles:** The same idea as log piles, put some stones in a pile. Provides a different, less slimy habitat. If you put your stone pile in the sun, you may even see some basking lizards.
 * **Stone walls:** Slightly more involved than a stone pile, but the same idea. Also, a great location for the strangely fashionable (and edible leaved) [Wall Pennywort](https://pfaf.org/user/plant.aspx?latinname=Umbilicus+rupestris).
-* **Flowers:** Flowers all year round for pollinators and predators. Native flowers are a food source for larger number of insects. Include some umbellifers for our smaller tongued compatriots. There is a wealth of information online about suitable flowers. Martin Crawford’s book [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/) has a whole appendix devoted to which flowers provide pollen and/or nectar and when.
+* **Flowers:** Flowers all year round for pollinators and predators. Try growing native wild flowers, as they’re a food source for larger number of insects. Include some umbellifers for our smaller tongued compatriots. There is a wealth of information online about suitable flowers. Martin Crawford’s book [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/) has a whole appendix devoted to which flowers provide pollen and/or nectar and when.
 
 Inspired by [Malcolm Berry](https://www.facebook.com/The-Dreaded-Gardener-1403035606578314/)’s wildlife gardening talk to [Drefach Gardening Club](http://www.drefachfelindregardeningclub.co.uk)
