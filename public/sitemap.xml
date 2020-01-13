@@ -3003,6 +3003,11 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/definition/</loc>
+    <lastmod>2018-07-08T09:36:44+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/what-is-a-forest-garden/</loc>
     <lastmod>2018-07-08T09:36:44+01:00</lastmod>
   </url>
