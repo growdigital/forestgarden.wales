@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/blog/modular-forest-garden/</loc>
+    <lastmod>2020-01-16T10:58:22+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/wild-orchids-of-wales/</loc>
     <lastmod>2020-01-12T20:30:57+00:00</lastmod>
   </url>
@@ -4091,7 +4096,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2020-01-12T20:30:57+00:00</lastmod>
+    <lastmod>2020-01-16T10:58:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4205,7 +4210,13 @@
   
   <url>
     <loc>http://localhost:1313/tags/meadow/</loc>
-    <lastmod>2019-06-26T09:37:02+01:00</lastmod>
+    <lastmod>2020-01-16T10:58:22+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/modular/</loc>
+    <lastmod>2020-01-16T10:58:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4481,7 +4492,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/wildflower/</loc>
-    <lastmod>2020-01-12T20:30:57+00:00</lastmod>
+    <lastmod>2020-01-16T10:58:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
