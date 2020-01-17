@@ -1,5 +1,5 @@
 ---
-title: Thomasrainer
+title: Thomas Rainer
 date: 2020-01-16T12:45:10Z
 images:
 - https://res.cloudinary.com/growdigital/image/upload/v1579178906/module-thomasrainer-200116.png
