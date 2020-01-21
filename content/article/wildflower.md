@@ -22,7 +22,8 @@ I asked on Twitter about reference material for starting out in the world of UK 
   * [BSBI](https://bsbi.org/)’s [Botanical Keys](http://www.botanicalkeys.co.uk/flora/)
   * [Makaques](http://www.makaques.com/index.html)
   * [FloralImages](http://www.floralimages.co.uk) photo ID
-* For ecology [BSBI](https://bsbi.org/)’s [Plant Atlas](https://www.brc.ac.uk/plantatlas/) 
+  * [Wildflowers of Britain and Ireland](https://www.facebook.com/groups/735961066428140/) Facebook group
+* For ecology [BSBI](https://bsbi.org/)’s [Plant Atlas](https://www.brc.ac.uk/plantatlas/)
 * For garden [Plantlife](https://www.plantlife.org.uk/uk)’s [Wild Flowers To Grow In The Garden](https://plantlife.love-wildflowers.org.uk/wildflower_garden/grow_in_the_garden/)
 * For “useful” plants [Plants For A Future](https://pfaf.org)
 

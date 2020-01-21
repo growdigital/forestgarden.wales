@@ -14,7 +14,7 @@ imageCap:
 - Nice bit of CAD to illustrate the ¼ to ½ gap between trees
 draft: false
 aliases:
-- /blog/tree-spacing-forest-garden
+- /blog/tree-spacing-forest-garden/
 ---
 
 It’s important to leave enough space between trees in the canopy layer, so that there’s enough light coming through to the plants below. Otherwise, you’ll end up with weak and spindly specimens! 
