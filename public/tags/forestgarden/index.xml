@@ -9,10 +9,47 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Wed, 08 Jan 2020 14:34:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2020 14:40:06 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wildflower</title>
+      <link>http://localhost:1313/wildflower/</link>
+      <pubDate>Sun, 19 Jan 2020 14:40:06 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/wildflower/</guid>
+      <description>I asked on Twitter about reference material for starting out in the world of UK native wild flowers.</description>
+    </item>
+    
+    <item>
+      <title>The idea of a modular forest garden</title>
+      <link>http://localhost:1313/blog/modular-forest-garden/</link>
+      <pubDate>Thu, 16 Jan 2020 10:58:22 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/modular-forest-garden/</guid>
+      <description>I’m fascinated by Benjamin Vogt’s idea of using modular design for a native garden meadow.</description>
+    </item>
+    
+    <item>
+      <title>Wild Orchids of Wales</title>
+      <link>http://localhost:1313/blog/wild-orchids-of-wales/</link>
+      <pubDate>Sun, 12 Jan 2020 20:30:57 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/wild-orchids-of-wales/</guid>
+      <description>Great talk by Sue Parker at Llechryd &amp;amp; District Gardening Club. She’s part of First Nature who publish a whole range of wildlife guides and books, and she’s Publicity Officer for the Hardy Orchid Society.</description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>http://localhost:1313/articles/</link>
+      <pubDate>Sat, 11 Jan 2020 20:14:46 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/articles/</guid>
+      <description>Articles for reference. Short URLs, concise info 🙂 💚 🌳
+ Chop ‘n’ drop mulching forestgarden.</description>
+    </item>
     
     <item>
       <title>Hostas</title>
@@ -39,7 +76,7 @@
       <pubDate>Mon, 06 Jan 2020 11:54:52 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/recommended/</guid>
-      <description>Books  Creating a Forest Garden by Martin Crawford A New Garden Ethic by Benjamin Vogt Around the world in 80 plants by Stephen Barstow  Suppliers  Backyard Larder, Alison Tindale Incredible Veg, Mandy Barber Agroforestry Research Trust, Martin Crawford Cool Temperate, Phil Corbett Future Forests, for hedging  Websites  Plants For A Future brilliant database of useful plants, essential Database of Insects &amp;amp; their Food intoxifying amount of info about which plants are hosts for which insects Edimentals.</description>
+      <description>Books  Creating a Forest Garden by Martin Crawford A New Garden Ethic by Benjamin Vogt Around the world in 80 plants by Stephen Barstow  Suppliers  Backyard Larder, Alison Tindale Incredible Veg, Mandy Barber Agroforestry Research Trust, Martin Crawford Cool Temperate, Phil Corbett Future Forests, for hedging  Websites  Plants For A Future brilliant database of useful plants, essential Database of Insects &amp;amp; their Food intoxifying amount of info about which plants are hosts for which insects orangepippin.</description>
     </item>
     
     <item>
@@ -295,6 +332,16 @@
     </item>
     
     <item>
+      <title>Wildlife features</title>
+      <link>http://localhost:1313/wildlife-features/</link>
+      <pubDate>Wed, 26 Jun 2019 09:37:02 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/wildlife-features/</guid>
+      <description>A simple list of features that benefit wildlife in any garden.
+ Pond: The number one must-have feature, water is essential for life.</description>
+    </item>
+    
+    <item>
       <title>Wildlife garden checklist</title>
       <link>http://localhost:1313/blog/wildlife-garden-checklist/</link>
       <pubDate>Wed, 26 Jun 2019 09:37:02 +0100</pubDate>
@@ -365,6 +412,15 @@
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/blog/recycled-ever-expanding-plant-labels/</guid>
       <description>I used to tie ordinary plants to tree branches with bits of baling twine.</description>
+    </item>
+    
+    <item>
+      <title>Ground cover</title>
+      <link>http://localhost:1313/ground-cover/</link>
+      <pubDate>Tue, 30 Apr 2019 20:10:44 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/ground-cover/</guid>
+      <description>A key principle of no-dig gardening is to always protect the soil with mulch.</description>
     </item>
     
     <item>
@@ -464,6 +520,24 @@
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/blog/bird-nest-box-plan/</guid>
       <description>The whole point of a forest garden is that you are working with nature to grow edible crops.</description>
+    </item>
+    
+    <item>
+      <title>Nest box</title>
+      <link>http://localhost:1313/nest-box/</link>
+      <pubDate>Thu, 21 Mar 2019 20:51:04 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/nest-box/</guid>
+      <description>The whole point of a forest garden is that you are working with nature to grow edible crops.</description>
+    </item>
+    
+    <item>
+      <title>Tree spacing</title>
+      <link>http://localhost:1313/tree-spacing/</link>
+      <pubDate>Wed, 20 Mar 2019 13:29:51 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tree-spacing/</guid>
+      <description>It’s important to leave enough space between trees in the canopy layer, so that there’s enough light coming through to the plants below.</description>
     </item>
     
     <item>
@@ -918,6 +992,15 @@ What a lovely 😊 idea, instead of a traditional Christmas card, a friend from 
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/blog/vegan-banana-cake/</guid>
       <description>We picked our first ever gooseberries last week. I washed them, popped them into a saucepan with a tiny bit of water, cooked them on a low heat for a few minutes until soft then added some sugar.</description>
+    </item>
+    
+    <item>
+      <title>Definition</title>
+      <link>http://localhost:1313/definition/</link>
+      <pubDate>Sun, 08 Jul 2018 09:36:44 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/definition/</guid>
+      <description>A forest garden works with nature to grow produce sustainably with less work.</description>
     </item>
     
     <item>

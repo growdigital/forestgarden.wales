@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200122-vogt/</loc>
+    <lastmod>2020-01-22T09:44:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200122-dominion/</loc>
+    <lastmod>2020-01-22T09:35:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200122-patriarchy/</loc>
+    <lastmod>2020-01-22T09:32:46+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/wildflower/</loc>
     <lastmod>2020-01-19T14:40:06+00:00</lastmod>
   </url>

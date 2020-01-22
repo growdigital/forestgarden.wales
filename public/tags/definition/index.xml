@@ -15,6 +15,15 @@
     
     
     <item>
+      <title>Definition</title>
+      <link>http://localhost:1313/definition/</link>
+      <pubDate>Sun, 08 Jul 2018 09:36:44 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/definition/</guid>
+      <description>A forest garden works with nature to grow produce sustainably with less work.</description>
+    </item>
+    
+    <item>
       <title>What is a Forest Garden?</title>
       <link>http://localhost:1313/blog/what-is-a-forest-garden/</link>
       <pubDate>Sun, 08 Jul 2018 09:36:44 +0100</pubDate>
