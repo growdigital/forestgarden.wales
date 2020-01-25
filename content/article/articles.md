@@ -24,3 +24,4 @@ Articles for reference. Short URLs, concise info 🙂 💚 🌳
 * Fruit tree rootstock reference [forestgarden.wales/rootstock](/rootstock/)
 * Top 10 Perennial Veg [forestgarden.wales/top-10-perennial-veg](/top-10-perennial-veg/)
 * Ground cover preparation guide [forestgarden.wales/ground-cover](/ground-cover)
+* The 7 layers of a forest garden [forestgarden.wales/layers](/layers)
