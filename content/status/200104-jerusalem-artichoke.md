@@ -16,7 +16,7 @@ Here’s the [recipe](http://simp.ly/p/n7mJCY):
 ### Ingredients
 
 * 1 kg Jerusalem Artichoke, peeled & sliced thickly
-* 1 head garlic, peeld & sliced
+* 1 head garlic, peeled & sliced
 * 2 tsp turmeric powder
 * 50g ginger, peeled & finely chopped
 * 25g salt
