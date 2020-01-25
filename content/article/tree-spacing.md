@@ -1,5 +1,5 @@
 ---
-title: Tree spacing
+title: Spacing
 date: 2019-03-20T13:29:51Z
 description: The gaps between tree canopies should be about ¼ to ½ of the average tree canopy diameter. This is to allow enough light to reach the understorey plants.
 tags: 
@@ -15,6 +15,7 @@ imageCap:
 draft: false
 aliases:
 - /blog/tree-spacing-forest-garden/
+- /article/tree-spacing/
 ---
 
 It’s important to leave enough space between trees in the canopy layer, so that there’s enough light coming through to the plants below. Otherwise, you’ll end up with weak and spindly specimens! 
