@@ -27,3 +27,4 @@ Articles for reference. Short URLs, concise info 🙂 💚 🌳
 * The 7 layers of a forest garden [forestgarden.wales/layers](/layers/)
 * Calculating the space between trees [forestgarden.wales/spacing](/spacing/)
 * Why a forest garden is good for climate change [forestgarden.wales/climate-emergency](/climate-emergency/)
+* Recycled ever-expanding plant labels [forestgarden.wales/label](/label/)
