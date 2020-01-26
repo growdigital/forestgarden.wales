@@ -31,3 +31,11 @@ figcaption {
   margin-bottom: 1rem;
   padding: 0.5rem 0;
 }
+
+.status figure {
+  margin-bottom: 1.5rem;
+}
+
+.status .meta {
+  margin-top: 1.5rem;
+}

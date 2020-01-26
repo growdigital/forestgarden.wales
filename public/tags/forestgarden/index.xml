@@ -456,7 +456,16 @@
       <pubDate>Fri, 19 Apr 2019 14:49:04 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/dead-hedge/</guid>
-      <description>I’ve just found out about the benefits of a dead hedge from Janie who came on the forest garden workshop.</description>
+      <description>The benefits of a dead hedge, made from cut branches and foliage are:</description>
+    </item>
+    
+    <item>
+      <title>Climate Emergency</title>
+      <link>http://localhost:1313/climate-emergency/</link>
+      <pubDate>Fri, 19 Apr 2019 14:42:46 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/climate-emergency/</guid>
+      <description>The Climate Emergency and Mass Extinction is caused by living in an unsustainable way.</description>
     </item>
     
     <item>
@@ -532,11 +541,11 @@
     </item>
     
     <item>
-      <title>Tree spacing</title>
-      <link>http://localhost:1313/tree-spacing/</link>
+      <title>Spacing</title>
+      <link>http://localhost:1313/spacing/</link>
       <pubDate>Wed, 20 Mar 2019 13:29:51 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/tree-spacing/</guid>
+      <guid>http://localhost:1313/spacing/</guid>
       <description>It’s important to leave enough space between trees in the canopy layer, so that there’s enough light coming through to the plants below.</description>
     </item>
     
@@ -620,6 +629,15 @@
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/blog/condensed-forest-garden-knowledge/</guid>
       <description>I happened to be passing Farmyard Nurseries (where I accidentally bought some Mentha longifolia) and met someone who wants to start a forest garden.</description>
+    </item>
+    
+    <item>
+      <title>Layers</title>
+      <link>http://localhost:1313/layers/</link>
+      <pubDate>Tue, 26 Feb 2019 20:12:03 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/layers/</guid>
+      <description>@AgroforestryT has a definition of forest gardening and helpfully lists the “seven layers” of a forest garden:</description>
     </item>
     
     <item>
