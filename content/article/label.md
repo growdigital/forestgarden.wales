@@ -16,7 +16,7 @@ aliases:
 - /blog/recycled-ever-expanding-plant-labels/
 ---
 
-I used to tie ordinary plants to tree branches with bits of baling twine. But they’re ugly, flap about and don’t expand with the thickening branch.
+I used to tie ordinary plant labels to tree branches with bits of baling twine. But they’re ugly, flap about and don’t expand with the thickening branch.
 
 So, I cut up long strips of old plastic milk bottles, stuck a label printed out from my [labelling machine](https://www.amazon.co.uk/Brother-PT-H110-Labeller-Keyboard-Handheld/dp/B01N5ID8FR/) and then curled the plastic like you would a [present ribbon with scissors](https://www.wikihow.com/Curl-Ribbon).
 
