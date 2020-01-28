@@ -76,7 +76,7 @@
       <pubDate>Mon, 06 Jan 2020 11:54:52 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/recommended/</guid>
-      <description>Books  Creating a Forest Garden by Martin Crawford A New Garden Ethic by Benjamin Vogt Around the world in 80 plants by Stephen Barstow  Suppliers  Backyard Larder, Alison Tindale Incredible Veg, Mandy Barber Agroforestry Research Trust, Martin Crawford Cool Temperate, Phil Corbett Future Forests, for hedging  Websites  Plants For A Future brilliant database of useful plants, essential Database of Insects &amp;amp; their Food intoxifying amount of info about which plants are hosts for which insects orangepippin.</description>
+      <description>Books  Creating a Forest Garden by Martin Crawford A New Garden Ethic by Benjamin Vogt The Wild Garden by Violet Stevenson Around the world in 80 plants by Stephen Barstow  Suppliers  Backyard Larder, Alison Tindale Incredible Veg, Mandy Barber Agroforestry Research Trust, Martin Crawford Cool Temperate, Phil Corbett Future Forests, for hedging  Websites  Plants For A Future brilliant database of useful plants, essential Database of Insects &amp;amp; their Food intoxifying amount of info about which plants are hosts for which insects orangepippin.</description>
     </item>
     
     <item>
@@ -403,6 +403,15 @@
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/blog/lyndas-tayberry-fedge/</guid>
       <description>At the end of my Introduction to Forest Gardening talk at Llechryd Gardening Club, the Club Secretary Lynda kindly offered some Tayberry bushes, suggesting that they would grow well on the south side of the dead hedge.</description>
+    </item>
+    
+    <item>
+      <title>Label</title>
+      <link>http://localhost:1313/label/</link>
+      <pubDate>Sun, 12 May 2019 22:28:17 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/label/</guid>
+      <description>I used to tie ordinary plant labels to tree branches with bits of baling twine.</description>
     </item>
     
     <item>
