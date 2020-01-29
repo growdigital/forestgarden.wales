@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200129-timelapse/</loc>
+    <lastmod>2020-01-29T12:29:58+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200129-principles/</loc>
     <lastmod>2020-01-29T11:51:38+00:00</lastmod>
   </url>

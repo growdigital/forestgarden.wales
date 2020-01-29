@@ -17,7 +17,7 @@ draft: false
 
 My area of interest is wildlife and forest gardening, although I have worked in ornamental gardens as well. I have designed forest gardens for clients in London, Wales, Ireland, Belgium and California! I offer all aspects of a design service, from consultancy to the complete design, groundwork and planting.
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1551039984/pond-07D3B331.jpg" alt="Pond hole dug in ground" caption="The Ornamental Forest Garden wildlife pond, excavated" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1544219005/valeriana-41717565655.jpg" alt="Hoverfly on composite flower head" caption="Valeriana officinalis, a native flower beloved by hoverflies" >}}
 
 ## Remote forest garden design
 
@@ -26,7 +26,8 @@ We also offer a remote forest garden service, which costs from £100 for a satel
 1. Satellite CAD plan £100
 2. Structural & tree plan £150
 3. Detailed planting plan £150
-4. Sketches/mockups, 2 views £100
+4. Detailed schedule of works £100
+5. Pencil sketches, 2 views £100
 
 The whole process takes about 2 weeks, and communication is via [Zoom](https://zoom.us) video calls, [Whatsapp](https://www.whatsapp.com) and email. I use [Simplenote](https://simplenote.com) to document the design. The design software I use is [QCAD](https://qcad.org), [available for free](https://qcad.org/en/download). 
 
