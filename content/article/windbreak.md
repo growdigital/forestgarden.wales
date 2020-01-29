@@ -6,11 +6,11 @@ tags:
 - ForestGarden
 - HowTo
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1574864877/rosa-rugosa-windbreak-169-41165268411.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1551261223/cornus-crop-42141134465.jpg
 imageAlt: 
-- Rose windbreak hedge
+- Cornus windbreak hedge, view over valley
 imageCap:
-- Rosa rugosa windbreak hedge at Agroforestry Research Trust
+- Cornus stolonifera 'Flaviramea' windbreak hedge by the polytunnel
 draft: false
 ---
 
