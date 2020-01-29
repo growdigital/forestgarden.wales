@@ -28,3 +28,4 @@ Articles for reference. Short URLs, concise info 🙂 💚 🌳
 * Calculating the space between trees [forestgarden.wales/spacing](/spacing/)
 * Why a forest garden is good for climate change [forestgarden.wales/climate-emergency](/climate-emergency/)
 * Recycled ever-expanding plant labels [forestgarden.wales/label](/label/)
+* Tips on planting a windbreak hedge [forestgarden.wales/windbreak](/windbreak/)
