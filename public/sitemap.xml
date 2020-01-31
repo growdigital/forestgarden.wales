@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200131-pond-guide/</loc>
+    <lastmod>2020-01-31T16:23:17+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/nurse-tree/</loc>
     <lastmod>2020-01-29T18:29:04+00:00</lastmod>
   </url>
