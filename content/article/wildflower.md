@@ -15,7 +15,7 @@ gallery: false
 draft: false
 ---
 
-I asked on Twitter about reference material for starting out in the world of UK native wild flowers. [Moira O'Donnell](https://twitter.com/nervousbotanist) and [Martin Allen](https://twitter.com/botanicalmartin) very kindly replied with these suggestions:
+Some suggestions from Twitter about starting out in the world of UK native wild flowers. Thank you [Moira O'Donnell](https://twitter.com/nervousbotanist) and [Martin Allen](https://twitter.com/botanicalmartin) 🙂.
 
 * [Botanical Society of Britain & Ireland](https://bsbi.org/about-bsbi) [Get Started](https://bsbi.org/get-involved)
 * For ID 
@@ -25,6 +25,9 @@ I asked on Twitter about reference material for starting out in the world of UK 
   * [Wildflowers of Britain and Ireland](https://www.facebook.com/groups/735961066428140/) Facebook group
 * For ecology [BSBI](https://bsbi.org/)’s [Plant Atlas](https://www.brc.ac.uk/plantatlas/)
 * For garden [Plantlife](https://www.plantlife.org.uk/uk)’s [Wild Flowers To Grow In The Garden](https://plantlife.love-wildflowers.org.uk/wildflower_garden/grow_in_the_garden/)
+* For garden [RHS Plant Finder](https://www.rhs.org.uk/Plants/Search-Form), try [with Native Filter](https://www.rhs.org.uk/Plants/Search-Results?form-mode=true&context=l%3Den%26q%3D%2523all%26sl%3DplantForm%26r%3Df%252Fplant_native%252Ftrue)
 * For “useful” plants [Plants For A Future](https://pfaf.org)
-
-I’ll be buying a copy of [Harrap's Wild Flowers](https://www.summerfieldbooks.com/showdetails.asp?id=3665) as well ☺️
+* Books
+  * [Harrap's Wild Flowers](https://www.summerfieldbooks.com/showdetails.asp?id=3665)
+  * [Collin’s Flower Guide](https://www.summerfieldbooks.com/showdetails.asp?id=2593)
+  * [The Wildflower Key](https://www.summerfieldbooks.com/showdetails.asp?id=1578)
