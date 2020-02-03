@@ -3,7 +3,7 @@ title: Design
 menu: main
 date: 2018-02-09T19:21:11Z
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1543789181/final-plan-fgrp.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1580734226/greenroom-plainplan-hue.png
 imageAlt: 
 - CAD forest garden plan
 imageCap:
@@ -13,7 +13,7 @@ draft: false
 
 # Wildlife forest garden design
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1570786836/greenroom-0.16-display.jpg" alt="CAD forest garden plan" caption="Small and urban wildlife forest garden design for London clients" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1580734226/greenroom-plainplan-hue.png" alt="CAD forest garden plan" caption="Small and urban wildlife forest garden design for London clients" >}}
 
 My area of interest is wildlife and forest gardening, although I have worked in ornamental gardens as well. I have designed forest gardens for clients in London, Wales, Ireland, Belgium and California! I offer all aspects of a design service, from consultancy to the complete design, groundwork and planting.
 
