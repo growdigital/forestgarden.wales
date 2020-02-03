@@ -9,10 +9,19 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Sun, 19 Jan 2020 14:40:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2020 18:29:04 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nurse tree</title>
+      <link>http://localhost:1313/nurse-tree/</link>
+      <pubDate>Wed, 29 Jan 2020 18:29:04 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/nurse-tree/</guid>
+      <description>A nurse tree is a fast-growing tree or shrub planted a couple of metres away from a newly planted specimen tree, in the windward direction, normally grown in groups of 2 or 3.</description>
+    </item>
     
     <item>
       <title>Wildflower</title>
@@ -20,7 +29,7 @@
       <pubDate>Sun, 19 Jan 2020 14:40:06 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/wildflower/</guid>
-      <description>I asked on Twitter about reference material for starting out in the world of UK native wild flowers.</description>
+      <description>Some suggestions from Twitter about starting out in the world of UK native wild flowers.</description>
     </item>
     
     <item>
@@ -665,6 +674,15 @@
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/blog/plant-mulch-windbreak/</guid>
       <description>We’ve planted Amelanchier canadensis, Elaeagnus umbellata, Berberis darwinii and Viburnum opulus in the northern double-width windbreak hedge of the Ornamental Forest Garden.</description>
+    </item>
+    
+    <item>
+      <title>Windbreak</title>
+      <link>http://localhost:1313/windbreak/</link>
+      <pubDate>Sun, 17 Feb 2019 22:28:20 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/windbreak/</guid>
+      <description>Windbreak hedges are essential for protecting plants in the forest garden. There is always a balance to be struck between protection and sunlight.</description>
     </item>
     
     <item>

@@ -1,7 +1,9 @@
 /* Call To Action component */
 
 .cta {
+  border-bottom: 1px solid var(--green_pale);
   margin-bottom: 1rem;
+  padding-bottom: 1rem;
 }
 
 .cta__btn {

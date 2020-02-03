@@ -41,5 +41,14 @@
       <description>We’ve planted Amelanchier canadensis, Elaeagnus umbellata, Berberis darwinii and Viburnum opulus in the northern double-width windbreak hedge of the Ornamental Forest Garden.</description>
     </item>
     
+    <item>
+      <title>Windbreak</title>
+      <link>http://localhost:1313/windbreak/</link>
+      <pubDate>Sun, 17 Feb 2019 22:28:20 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/windbreak/</guid>
+      <description>Windbreak hedges are essential for protecting plants in the forest garden. There is always a balance to be struck between protection and sunlight.</description>
+    </item>
+    
   </channel>
 </rss>
