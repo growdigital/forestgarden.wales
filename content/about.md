@@ -16,19 +16,17 @@ draft: false
 
 We are in a time of Climate Emergency and Mass Extinction. We need to garden in a way that encourages wildlife and engages people with the wider landscape.
 
-This means wildlife-friendly, organic, low-carbon, low-impact gardening with a native plant bias. [Forest gardening](/definition/) works _with_ nature to grow edible crops.
+This means wildlife-friendly, organic, low-carbon, low-impact gardening with a native plant bias. [Forest gardening](/definition/) works _with_ nature to grow edible crops, so it is a natural space for productive, wildlife and ornamental gardening to come together.
 
-We are deeply committed to forest gardening as a way of improving our environment, food, health and well-being.
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1559598203/bumblebee-F73BCBCA.jpg" alt="Bumblebee flying on pink flower" caption="Native flowers for wild pollinators are a crucial part of any garden" >}}
 
-A forest garden is a low maintenance, low energy system of cultivation that mimics the layers of a woodland edge. It is based on trees, shrubs and perennial plants.
+As well as forest gardening, I have a particular interest in gardening with [UK native plants](https://www.forestgarden.wales/wildflower/) to encourage wildlife, inspired by [Benjamin Vogt](https://www.monarchgard.com/benjamin-vogt.html)’s book [A New Garden Ethic](https://newsociety.com/Books/N/A-New-Garden-Ethic). 
 
-The benefits derived from a forest garden include:
+Mainstream ornamental gardening would benefit hugely from gardening with native plants:
 
-* Food
-* Fire wood
-* Building materials
-* Pollinator friendly flowers
-* Soil fertility
-
-We started our own forest garden in 2015 when we moved to West Wales and want to share our experience and passion.
+* Provide host plants, habitat & food source for wildlife
+* Increase gardeners’ awareness of ecosystems
+* Resurgence in educated localism 
+* Benefit local suppliers of adapted plants
+* Reduce emissions from horticulture industry
 
