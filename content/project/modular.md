@@ -10,6 +10,8 @@ imageCap:
 draft: false
 ---
 
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1579174551/modular-200116.png" alt="Screenshot of modular garden design grid in CAD" caption="Benjamin Vogt’s modular prairie planting design translated to CAD" >}}
+
 This is an experimental project, trying out modular planting design using UK native [wildflowers](https://www.forestgarden.wales/wildflower/) and forest garden plants. Really, it’s about me finding out more about native plants and having fun (whilst providing wildlife with habitat and food, naturally).
 
 [Download latest CAD file](https://res.cloudinary.com/growdigital/raw/upload/v1579202444/modular-0.3-mod.dxf)
