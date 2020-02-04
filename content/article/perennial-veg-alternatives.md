@@ -1,7 +1,6 @@
 ---
-title: Perennial veg alternatives
+title: Perennial veg
 date: 2019-05-16T12:39:12+01:00
-discussionId: perennial-vegetable-alternatives
 description: Perennial vegetables are less work and more nutritious but it’s a big cultural shift to adopt new veg. Here’s a simple table of perennial vegetable equivalents to annual vegetables to help the process.
 tags: 
 - ForestGarden
@@ -16,6 +15,7 @@ imageCap:
 draft: false
 aliases: 
 - /blog/perennial-vegetable-alternatives/
+- /perennial-veg-alternatives/
 ---
 
 Perennial vegetable alternatives to annual vegetables, a reference to help make the transition to perennial veg. Let me know suggested additions <hello@forestgarden.wales> 🙂

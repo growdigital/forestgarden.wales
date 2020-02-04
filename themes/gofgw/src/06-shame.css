@@ -40,3 +40,38 @@ figcaption {
   margin-top: 1.5rem;
 }
 
+/* Default table styling, cos Markdown */
+
+table {
+  margin: 1rem 0;
+  min-width: 50%;
+}
+
+table tr:nth-child(even) {
+  background-color: var(--mag_plus);
+}
+
+th, td {
+  text-align: left;
+  border: 0;
+}
+
+th {
+  background-color: var(--green_mid);
+  border-right: 1px solid var(--green_pale);
+  color: white;
+  font-family: Montserrat, sans-serif;
+  font-weight: normal;
+  padding: 3px 6px;
+  text-transform: uppercase;
+}
+
+td {
+  border-right: 1px solid var(--magnolia);
+}
+
+th:last-child, td:last-child {
+  border: 0;
+}
+
+

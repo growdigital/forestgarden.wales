@@ -15,6 +15,15 @@
     
     
     <item>
+      <title>Blog: Estimate #ForestGarden </title>
+      <link>http://localhost:1313/estimate/</link>
+      <pubDate>Tue, 04 Feb 2020 13:32:37 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/estimate/</guid>
+      <description>Approx time &amp; money estimates for different forest garden jobs, per 100m²</description>
+    </item>
+    
+    <item>
       <title>I 💚 @beep’s writing, it’s like he says what I’m thinking, yet he’s web designer and I’m a forest gardener.</title>
       <link>http://localhost:1313/status/200204-practise/</link>
       <pubDate>Tue, 04 Feb 2020 10:17:15 +0000</pubDate>
@@ -1656,11 +1665,11 @@ It was biting me
     </item>
     
     <item>
-      <title>Blog: Perennial veg alternatives #ForestGarden #PerennialVeg #Edimentals </title>
-      <link>http://localhost:1313/perennial-veg-alternatives/</link>
+      <title>Blog: Perennial veg #ForestGarden #PerennialVeg #Edimentals </title>
+      <link>http://localhost:1313/perennial-veg/</link>
       <pubDate>Thu, 16 May 2019 12:39:12 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/perennial-veg-alternatives/</guid>
+      <guid>http://localhost:1313/perennial-veg/</guid>
       <description>Perennial vegetables are less work and more nutritious but it’s a big cultural shift to adopt new veg. Here’s a simple table of perennial vegetable equivalents to annual vegetables to help the process.</description>
     </item>
     
