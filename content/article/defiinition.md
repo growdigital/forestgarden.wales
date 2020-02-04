@@ -16,27 +16,29 @@ aliases:
 - /blog/what-is-a-forest-garden/
 ---
 
-A forest garden works with nature to grow produce sustainably with less work. 
+A forest garden mimics the edge of woodland and works with nature to grow produce sustainably for less work.
 
-The key features are:
+## Principles
 
-1. Mimics edge of woodland
+1. Shelter from elements
 2. Layers of planting
 3. Permanent living ground cover
-4. Provides its own nutrients & pest control
+4. Provides own nutrients & pest control
 
-Using trees, shrubs, perennials and self-seeding annuals, it emulates a young natural woodland. The principles of a forest garden can apply to any sized garden:
+## Features
+
+Using trees, shrubs, perennials and self-seeding annuals, it emulates a young natural woodland. The features of a forest garden can apply to any sized garden:
 
 1. Productive
 2. Sustainable
 3. Low maintenance
 
-## 1. Productive
+### 1. Productive
 
 * A forest garden is a productive garden, growing food, wood and other crops.
 * It is multi-layered, using all available space in [4 dimensions](/blog/seven-layers-forest-garden/).
 
-## 2. Sustainable
+### 2. Sustainable
 
 * Supplies its own nutrients with mineral accumulators and nitrogen fixing plants.
 * As a balanced ecosystem, the wildlife predators keep the pests in check.
@@ -44,7 +46,7 @@ Using trees, shrubs, perennials and self-seeding annuals, it emulates a young na
 * Trees, perennials and soil biota sequester carbon.
 * Increased biodiversity because of the wide range of plant species, the habitats these provide for wildlife and the flowers chosen for pollinators & predators.
 
-## 3. Low maintenance
+### 3. Low maintenance
 
 * Resilient (can withstand greater climate fluctuations).
 * No watering (all water on-site)
