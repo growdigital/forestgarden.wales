@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/project/modular/</loc>
+    <lastmod>2020-02-04T19:21:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200204-happen/</loc>
+    <lastmod>2020-02-04T18:40:57+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/estimate/</loc>
     <lastmod>2020-02-04T13:32:37+00:00</lastmod>
   </url>
@@ -4519,6 +4529,12 @@
   <url>
     <loc>http://localhost:1313/tags/pond/</loc>
     <lastmod>2019-06-26T15:57:25+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/project/</loc>
+    <lastmod>2020-02-04T19:21:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
