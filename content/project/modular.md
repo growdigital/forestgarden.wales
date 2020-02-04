@@ -2,7 +2,7 @@
 title: Modular forest garden
 date: 2020-02-04T19:21:11Z
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/w_800/v1579174551/modular-200116.png
+- https://res.cloudinary.com/growdigital/image/upload/v1579174551/modular-200116.png
 imageAlt: 
 - Screenshot of modular garden design grid in CAD
 imageCap:
@@ -12,9 +12,9 @@ draft: false
 
 This is an experimental project, trying out modular planting design using UK native [wildflowers](https://www.forestgarden.wales/wildflower/) and forest garden plants. Really, it’s about me finding out more about native plants and having fun (whilst providing wildlife with habitat and food, naturally).
 
-[Latest CAD file](https://res.cloudinary.com/growdigital/raw/upload/v1579202444/modular-0.3-mod.dxf)
+[Download latest CAD file](https://res.cloudinary.com/growdigital/raw/upload/v1579202444/modular-0.3-mod.dxf)
 
-## Articles
+## Articles
 
 * Benjamin Vogt’s [Modular Matrix Design](https://www.monarchgard.com/thedeepmiddle/modular-matrix-design)
 * My [Modular Forest Garden](https://www.forestgarden.wales/blog/modular-forest-garden)
