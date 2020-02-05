@@ -33,7 +33,7 @@ Do remember that you will still need to weed until the ground cover plants are e
 
 ## Photos of the process
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1556482468/sheetmulch-F671451E.jpg" alt="Black roll of sheet mulch on stone path" caption="Woven plastic sheet mulch in a roll" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1580830592/sheetmulch-169-F671451E.jpg" alt="Black roll of sheet mulch on stone path" caption="Woven plastic sheet mulch in a roll" >}}
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1556482480/sheetmulch-D2EC86B0.jpg" alt="Sheet mulch pegged out and weighed down" caption="Make sure to weigh down the sheet mulch!" >}}
 
