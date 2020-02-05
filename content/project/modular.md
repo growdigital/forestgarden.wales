@@ -14,6 +14,17 @@ draft: false
 
 This is an experimental project, trying out modular planting design using UK native [wildflowers](https://www.forestgarden.wales/wildflower/) and forest garden plants. Really, it’s about me finding out more about native plants and having fun (whilst providing wildlife with habitat and food, naturally).
 
+This is also **UK specific** but _probably_ applicable across northern Europe. Investigate for your own area.
+
+## Why?
+
+* Learn about designing a garden visually with colour.
+* Practise implementing a modular design (I used to design [modular websites](https://indiego.grwd.uk)).
+* Learn about UK native wildflowers.
+* Find out what forest garden edimentals can be substituted.
+* Something to photograph for the portfolio! A forest garden takes years to mature, so having an instantagram hit of colour is eye-catching.
+* I want to create a [sortable web page table](https://codepen.io/growdigital/pen/KKpPJPd), to allow easy selecting of plants based on different characteristics. This is a nod to my inner geek.
+
 [Download latest CAD file](https://res.cloudinary.com/growdigital/raw/upload/v1579202444/modular-0.3-mod.dxf)
 
 ## Articles
@@ -39,5 +50,7 @@ This is an experimental project, trying out modular planting design using UK nat
 13. ZA [Zizia aurea](http://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=g710), Golden Alexanders
 
 ## UK equivalents
+
+For cost reasons, I will probably grow most of my wildflowers from seed. Some plants I will buy from the local [The Wildflower Nursery]().
 
 I haven’t done this bit yet.
