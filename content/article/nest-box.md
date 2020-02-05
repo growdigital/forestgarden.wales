@@ -17,6 +17,7 @@ imageCap:
 draft: false
 aliases:
 - /blog/bird-nest-box-plan/
+- /nestbox/
 ---
 
 The whole point of a forest garden is that you are **working with nature** to grow edible crops. Birds are a critical part of your ecosystem, eating all sorts of insects (as well as the occasional bit of soft fruit). You can encourage them into your garden by creating nest boxes. 
