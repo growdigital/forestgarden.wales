@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200206-dying/</loc>
+    <lastmod>2020-02-06T10:11:22+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200205-mind/</loc>
     <lastmod>2020-02-05T20:50:26+00:00</lastmod>
   </url>
