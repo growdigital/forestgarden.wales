@@ -20,14 +20,26 @@ A forest garden mimics the edge of woodland and works with nature to grow produc
 
 ## Principles
 
+The defining principles of a forest garden.
+
 1. Shelter from elements
 2. Layers of planting
 3. Permanent living ground cover
 4. Provides own nutrients & pest control
 
+## Guidelines
+
+Things to continuously consider when creating a forest garden.
+
+1. Protection: [windbreak](/windbreak/), [nurse tree](/nurse-tree/), [dead-hedge](/dead-hedge/)
+2. [Spacing](/spacing/)
+3. [Ground cover](/ground-cover/)
+
 ## Features
 
-Using trees, shrubs, perennials and self-seeding annuals, it emulates a young natural woodland. The features of a forest garden can apply to any sized garden:
+The defining features of a forest garden.
+
+Using trees, shrubs, perennials and self-seeding annuals, a forest garden emulates a young natural woodland. The features of a forest garden can apply to any sized garden:
 
 1. Productive
 2. Sustainable
