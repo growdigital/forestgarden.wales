@@ -43,8 +43,8 @@ Subscribe to podcast on [Apple](https://podcasts.apple.com/gb/podcast/roots-and-
   * [No-dig Gardening, budcast](https://rootsandall.co.uk/budcasts/), with Charles Dowding
   * [Crops in Tight Spots ep.28](https://rootsandall.co.uk/portfolio-item/episode-28-crops-in-tight-spots-with-alex-mitchell/), with Alex Mitchell
   * [Open Source Seeds, budcast](https://rootsandall.co.uk/budcasts/) dedicated to Esiah Levy
-  * [SeedsShare Project ep.12](https://rootsandall.co.uk/portfolio-item/episode-12-esiah-levys-seedsshare-project/), with Isaiah Levey
-* Soils & composts
+  * [SeedsShare Project ep.12](https://rootsandall.co.uk/portfolio-item/episode-12-esiah-levys-seedsshare-project/), with Esiah Levey
+* **Soils & composts**
   * [Biochar ep. 11](https://rootsandall.co.uk/portfolio-item/episode-11-biochar-with-craig-sams-of-carbon-gold/), with Craig Sams
   * [#PeatFree Fertile Fibre, budcast](https://rootsandall.co.uk/budcasts/), with Caroline Cotton
   * [Soils ep. 35](https://rootsandall.co.uk/portfolio-item/episode-35-soils-with-tim-ohare/), with Tim O’Hare
@@ -57,7 +57,7 @@ Subscribe to podcast on [Apple](https://podcasts.apple.com/gb/podcast/roots-and-
   * [The Bee Watch App, budcast](https://rootsandall.co.uk/budcasts/), with Penny Hearn
   * [The Garden Jungle ep.27](https://rootsandall.co.uk/portfolio-item/episode-27-the-garden-jungle-with-dave-goulson/), with Dave Goulson
   * [The Garden Birdwatch, budcast](https://rootsandall.co.uk/budcasts/), with Kate Risely
-  * [Bats in Our Cities & Gardens, budcast](https://rootsandall.co.uk/budcasts/), withJo Ferguson
+  * [Bats in Our Cities & Gardens, budcast](https://rootsandall.co.uk/budcasts/), with Jo Ferguson
 * **Climate gardening**
   * [Aesthetic Ecology ep.10](https://rootsandall.co.uk/portfolio-item/episode-10-aesthetic-ecology-with-toby-diggens/), with Toby Diggins
   * [Invasive Plants, budcast](https://rootsandall.co.uk/budcasts/), with Sarah Wilson
