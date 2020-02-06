@@ -9,7 +9,7 @@ images:
 imageAlt:
 - Screenshot of Roots and All podcast website
 imageCap:
-- Roots and All, my favourite podcast, includes added forest gardening 
+- Roots and All, my favourite podcast, now with added forest gardening 
 draft: false
 ---
 
