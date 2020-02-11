@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200209-hope/</loc>
+    <lastmod>2020-02-09T20:34:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200209-invasive/</loc>
+    <lastmod>2020-02-09T10:22:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200209-honesty/</loc>
+    <lastmod>2020-02-09T10:13:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200209-orchard/</loc>
+    <lastmod>2020-02-09T10:11:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200209-nestbox/</loc>
+    <lastmod>2020-02-09T09:08:38+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200207-nuttery/</loc>
     <lastmod>2020-02-07T22:15:53+00:00</lastmod>
   </url>

@@ -13,7 +13,7 @@ Alison Tindale over at Backyard Larder has suggested that [fermenting them](http
 
 Here’s the [recipe](http://simp.ly/p/n7mJCY):
 
-### Ingredients
+### Ingredients
 
 * 1 kg Jerusalem Artichoke, peeled & sliced thickly
 * 1 head garlic, peeled & sliced
@@ -22,7 +22,7 @@ Here’s the [recipe](http://simp.ly/p/n7mJCY):
 * 25g salt
 * 1 litre water
 
-### Method
+### Method
 
 1. Mix everything together
 2. Ferment for 2-3 weeks
