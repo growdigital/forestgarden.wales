@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200212-overaccumulation/</loc>
+    <lastmod>2020-02-12T14:35:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200211-alpha/</loc>
+    <lastmod>2020-02-11T20:56:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200211-kevin/</loc>
+    <lastmod>2020-02-11T18:34:24+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200209-hope/</loc>
     <lastmod>2020-02-09T20:34:23+00:00</lastmod>
   </url>
