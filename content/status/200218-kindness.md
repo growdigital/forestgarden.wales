@@ -2,9 +2,9 @@
 title: Kindness
 date: 2020-02-18T11:12:48Z
 images:
-- 
+- https://res.cloudinary.com/growdigital/image/upload/v1582022260/lane-15820221785661.jpg
 imageAlt:
-- 
+- Blurry wet lane
 ---
 
 [@mformagpie](https://twitter.com/mformagpie) has the best bio: Kindness.
