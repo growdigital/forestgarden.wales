@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200223-mo-hedging/</loc>
+    <lastmod>2020-02-23T08:49:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200218-kindness/</loc>
+    <lastmod>2020-02-18T11:12:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200217-hellebore/</loc>
+    <lastmod>2020-02-17T21:02:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200217-willow-structures/</loc>
+    <lastmod>2020-02-17T10:45:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200217-willow/</loc>
+    <lastmod>2020-02-17T10:42:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200217-rain/</loc>
+    <lastmod>2020-02-17T00:12:37+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200213-lost/</loc>
     <lastmod>2020-02-13T08:58:56+00:00</lastmod>
   </url>
