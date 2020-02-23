@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200223-sauerchoke/</loc>
+    <lastmod>2020-02-23T13:02:10+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200223-mo-hedging/</loc>
     <lastmod>2020-02-23T08:49:18+00:00</lastmod>
   </url>
