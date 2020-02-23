@@ -1,0 +1,1058 @@
+[
+  {
+    "Name": "Betonica officinalis",
+    "Family": "Lamiaceae",
+    "Vernacular": "Betony",
+    "URL": "https://www.rhs.org.uk/Plants/124649/Betonica-officinalis/Details",
+    "Height": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 6,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Lotus corniculatus",
+    "Family": "Fabaceae",
+    "Vernacular": "Bird's-foot Trefoil",
+    "URL": "https://www.rhs.org.uk/Plants/99960/Lotus-corniculatus/Details",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 6,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Ajuga reptans",
+    "Family": "Lamiaceae",
+    "Vernacular": "Bugle",
+    "URL": "https://www.rhs.org.uk/Plants/742/Ajuga-reptans/Details",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Light": {
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 4,
+      "To": 6
+    }
+  },
+  {
+    "Name": "Cichorium intybus",
+    "Family": "Asteraceae",
+    "Vernacular": "Chicory",
+    "URL": "https://www.rhs.org.uk/Plants/41554/Cichorium-intybus/Details",
+    "Height": {
+      "Min": 1.0,
+      "Max": 1.5
+    },
+    "Spread": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 7,
+      "To": 10
+    }
+  },
+  {
+    "Name": "Aquilega vulgaris",
+    "Family": "Ranunculaceae",
+    "Vernacular": "Columbine",
+    "URL": "https://www.rhs.org.uk/Plants/100859/Aquilegia-vulgaris/Details",
+    "Height": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 5,
+      "To": 6
+    }
+  },
+  {
+    "Name": "Symphytum officinale",
+    "Family": "Boraginaceae",
+    "Vernacular": "Comfrey",
+    "URL": "https://www.rhs.org.uk/Plants/17886/Symphytum-officinale/Details",
+    "Height": {
+      "Min": 1.0,
+      "Max": 1.5
+    },
+    "Spread": {
+      "Min": 1.0,
+      "Max": 1.5
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 5,
+      "To": 6
+    }
+  },
+  {
+    "Name": "Primula veris",
+    "Family": "Primulaceae",
+    "Vernacular": "Cowslip",
+    "URL": "https://www.rhs.org.uk/Plants/13892/Primula-veris-(Pr)/Details",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0,
+      "Max": 0.1
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 3,
+      "To": 5
+    }
+  },
+  {
+    "Name": "Cynosurus cristatus",
+    "Family": "Poaceae",
+    "Vernacular": "Crested Dog's Tail",
+    "URL": "https://www.brc.ac.uk/plantatlas/plant/cynosurus-cristatus",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0.3,
+      "Max": 0.8
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 6,
+      "To": 8
+    }
+  },
+  {
+    "Name": "Succisa pratensis",
+    "Family": "Caprifoliaceae",
+    "Vernacular": "Devil's Bit Scabious",
+    "URL": "https://www.rhs.org.uk/Plants/17856/Succisa-pratensis/Details",
+    "Height": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 8,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Viola riviniana",
+    "Family": "Violaceae",
+    "Vernacular": "Dog Violet",
+    "URL": "https://www.rhs.org.uk/Plants/19012/Viola-riviniana/Details",
+    "Height": {
+      "Min": 0,
+      "Max": 0.1
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true,
+      "Shade": true
+    },
+    "Flowers": {
+      "From": 4,
+      "To": 6
+    }
+  },
+  {
+    "Name": "Knautia arvensis",
+    "Family": "Caprifoliaceae",
+    "Vernacular": "Field Scabious",
+    "URL": "https://www.rhs.org.uk/Plants/9742/Knautia-arvensis/Details",
+    "Height": {
+      "Min": 1.0,
+      "Max": 1.5
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 6,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Digitalis purpurea",
+    "Family": "Plantaginaceae",
+    "Vernacular": "Foxglove",
+    "URL": "https://www.rhs.org.uk/Plants/5862/Digitalis-purpurea/Details",
+    "Height": {
+      "Min": 1.5,
+      "Max": 2.5
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 6,
+      "To": 8
+    }
+  },
+  {
+    "Name": "Stellaria holostea",
+    "Family": "Caryophyllaceae",
+    "Vernacular": "Greater Stitchwort",
+    "URL": "https://www.rhs.org.uk/Plants/17764/Stellaria-holostea/Details",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0,
+      "Max": 0.1
+    },
+    "Light": {
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 4,
+      "To": 6
+    }
+  },
+  {
+    "Name": "Glechoma hederacea",
+    "Family": "Lamiaceae",
+    "Vernacular": "Ground Ivy",
+    "URL": "https://www.rhs.org.uk/Plants/8034/Glechoma-hederacea/Details",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 3,
+      "To": 5
+    }
+  },
+  {
+    "Name": "Viola tricolor",
+    "Family": "Violaceae",
+    "Vernacular": "Heart's Ease",
+    "URL": "https://www.rhs.org.uk/Plants/19017/Viola-tricolor/Details",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 4,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Stachys sylvatica",
+    "Family": "Lamiaceae",
+    "Vernacular": "Hedge Woundwort",
+    "URL": "https://en.wikipedia.org/wiki/Stachys_sylvatica",
+    "Height": {
+      "Min": 0.3,
+      "Max": 1.0
+    },
+    "Spread": {
+      "Min": 0.3,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true,
+      "Shade": true
+    },
+    "Flowers": {
+      "From": 7,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Eupatorium cannabinum",
+    "Family": "Asteraceae",
+    "Vernacular": "Hemp Agrimony",
+    "URL": "https://www.rhs.org.uk/Plants/7024/Eupatorium-cannabinum/Details",
+    "Height": {
+      "Min": 1.0,
+      "Max": 1.5
+    },
+    "Spread": {
+      "Min": 1.0,
+      "Max": 1.5
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 6,
+      "To": 10
+    }
+  },
+  {
+    "Name": "Galium verum",
+    "Family": "Rubiaceae",
+    "Vernacular": "Lady's Bedstraw",
+    "URL": "https://www.rhs.org.uk/Plants/7596/Galium-verum/Details",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 7,
+      "To": 8
+    }
+  },
+  {
+    "Name": "Centaurea nigra",
+    "Family": "Asteraceae",
+    "Vernacular": "Lesser Knapweed",
+    "URL": "https://www.rhs.org.uk/Plants/3367/Centaurea-nigra/Details",
+    "Height": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 7,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Dianthus deltoides",
+    "Family": "Caryophyllaceae",
+    "Vernacular": "Maiden Pink",
+    "URL": "https://www.rhs.org.uk/Plants/5711/Dianthus-deltoides/Details",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 6,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Geranium pratense",
+    "Family": "Geraniaceae",
+    "Vernacular": "Meadow Cranesbill",
+    "URL": "https://www.rhs.org.uk/Plants/7914/Geranium-pratense/Details",
+    "Height": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Spread": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 6,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Filipendula ulmaria",
+    "Family": "Rosaceae",
+    "Vernacular": "Meadowsweet",
+    "URL": "https://www.rhs.org.uk/Plants/32871/Filipendula-ulmaria/Details",
+    "Height": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Spread": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 6,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Malva moschata",
+    "Family": "Malvaceae",
+    "Vernacular": "Musk Mallow",
+    "URL": "https://www.rhs.org.uk/Plants/10797/Malva-moschata/Details",
+    "Height": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 7,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Campanula trachelium",
+    "Family": "Campanulaceae",
+    "Vernacular": "Nettle-Leaved Bellflower",
+    "URL": "https://www.rhs.org.uk/Plants/2983/Campanula-trachelium/Details",
+    "Height": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 5,
+      "To": 7
+    }
+  },
+  {
+    "Name": "Leucanthemum vulgare",
+    "Family": "Asteraceae",
+    "Vernacular": "Oxeye Daisy",
+    "URL": "https://www.rhs.org.uk/Plants/32804/Leucanthemum-vulgare/Details",
+    "Height": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 5,
+      "To": 10
+    }
+  },
+  {
+    "Name": "Primula vulgaris",
+    "Family": "Primulaceae",
+    "Vernacular": "Primrose",
+    "URL": "https://www.rhs.org.uk/Plants/13901/Primula-vulgaris-(Pr-Prim)/Details",
+    "Height": {
+      "Min": 0,
+      "Max": 0.1
+    },
+    "Spread": {
+      "Min": 0,
+      "Max": 0.1
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 3,
+      "To": 6
+    }
+  },
+  {
+    "Name": "Briza media",
+    "Family": "Poaceae",
+    "Vernacular": "Quaking Grass",
+    "URL": "https://en.wikipedia.org/wiki/Briza_media",
+    "Height": {
+      "Min": 0.2,
+      "Max": 0.4
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.2
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 6,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Silene dioica",
+    "Family": "Caryophyllaceae",
+    "Vernacular": "Red Campion",
+    "URL": "https://www.rhs.org.uk/Plants/17328/Silene-dioica/Details",
+    "Height": {
+      "Min": 0.5,
+      "Max": 0.1
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.2
+    },
+    "Light": {
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 4,
+      "To": 7
+    }
+  },
+  {
+    "Name": "Helianthemum nummularium",
+    "Family": "Cistaceae",
+    "Vernacular": "Rock Rose",
+    "URL": "https://www.rhs.org.uk/Plants/8469/Helianthemum-nummularium/Details",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 5,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Sanguisorba minor",
+    "Family": "Rosaceae",
+    "Vernacular": "Salad Burnet",
+    "URL": "https://www.rhs.org.uk/Plants/24957/Sanguisorba-minor/Details",
+    "Height": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 5,
+      "To": 8
+    }
+  },
+  {
+    "Name": "Silene uniflora",
+    "Family": "Caryophyllaceae",
+    "Vernacular": "Sea Campion",
+    "URL": "https://en.wikipedia.org/wiki/Silene_uniflora",
+    "Height": {
+      "Min": 0.05,
+      "Max": 0.1
+    },
+    "Spread": {
+      "Min": 0.2,
+      "Max": 0.3
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 6,
+      "To": 8
+    }
+  },
+  {
+    "Name": "Prunella vulgaris",
+    "Family": "Lamiaceae",
+    "Vernacular": "Selfheal",
+    "URL": "https://www.rhs.org.uk/Plants/13944/Prunella-vulgaris/Details",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 6,
+      "To": 10
+    }
+  },
+  {
+    "Name": "Jasione montana",
+    "Family": "Campanulaceae",
+    "Vernacular": "Sheep's Bit Scabious",
+    "URL": "https://en.wikipedia.org/wiki/Jasione_montana",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.2
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.2
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 5,
+      "To": 8
+    }
+  },
+  {
+    "Name": "Rumex acetosa",
+    "Family": "Polygonaceae",
+    "Vernacular": "Sorrel",
+    "URL": "https://pfaf.org/user/Plant.aspx?LatinName=Rumex+acetosa",
+    "Height": {
+      "Min": 0.4,
+      "Max": 0.6
+    },
+    "Spread": {
+      "Min": 0.2,
+      "Max": 0.3
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 5,
+      "To": 6
+    }
+  },
+  {
+    "Name": "Anthoxanthum odoratum",
+    "Family": "Poaceae",
+    "Vernacular": "Sweet Vernal Grass",
+    "URL": "https://pfaf.org/user/Plant.aspx?LatinName=Anthoxanthum+odoratum",
+    "Height": {
+      "Min": 0.3,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.3
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 4,
+      "To": 6
+    }
+  },
+  {
+    "Name": "Dipsacus fullonum",
+    "Family": "Caprifoliaceae",
+    "Vernacular": "Teasel",
+    "URL": "https://www.rhs.org.uk/Plants/5959/Dipsacus-fullonum/Details",
+    "Height": {
+      "Min": 1.5,
+      "Max": 2.5
+    },
+    "Spread": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 7,
+      "To": 8
+    }
+  },
+  {
+    "Name": "Armeria maritima",
+    "Family": "Plumbaginaceae",
+    "Vernacular": "Thrift",
+    "URL": "https://www.rhs.org.uk/Plants/1597/Armeria-maritima/Details",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 4,
+      "To": 10
+    }
+  },
+  {
+    "Name": "Linaria vulgaris",
+    "Family": "Plantaginaceae",
+    "Vernacular": "Toadflax",
+    "URL": "https://www.rhs.org.uk/Plants/10295/Linaria-vulgaris/Details",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 7,
+      "To": 11
+    }
+  },
+  {
+    "Name": "Echium vulgare",
+    "Family": "Boraginaceae",
+    "Vernacular": "Viper's Bugloss",
+    "URL": "https://www.rhs.org.uk/Plants/6298/Echium-vulgare/Details",
+    "Height": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 5,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Clinopodium vulgare",
+    "Family": "Lamiaceae",
+    "Vernacular": "Wild Basil",
+    "URL": "https://www.rhs.org.uk/Plants/4022/Clinopodium-vulgare/Details",
+    "Height": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 7,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Daucus carota",
+    "Family": "Apiaceae",
+    "Vernacular": "Carrot",
+    "URL": "https://www.rhs.org.uk/Plants/24469/Daucus-carota/Details",
+    "Height": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.2
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 6,
+      "To": 8
+    }
+  },
+  {
+    "Name": "Salvia verbenaca",
+    "Family": "Lamiaceae",
+    "Vernacular": "Clary",
+    "URL": "https://pfaf.org/user/Plant.aspx?LatinName=Salvia+verbenaca",
+    "Height": {
+      "Min": 0.4,
+      "Max": 0.6
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.2
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 6,
+      "To": 8
+    }
+  },
+  {
+    "Name": "Origanum vulgare",
+    "Family": "Lamiaceae",
+    "Vernacular": "Marjoram",
+    "URL": "https://www.rhs.org.uk/Plants/11923/Origanum-vulgare/Details",
+    "Height": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Spread": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Light": {
+      "Sun": true,
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 7,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Trifolium pratense",
+    "Family": "Fabaceae",
+    "Vernacular": "Red Clover",
+    "URL": "https://pfaf.org/user/Plant.aspx?LatinName=Trifolium+pratense",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.3
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 5,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Fragaria vesca",
+    "Family": "Rosaceae",
+    "Vernacular": "Alpine Strawberry",
+    "URL": "https://www.rhs.org.uk/Plants/7280/Fragaria-vesca-(F)/Details",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 4,
+      "To": 6
+    }
+  },
+  {
+    "Name": "Thymus polytrichus",
+    "Family": "Lamiaceae",
+    "Vernacular": "Thyme",
+    "URL": "https://www.rhs.org.uk/Plants/105763/Thymus-polytrichus-A-Kern-ex-Borbas-subsp-britannicus-(Ronniger)-Kerguelen/Details",
+    "Height": {
+      "Min": 0.05,
+      "Max": 0.1
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 5,
+      "To": 8
+    }
+  },
+  {
+    "Name": "Geum urbanum",
+    "Family": "Rosaceae",
+    "Vernacular": "Wood Avens",
+    "URL": "https://www.rhs.org.uk/Plants/7987/Geum-urbanum/Details",
+    "Height": {
+      "Min": 0.5,
+      "Max": 1.0
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 5,
+      "To": 9
+    }
+  },
+  {
+    "Name": "Myosotis sylvatica",
+    "Family": "Boraginaceae",
+    "Vernacular": "Wood Forget-Me-Not",
+    "URL": "https://www.rhs.org.uk/Plants/41558/Myosotis-sylvatica/Details",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Partial": true
+    },
+    "Flowers": {
+      "From": 4,
+      "To": 6
+    }
+  },
+  {
+    "Name": "Achillea millefolium",
+    "Family": "Asteraceae",
+    "Vernacular": "Yarrow",
+    "URL": "https://www.rhs.org.uk/Plants/311/Achillea-millefolium/Details",
+    "Height": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Spread": {
+      "Min": 0.1,
+      "Max": 0.5
+    },
+    "Light": {
+      "Sun": true
+    },
+    "Flowers": {
+      "From": 6,
+      "To": 8
+    }
+  }
+]
