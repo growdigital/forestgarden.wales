@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200225-weeding/</loc>
+    <lastmod>2020-02-25T22:19:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/life-as-the-measure/</loc>
     <lastmod>2020-02-25T21:09:02+00:00</lastmod>
   </url>
