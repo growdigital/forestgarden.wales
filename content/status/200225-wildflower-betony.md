@@ -17,4 +17,6 @@ To kick off the learning process, I’m profiling a native plant from a list I c
 
 Today, I give you [Betony](https://www.rhs.org.uk/Plants/124649/Betonica-officinalis/Details), Betonica officinalis, previously known as Stachys officinalis. Grows up to 60cm high, a late-appearing globule of purple flowers held up high, beloved by the bumbles. Likes sun or part-shade, happy on poor acidic soil (will do well here then). I have a feeling it could be used as a ground cover? 
 
+You can [buy Betony](https://www.thewildflowernursery.co.uk/product-page/betony) from The Wildflower Nursery.
+
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1582672301/betony-5249769.jpg" alt="Big patch of purple spiked flowers" caption="Colony of Betony in East Sussex, photo by Patrick Roper on Geograph" >}}
