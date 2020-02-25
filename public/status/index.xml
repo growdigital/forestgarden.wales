@@ -15,6 +15,51 @@
     
     
     <item>
+      <link>http://localhost:1313/status/200224-natives/</link>
+      <title>Natives</title>
+      <pubDate>Mon, 24 Feb 2020 11:09:16 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200224-natives/</guid>
+      <description>Gardening with native plants is thankfully gaining traction (thank you @BRVogt) et al), and Margaret Roach &amp;amp; Ken Druse on @AWayToGarden podcast are doing their bit too.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/200223-json/</link>
+      <title>Wildflower JSON</title>
+      <pubDate>Sun, 23 Feb 2020 22:49:45 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200223-json/</guid>
+      <description>Where data meets wildflowers… Native flowers are the future of gardening, so I’m learning by creating a JSON file of the 50 species sold by @WildflowerNurs.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/200223-maintenance/</link>
+      <title>Maintenance</title>
+      <pubDate>Sun, 23 Feb 2020 20:38:18 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200223-maintenance/</guid>
+      <description>Finally managed to get round to cleaning my @FELCO_tools secateurs, which I’d lost rustily for a while in the #ForestGarden.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/200223-sauerchoke/</link>
+      <title>Sauerchoke</title>
+      <pubDate>Sun, 23 Feb 2020 13:02:10 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200223-sauerchoke/</guid>
+      <description>Just tasted the grated Jerusalem Artichoke Sauerkraut wannabe and it is delicious. Because it’s grated, it tastes saltier than the previous batch of fermented Jerusalem Artichoke chunks.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/200223-mo-hedging/</link>
+      <title>Mo hedging</title>
+      <pubDate>Sun, 23 Feb 2020 08:49:18 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200223-mo-hedging/</guid>
+      <description>3 storms in 3 weeks in UK, mass flooding, not 1 mention of #ClimateEmergency on BBC 🤷‍♂️</description>
+    </item>
+    
+    <item>
       <link>http://localhost:1313/status/200218-kindness/</link>
       <title>Kindness</title>
       <pubDate>Tue, 18 Feb 2020 11:12:48 +0000</pubDate>
