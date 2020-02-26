@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200226-selfheal/</loc>
+    <lastmod>2020-02-26T20:57:13+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200226-nuttery/</loc>
     <lastmod>2020-02-26T20:08:25+00:00</lastmod>
   </url>
