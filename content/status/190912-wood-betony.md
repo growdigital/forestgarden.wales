@@ -1,5 +1,5 @@
 ---
-title: Wood-Betony
+title: Wood Betony
 date: 2019-09-12T21:48:24+01:00
 images: 
 - https://res.cloudinary.com/growdigital/image/upload/v1568321279/stachys-officinalis-9A2DCB4C.jpg
