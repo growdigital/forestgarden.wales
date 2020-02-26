@@ -7,7 +7,7 @@ imageAlt:
 - Screenshot of Discord chat service 
 ---
 
-Saw my friend Antony for coffee yesterday, _very_ interesting conversation about gaming. I have a [free mini-course on how to plan your forest garden](https://course.forestgarden.wales/p/make-forest-garden-plan/) for which I’d like to set up a discussion forum. It really helps to have a _community_ around a course, to help motivate people and share successes and challenges.
+Saw my friend Antony for coffee yesterday, _very_ interesting conversation about gaming. I have a [free mini-course on how to plan your forest garden](https://forestgardenwales.teachable.com/p/make-forest-garden-plan) for which I’d like to set up a discussion forum. It really helps to have a _community_ around a course, to help motivate people and share successes and challenges.
 
 I was trying to use [Discourse](https://en.wikipedia.org/wiki/Discourse_(software)) but had a hell of a challenge setting it up. So when Antony mentioned the gamer chat app [Discord](https://en.wikipedia.org/wiki/Discord_(software)), used to co-ordinate multiple players in team-based games, I started taking notes! 
 
