@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200227-hemp-agrimony/</loc>
+    <lastmod>2020-02-27T22:21:08+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200226-name/</loc>
     <lastmod>2020-02-26T22:07:50+00:00</lastmod>
   </url>
