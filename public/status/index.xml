@@ -15,6 +15,78 @@
     
     
     <item>
+      <link>http://localhost:1313/status/200228-weevil/</link>
+      <title>Weevil</title>
+      <pubDate>Fri, 28 Feb 2020 21:47:36 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200228-weevil/</guid>
+      <description>Found this little critter yesterday in Pembrokeshire orchard. Brilliant red #weevil, amazing.. It was busy sad day.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/200227-hemp-agrimony/</link>
+      <title>Hemp Agrimony</title>
+      <pubDate>Thu, 27 Feb 2020 22:21:08 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200227-hemp-agrimony/</guid>
+      <description>Today’s #DailyFlower is a big one, Hemp Agrimony, 1.5m high by 1.5m wide. Spreads readily, loved by pollinators, with a long history of herbal use too.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/200226-name/</link>
+      <title>Name</title>
+      <pubDate>Wed, 26 Feb 2020 22:07:50 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200226-name/</guid>
+      <description>“You think you know something but you only know its name.”</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/200226-selfheal/</link>
+      <title>Selfheal</title>
+      <pubDate>Wed, 26 Feb 2020 20:57:13 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200226-selfheal/</guid>
+      <description>My #WildFlowerDay is Selfheal, mixing it up a little with my daily look at a UK #native #WildFlower.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/200226-nuttery/</link>
+      <title>Nuttery</title>
+      <pubDate>Wed, 26 Feb 2020 20:08:25 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200226-nuttery/</guid>
+      <description>Yet more staring at my face in slo-mo today, editing #ForestGarden video. So many bloopers that I’ve been multiply spliced, ended up looking like Max Headroom (that’s a 20th century cultural ref btw).</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/200226-permaculture/</link>
+      <title>Permaculture News</title>
+      <pubDate>Wed, 26 Feb 2020 10:07:15 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200226-permaculture/</guid>
+      <description>I wrote a post for Permaculture Research Institute @PRIaustralia, called Four Things For An Orchard.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/200225-wildflower-betony/</link>
+      <title>Wildflower-Betony</title>
+      <pubDate>Tue, 25 Feb 2020 22:56:09 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200225-wildflower-betony/</guid>
+      <description>This is the year of the #WildFlower in the #ForestGarden, natives are coming back into fashion, which is good news for co-evolved wildlife.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/200225-weeding/</link>
+      <title>Weeding</title>
+      <pubDate>Tue, 25 Feb 2020 22:19:15 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200225-weeding/</guid>
+      <description>Busy day editing the #ForestGarden course, then weeding the suckering Blackthorn and deep-rooted Docks out of the “Shrubbery” in the forest garden.</description>
+    </item>
+    
+    <item>
       <link>http://localhost:1313/status/200224-natives/</link>
       <title>Natives</title>
       <pubDate>Mon, 24 Feb 2020 11:09:16 +0000</pubDate>
@@ -1072,7 +1144,7 @@ I love this quote, it’s so positive and succint.</description>
     
     <item>
       <link>http://localhost:1313/status/190912-wood-betony/</link>
-      <title>Wood-Betony</title>
+      <title>Wood Betony</title>
       <pubDate>Thu, 12 Sep 2019 21:48:24 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/status/190912-wood-betony/</guid>

@@ -9,10 +9,19 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Thu, 06 Feb 2020 20:57:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 21:09:02 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Life as the measure</title>
+      <link>http://localhost:1313/blog/life-as-the-measure/</link>
+      <pubDate>Tue, 25 Feb 2020 21:09:02 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/life-as-the-measure/</guid>
+      <description>Don’t know much about ecology, don’t know much economics either but what I do know is what a wonderful world it would be, if we used life as the measure, rather than human derived financial value (AKA money).</description>
+    </item>
     
     <item>
       <title>Roots and All review</title>

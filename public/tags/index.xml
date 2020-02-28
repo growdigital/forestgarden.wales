@@ -258,6 +258,24 @@
     </item>
     
     <item>
+      <title>Ecology</title>
+      <link>http://localhost:1313/tags/ecology/</link>
+      <pubDate>Tue, 25 Feb 2020 21:09:02 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economics</title>
+      <link>http://localhost:1313/tags/economics/</link>
+      <pubDate>Tue, 25 Feb 2020 21:09:02 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Edible</title>
       <link>http://localhost:1313/tags/edible/</link>
       <pubDate>Fri, 13 Jul 2018 16:09:44 +0100</pubDate>
@@ -296,7 +314,7 @@
     <item>
       <title>Forestgarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Thu, 06 Feb 2020 20:57:02 +0000</pubDate>
+      <pubDate>Tue, 25 Feb 2020 21:09:02 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
