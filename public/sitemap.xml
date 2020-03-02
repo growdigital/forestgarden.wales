@@ -4395,6 +4395,12 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/crystalball/</loc>
+    <lastmod>2020-02-29T08:47:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/cuttings/</loc>
     <lastmod>2018-11-28T21:28:34+00:00</lastmod>
     <priority>0</priority>
@@ -4523,6 +4529,12 @@
   <url>
     <loc>http://localhost:1313/tags/groundcover/</loc>
     <lastmod>2019-04-30T20:10:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/handwavingpredictions/</loc>
+    <lastmod>2020-02-29T08:47:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
