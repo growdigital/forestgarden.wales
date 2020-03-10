@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200310-sacred/</loc>
+    <lastmod>2020-03-10T11:12:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200310-sacred2/</loc>
+    <lastmod>2020-03-10T11:12:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200310-dunes/</loc>
+    <lastmod>2020-03-10T10:51:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200308-moon/</loc>
+    <lastmod>2020-03-08T22:46:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200308-sunset/</loc>
+    <lastmod>2020-03-08T21:44:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200308-darling/</loc>
+    <lastmod>2020-03-08T21:43:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200308-mulch/</loc>
+    <lastmod>2020-03-08T21:38:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200305-joy/</loc>
+    <lastmod>2020-03-05T07:42:14+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/2020-garden-trends-correction/</loc>
     <lastmod>2020-03-03T09:54:50+00:00</lastmod>
   </url>

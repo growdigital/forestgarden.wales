@@ -9,10 +9,29 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Tue, 25 Feb 2020 21:09:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 09:54:50 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 Garden Trends Correction</title>
+      <link>http://localhost:1313/blog/2020-garden-trends-correction/</link>
+      <pubDate>Tue, 03 Mar 2020 09:54:50 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/2020-garden-trends-correction/</guid>
+      <description>Apologies, I was tired, I wrote fulminate rather than ruminate.
+Hopefully the snowdrops will make up for the error</description>
+    </item>
+    
+    <item>
+      <title>2020 Garden Trends</title>
+      <link>http://localhost:1313/blog/2020-garden-trends/</link>
+      <pubDate>Sat, 29 Feb 2020 08:47:00 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/2020-garden-trends/</guid>
+      <description>I am late to the New Year’s party, missing out on all those 2020 Gardening Almanacs and Things I Will Water Properly This Year guilt lists.</description>
+    </item>
     
     <item>
       <title>Life as the measure</title>
