@@ -7,7 +7,7 @@ imageAlt:
 - 
 ---
 
-Listening to [Jeff Lowenfels](http://www.jefflowenfels.com) [@gardenerjeff](https://twitter.com/gardenerjeff) on the [Growing Greener podcast](https://www.thomaschristophergardens.com/podcasts/jeff-lowenfels-the-soil-food-web), I realised that the  #ForestGarden needs to be evidence-based above and beyond other gardening, because it’s such a paradigm shift for some gardeners and it needs to be proven. 
+Listening to [Jeff Lowenfels](http://www.jefflowenfels.com) [@gardenerjeff](https://twitter.com/gardenerjeff) on the [Growing Greener podcast](https://www.thomaschristophergardens.com/podcasts/jeff-lowenfels-the-soil-food-web) [@TomCGardens](https://twitter.com/TomCGardens), I realised that the  #ForestGarden needs to be evidence-based above and beyond other gardening, because it’s such a paradigm shift for some gardeners and it needs to be proven. 
 
 Simultaneously, I’m aware that there are _limitations to science_. So much depends upon context and framing. From a narrow perspective, artificial fertilisers work. From an ecological standpoint, they’re a total disaster.
 
