@@ -1,3 +1,3 @@
 [submodule "static/wildlife-forest-garden"]
 	path = static/wildlife-forest-garden
-	url = git@github.com:growdigital/wildlife-forest-garden.git
+	url = https://github.com/growdigital/wildlife-forest-garden.git
