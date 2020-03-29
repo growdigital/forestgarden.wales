@@ -1,0 +1,13 @@
+/* ==========================================================================
+   Utility - small text
+   ========================================================================== */
+
+/**
+ * Small text
+ * Trumping display utility derived from SUIT CSS display utilities:
+ * https://github.com/suitcss/utils-display
+ */
+
+.u-small {
+  font-size: small;
+}
