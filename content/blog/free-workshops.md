@@ -33,4 +33,9 @@ To be notified of upcoming workshops and content, you can [sign up for my monthl
 In case you need to be reassured that I’m not a robot or faceless disaster capitalist corporation, here’s a picture of my face (I’m actually not sure that my face is that reassuring…)
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1585507097/twitch-forest-garden_200318.png" alt="Middle aged man squinting through the sun into the mobile phone camera" caption="That’s me that is, mid-livestream from the forest garden" >}}
+
+If you would like to contribute towards the costs of running the workshops, you can purchase my [online course](/course) when it’s ready, or you can donate to my PayPal account, which is under my old company name of Grow Digital. The costs aren’t huge, about 4 hours of my time per week plus £10 a month for the extra mobile bandwidth:
+
+## [paypal.me/growdigital](https://paypal.me/growdigital)
+
 Keep safe out there, look after all yourselves and I hope to see you online at some point. Forest gardens for the win!
