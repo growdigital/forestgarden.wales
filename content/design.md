@@ -27,7 +27,7 @@ We also offer a remote forest garden service, from a basic CAD plan created from
 2. Structural & tree plan
 3. Detailed planting plan
 4. Timetable & instructions
-5. Pencil sketches, 2 views
+5. Pencil sketches
 
 The whole process takes about 2 weeks, depending on the site and the level of detail. Communication is via [Zoom](https://zoom.us) video calls, [Whatsapp](https://www.whatsapp.com) and email. I use [Simplenote](https://simplenote.com) to document the design. The design software I use is [QCAD](https://qcad.org), [available for free](https://qcad.org/en/download). 
 
