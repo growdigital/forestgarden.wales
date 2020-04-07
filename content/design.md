@@ -21,15 +21,15 @@ My area of interest is wildlife and forest gardening, although I have worked in 
 
 ## Remote forest garden design
 
-We also offer a remote forest garden service, which costs from £100 for a satellite CAD plan, through to a detailed planting plan with visuals. Here is the pricing:
+We also offer a remote forest garden service, from a basic CAD plan created from a satellite photo, through to a detailed planting plan with visuals:
 
-1. Satellite CAD plan £100
-2. Structural & tree plan £150
-3. Detailed planting plan £150
-4. Detailed schedule of works £100
-5. Pencil sketches, 2 views £100
+1. Satellite CAD plan
+2. Structural & tree plan
+3. Detailed planting plan
+4. Timetable & instructions
+5. Pencil sketches, 2 views
 
-The whole process takes about 2 weeks, and communication is via [Zoom](https://zoom.us) video calls, [Whatsapp](https://www.whatsapp.com) and email. I use [Simplenote](https://simplenote.com) to document the design. The design software I use is [QCAD](https://qcad.org), [available for free](https://qcad.org/en/download). 
+The whole process takes about 2 weeks, depending on the site and the level of detail. Communication is via [Zoom](https://zoom.us) video calls, [Whatsapp](https://www.whatsapp.com) and email. I use [Simplenote](https://simplenote.com) to document the design. The design software I use is [QCAD](https://qcad.org), [available for free](https://qcad.org/en/download). 
 
 The final design is the CAD drawing and the document, which shows the CAD drawing and sketches, gives a walk-through description, a schedule of works, a referenced list of plants and a list of maintenance jobs. Here is a living [example](https://app.simplenote.com/p/JZlZ1N) from a London client.
 
