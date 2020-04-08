@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/blog/measure-with-triangles/</loc>
+    <lastmod>2020-04-08T09:51:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/plants-for-small-forest-garden/</loc>
     <lastmod>2020-04-07T11:24:10+01:00</lastmod>
   </url>
@@ -4659,7 +4664,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2020-04-07T11:24:10+01:00</lastmod>
+    <lastmod>2020-04-08T09:51:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4899,7 +4904,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/plan/</loc>
-    <lastmod>2019-11-22T18:11:00+00:00</lastmod>
+    <lastmod>2020-04-08T09:51:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
