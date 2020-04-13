@@ -9,10 +9,46 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Tue, 03 Mar 2020 09:54:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2020 09:51:00 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Measure with triangles</title>
+      <link>http://localhost:1313/blog/measure-with-triangles/</link>
+      <pubDate>Wed, 08 Apr 2020 09:51:00 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/measure-with-triangles/</guid>
+      <description>First off, a disclaimer. I’m shit at maths. Luckily, there’s clever people and the internet.</description>
+    </item>
+    
+    <item>
+      <title>Plants for a small forest garden</title>
+      <link>http://localhost:1313/blog/plants-for-small-forest-garden/</link>
+      <pubDate>Tue, 07 Apr 2020 11:24:10 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/plants-for-small-forest-garden/</guid>
+      <description>Laura on Facebook asked about plants for a smaller forest garden. Here are some pointers.</description>
+    </item>
+    
+    <item>
+      <title>Free workshop 8 April—Protection</title>
+      <link>http://localhost:1313/blog/workshop-8-april-2020/</link>
+      <pubDate>Thu, 02 Apr 2020 17:16:20 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/workshop-8-april-2020/</guid>
+      <description>Just a quick heads-up, the next free online forest garden workshop will be livestreamed from my Twitch channel at 10am BST on Wednesday 8th April.</description>
+    </item>
+    
+    <item>
+      <title>Free Online Workshops</title>
+      <link>http://localhost:1313/blog/free-workshops/</link>
+      <pubDate>Mon, 30 Mar 2020 09:31:06 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/free-workshops/</guid>
+      <description>Doing my very small bit from a remote hillside in West Wales, I’ve started livestreaming a free online workshop on Wednesdays, at 10am.</description>
+    </item>
     
     <item>
       <title>2020 Garden Trends Correction</title>

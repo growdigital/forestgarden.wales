@@ -323,9 +323,18 @@
     <item>
       <title>Forestgarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Tue, 03 Mar 2020 09:54:50 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2020 09:51:00 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Free</title>
+      <link>http://localhost:1313/tags/free/</link>
+      <pubDate>Thu, 02 Apr 2020 17:16:20 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/free/</guid>
       <description></description>
     </item>
     
@@ -488,6 +497,15 @@
       <pubDate>Tue, 12 Nov 2019 10:25:34 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/latin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Livestream</title>
+      <link>http://localhost:1313/tags/livestream/</link>
+      <pubDate>Thu, 02 Apr 2020 17:16:20 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/livestream/</guid>
       <description></description>
     </item>
     
@@ -665,7 +683,7 @@
     <item>
       <title>Plan</title>
       <link>http://localhost:1313/tags/plan/</link>
-      <pubDate>Fri, 22 Nov 2019 18:11:00 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2020 09:51:00 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/plan/</guid>
       <description></description>
@@ -794,6 +812,15 @@
       <pubDate>Tue, 12 Nov 2019 10:25:34 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/scientific/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small</title>
+      <link>http://localhost:1313/tags/small/</link>
+      <pubDate>Tue, 07 Apr 2020 11:24:10 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/small/</guid>
       <description></description>
     </item>
     
@@ -989,7 +1016,7 @@
     <item>
       <title>Workshop</title>
       <link>http://localhost:1313/tags/workshop/</link>
-      <pubDate>Mon, 18 Nov 2019 10:44:07 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2020 09:31:06 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/workshop/</guid>
       <description></description>

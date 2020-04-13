@@ -15,6 +15,232 @@
     
     
     <item>
+      <title>Measure with triangles</title>
+      <link>http://localhost:1313/blog/measure-with-triangles/</link>
+      <pubDate>Wed, 08 Apr 2020 09:51:00 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/measure-with-triangles/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;Making a plan for an irregular shaped garden can be tricky. Triangles, cosines and The Internet to the rescue&lt;/p&gt;
+        
+          &lt;figure&gt;
+            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1586269476/rhug-triangulation-fg.jpg&quot; alt=&quot;Outline of garden on graph paper triangulated with interconnecting triangles&quot;&gt;
+            &lt;figcaption&gt;If each point on the garden perimeter has 3 measurements coming from it, then you can calculate the angles&lt;/figcaption&gt;
+          &lt;/figure&gt;
+        
+        &lt;p&gt;First off, a disclaimer. I’m shit at maths. Luckily, there’s clever people and the internet. I have a lovely design job at the moment and it has an irregular shaped rear garden.&lt;/p&gt;
+
+&lt;p&gt;The trick is to mark out (with small stakes if necessary) set points around the perimeter of the garden, and then make sure that there are &lt;strong&gt;3&lt;/strong&gt; measurements from each point to other points (see image above).&lt;/p&gt;
+
+&lt;p&gt;If you know the three sides of a triangle, you can work out the angles in a triangle. Luckily, someone has made &lt;a href=&#34;https://www.triangle-calculator.com&#34;&gt;triangle-calculator.com&lt;/a&gt;, and if you can click on &lt;a href=&#34;https://www.triangle-calculator.com/?what=sss&#34;&gt;SSS&lt;/a&gt; you get to calculate &lt;a href=&#34;https://www.mathsisfun.com/algebra/trig-solving-sss-triangles.html&#34;&gt;“Side Side Side”&lt;/a&gt; triangles, with the click of a button:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1586269475/triangle-calculator.com.png&#34; alt=&#34;Screenshot of triangle-calculator.com&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Calculating angles from 3 known lengths of a triangle
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;Once you have the angles, you can use &lt;a href=&#34;https://en.wikipedia.org/wiki/Computer-aided_design&#34;&gt;CAD&lt;/a&gt; software like &lt;a href=&#34;https://qcad.org/en/&#34;&gt;QCAD&lt;/a&gt;, and re-create the triangle. This is fiddly and requires some CAD knowledge but totally doable (and the subject of a whole workshop in itself 😆).&lt;/p&gt;
+
+&lt;p&gt;Then you recreate the triangles, one from the other (hint, use duplicate and the &lt;a href=&#34;https://qcad.org/doc/qcad/2.2/reference/en/chapter17.html&#34;&gt;Lines with given angle&lt;/a&gt; tool). When you’ve recreated all the triangles, rotate the whole outline to a known fixed point, which is usually the house. You can see, I’ve taken some measurements from the house in the first diagram, so that I can work from them.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1586269475/rhug-triangulated-mesh.png&#34; alt=&#34;CAD mesh triangle outline of garden&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        All recreated triangles rotate to fit to angle of the house
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;Finally, delete the lines in the centre of the garden, and you are left with an outline. I know, it’s tricky and not as easy tracing the outline of a satellite photo but it’s one way of getting a plan of a smaller irregular garden.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1586269475/rhug-triangulated-border.png&#34; alt=&#34;Finished outline of garden in CAD&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        At the end of all that hard work, you’re left with a few lines outlining your irregularly shaped garden
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;Good luck! And the next blog post will be more plant-based 😎 🌱&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Plants for a small forest garden</title>
+      <link>http://localhost:1313/blog/plants-for-small-forest-garden/</link>
+      <pubDate>Tue, 07 Apr 2020 11:24:10 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/plants-for-small-forest-garden/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;A smaller forest garden can still contain a diverse range of edible crop plants, you just need to pay attention to the rootstock, species and final sizes&lt;/p&gt;
+        
+          &lt;figure&gt;
+            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1586254391/espalier-west-sussex.jpg&quot; alt=&quot;Mature free standing espaliered fruit tree&quot;&gt;
+            &lt;figcaption&gt;Free-standing espaliered fruit trees (step-over) at Standen, West Sussex UK&lt;/figcaption&gt;
+          &lt;/figure&gt;
+        
+        &lt;p&gt;Laura on Facebook asked about plants for a smaller forest garden. Here are some pointers.&lt;/p&gt;
+
+&lt;p&gt;For more detail, see &lt;a href=&#34;https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/&#34;&gt;Creating a Forest Garden&lt;/a&gt; pp30, “Plants for small gardens”&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Use &lt;a href=&#34;https://www.forestgarden.wales/rootstock/#semi-dwarf&#34;&gt;dwarfing roostocks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Consider trained fruit trees eg &lt;a href=&#34;https://en.wikipedia.org/wiki/Espalier&#34;&gt;espalier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pollarded trees eg &lt;a href=&#34;https://pfaf.org/user/plant.aspx?LatinName=Tilia+cordata&#34;&gt;Small-leaved Lime&lt;/a&gt;, bay (can be pruned)&lt;/li&gt;
+&lt;li&gt;Smaller trees eg &lt;a href=&#34;https://pfaf.org/user/cmspage.aspx?pageid=59&#34;&gt;hawthorns&lt;/a&gt;, &lt;a href=&#34;https://pfaf.org/user/Plant.aspx?LatinName=Zanthoxylum+simulans&#34;&gt;Pepper trees&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Check sizes of plants &lt;a href=&#34;https://pfaf.org/user/Default.aspx&#34;&gt;PFAF&lt;/a&gt; or &lt;a href=&#34;https://www.rhs.org.uk/Plants/Search-Form&#34;&gt;RHS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fruit bushes&lt;/li&gt;
+&lt;li&gt;All perennial veg, and ground covers&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Free workshop 8 April—Protection</title>
+      <link>http://localhost:1313/blog/workshop-8-april-2020/</link>
+      <pubDate>Thu, 02 Apr 2020 17:16:20 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/workshop-8-april-2020/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;&lt;/p&gt;
+        
+          &lt;figure&gt;
+            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1578855539/dead-hedge-hammer-4057B764.jpg&quot; alt=&quot;Dead hedge in process of being built, with blue hedge hammer&quot;&gt;
+            &lt;figcaption&gt;Dead hedge to protect a Stone Pine in the Nuttery&lt;/figcaption&gt;
+          &lt;/figure&gt;
+        
+        
+
+&lt;p&gt;Just a quick heads-up, the next free online forest garden workshop will be livestreamed from my Twitch channel at 10am BST on Wednesday 8th April.&lt;/p&gt;
+
+&lt;h2 id=&#34;twitch-tv-forestgardenwales-https-www-twitch-tv-forestgardenwales&#34;&gt;&lt;a href=&#34;https://www.twitch.tv/forestgardenwales&#34;&gt;twitch.tv/forestgardenwales&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;I’ll be looking at designing windbreaks, planting nurse trees and creating dead hedges. I’ll also be looking at suitable plants for the smaller forest garden.&lt;/p&gt;
+
+&lt;p&gt;Slideshow will be available soon at:&lt;/p&gt;
+
+&lt;h2 id=&#34;forestgarden-wales-talks-protection-https-www-forestgarden-wales-talks-protection&#34;&gt;&lt;a href=&#34;https://www.forestgarden.wales/talks/protection&#34;&gt;forestgarden.wales/talks/protection&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Hopefully see you there!&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Free Online Workshops</title>
+      <link>http://localhost:1313/blog/free-workshops/</link>
+      <pubDate>Mon, 30 Mar 2020 09:31:06 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/free-workshops/</guid>
+      <description>
+        &lt;p class="p-summary"&gt;For these difficult times, I’m running a weekly free online forest garden workshop, Wednesdays 10am BST, livestreaming on twitch.tv/forestgardenwales&lt;/p&gt;
+        
+          &lt;figure&gt;
+            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1585508878/twitch-fgw-dead-hedge-screenshot.jpg&quot; alt=&quot;Screenshot of livestreaming from the forest garden, view of dead hedge&quot;&gt;
+            &lt;figcaption&gt;Livestreaming from the forest garden; yep, it’s a dead hedge&lt;/figcaption&gt;
+          &lt;/figure&gt;
+        
+        
+
+&lt;p&gt;Doing my very small bit from a remote hillside in West Wales, I’ve started livestreaming a &lt;strong&gt;free&lt;/strong&gt; online workshop on Wednesdays, at 10am. The workshops are free to view on Twitch:&lt;/p&gt;
+
+&lt;h2 id=&#34;twitch-tv-forestgarden-wales-https-www-twitch-tv-forestgarden-wales&#34;&gt;&lt;a href=&#34;https://www.twitch.tv/forestgarden.wales&#34;&gt;twitch.tv/forestgarden.wales&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;If you want to join in the chat, you’ll need to sign up for a free &lt;a href=&#34;https://www.twitch.tv/&#34;&gt;Twitch&lt;/a&gt; account.&lt;/p&gt;
+
+&lt;p&gt;To be notified of upcoming workshops and content, you can &lt;a href=&#34;http://bit.ly/forestgardenwales-newsletter&#34;&gt;sign up for my monthly newsletter&lt;/a&gt; and make sure to check the “Signup for notifications, Livestreaming episodes” box:&lt;/p&gt;
+
+&lt;h2 id=&#34;bit-ly-forestgardenwales-newsletter-http-bit-ly-forestgardenwales-newsletter&#34;&gt;&lt;a href=&#34;http://bit.ly/forestgardenwales-newsletter&#34;&gt;bit.ly/forestgardenwales-newsletter&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;br&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1585507645/notify-livestream-fgw.png&#34; alt=&#34;Screenshot of newsletter signup form&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        In case you were wondering what a checkbox looks like…
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;In case you need to be reassured that I’m not a robot or faceless disaster capitalist corporation, here’s a picture of my face (I’m actually not sure that my face is that reassuring…)&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1585507097/twitch-forest-garden_200318.png&#34; alt=&#34;Middle aged man squinting through the sun into the mobile phone camera&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        That’s me that is, mid-livestream from the forest garden
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;If you would like to contribute towards the costs of running the workshops, you can purchase my &lt;a href=&#34;http://localhost:1313/course&#34;&gt;online course&lt;/a&gt; when it’s ready, or you can donate to my PayPal account, which is under my old company name of Grow Digital. The costs aren’t huge, about 4 hours of my time per week plus £10 a month for the extra mobile bandwidth:&lt;/p&gt;
+
+&lt;h2 id=&#34;paypal-me-growdigital-https-paypal-me-growdigital&#34;&gt;&lt;a href=&#34;https://paypal.me/growdigital&#34;&gt;paypal.me/growdigital&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Keep safe out there, look after all yourselves and I hope to see you online at some point. Forest gardens for the win!&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>2020 Garden Trends Correction</title>
       <link>http://localhost:1313/blog/2020-garden-trends-correction/</link>
       <pubDate>Tue, 03 Mar 2020 09:54:50 +0000</pubDate>

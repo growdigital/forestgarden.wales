@@ -9,10 +9,19 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Mon, 18 Nov 2019 10:44:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 09:31:06 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Free Online Workshops</title>
+      <link>http://localhost:1313/blog/free-workshops/</link>
+      <pubDate>Mon, 30 Mar 2020 09:31:06 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/free-workshops/</guid>
+      <description>Doing my very small bit from a remote hillside in West Wales, I’ve started livestreaming a free online workshop on Wednesdays, at 10am.</description>
+    </item>
     
     <item>
       <title>Recording Online Course</title>
