@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/nutrients/</loc>
+    <lastmod>2020-04-13T21:19:03+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200413-leaves/</loc>
     <lastmod>2020-04-13T20:25:24+01:00</lastmod>
   </url>
@@ -4491,7 +4496,7 @@
   
   <url>
     <loc>http://localhost:1313/article/</loc>
-    <lastmod>2020-02-04T13:32:37+00:00</lastmod>
+    <lastmod>2020-04-13T21:19:03+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4689,7 +4694,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2020-04-08T09:51:00+01:00</lastmod>
+    <lastmod>2020-04-13T21:19:03+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4874,8 +4879,20 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/nitrogen/</loc>
+    <lastmod>2020-04-13T21:19:03+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/no-dig/</loc>
     <lastmod>2019-04-30T20:10:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/nutrients/</loc>
+    <lastmod>2020-04-13T21:19:03+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4929,7 +4946,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/plan/</loc>
-    <lastmod>2020-04-08T09:51:00+01:00</lastmod>
+    <lastmod>2020-04-13T21:19:03+01:00</lastmod>
     <priority>0</priority>
   </url>
   
