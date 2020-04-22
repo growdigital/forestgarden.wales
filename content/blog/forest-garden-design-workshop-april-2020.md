@@ -18,9 +18,12 @@ draft: false
 
 Today’s livestream workshop on Forest Garden Design seemed to go okay. I kind of miss people; next week I’ll be chatting with [Martin Hayes](https://www.theapplemancan.uk), Orchardist to the stars, which will be fun. I really feel the need for some sort of feedback in a workshop setting.
 
+## Slides: [forestgarden.wales/talks/design](https://www.forestgarden.wales/talks/design/)
+
+{{< youtube PMfLtGjojaE >}}
+<br>
 ## Video: [youtu.be/PMfLtGjojaE](https://www.youtube.com/watch?v=PMfLtGjojaE)
 
-## Slides: [forestgarden.wales/talks/design](https://www.forestgarden.wales/talks/design/)
 
 Sign up for more free workshops: [bit.ly/forestgardenwales-newsletter](http://bit.ly/forestgardenwales-newsletter)
 
