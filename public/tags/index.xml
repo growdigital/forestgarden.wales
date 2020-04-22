@@ -323,7 +323,7 @@
     <item>
       <title>Forestgarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Wed, 08 Apr 2020 09:51:00 +0100</pubDate>
+      <pubDate>Wed, 15 Apr 2020 11:34:15 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
@@ -600,11 +600,29 @@
     </item>
     
     <item>
+      <title>Nitrogen</title>
+      <link>http://localhost:1313/tags/nitrogen/</link>
+      <pubDate>Mon, 13 Apr 2020 21:19:03 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/nitrogen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>No Dig</title>
       <link>http://localhost:1313/tags/no-dig/</link>
       <pubDate>Tue, 30 Apr 2019 20:10:44 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/no-dig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nutrients</title>
+      <link>http://localhost:1313/tags/nutrients/</link>
+      <pubDate>Mon, 13 Apr 2020 21:19:03 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/nutrients/</guid>
       <description></description>
     </item>
     
@@ -683,7 +701,7 @@
     <item>
       <title>Plan</title>
       <link>http://localhost:1313/tags/plan/</link>
-      <pubDate>Wed, 08 Apr 2020 09:51:00 +0100</pubDate>
+      <pubDate>Mon, 13 Apr 2020 21:19:03 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/plan/</guid>
       <description></description>
