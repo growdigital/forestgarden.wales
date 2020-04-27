@@ -13,12 +13,12 @@ draft: false
 
 # Online wildlife forest garden course
 
-I’m currently filming the new online course, due to be launched March 2020. Please [signup to the Forest Garden Wales](http://eepurl.com/dqwytj) newsletter to be sure of catching announcements and giveaways.
+Development of the course is on hold for a while, as I’ve had to furlough the business. Please [signup to the Forest Garden Wales](http://eepurl.com/dqwytj) newsletter to be sure of catching announcements and giveaways.
 
 Here is a taster of the format, a small screencast I made for some clients to give them an overview of the design process:
 
 {{< vimeo 368061342 >}}
-
+<br><br>
 Signup to the newsletter to be updated about the course:
 
 <form class="subscribe" action="https://wales.us17.list-manage.com/subscribe/post" method="POST">
@@ -31,7 +31,7 @@ Signup to the newsletter to be updated about the course:
  <input type="hidden" name="mc_signupsource" value="hosted">
 </form>
 
-## Proposed course content
+## Course content
 
 **Introduction:** What is a forest garden, why would you want one & the importance of wildlife
 

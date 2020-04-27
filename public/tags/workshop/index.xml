@@ -9,10 +9,19 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Mon, 30 Mar 2020 09:31:06 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2020 13:37:27 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Forest Garden Design Workshop April 2020</title>
+      <link>http://localhost:1313/blog/forest-garden-design-workshop-april-2020/</link>
+      <pubDate>Wed, 22 Apr 2020 13:37:27 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/forest-garden-design-workshop-april-2020/</guid>
+      <description>Today’s livestream workshop on Forest Garden Design seemed to go okay. I kind of miss people; next week I’ll be chatting with Martin Hayes, Orchardist to the stars, which will be fun.</description>
+    </item>
     
     <item>
       <title>Free Online Workshops</title>
