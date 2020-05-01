@@ -9,7 +9,9 @@ imageAlt:
 draft: false
 ---
 
-# Tour our forest garden
+# Tours are closed until further notice because of coronavirus
+
+## Tour our forest garden
 
 We offer a 2 hour tour of our forest garden in Cwm Cou in Ceredigion, near Newcastle Emlyn. It’s for anyone interested in learning more about forest gardening.
 

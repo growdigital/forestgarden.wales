@@ -8,7 +8,9 @@ imageAlt:
 draft: false
 ---
 
-# Forest Garden workshop
+# Workshops are closed until further notice because of coronavirus
+
+## Forest Garden workshop
 
 A one day practical course for beginners, from April to September. We cover the whole process, from surveying, to planning, propagating and planting. Make it part of your holiday! Only £75 per person, workshop from 10am-4pm, refreshments included. Maximum 8 people per workshop. It is available to book [via Airbnb](https://www.airbnb.co.uk/experiences/524767). 
 
