@@ -9,10 +9,38 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Fri, 24 Apr 2020 08:07:38 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 20:56:19 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wildlife Forest Garden May 2020</title>
+      <link>http://localhost:1313/blog/wildlife-forest-garden-may-2020/</link>
+      <pubDate>Mon, 04 May 2020 20:56:19 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/wildlife-forest-garden-may-2020/</guid>
+      <description>My next free lockdown forest garden livestream is:
+The Wildlife Forest Garden Wednesday 6th May, 10am BST twitch.</description>
+    </item>
+    
+    <item>
+      <title>Perennial Veg workshop April 2020</title>
+      <link>http://localhost:1313/blog/perennial-veg-workshop-april-2020/</link>
+      <pubDate>Sat, 02 May 2020 09:32:31 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/perennial-veg-workshop-april-2020/</guid>
+      <description>As part of my weekly, free, lockdown special livestreams, last Wednesday 29th April, I talked about perennial vegetables and their place in the forest garden.</description>
+    </item>
+    
+    <item>
+      <title>Furloughed</title>
+      <link>http://localhost:1313/blog/furloughed/</link>
+      <pubDate>Fri, 01 May 2020 20:41:55 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/furloughed/</guid>
+      <description>Because of coronavirus, we have had to close down the tours and the workshops here at Forest Garden Wales, so my partner hasn’t worked at all this year on this side of the business.</description>
+    </item>
     
     <item>
       <title>Are you ready?</title>

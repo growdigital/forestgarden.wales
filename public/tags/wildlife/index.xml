@@ -9,10 +9,20 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Tue, 22 Oct 2019 21:04:37 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 20:56:19 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/wildlife/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wildlife Forest Garden May 2020</title>
+      <link>http://localhost:1313/blog/wildlife-forest-garden-may-2020/</link>
+      <pubDate>Mon, 04 May 2020 20:56:19 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/wildlife-forest-garden-may-2020/</guid>
+      <description>My next free lockdown forest garden livestream is:
+The Wildlife Forest Garden Wednesday 6th May, 10am BST twitch.</description>
+    </item>
     
     <item>
       <title>Overview of my forest garden design process</title>

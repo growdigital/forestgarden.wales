@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/blog/wildlife-forest-garden-may-2020/</loc>
+    <lastmod>2020-05-04T20:56:19+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/perennial-veg-workshop-april-2020/</loc>
     <lastmod>2020-05-02T09:32:31+01:00</lastmod>
   </url>
@@ -4735,7 +4740,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2020-05-02T09:32:31+01:00</lastmod>
+    <lastmod>2020-05-04T20:56:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4891,7 +4896,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/native/</loc>
-    <lastmod>2019-12-04T20:07:15+00:00</lastmod>
+    <lastmod>2020-05-04T20:56:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5191,7 +5196,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/wildlife/</loc>
-    <lastmod>2019-10-22T21:04:37+01:00</lastmod>
+    <lastmod>2020-05-04T20:56:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
