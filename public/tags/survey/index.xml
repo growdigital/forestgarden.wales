@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Survey on Forest Garden Wales</title>
@@ -9,10 +9,19 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Tue, 20 Nov 2018 09:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 21:11:42 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/survey/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Survey</title>
+      <link>http://localhost:1313/survey/</link>
+      <pubDate>Mon, 11 May 2020 21:11:42 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/survey/</guid>
+      <description> Position  Compass orientation Elevation Slope   Elements  Water Earth Wind, prevailing Sun Climate   Features  Existing plants Utilities Structures Access   Situation  Privacy Noise Smell    </description>
+    </item>
     
     <item>
       <title>The surveying legwork of the Ornamental #ForestGarden</title>

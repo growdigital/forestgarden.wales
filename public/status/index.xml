@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Forest Garden Wales status</title>
@@ -13,6 +12,33 @@
     
         <atom:link href="http://localhost:1313/status/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <link>http://localhost:1313/status/200508-bowl/</link>
+      <title>Bowl</title>
+      <pubDate>Fri, 08 May 2020 08:36:13 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200508-bowl/</guid>
+      <description>Bore da fyd, morning world. New water bowl in an ornamental bed, looks amazing and provides water for wildlife.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/200507-solomons-seal/</link>
+      <title>Solomons Seal</title>
+      <pubDate>Thu, 07 May 2020 21:27:05 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200507-solomons-seal/</guid>
+      <description>Solomon’s Seal in the #ForestGarden nursery area*. I’ll be planting them out in a shady woodland-ish corner, once I’ve cleared some bramble.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/200507-speedwell/</link>
+      <title>Speedwell</title>
+      <pubDate>Thu, 07 May 2020 08:17:51 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200507-speedwell/</guid>
+      <description>Bore da fyd, morning world. Carpets of Speedwell scattered about the #ForestGarden. Have the best day that you can 🙂💚🌳</description>
+    </item>
     
     <item>
       <link>http://localhost:1313/status/200415-trees/</link>
@@ -2514,8 +2540,7 @@ I had some thoughts about mulching materials.</description>
       <pubDate>Thu, 28 Feb 2019 11:20:28 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/status/190228-glum/</guid>
-      <description>After the sun in the #ForestGarden, welcome the rain
- </description>
+      <description>After the sun in the #ForestGarden, welcome the rain</description>
     </item>
     
     <item>
@@ -2732,7 +2757,7 @@ I had some thoughts about mulching materials.</description>
       <pubDate>Fri, 15 Feb 2019 19:37:19 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/status/190215-bonfire/</guid>
-      <description>Filled gaps in original #ForestGarden windbreak with Viburnum opulus &amp;amp; Amelanchier canadensis, then a massive bonfire</description>
+      <description>Filled gaps in original #ForestGarden windbreak with [Viburnum opulus](https://pfaf.org/user/ Plant.aspx?LatinName=Viburnum+opulus) &amp;amp; Amelanchier canadensis, then a massive bonfire</description>
     </item>
     
     <item>
@@ -3110,7 +3135,7 @@ I had some thoughts about mulching materials.</description>
       <pubDate>Sat, 26 Jan 2019 21:37:43 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/status/190126-springflowers/</guid>
-      <description>@walesbotanic has a list of the top 10 spring flowers for honey bees.</description>
+      <description>@walesbotanic has a list of the top 10 spring flowers for honey bees. Of these, 8 are #ForestGarden stalwarts:</description>
     </item>
     
     <item>

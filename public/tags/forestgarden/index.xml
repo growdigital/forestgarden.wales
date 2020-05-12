@@ -1,18 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Forestgarden on Forest Garden Wales</title>
+    <title>ForestGarden on Forest Garden Wales</title>
     <link>http://localhost:1313/tags/forestgarden/</link>
-    <description>Recent content in Forestgarden on Forest Garden Wales</description>
+    <description>Recent content in ForestGarden on Forest Garden Wales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Mon, 04 May 2020 20:56:19 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 21:11:42 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Survey</title>
+      <link>http://localhost:1313/survey/</link>
+      <pubDate>Mon, 11 May 2020 21:11:42 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/survey/</guid>
+      <description> Position  Compass orientation Elevation Slope   Elements  Water Earth Wind, prevailing Sun Climate   Features  Existing plants Utilities Structures Access   Situation  Privacy Noise Smell    </description>
+    </item>
+    
+    <item>
+      <title>Lockdown Livestream Wildlife May 2020</title>
+      <link>http://localhost:1313/blog/lockdown-livestream-wildlife-may-2020/</link>
+      <pubDate>Wed, 06 May 2020 12:50:28 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/lockdown-livestream-wildlife-may-2020/</guid>
+      <description>Thank you so much for everyone who attended The Wildlife Forest Garden livestream. All the links discussed are in the slideshow.</description>
+    </item>
     
     <item>
       <title>Wildlife Forest Garden May 2020</title>
@@ -213,7 +231,8 @@ Hopefully the snowdrops will make up for the error</description>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/hostas/</guid>
       <description>Hosta crispula 0.6m x 1m
- Hosta longipes 0.3m x 1m</description>
+ Hosta longipes 0.3m x 1m
+ Hosta montana 1m x 1m</description>
     </item>
     
     <item>
@@ -483,7 +502,7 @@ Hopefully the snowdrops will make up for the error</description>
       <pubDate>Wed, 26 Jun 2019 15:57:25 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/clay-lined-pond/</guid>
-      <description>I’m creating yet another wildlife pond, this time in the Ornamental Forest Garden.</description>
+      <description>I’m creating yet another wildlife pond, this time in the Ornamental Forest Garden. Ponds are truly brilliant, they’re top of the The Dreaded Gardener’s list of features for a wildlife garden.</description>
     </item>
     
     <item>
@@ -647,7 +666,7 @@ Hopefully the snowdrops will make up for the error</description>
       <pubDate>Tue, 16 Apr 2019 15:24:31 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/blog/forest-garden-itinerary/</guid>
-      <description>We had our first forest garden tour and workshop last week, via Airbnb.</description>
+      <description>We had our first forest garden tour and workshop last week, via Airbnb. A bit nerve-wracking but eminently enjoyable.</description>
     </item>
     
     <item>
@@ -783,7 +802,7 @@ Hopefully the snowdrops will make up for the error</description>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/blog/attractive-fruit-colour/</guid>
       <description>In descending order of attractiveness:
- Purple Red Orange Black (mulberries)  Not sure where Martin Crawford sourced this information from.</description>
+ Purple   Red Orange Black (mulberries)  Not sure where Martin Crawford sourced this information from.</description>
     </item>
     
     <item>
