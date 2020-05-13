@@ -7,6 +7,5 @@ imageAlt:
 - Dangly white flowers from long arching stem
 ---
 
-[Solomon’s Seal](https://pfaf.org/user/Plant.aspx?LatinName=Polygonatum+commutatum) in the #ForestGarden nursery area<sup>*</sup>. I’ll be planting them out in a shady woodland-ish corner, once I’ve cleared some bramble.
+A [Solomon’s Seal](https://pfaf.org/user/Plant.aspx?LatinName=Polygonatum+commutatum) in the #ForestGarden nursery area. I’ll be planting them out in a shady woodland-ish corner, once I’ve cleared some bramble.
 
-<sup>*</sup> 
