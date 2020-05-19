@@ -15,6 +15,24 @@
     
     
     <item>
+      <title>Seminar</title>
+      <link>http://localhost:1313/tags/seminar/</link>
+      <pubDate>Tue, 19 May 2020 21:16:20 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zoom</title>
+      <link>http://localhost:1313/tags/zoom/</link>
+      <pubDate>Tue, 19 May 2020 21:16:20 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/zoom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ForestGarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
       <pubDate>Wed, 13 May 2020 13:22:10 +0100</pubDate>
