@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200519-bryony/</loc>
+    <lastmod>2020-05-19T18:59:23+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200518-mosaic/</loc>
     <lastmod>2020-05-18T20:53:51+01:00</lastmod>
   </url>
@@ -18,17 +23,32 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2020-05-13T13:22:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/livestream/</loc>
+    <lastmod>2020-05-13T13:22:10+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/livestream-productive-may-2020/</loc>
     <lastmod>2020-05-13T13:22:10+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/article/</loc>
-    <lastmod>2020-05-11T21:11:42+01:00</lastmod>
+    <loc>http://localhost:1313/tags/productive/</loc>
+    <lastmod>2020-05-13T13:22:10+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2020-05-13T13:22:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/article/</loc>
     <lastmod>2020-05-11T21:11:42+01:00</lastmod>
   </url>
   
@@ -39,11 +59,6 @@
   
   <url>
     <loc>http://localhost:1313/survey/</loc>
-    <lastmod>2020-05-11T21:11:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-05-11T21:11:42+01:00</lastmod>
   </url>
   
@@ -63,22 +78,12 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/livestream/</loc>
-    <lastmod>2020-05-06T12:50:28+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/blog/lockdown-livestream-wildlife-may-2020/</loc>
     <lastmod>2020-05-06T12:50:28+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/native/</loc>
-    <lastmod>2020-05-04T20:56:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/productive/</loc>
     <lastmod>2020-05-04T20:56:19+01:00</lastmod>
   </url>
   
