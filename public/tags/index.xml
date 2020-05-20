@@ -9,10 +9,28 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Wed, 13 May 2020 13:22:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 21:16:20 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ForestGarden</title>
+      <link>http://localhost:1313/tags/forestgarden/</link>
+      <pubDate>Tue, 19 May 2020 21:16:20 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/forestgarden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Livestream</title>
+      <link>http://localhost:1313/tags/livestream/</link>
+      <pubDate>Tue, 19 May 2020 21:16:20 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/livestream/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Seminar</title>
@@ -29,24 +47,6 @@
       <pubDate>Tue, 19 May 2020 21:16:20 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/zoom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ForestGarden</title>
-      <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Wed, 13 May 2020 13:22:10 +0100</pubDate>
-      <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/tags/forestgarden/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Livestream</title>
-      <link>http://localhost:1313/tags/livestream/</link>
-      <pubDate>Wed, 13 May 2020 13:22:10 +0100</pubDate>
-      <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/tags/livestream/</guid>
       <description></description>
     </item>
     
