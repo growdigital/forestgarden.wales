@@ -26,4 +26,4 @@ It was great. So good, I’m running it again, tomorrow, _with_ a Zoom chat afte
 
 ## [Zoom invite](https://us04web.zoom.us/s/77786389692?pwd=S2RST1dBTG54YkhHb3k4K1BLYllSZz09)<br>Meeting ID: 777 8638 9692<br>Password: strawberry
 
-The livestream starts promptly at 10am, the Zoom chat at 10.30am. I’ve only used Zoom a couple of times, so there’s bound to be a Technical Disaster of monumental proportions. Whatever happens, it should be enteratining.
+The livestream starts promptly at 10am, the Zoom chat at 10.30am. I’ve only used Zoom a couple of times, so there’s bound to be a Technical Disaster of monumental proportions. Whatever happens, it should be entertaining.
