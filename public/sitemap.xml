@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200523-big/</loc>
+    <lastmod>2020-05-23T10:28:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/rakesh-online-forest-garden-design-course/</loc>
+    <lastmod>2020-05-23T10:04:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/rakesh/</loc>
+    <lastmod>2020-05-23T10:04:44+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/livestream-forest-garden-plants-may-2020/</loc>
     <lastmod>2020-05-23T09:44:52+01:00</lastmod>
   </url>
