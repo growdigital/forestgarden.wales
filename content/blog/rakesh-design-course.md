@@ -12,10 +12,12 @@ imageAlt:
 - Umbellifer, white umbels of flowers
 imageCap:
 - Hogweed (Heracleum sphondylium), a common edible UK native, can be incorporated into any design!
-draft: true
+draft: false
 ---
 
-These are the details that [Rakesh](http://www.rootsnpermaculture.com) passed on to me, please do share 🙂💚🌳
+These are the details that Rakesh passed on to me, please do share 🙂💚🌳
+
+To get in touch with him, email <rakeshaji@gmail.com>
 
 ---
 

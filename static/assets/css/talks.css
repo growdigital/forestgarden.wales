@@ -118,6 +118,10 @@ a:visited {
   font-size: smaller !important;
 }
 
+.u-small {
+  font-size: x-small !important;
+}
+
 .other {
   color:red;
 }
