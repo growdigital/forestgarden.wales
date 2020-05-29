@@ -14,6 +14,15 @@
     
     
     <item>
+      <link>http://localhost:1313/status/200529-symptom/</link>
+      <title>Symptom</title>
+      <pubDate>Fri, 29 May 2020 16:24:52 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200529-symptom/</guid>
+      <description>Coronavirus is a symptom of the Ecological &amp;amp; #ClimateEmergency. This hasn’t been picked up my mainstream media.</description>
+    </item>
+    
+    <item>
       <link>http://localhost:1313/status/200523-big/</link>
       <title>Big</title>
       <pubDate>Sat, 23 May 2020 10:28:42 +0100</pubDate>
