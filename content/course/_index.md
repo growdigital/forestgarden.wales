@@ -11,7 +11,7 @@ imageCap:
 draft: false
 ---
 
-# Online wildlife forest garden course
+# Create a Backyard Forest
 
 Development of the course is on hold for a while, as I’ve had to furlough the business. Please [signup to the Forest Garden Wales](http://eepurl.com/dqwytj) newsletter to be sure of catching announcements and giveaways.
 
@@ -33,16 +33,13 @@ Signup to the newsletter to be updated about the course:
 
 ## Course content
 
-**Introduction:** What is a forest garden, why would you want one & the importance of wildlife
-
-0. **Propagate**: it’s never too early to start propagating.
-1. **Plan**: where are the sun, the wind, the water and the things?
-2. **Design**: using low cost tools to create a plan of action.
-3. **Perennial veg**: get a quick return on your initial planting.
-4. **Windbreaks**: windbreaks now & your plants will love you 4ever.
-5. **Canopy**: plant the big trees, the canopy layer.
-6. **Ground prep**: clear the ground to plant your plants.
-7. **Shrubs**: once the ground is clear, shrubs away.
-8. **Ground cover**: keep the ground covered at all times & at all costs.
+1. **Introducing the Backyard Forest**: Why growing edible crops with nature is so important
+2. **Plan**: Observations to make, wishes to list & mapping your patch
+3. **Design**: How to put things in the right place
+4. **Protection**: Windbreaks & other tricks to protect your precious plants
+5. **Perennial Veg**: Resilient & low maintenance veg are on the menu
+6. **Trees**: Plant the big trees, the canopy layer
+7. **Ground Prep**: Ways to clear the ground, to plant your plants
+8. **Shrubs & Ground Cover**: Shrubs away & keep the ground covered
 
 If there’s something that you’d like to be covered that isn’t listed, please do email me [hello@forestgarden.wales](mailto:hello@forestgarden.wales) or tweet me [@ForestGdnWales](https://twitter.com/ForestGdnWales), and I will try to incorporate it, in a bonus video if not the main course.
