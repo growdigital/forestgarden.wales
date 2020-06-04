@@ -3,7 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200604-badge/</loc>
+    <lastmod>2020-06-04T20:36:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2020-06-03T15:13:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/livestream/</loc>
+    <lastmod>2020-06-03T15:13:10+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/lockdown-livestream-planning-mapping-june-2020/</loc>
+    <lastmod>2020-06-03T15:13:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-06-03T15:13:10+01:00</lastmod>
   </url>
   
@@ -20,6 +40,11 @@
   <url>
     <loc>http://localhost:1313/status/200531-euphorbia/</loc>
     <lastmod>2020-05-31T10:00:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/climateemergency/</loc>
+    <lastmod>2020-05-30T10:40:27+01:00</lastmod>
   </url>
   
   <url>
@@ -43,6 +68,11 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/plan/</loc>
+    <lastmod>2020-05-30T08:49:28+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200529-symptom/</loc>
     <lastmod>2020-05-29T16:24:52+01:00</lastmod>
   </url>
@@ -55,6 +85,11 @@
   <url>
     <loc>http://localhost:1313/status/200523-big/</loc>
     <lastmod>2020-05-23T10:28:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/course/</loc>
+    <lastmod>2020-05-23T10:04:44+01:00</lastmod>
   </url>
   
   <url>
@@ -74,6 +109,11 @@
   
   <url>
     <loc>http://localhost:1313/tags/lockdown/</loc>
+    <lastmod>2020-05-23T09:44:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/recording/</loc>
     <lastmod>2020-05-20T13:26:47+01:00</lastmod>
   </url>
   
@@ -83,27 +123,12 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2020-05-19T21:16:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/livestream/</loc>
-    <lastmod>2020-05-19T21:16:20+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/blog/livestream-planning-may-2020/</loc>
     <lastmod>2020-05-19T21:16:20+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/seminar/</loc>
-    <lastmod>2020-05-19T21:16:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-05-19T21:16:20+01:00</lastmod>
   </url>
   
@@ -223,11 +248,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/climateemergency/</loc>
-    <lastmod>2020-04-24T08:07:38+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/tags/ecologicalemergency/</loc>
     <lastmod>2020-04-24T08:07:38+01:00</lastmod>
   </url>
@@ -269,11 +289,6 @@
   
   <url>
     <loc>http://localhost:1313/nutrients/</loc>
-    <lastmod>2020-04-13T21:19:03+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/plan/</loc>
     <lastmod>2020-04-13T21:19:03+01:00</lastmod>
   </url>
   
@@ -1168,11 +1183,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/course/</loc>
-    <lastmod>2019-11-18T10:44:07+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/tags/online/</loc>
     <lastmod>2019-11-18T10:44:07+00:00</lastmod>
   </url>
@@ -1654,11 +1664,6 @@
   
   <url>
     <loc>http://localhost:1313/blog/biological-recording-workshop/</loc>
-    <lastmod>2019-07-17T22:14:06+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/recording/</loc>
     <lastmod>2019-07-17T22:14:06+01:00</lastmod>
   </url>
   
