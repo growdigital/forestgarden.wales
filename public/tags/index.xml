@@ -9,24 +9,42 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Wed, 03 Jun 2020 15:13:10 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 21:09:55 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Course</title>
+      <link>http://localhost:1313/tags/course/</link>
+      <pubDate>Thu, 04 Jun 2020 21:09:55 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ForestGarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Wed, 03 Jun 2020 15:13:10 +0100</pubDate>
+      <pubDate>Thu, 04 Jun 2020 21:09:55 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Free</title>
+      <link>http://localhost:1313/tags/free/</link>
+      <pubDate>Thu, 04 Jun 2020 21:09:55 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/free/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Livestream</title>
       <link>http://localhost:1313/tags/livestream/</link>
-      <pubDate>Wed, 03 Jun 2020 15:13:10 +0100</pubDate>
+      <pubDate>Thu, 04 Jun 2020 21:09:55 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/livestream/</guid>
       <description></description>
@@ -65,15 +83,6 @@
       <pubDate>Sat, 30 May 2020 08:49:28 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/plan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Course</title>
-      <link>http://localhost:1313/tags/course/</link>
-      <pubDate>Sat, 23 May 2020 10:04:44 +0100</pubDate>
-      <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/tags/course/</guid>
       <description></description>
     </item>
     
@@ -227,15 +236,6 @@
       <pubDate>Tue, 07 Apr 2020 11:24:10 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/small/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Free</title>
-      <link>http://localhost:1313/tags/free/</link>
-      <pubDate>Thu, 02 Apr 2020 17:16:20 +0100</pubDate>
-      <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/tags/free/</guid>
       <description></description>
     </item>
     

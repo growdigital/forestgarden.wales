@@ -9,10 +9,19 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Wed, 03 Jun 2020 15:13:10 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 21:09:55 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Forest Garden Course, livestreamed free over 8 weeks from Wed 10th June</title>
+      <link>http://localhost:1313/blog/forest-garden-course-livestreamed-free-over-8-weeks/</link>
+      <pubDate>Thu, 04 Jun 2020 21:09:55 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/forest-garden-course-livestreamed-free-over-8-weeks/</guid>
+      <description>1. Introducing the Backyard Forest Every week for 8 weeks, I’ll be live presenting a new section of my re-vamped online course, for free, on the Lockdown Livestream!</description>
+    </item>
     
     <item>
       <title>Lockdown Livestream Planning &amp; Mapping</title>

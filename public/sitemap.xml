@@ -3,7 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/tags/course/</loc>
+    <lastmod>2020-06-04T21:09:55+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/forest-garden-course-livestreamed-free-over-8-weeks/</loc>
+    <lastmod>2020-06-04T21:09:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2020-06-04T21:09:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/free/</loc>
+    <lastmod>2020-06-04T21:09:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/livestream/</loc>
+    <lastmod>2020-06-04T21:09:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-06-04T21:09:55+01:00</lastmod>
   </url>
   
@@ -13,22 +38,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2020-06-03T15:13:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/livestream/</loc>
-    <lastmod>2020-06-03T15:13:10+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/blog/lockdown-livestream-planning-mapping-june-2020/</loc>
-    <lastmod>2020-06-03T15:13:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-06-03T15:13:10+01:00</lastmod>
   </url>
   
@@ -90,11 +100,6 @@
   <url>
     <loc>http://localhost:1313/status/200523-big/</loc>
     <lastmod>2020-05-23T10:28:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/course/</loc>
-    <lastmod>2020-05-23T10:04:44+01:00</lastmod>
   </url>
   
   <url>
@@ -365,11 +370,6 @@
   <url>
     <loc>http://localhost:1313/status/200403-tape/</loc>
     <lastmod>2020-04-03T17:40:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/free/</loc>
-    <lastmod>2020-04-02T17:16:20+01:00</lastmod>
   </url>
   
   <url>
