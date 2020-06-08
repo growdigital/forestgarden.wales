@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200608-jupiters-beard/</loc>
+    <lastmod>2020-06-08T14:20:22+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/course/</loc>
     <lastmod>2020-06-04T21:09:55+01:00</lastmod>
   </url>
