@@ -52,7 +52,7 @@ a:visited {
 }
 
 .remark-slide-content {
-  padding: 1em 3em 1em 3em;
+  padding: 1em 11em;
 }
 
 .remark-code-line {
@@ -91,9 +91,9 @@ a:visited {
 /* Breadcrumb */
 
 .breadcrumb {
-  bottom:4px;
-  left:60px;
-  position:absolute;
+  bottom: 4px;
+  left: 16em;
+  position: absolute;
 }
 
 /* ==========================================================================
