@@ -20,7 +20,7 @@ Every week for 8 weeks, I’m live presenting a new section of my re-vamped onli
 
 All videos recorded on my [YouTube Create a Backyard Forest playlist](https://www.youtube.com/playlist?list=PL3tnDlJcXMk9VLsc_KU0Ovv4spw5X9yIy)
 
-## 1. Introducing the Backyard Forest
+## 1. Introducing ‘Create a Backyard Forest’
 
 {{< youtube IpOdZUUlnys >}}
 
