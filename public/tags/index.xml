@@ -9,10 +9,28 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Fri, 12 Jun 2020 11:09:55 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2020 12:55:40 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comfrey</title>
+      <link>http://localhost:1313/tags/comfrey/</link>
+      <pubDate>Mon, 15 Jun 2020 12:55:40 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/comfrey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ForestGarden</title>
+      <link>http://localhost:1313/tags/forestgarden/</link>
+      <pubDate>Mon, 15 Jun 2020 12:55:40 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/forestgarden/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Course</title>
@@ -20,15 +38,6 @@
       <pubDate>Fri, 12 Jun 2020 11:09:55 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/course/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ForestGarden</title>
-      <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Fri, 12 Jun 2020 11:09:55 +0100</pubDate>
-      <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
     </item>
     
@@ -326,15 +335,6 @@
       <pubDate>Sun, 12 Jan 2020 20:30:57 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/wales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comfrey</title>
-      <link>http://localhost:1313/tags/comfrey/</link>
-      <pubDate>Tue, 07 Jan 2020 10:30:45 +0000</pubDate>
-      <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/tags/comfrey/</guid>
       <description></description>
     </item>
     

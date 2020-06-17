@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200617-paradigm/</loc>
+    <lastmod>2020-06-17T14:29:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/article/</loc>
+    <lastmod>2020-06-15T12:55:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/comfrey/</loc>
+    <lastmod>2020-06-15T12:55:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/comfrey/</loc>
+    <lastmod>2020-06-15T12:55:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2020-06-15T12:55:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2020-06-15T12:55:40+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200612-rowan/</loc>
     <lastmod>2020-06-12T20:21:15+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/course/</loc>
-    <lastmod>2020-06-12T11:09:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
     <lastmod>2020-06-12T11:09:55+01:00</lastmod>
   </url>
   
@@ -29,11 +54,6 @@
   
   <url>
     <loc>http://localhost:1313/tags/livestream/</loc>
-    <lastmod>2020-06-12T11:09:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-06-12T11:09:55+01:00</lastmod>
   </url>
   
@@ -190,11 +210,6 @@
   <url>
     <loc>http://localhost:1313/tags/productive/</loc>
     <lastmod>2020-05-13T13:22:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/article/</loc>
-    <lastmod>2020-05-11T21:11:42+01:00</lastmod>
   </url>
   
   <url>
@@ -954,11 +969,6 @@
   
   <url>
     <loc>http://localhost:1313/chop-n-drop/</loc>
-    <lastmod>2020-01-07T10:30:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/comfrey/</loc>
     <lastmod>2020-01-07T10:30:45+00:00</lastmod>
   </url>
   
