@@ -1,40 +1,42 @@
 ---
-title: Pt.1 Introducing the Backyard Forest
-date: 2020-06-12T11:09:55+01:00
-description: Pt.1 of my online course preview has been livestreamed and is now available on my YouTube channel
+title: Pt.2 Plan a Backyard Forest
+date: 2020-06-17T11:21:03+01:00
+description: Pt.2 of my online course preview has been livestreamed and is now available on my YouTube channel
 tags: 
 - ForestGarden
 - Livestream
 - Free
 - Course
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1591005392/plank-edging-forest-garden-169.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1589381396/chalk-circles-improved.jpg
 imageAlt:
-- Small edible forest garden, wooden planks and woodchip paths
+- Chalk circles on bark mulch
 imageCap:
-- A fine example of a small forest garden
+- "The culmination of much planning: glorious chalk circles"
 draft: false
 ---
 
-Every week for 8 weeks, I’m live presenting a new section of my re-vamped online course, for free, on my regular Lockdown Livestream.
+Every week on a Wednesday at 10am, I am a livestreaming a free preview of my online forest garden course, as part of my regular Lockdown Livestream. It ain’t TikTok (yet) but there _is_ lots of useful info.
 
 All videos recorded on my [YouTube Create a Backyard Forest playlist](https://www.youtube.com/playlist?list=PL3tnDlJcXMk9VLsc_KU0Ovv4spw5X9yIy)
 
-## 1. Introducing the Backyard Forest
+[Subscribe to my YouTube channel](https://www.youtube.com/channel/UCKXKUlYUniJwEy1Lkvs78qw?view_as=subscriber?sub_confirmation=1) to help me get a sensible channel name, rather than the unmemorable “UCKXKUlYUniJwEy1Lkvs78qw”. Honestly, don’t these people know how to do social media?
 
-{{< youtube IpOdZUUlnys >}}
+## 2. Planning a Backyard Forest
+
+{{< youtube ucktxcnZQPE >}}
 
 _Video now on YouTube_
 
 ---
 
-## Next livestream Wed 17th June 10am BST
+## Next livestream Wed 24th June 10am BST
 
 1. **Introducing the Backyard Forest**, _Wed 10 June_    
   Why growing edible crops with nature is so important. [YouTube recording](https://www.youtube.com/watch?v=IpOdZUUlnys)
-2. **Plan**, _Wed 17 June_ 👈 NEXT LIVESTREAM  
-  Observations to make, wishes to list & mapping your patch. [Zoom Q&A](https://us04web.zoom.us/j/77510642149?pwd=b0NKVHp3RkJ1NEVxV2FHTFl5SmY5UT09)
-3. **Design**, _Wed 24 June_  
+2. **Plan**, _Wed 17 June_
+  Observations to make, wishes to list & mapping your patch. [YouTube recording](https://www.youtube.com/watch?v=ucktxcnZQPE)
+3. **Design**, _Wed 24 June_ 👈 NEXT LIVESTREAM  
   How to put things in the right place. [Zoom Q&A](https://us04web.zoom.us/j/72739993556?pwd=Y2lSY2xiR2Z5cEtHSzZPOVI1eGoyUT09)
 4. **Protection**, _Wed 1 July_  
   Windbreaks & other tricks to protect your precious plants. [Zoom Q&A](https://us04web.zoom.us/j/78438178121?pwd=cGVkMEhXcXNmU3dKekhiek5oWGhIQT09)
