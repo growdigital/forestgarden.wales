@@ -1,7 +1,7 @@
 ---
 title: Pt.2 Plan a Backyard Forest
 date: 2020-06-17T11:21:03+01:00
-description: Pt.2 of my online course preview has been livestreamed and is now available on my YouTube channel
+description: Part 2 of my online course preview has been livestreamed and is now available on my YouTube channel
 tags: 
 - ForestGarden
 - Livestream
@@ -34,7 +34,7 @@ _Video now on YouTube_
 
 1. **Introducing the Backyard Forest**, _Wed 10 June_    
   Why growing edible crops with nature is so important. [YouTube recording](https://www.youtube.com/watch?v=IpOdZUUlnys)
-2. **Plan**, _Wed 17 June_
+2. **Plan**, _Wed 17 June_  
   Observations to make, wishes to list & mapping your patch. [YouTube recording](https://www.youtube.com/watch?v=ucktxcnZQPE)
 3. **Design**, _Wed 24 June_ 👈 NEXT LIVESTREAM  
   How to put things in the right place. [Zoom Q&A](https://us04web.zoom.us/j/72739993556?pwd=Y2lSY2xiR2Z5cEtHSzZPOVI1eGoyUT09)

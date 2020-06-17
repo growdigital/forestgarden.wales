@@ -1,7 +1,7 @@
 ---
 title: Pt.1 Introducing the Backyard Forest
 date: 2020-06-12T11:09:55+01:00
-description: Pt.1 of my online course preview has been livestreamed and is now available on my YouTube channel
+description: Part 1 of my online course preview has been livestreamed and is now available on my YouTube channel
 tags: 
 - ForestGarden
 - Livestream
