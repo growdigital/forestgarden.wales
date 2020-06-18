@@ -14,7 +14,8 @@ gallery: false
 draft: false
 ---
 
-* Estimate per 100m²
+**Estimate per 100m²**
+
 * Assume clearing grass land
 * 1 tonne bark or wood chip mulch, £35 per tonne
 * Approx 400 plants (3-5 per m²)

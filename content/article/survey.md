@@ -34,3 +34,5 @@ draft: false
   - [ ] Privacy
   - [ ] Noise
   - [ ] Smell   
+
+Also see [Forest Garden Planning Checklist](https://res.cloudinary.com/growdigital/image/upload/v1591883718/forest-garden-planning-checklist.pdf) PDF download 🙂
