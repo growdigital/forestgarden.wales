@@ -32,6 +32,7 @@ Also see slideshow definition: [forestgarden.wales/talks/definition](/talks/defi
 * **Nurse tree**: [forestgarden.wales/nurse-tree](/nurse-tree/)
 * **Nutrients**: approximate figures for nutrient budget [forestgarden.wales/nutrients](/nutrients/)
 * **Perennial veg alternatives**: to annual veg [forestgarden.wales/perennial-veg-alternatives](/perennial-veg-alternatives/)
+* **Protection**: protect & your plants will thrive! [forestgarden.wales/protection](/protection/)
 * **Recommended**: books, suppliers & websites [forestgarden.wales/recommended](/recommended/)
 * **Rootstock**: fruit tree rootstock reference [forestgarden.wales/rootstock](/rootstock/)
 * **Spacing**: calculating the space between trees [forestgarden.wales/spacing](/spacing/)
