@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/protection/</loc>
+    <lastmod>2020-06-20T08:48:10+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200617-propagation/</loc>
     <lastmod>2020-06-17T14:53:11+01:00</lastmod>
   </url>
