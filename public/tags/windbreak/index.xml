@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>windbreak on Forest Garden Wales</title>
+    <title>Windbreak on Forest Garden Wales</title>
     <link>http://localhost:1313/tags/windbreak/</link>
-    <description>Recent content in windbreak on Forest Garden Wales</description>
+    <description>Recent content in Windbreak on Forest Garden Wales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Thu, 31 Jan 2019 21:55:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2020 08:48:10 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/windbreak/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Protection</title>
+      <link>http://localhost:1313/protection/</link>
+      <pubDate>Sat, 20 Jun 2020 08:48:10 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/protection/</guid>
+      <description>Protect &amp;amp; thrive!  Protection — from wind, frost, sun &amp;amp; predators Wind  Windbreak hedge Nurse tree Dead hedge   Wind &amp;amp; cold  Potting shed Greenhouse Polytunnel Cold frames Heated propagation bed   Protect some young plants from direct sun Protect young plants from drying out Protect from weed competition Protect from predators  Note: will be updating this page with examples &amp;amp; photos</description>
+    </item>
     
     <item>
       <title>Windbreak hedges for an exposed coastal site</title>
