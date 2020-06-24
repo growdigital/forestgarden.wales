@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200624-secateurs/</loc>
+    <lastmod>2020-06-24T21:29:28+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/course-livestream-03-protection/</loc>
     <lastmod>2020-06-24T11:21:03+01:00</lastmod>
   </url>
