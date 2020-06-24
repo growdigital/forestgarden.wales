@@ -37,7 +37,7 @@ _Video now on YouTube_
 2. **Plan**, _Wed 17 June_  
   Observations to make, wishes to list & mapping your patch. [YouTube recording](https://www.youtube.com/watch?v=ucktxcnZQPE)
 3. **Design**, _Wed 24 June_  
-  How to put things in the right place. [YouTube recording]()
+  How to put things in the right place. [YouTube recording](https://www.youtube.com/watch?v=Jk8A-qD0Tag)
 4. **Protection**, _Wed 1 July_ 👈 NEXT LIVESTREAM
   Windbreaks & other tricks to protect your precious plants. [Zoom Q&A](https://us04web.zoom.us/j/78438178121?pwd=cGVkMEhXcXNmU3dKekhiek5oWGhIQT09)
 5. **Perennial Veg**, _Wed 8 July_  
