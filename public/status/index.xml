@@ -14,12 +14,21 @@
     
     
     <item>
+      <link>http://localhost:1313/status/200625-spider/</link>
+      <title>Spider</title>
+      <pubDate>Thu, 25 Jun 2020 13:46:59 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200625-spider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <link>http://localhost:1313/status/200624-secateurs/</link>
       <title>Secateurs</title>
       <pubDate>Wed, 24 Jun 2020 21:29:28 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/status/200624-secateurs/</guid>
-      <description></description>
+      <description>Finished a #ForestGarden job that’s been kicking around for weeks: sewing the secateur holster narrower, so that my secateurs stop disappearing themselves.</description>
     </item>
     
     <item>
