@@ -31,3 +31,6 @@ Some suggestions from Twitter about starting out in the world of UK native wild 
   * [Harrap's Wild Flowers](https://www.summerfieldbooks.com/showdetails.asp?id=3665)
   * [Collin’s Flower Guide](https://www.summerfieldbooks.com/showdetails.asp?id=2593)
   * [The Wildflower Key](https://www.summerfieldbooks.com/showdetails.asp?id=1578)
+* Suppliers
+  * Lindsey Jones at [The Wildflower Nursery](https://www.thewildflowernursery.co.uk/)
+  * Matt Smith at [British Wild Flower Plants](https://www.wildflowers.uk)
