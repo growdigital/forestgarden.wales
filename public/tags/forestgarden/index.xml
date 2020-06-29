@@ -9,10 +9,19 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Sat, 20 Jun 2020 08:48:10 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2020 11:21:03 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pt.3 Design a Backyard Forest</title>
+      <link>http://localhost:1313/blog/course-livestream-03-protection/</link>
+      <pubDate>Wed, 24 Jun 2020 11:21:03 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/course-livestream-03-protection/</guid>
+      <description>Every week on a Wednesday at 10am, I am a livestreaming a free preview of my online forest garden course, as part of my regular Lockdown Livestream.</description>
+    </item>
     
     <item>
       <title>Protection</title>

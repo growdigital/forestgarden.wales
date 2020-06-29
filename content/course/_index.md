@@ -17,7 +17,7 @@ Development of the course is on hold for a while, as I’ve had to furlough the 
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1591005392/plank-edging-forest-garden-169.jpg" alt="Gravelled & boarded small forest garden" caption="A small forest garden in full flow" >}}
 
-## Course slideshows
+## Course content
 
 1. **[Introducing the Backyard Forest](/course/intro)** Why growing edible crops with nature is so important
 2. **[Plan](/course/plan)** Observations to make, wishes to list & mapping your patch
