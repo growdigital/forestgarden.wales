@@ -37,7 +37,7 @@ https://youtu.be/
 1. **Introducing the Backyard Forest**, _Wed 10 June_    
   Why growing edible crops with nature is so important. [YouTube video](https://www.youtube.com/watch?v=IpOdZUUlnys)
 2. **Plan**, _Wed 17 June_  
-  Observations to make, wishes to list & mapping your patch. [YouTube video](https://www.youtube.com/watch?v=ucktxcnZQPE)
+  Observations, wishlists & mapping. [YouTube video](https://www.youtube.com/watch?v=ucktxcnZQPE)
 3. **Design**, _Wed 24 June_  
   How to put things in the right place. [YouTube video](https://www.youtube.com/watch?v=Jk8A-qD0Tag)
 4. **Protection**, _Wed 1 July_ [YouTube video](https://www.youtube.com/watch?v=7L1LvUj_ZIE)
