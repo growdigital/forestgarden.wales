@@ -30,6 +30,8 @@ _Video now on YouTube_
 https://youtu.be/
 ---
 
+### Slideshow: [forestgarden.wales/course/protection](https://www.forestgarden.wales/course/protection)
+
 ## Next livestream Wed 8th July 10am BST
 
 1. **Introducing the Backyard Forest**, _Wed 10 June_    
