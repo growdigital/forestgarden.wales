@@ -8,11 +8,11 @@ tags:
 - Free
 - Course
 images: 
-- https://res.cloudinary.com/growdigital/image/upload/v1559502337/kale-21EB2C25.jpg
+- https://res.cloudinary.com/growdigital/image/upload/v1551261223/cornus-crop-42141134465.jpg
 imageAlt:
-- Top of kale leaf
+- Polytunnel & young hedge overlooking valley
 imageCap:
-- Kale, a perennial favourite
+- Creating protection with a young Dogwood hedge and polytunnel
 draft: false
 ---
 
