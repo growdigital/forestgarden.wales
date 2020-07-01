@@ -41,7 +41,7 @@ Make a note in your diary for the 8 sessions:
 8. **[Shrubs & Ground Cover](/course/shrubs-cover)**, _Wed 29 July_  
   Shrubs away & keep the ground covered. [Zoom Q&A](https://us04web.zoom.us/j/77496886240?pwd=R2poUDZrSjNIemR0WXk0bHpBczdOQT09)
 
-Slides: [forestgarden.wales/course]()
+Slides: [forestgarden.wales/course](https://forestgarden.wales/course)
 
 Come to whichever livestream takes your fancy. I’ll keep the livestream to 40-45 minutes, followed by a 30 minute Zoom Q&A. If there’s anything you’d like covered, email me <hello@forestgarden.wales>
 
