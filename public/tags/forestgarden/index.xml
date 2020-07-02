@@ -9,17 +9,35 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Wed, 24 Jun 2020 11:21:03 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 14:07:34 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Livestreaming &amp; recording setup for online courses</title>
+      <link>http://localhost:1313/blog/livestreaming-recording-setup/</link>
+      <pubDate>Thu, 02 Jul 2020 14:07:34 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/livestreaming-recording-setup/</guid>
+      <description>With the onset of the Covid-19 lockdown in the UK, I decided to concentrate on remote, online forest garden courses and workshops.</description>
+    </item>
+    
+    <item>
+      <title>Pt.4 Protect a Backyard Forest</title>
+      <link>http://localhost:1313/blog/course-livestream-04-protection/</link>
+      <pubDate>Wed, 01 Jul 2020 16:21:03 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/course-livestream-04-protection/</guid>
+      <description>On Wednesdays at 10am BST, I livestream a free preview of my online forest garden course.</description>
+    </item>
+    
+    <item>
       <title>Pt.3 Design a Backyard Forest</title>
-      <link>http://localhost:1313/blog/course-livestream-03-protection/</link>
+      <link>http://localhost:1313/blog/course-livestream-03-design/</link>
       <pubDate>Wed, 24 Jun 2020 11:21:03 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/blog/course-livestream-03-protection/</guid>
+      <guid>http://localhost:1313/blog/course-livestream-03-design/</guid>
       <description>Every week on a Wednesday at 10am, I am a livestreaming a free preview of my online forest garden course, as part of my regular Lockdown Livestream.</description>
     </item>
     
