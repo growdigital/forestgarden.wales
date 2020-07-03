@@ -62,9 +62,10 @@ This is a bit of a geeky solution, but it’s free and suits me fine as I was a 
 
 ## Channels
 
-* **Video archive**: [YouTube](https://www.youtube.com/c/ForestGardenWales), owned by Google, who are evil and engage in [corporate surveillance](https://www.bbc.co.uk/ideas/videos/surveillance-capitalism-has-led-us-into-a-dystopia/p06p0tdy). But, hey, it’s free. **£0**
 * **Livestreaming**: [Twitch](https://www.twitch.tv/forestgardenwales), owned by Amazon, another purveyor of corporate surveillance. But, hey, it’s free. **£0**
+* **Video archive**: [YouTube](https://www.youtube.com/c/ForestGardenWales), owned by Google, who are evil and engage in [corporate surveillance](https://www.bbc.co.uk/ideas/videos/surveillance-capitalism-has-led-us-into-a-dystopia/p06p0tdy). But, hey, it’s free. **£0**
 * **Chat**: [Chatty](https://chatty.github.io/) is a [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) app that lets you use the Twitch chat without having to open a browser window. Speeds things up a bit 🙂
+* **Conference calls**: [Zoom](https://zoom.us/) 40 minute limit on group meetings. I use Zoom for Q&As and interactive workshops.
 
 ## Course platform
 
