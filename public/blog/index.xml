@@ -23,8 +23,8 @@
         &lt;p class="p-summary"&gt;Here’s my current setup of computers &amp; equipment for livestreaming, recording and editing videos for my online forest garden courses. Hopefully this will help if you want to set up your own 😎&lt;/p&gt;
         
           &lt;figure&gt;
-            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1593702008/me-obs-webcams.jpg&quot; alt=&quot;Screenshot of&quot;&gt;
-            &lt;figcaption&gt;&lt;/figcaption&gt;
+            &lt;img src=&quot;https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/v1593702008/me-obs-webcams.jpg&quot; alt=&quot;Screenshot of livestreaming software and two webcams in operation&quot;&gt;
+            &lt;figcaption&gt;OBS Studio livestreaming software, showing difference in quality between external &amp; built-in webcams&lt;/figcaption&gt;
           &lt;/figure&gt;
         
         &lt;p&gt;With the onset of the Covid-19 lockdown in the UK, I decided to concentrate on remote, online forest garden courses and workshops. To that end, I’ve created a rudimentary but effective setup. I’ll give all the geeky technical details to make it easier to compare equipment.&lt;/p&gt;
@@ -67,6 +67,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Video archive&lt;/strong&gt;: &lt;a href=&#34;https://www.youtube.com/c/ForestGardenWales&#34;&gt;YouTube&lt;/a&gt;, owned by Google, who are evil and engage in &lt;a href=&#34;https://www.bbc.co.uk/ideas/videos/surveillance-capitalism-has-led-us-into-a-dystopia/p06p0tdy&#34;&gt;corporate surveillance&lt;/a&gt;. But, hey, it’s free. &lt;strong&gt;£0&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Livestreaming&lt;/strong&gt;: &lt;a href=&#34;https://www.twitch.tv/forestgardenwales&#34;&gt;Twitch&lt;/a&gt;, owned by Amazon, another purveyor of corporate surveillance. But, hey, it’s free. &lt;strong&gt;£0&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chat&lt;/strong&gt;: &lt;a href=&#34;https://chatty.github.io/&#34;&gt;Chatty&lt;/a&gt; is a &lt;a href=&#34;https://en.wikipedia.org/wiki/Java_(programming_language)&#34;&gt;Java&lt;/a&gt; app that lets you use the Twitch chat without having to open a browser window. Speeds things up a bit 🙂&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;course-platform&#34;&gt;Course platform&lt;/h2&gt;
 &lt;ul&gt;
