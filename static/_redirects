@@ -1,0 +1,5 @@
+# Redirects from what the browser requests to what we serve
+
+/course/index/index.html    /course/contents/
+/course/map/                /course/miniplan/
+/blog/course-livestream-03-protection/    /blog/course-livestream-03-design/

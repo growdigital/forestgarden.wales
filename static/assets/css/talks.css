@@ -122,6 +122,18 @@ a:visited {
   color: #eb4b2d !important;
 }
 
+.u-bg-yellow {
+  background-color: yellow !important;
+}
+
+.u-bg-aqua {
+  background-color: aqua !important;
+}
+
+.u-bg-lime {
+  background-color: lime !important;
+}
+
 /* Smaller text */
 
 .u-smaller {
