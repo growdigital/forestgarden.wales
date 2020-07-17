@@ -22,7 +22,7 @@ All videos recorded on my [YouTube Create a Backyard Forest playlist](https://ww
 
 [Subscribe to my YouTube channel](https://www.youtube.com/c/ForestGardenWales?view_as=subscriber?sub_confirmation=1) so that I get more Followers, which means more Brownie Points, which means more publicity for forest gardens.
 
-## 5. Perennial Vegetables
+## 6. Canopy Tree Layer
 
 {{< youtube bWc7J1U--fU >}}
 

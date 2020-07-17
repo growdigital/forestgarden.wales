@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/tags/course/</loc>
+    <lastmod>2020-07-15T12:21:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2020-07-15T12:21:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/free/</loc>
+    <lastmod>2020-07-15T12:21:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/livestream/</loc>
+    <lastmod>2020-07-15T12:21:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/course-livestream-06-canopy/</loc>
+    <lastmod>2020-07-15T12:21:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2020-07-15T12:21:03+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200714-mallow/</loc>
     <lastmod>2020-07-14T14:05:16+01:00</lastmod>
   </url>
@@ -18,32 +48,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/course/</loc>
-    <lastmod>2020-07-08T16:21:03+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2020-07-08T16:21:03+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/free/</loc>
-    <lastmod>2020-07-08T16:21:03+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/livestream/</loc>
-    <lastmod>2020-07-08T16:21:03+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/blog/course-livestream-05-veg/</loc>
-    <lastmod>2020-07-08T16:21:03+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-07-08T16:21:03+01:00</lastmod>
   </url>
   
