@@ -28,6 +28,6 @@ There is a slideshow for each lecture, the latest version is always here. Press 
 5. **[Perennial Veg](/course/veg)** Resilient & low maintenance veg are on the menu
 6. **[Canopy](/course/canopy)** Plant the big trees, the canopy layer
 7. **[Ground Prep](/course/prep)** Ways to clear the ground, so as to plant your plants
-8. **[Shrubs & Ground Cover](/course/shrubs)** Shrubs away & keep the ground covered
+8. **[Shrubs & Ground Cover](/course/shrubs)** Establish shrubs & cover the ground
 
 Free preview videos are available on my YouTube channel [youtube.com/c/ForestGardenWales](https://www.youtube.com/c/ForestGardenWales/) playlist [Create a Backyard Forest](https://www.youtube.com/playlist?list=PL3tnDlJcXMk9VLsc_KU0Ovv4spw5X9yIy).
