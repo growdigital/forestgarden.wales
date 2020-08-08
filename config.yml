@@ -11,6 +11,10 @@ pluralizeListTitles: false
 summaryLength: 13
 taxonomies:
   tag: tags
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 permalinks:
   article: /:title
 params:

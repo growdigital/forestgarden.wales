@@ -18,27 +18,27 @@ A roostock is the well developed root system on which you graft a known fruiting
 
 This is the best [rootstock diagram](https://res.cloudinary.com/growdigital/image/upload/v1543958990/rootstocks-24453546047.png) that I’ve found, from [Johnstown Garden Centre](https://www.johnstowngardencentre.ie/blog/johnstowngardencentre.ie/2016/03/08/rootstocks-explained/)
 
-* Very dwarf _1.5m-2m_ <b id="very-dwarf"></b>
+* [Very dwarf](#very-dwarf) _1.5m-2m_ <b id="very-dwarf"></b>
   * Apple: **M27**
-* Dwarf _1.8m-2.5m_ <b id="dwarf"></b>
+* [Dwarf](#dwarf) _1.8m-2.5m_ <b id="dwarf"></b>
   * Apple: **M9**
   * Pear: **Quince C**
   * Cherry: **Gisela 5**
-* Semi dwarf _2.2m-3m_ <b id="semi-dwarf"></b>
+* [Semi dwarf](#semi-dwarf) _2.2m-3m_ <b id="semi-dwarf"></b>
   * Apple: **M26**
   * Apricot: **Torinel**
   * Plum: **Pixy, VVA-1**
-* Medium _2.5m-4m_ <b id="medium"></b>
+* [Medium](#medium) _2.5m-4m_ <b id="medium"></b>
   * Apple: **M116**
-* Semi-vigorous _2.5m-4.5m_ <b id="semi-vigorous"></b>
+* [Semi-vigorous](#semi-vigorous) _2.5m-4.5m_ <b id="semi-vigorous"></b>
   * Apple: **MM106**
   * Pear: **Quince A**
   * Plum: **St Julien A**
   * Cherry: **Colt**
-* Vigorous _3.5m-4.5m_ <b id="vigorous"></b>
+* [Vigorous](#vigorous) _3.5m-4.5m_ <b id="vigorous"></b>
   * Apple: **MM111**
   * Pear: **Pyrodwarf**
-* Very vigorous _4.5m+_ <b id="very-vigorous"></b>
+* [Very vigorous](#very-vigorous) _4.5m+_ <b id="very-vigorous"></b>
   * Apple: **M25**
   * Pear: **Pyrus communis**, **Pyrus Kirchensaller**
   * Cherry: **F.12.1**
