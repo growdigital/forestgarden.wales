@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200809-ron/</loc>
+    <lastmod>2020-08-09T20:25:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200809-butterfly/</loc>
+    <lastmod>2020-08-09T20:23:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200808-parcel/</loc>
+    <lastmod>2020-08-08T20:31:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200808-frog/</loc>
+    <lastmod>2020-08-08T20:16:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200808-chop-n-drop/</loc>
+    <lastmod>2020-08-08T12:58:16+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200723-wild-combo/</loc>
     <lastmod>2020-07-23T20:53:09+01:00</lastmod>
   </url>
