@@ -19,9 +19,10 @@ aliases:
 ## Books
 
 * [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/) by [Martin Crawford](https://facebook.com/agroforestry.co.uk)
-* [A New Garden Ethic](https://newsociety.com/Books/N/A-New-Garden-Ethic) by [Benjamin Vogt](https://www.monarchgard.com/benjamin-vogt.html)
-* [The Wild Garden](https://www.amazon.co.uk/Wild-Garden-garden-bookshelf/dp/0711204225/) by Violet Stevenson
-* [Around the world in 80 plants](https://permanentpublications.co.uk/port/around-the-world-in-80-plants-an-edible-perennial-vegetable-adventure-for-temperate-climates-by-stephen-barstow/) by [Stephen Barstow](https://mobile.twitter.com/s_barstow)
+* [A New Garden Ethic](https://newsociety.com/Books/N/A-New-Garden-Ethic) by [Benjamin Vogt](https://www.monarchgard.com/benjamin-vogt.html), the morality of gardening with natives
+* [The Wild Garden](https://www.amazon.co.uk/Wild-Garden-garden-bookshelf/dp/0711204225/),  by Violet Stevenson, 1985 but pretty much the only book covering the use of UK native plants
+* [Around the world in 80 plants](https://permanentpublications.co.uk/port/around-the-world-in-80-plants-an-edible-perennial-vegetable-adventure-for-temperate-climates-by-stephen-barstow/) by [Stephen Barstow](https://mobile.twitter.com/s_barstow), a global romp around edible plants
+* [The Garden of Equal Delights](https://www.triarchypress.net/delights.html) by [Anni Kelsey](https://annisveggies.wordpress.com), forest gardening from the gardener’s perspective, delightful and intriguing
 
 ## Suppliers
 
@@ -44,7 +45,7 @@ aliases:
 
 ## Podcasts
 
-* [Roots and All](https://rootsandall.co.uk) best wildlife gardening podcast out there
+* [Roots and All](https://rootsandall.co.uk) best wildlife gardening podcast out there, with [Sarah Wilson](https://twitter.com/swilson09)
+* [Growing Greener](https://www.thomaschristophergardens.com/podcast) best US wildlife gardening podcast, with [Thomas Christopher](https://www.thomaschristophergardens.com/about)
 * [A Way To Garden](https://awaytogarden.com) with Margaret Roach: long running, always interesting
-* [Gardens, Weeds & Words](https://www.gardensweedsandwords.com) mellifluous, with [Andrew O’Brien](https://twitter.com/andrewtimothyOB)
 * [Garden Organic](https://podcasts.apple.com/gb/podcast/the-organic-gardening-podcast/id1455955334) increasingly vegan, increasingly perennial

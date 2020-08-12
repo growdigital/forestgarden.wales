@@ -13,7 +13,7 @@ draft: false
 
 # The Backyard Forest
 
-Development of the course is on hold for a while, as I’ve had to furlough the business. Please [signup to the Forest Garden Wales](http://eepurl.com/dqwytj) newsletter to be sure of catching announcements and giveaways.
+I’m currently filming & editing the course, due for release in September. Please [signup to the Forest Garden Wales](http://eepurl.com/dqwytj) newsletter to be sure of catching announcements and giveaways.
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1591005392/plank-edging-forest-garden-169.jpg" alt="Gravelled & boarded small forest garden" caption="A small forest garden in full flow" >}}
 
