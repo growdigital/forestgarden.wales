@@ -1,5 +1,5 @@
 ---
-title: Tapestry-Lawn
+title: Tapestry Lawn
 date: 2020-08-16T22:05:32+01:00
 images:
 - https://res.cloudinary.com/growdigital/image/upload/v1545906036/chamomile-IMAG2224.jpg
