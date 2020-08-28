@@ -34,7 +34,7 @@ Pea | [Siberian Pea Tree](https://pfaf.org/user/plant.aspx?latinname=Caragana+ar
 Potato | [Chinese Yam](https://pfaf.org/user/plant.aspx?LatinName=Dioscorea+batatas), [Duck Potato](https://pfaf.org/user/plant.aspx?LatinName=Sagittaria+latifolia), [Jerusalem Artichoke](https://pfaf.org/user/Plant.aspx?LatinName=Helianthus+tuberosus)
 Runner beans | [Ground Nut](https://pfaf.org/user/plant.aspx?LatinName=Apios+americana) (also known as Potato Bean)
 Spinach | [Caucasian Spinach](https://backyardlarder.co.uk/plants/caucasian-spinach/), [Chard](https://pfaf.org/user/Plant.aspx?LatinName=Beta+vulgaris+flavescens), [Good King Henry](https://pfaf.org/user/plant.aspx?latinname=Chenopodium+bonus-henricus), [Nettle](https://pfaf.org/user/plant.aspx?latinname=Urtica+dioica), [Sea Beet](https://pfaf.org/user/Plant.aspx?LatinName=Beta+vulgaris+maritima)
-Spring onion | [Everlasting Onion (Allium cepa perutile)](https://pfaf.org/user/plant.aspx?latinname=Allium+cepa), ([Welsh onion](https://pfaf.org/user/plant.aspx?latinname=Allium+fistulosum))
+Spring onion | [Everlasting Onion (Allium cepa perutile)](https://pfaf.org/user/plant.aspx?latinname=Allium+cepa), [Welsh onion](https://pfaf.org/user/plant.aspx?latinname=Allium+fistulosum)
 Spring Greens | [Bistort](https://pfaf.org/user/Plant.aspx?LatinName=Polygonum+bistorta)
 
 <br>

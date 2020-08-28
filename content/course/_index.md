@@ -13,7 +13,11 @@ draft: false
 
 # The Backyard Forest
 
-I’m currently filming & editing the course, due for release in September. Please [signup to the Forest Garden Wales](http://eepurl.com/dqwytj) newsletter to be sure of catching announcements and giveaways.
+My online forest garden course is now [available to buy on Udemy](https://www.udemy.com/course/the-backyard-forest/?referralCode=CE87DB2FC1CA1B28807F)! It’s designed for beginners who want to transform their own garden into a lush food forest which is a haven for wildlife.
+<br><br>
+
+<a class="button" href="https://www.udemy.com/course/the-backyard-forest/?referralCode=CE87DB2FC1CA1B28807F">Sign up for the course</a><br>
+<br>
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1591005392/plank-edging-forest-garden-169.jpg" alt="Gravelled & boarded small forest garden" caption="A small forest garden in full flow" >}}
 
