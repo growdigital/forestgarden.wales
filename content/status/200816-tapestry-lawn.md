@@ -9,4 +9,4 @@ imageAlt:
 
 I listened to [@RootsAndAll](https://twitter.com/RootsAndAll) podcast with [Lionel Smith](https://www.grassfreelawns.co.uk/index.html) about [Tapestry Lawns](https://rootsandall.co.uk/portfolio-item/episode-71-tapestry-lawns-with-dr-lionel-smith/), bought [the book](https://www.amazon.co.uk/Tapestry-Lawns-Freed-Grass-Flowers/dp/0367144034), and now I’m starting work on my first lawn! It’s going to be native, of course, because why wouldn’t you? 
 
-If you’re super plant geeky, I made an [online spreadsheet](https://ethercalc.org/43hl82cfykip) of the UK native species, really as a quick refence for me.
+If you’re super plant geeky, I made an [online spreadsheet](https://ethercalc.net/43hl82cfykip) of the UK native species, really as a quick refence for me.
