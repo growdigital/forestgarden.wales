@@ -14,6 +14,15 @@
     
     
     <item>
+      <link>http://localhost:1313/status/200903-redistribute/</link>
+      <title>Redistribute Privilege</title>
+      <pubDate>Thu, 03 Sep 2020 12:39:17 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200903-redistribute/</guid>
+      <description>My online #ForestGarden course is now for sale. Apart from my time and expertise, I’ve never sold anything before.</description>
+    </item>
+    
+    <item>
       <link>http://localhost:1313/status/200903-fieldcraft/</link>
       <title>Fieldcraft</title>
       <pubDate>Thu, 03 Sep 2020 10:51:37 +0100</pubDate>
