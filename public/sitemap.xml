@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200903-fieldcraft/</loc>
+    <lastmod>2020-09-03T10:51:37+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200902-gloaming/</loc>
     <lastmod>2020-09-02T21:31:53+01:00</lastmod>
   </url>
