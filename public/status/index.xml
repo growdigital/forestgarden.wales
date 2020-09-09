@@ -14,6 +14,16 @@
     
     
     <item>
+      <link>http://localhost:1313/status/200909-conceit/</link>
+      <title>Conceit</title>
+      <pubDate>Wed, 09 Sep 2020 14:15:32 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200909-conceit/</guid>
+      <description>Is it a conceit to use #BAME emoticons? 🤷🏿
+In a previous life, I was a web designer.</description>
+    </item>
+    
+    <item>
       <link>http://localhost:1313/status/200903-redistribute/</link>
       <title>Redistribute Privilege</title>
       <pubDate>Thu, 03 Sep 2020 12:39:17 +0100</pubDate>

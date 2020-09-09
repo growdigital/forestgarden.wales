@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200909-conceit/</loc>
+    <lastmod>2020-09-09T14:15:32+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/tree-leaves-for-salad/</loc>
     <lastmod>2020-09-09T11:51:27+01:00</lastmod>
   </url>
