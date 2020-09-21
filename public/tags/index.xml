@@ -9,10 +9,28 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Wed, 15 Jul 2020 12:21:03 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2020 11:51:27 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ForestGarden</title>
+      <link>http://localhost:1313/tags/forestgarden/</link>
+      <pubDate>Wed, 09 Sep 2020 11:51:27 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/forestgarden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PerennialVeg</title>
+      <link>http://localhost:1313/tags/perennialveg/</link>
+      <pubDate>Wed, 09 Sep 2020 11:51:27 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/perennialveg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Course</title>
@@ -20,15 +38,6 @@
       <pubDate>Wed, 15 Jul 2020 12:21:03 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/course/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ForestGarden</title>
-      <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Wed, 15 Jul 2020 12:21:03 +0100</pubDate>
-      <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
     </item>
     
@@ -213,15 +222,6 @@
     </item>
     
     <item>
-      <title>PerennialVeg</title>
-      <link>http://localhost:1313/tags/perennialveg/</link>
-      <pubDate>Sat, 02 May 2020 09:32:31 +0100</pubDate>
-      <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/tags/perennialveg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Workshop</title>
       <link>http://localhost:1313/tags/workshop/</link>
       <pubDate>Sat, 02 May 2020 09:32:31 +0100</pubDate>
@@ -249,6 +249,15 @@
     </item>
     
     <item>
+      <title>Diversity</title>
+      <link>http://localhost:1313/tags/diversity/</link>
+      <pubDate>Mon, 13 Apr 2020 21:19:03 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nitrogen</title>
       <link>http://localhost:1313/tags/nitrogen/</link>
       <pubDate>Mon, 13 Apr 2020 21:19:03 +0100</pubDate>
@@ -263,6 +272,15 @@
       <pubDate>Mon, 13 Apr 2020 21:19:03 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/nutrients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Positive Action</title>
+      <link>http://localhost:1313/tags/positive-action/</link>
+      <pubDate>Mon, 13 Apr 2020 21:19:03 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/positive-action/</guid>
       <description></description>
     </item>
     

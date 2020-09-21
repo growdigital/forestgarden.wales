@@ -22,5 +22,8 @@ I have one [pollarded](https://en.wikipedia.org/wiki/Pollarding) [White Mulberry
 * It’s best as a spring crop
 * Give it a go and report back
 * Make sure to feed it nitrogen, either with a nitrogen-rich mulch or with a [nitrogen fixing plant](https://pfaf.org/user/cmspage.aspx?pageid=346) nearby
+* Rotate them for cropping, to prevent tree getting exhausted
 
 I also learned that [American Basswood](https://pfaf.org/user/Plant.aspx?LatinName=Tilia+americana) (Tilia americana) can be used in the same way but has much bigger leaves. So, I might have to buy yet another tree! 
+
+Thank you everyone for your suggestions 🙂
