@@ -14,6 +14,24 @@
     
     
     <item>
+      <link>http://localhost:1313/status/200925-windbreaks/</link>
+      <title>Windbreak species spreadsheet</title>
+      <pubDate>Fri, 25 Sep 2020 12:53:47 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200925-windbreaks/</guid>
+      <description>PFAF have a brilliant resource, a full list of species suitable for a windbreak.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/200923-practical/</link>
+      <title>Practical</title>
+      <pubDate>Wed, 23 Sep 2020 19:22:24 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/200923-practical/</guid>
+      <description>Practical beauty and usable elegance #ForestGarden</description>
+    </item>
+    
+    <item>
       <link>http://localhost:1313/status/200909-conceit/</link>
       <title>Conceit</title>
       <pubDate>Wed, 09 Sep 2020 14:15:32 +0100</pubDate>

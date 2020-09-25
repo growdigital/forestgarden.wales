@@ -23,6 +23,7 @@ Articles for reference. Short URLs, concise info 🙂 💚 🌳
 * **Dead hedge**: for protection & habitat [forestgarden.wales/dead-hedge](/dead-hedge/)
 * **Definition**: forest garden definition [forestgarden.wales/definition](/definition/)  
 Also see slideshow definition: [forestgarden.wales/talks/definition](/talks/definition)
+* **Diversity**: notes for positive action to improve diversity of forest gardeners [forestgarden.wales/diversity](/diversity/)
 * **Estimate**: approximate time & money estimates [forestgarden.wales/estimate](/estimate/) 
 * **Ground cover**: preparation guide [forestgarden.wales/ground-cover](/ground-cover/)
 * **Hosta**: best species for eating [forestgarden.wales/hostas](/hostas/)

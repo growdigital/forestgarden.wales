@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/status/200925-windbreaks/</loc>
+    <lastmod>2020-09-25T12:53:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status/200923-practical/</loc>
+    <lastmod>2020-09-23T19:22:24+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200909-conceit/</loc>
     <lastmod>2020-09-09T14:15:32+01:00</lastmod>
   </url>
