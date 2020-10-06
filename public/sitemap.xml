@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/tags/data/</loc>
+    <lastmod>2020-10-06T09:21:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/pfaf/</loc>
+    <lastmod>2020-10-06T09:21:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/plants/</loc>
+    <lastmod>2020-10-06T09:21:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/spreadsheets/</loc>
+    <lastmod>2020-10-06T09:21:10+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200926-videos/</loc>
     <lastmod>2020-09-26T19:35:39+01:00</lastmod>
   </url>
