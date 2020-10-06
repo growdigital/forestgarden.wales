@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/walkthroughs/</loc>
+    <lastmod>2020-10-06T19:22:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/article/</loc>
+    <lastmod>2020-10-06T09:21:10+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/data/</loc>
     <lastmod>2020-10-06T09:21:10+01:00</lastmod>
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2020-10-06T09:21:10+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/pfaf/</loc>
+    <lastmod>2020-10-06T09:21:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/plan/</loc>
     <lastmod>2020-10-06T09:21:10+01:00</lastmod>
   </url>
   
@@ -19,6 +39,11 @@
   
   <url>
     <loc>http://localhost:1313/spreadsheets/</loc>
+    <lastmod>2020-10-06T09:21:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-10-06T09:21:10+01:00</lastmod>
   </url>
   
@@ -43,17 +68,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2020-09-09T11:51:27+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/tags/perennialveg/</loc>
-    <lastmod>2020-09-09T11:51:27+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-09-09T11:51:27+01:00</lastmod>
   </url>
   
@@ -218,11 +233,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/article/</loc>
-    <lastmod>2020-06-20T08:48:10+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/protection/</loc>
     <lastmod>2020-06-20T08:48:10+01:00</lastmod>
   </url>
@@ -324,11 +334,6 @@
   
   <url>
     <loc>http://localhost:1313/blog/lockdown-livestream-launch-may-2020/</loc>
-    <lastmod>2020-05-30T08:49:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/plan/</loc>
     <lastmod>2020-05-30T08:49:28+01:00</lastmod>
   </url>
   
