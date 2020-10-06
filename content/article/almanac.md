@@ -16,29 +16,47 @@ draft: false
 
 Jobs for the forest garden year, a work in progress 🙂
 
-## January
+## January
 
+* Prune hedges & lower branches
 * Plant bare root trees
 * Build dead hedges
 
 ## February
 
+
 ## March
+
+* Plant ground cover
 
 ## April
 
-## May
+## May
 
-## June
+## June
+
+* Mulch turf with cardboard
 
 ## July
 
 ## August
 
-## September
+## September
+
+* Plant ground cover
 
 ## October
 
-## November
+* Plant ground cover
 
-## December
+## November
+
+* Prune hedges & lower branches
+* Plant bare root trees
+* Build dead hedges
+
+## December
+
+* Prune hedges & lower branches
+* Plant bare root trees
+* Build dead hedges
