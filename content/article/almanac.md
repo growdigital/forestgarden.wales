@@ -21,9 +21,9 @@ Jobs for the forest garden year, a work in progress 🙂
 * Plant bare root trees
 * Build dead hedges
 
-## February 
+## February
 
-## March
+## March
 
 ## April
 
@@ -33,7 +33,7 @@ Jobs for the forest garden year, a work in progress 🙂
 
 ## July
 
-## August 
+## August
 
 ## September
 
