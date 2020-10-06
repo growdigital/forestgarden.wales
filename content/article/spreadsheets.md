@@ -19,6 +19,12 @@ draft: false
 
 [Plants For A Future](https://pfaf.org/) is a brilliant online database of useful plants, invaluable for forest gardeners. They also have a lot of additional information in articles and tables. I have taken some of this data to create **sortable spreadsheets**, which means you can list plants by different characteristics.
 
+## Sortable spreadsheets
+
+* **[Windbreak species](https://bit.ly/windbreak-spreadsheet)** from [PFAF](https://pfaf.org/user/cmspage.aspx?pageid=248)
+* **[Ground cover species](https://bit.ly/ground-cover-spreadsheet)** from [PFAF](https://pfaf.org/user/cmspage.aspx?pageid=261)
+* **[Native species for a Tapestry Lawn](https://bit.ly/tapestry-lawn-natives)** from the book [Tapestry Lawns](https://www.routledge.com/Tapestry-Lawns-Freed-from-Grass-and-Full-of-Flowers-1st-Edition/Smith/p/book/9780367144036) by [Lionel Smith](https://www.grassfreelawns.co.uk/index.html)
+
 ## How to sort a spreadsheet
 
 ![Screenshot of sort dialog](https://res.cloudinary.com/growdigital/image/upload/v1601035154/screenshot-sort-windbreak-spreadsheet.png)
@@ -30,8 +36,4 @@ draft: false
 5. Choose your sort columns
 6. `Sort`!
 
-## Sortable spreadsheets
-
-* **[Windbreak species](https://bit.ly/windbreak-spreadsheet)** from [PFAF](https://pfaf.org/user/cmspage.aspx?pageid=248)
-* **[Ground cover species](https://bit.ly/ground-cover-spreadsheet)** from [PFAF](https://pfaf.org/user/cmspage.aspx?pageid=261)
-* **[Native species for a Tapestry Lawn](https://bit.ly/tapestry-lawn-natives)** from the book [Tapestry Lawns](https://www.routledge.com/Tapestry-Lawns-Freed-from-Grass-and-Full-of-Flowers-1st-Edition/Smith/p/book/9780367144036) by [Lionel Smith](https://www.grassfreelawns.co.uk/index.html)
+Any suggestions for other sortable tables, just let me know <hello@forestgarden.wales>
