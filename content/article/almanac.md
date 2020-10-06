@@ -14,7 +14,7 @@ gallery: false
 draft: false
 ---
 
-Jobs for the forest garden year 🙂
+Jobs for the forest garden year, a work in progress 🙂
 
 ## January
 
