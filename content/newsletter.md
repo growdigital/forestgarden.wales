@@ -14,10 +14,9 @@ draft: false
 
 Sign up to the Forest Garden Wales newsletter for these amazing benefits:
 
-* Limited Monthly Great Seed Giveaway!
-* Forest garden news about twice a month
-* Upcoming talks & events
-* Sneak access to free “mini-courses”
+* Weekly forest garden news
+* Details of Wednesday’s Forest Garden Livestream
+* Sneak access to upcoming projects & random giveaways
 
 No name required, just pop your email in the box and click Subscribe.
 
@@ -31,4 +30,4 @@ No name required, just pop your email in the box and click Subscribe.
   <input type="hidden" name="mc_signupsource" value="hosted">
 </form>
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1544305937/bunias-orientalis-44382668732.jpg" alt="Greenish bobbly seeds in envelope" caption="Turkish Rocket seeds, possibly part of the Monthly Great Seed Giveaway!" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1544305937/bunias-orientalis-44382668732.jpg" alt="Greenish bobbly seeds in envelope" caption="Turkish Rocket seeds" >}}
