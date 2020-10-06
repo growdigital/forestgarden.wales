@@ -2273,17 +2273,17 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/climate-emergency/</loc>
-    <lastmod>2019-04-19T14:42:46+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/tags/climateaction/</loc>
     <lastmod>2019-04-19T14:42:46+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/climatechange/</loc>
+    <lastmod>2019-04-19T14:42:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/emergency/</loc>
     <lastmod>2019-04-19T14:42:46+01:00</lastmod>
   </url>
   

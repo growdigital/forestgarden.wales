@@ -1,5 +1,5 @@
 ---
-title: Climate Emergency
+title: Emergency
 date: 2019-04-19T14:42:46+01:00
 description: A forest garden works with nature to grow edible crops, which is why it’s good for combatting Climate Emergency and Mass Extinction. Here are 11 reasons why.
 tags: 
