@@ -22,6 +22,15 @@ The [ForestGardenGallery.uk](https://forestgardengallery.uk/) is a gallery of fo
 
 The purpose is to show what the plants look like, what different forest gardens look like and what plants work well together.
 
+The galleries are:
+
+1. Plants
+2. Forest gardens
+3. Polycultures
+4. Features
+5. Wild flowers
+6. Wildlife
+
 The photos are all licensed under the [Creative Commons](https://creativecommons.org/) [Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. This means that they can be shared and adapted, so long as attribution is given and it’s not for commercial purposes.
 
 ## Finding photos

@@ -40,6 +40,7 @@ Also see slideshow definition: [forestgarden.wales/talks/definition](/talks/defi
 * **Spreadsheets**: Sortable spreadsheets to find plants easily [forestgarden.wales/spreadhseets](/spreadsheets/)
 * **Survey**: checklist for survey observations [forestgarden.wales/survey/](/survey/)
 * **Top 10 Perennial Veg**: [forestgarden.wales/top-10-perennial-veg](/top-10-perennial-veg/)
+* **Walkthroughs**: practical videos for The Backyard Forest course [forestgarden.wales/walkthroughs](/walkthroughs/)
 * **Wildflower**: useful wildflower links [forestgarden.wales/wildflower](/wildflower/)
 * **Wildlife features**: [forestgarden.wales/wildlife-features](wildlife-features)
 * **Windbreak**: Tips on planting a windbreak hedge [forestgarden.wales/windbreak](/windbreak/)
