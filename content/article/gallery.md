@@ -1,7 +1,7 @@
 ---
 title: Gallery
 date: 2020-10-07T11:44:06+01:00
-description: Resources for finding Creative Commons forest garden photos 
+description: Forest Garden Gallery description plus resources for finding Creative Commons photos 
 tags: 
 - ForestGarden
 - ForestGardenGallery
