@@ -18,7 +18,8 @@ Articles for reference. Short URLs, concise info 🙂 💚 🌳
 
 * **Chop ‘n’ drop**: mulching [forestgarden.wales/chop-n-drop](/chop-n-drop/)
 * **Clay lined pond**: tips on making [forestgarden.wales/clay-lined-pond](/clay-lined-pond)
-* **Comfrey**: 4 ways to use comfrey as fertiliser [forestgarden.wales](/comfrey/)
+* **Comfrey**: 4 ways to use comfrey as fertiliser [forestgarden.wales/comfrey](/comfrey/)
+* **Conduct**: Forest Garden Wales’ Code of Conduct [forestgarden.wales/conduct](/conduct/)
 * **Dead hedge**: for protection & habitat [forestgarden.wales/dead-hedge](/dead-hedge/)
 * **Definition**: forest garden definition [forestgarden.wales/definition](/definition/)  
 Also see slideshow definition: [forestgarden.wales/talks/definition](/talks/definition)
