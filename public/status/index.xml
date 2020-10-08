@@ -14,6 +14,24 @@
     
     
     <item>
+      <link>http://localhost:1313/status/201008-quince/</link>
+      <title>Quince</title>
+      <pubDate>Thu, 08 Oct 2020 10:06:33 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/201008-quince/</guid>
+      <description>Johann Kuntz recommended Chaenomeles cathayensis on Edimentals Facebook group as best fruiting ornamental quince.</description>
+    </item>
+    
+    <item>
+      <link>http://localhost:1313/status/201008-pesticide-ban/</link>
+      <title>Pesticide ban</title>
+      <pubDate>Thu, 08 Oct 2020 10:04:26 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/status/201008-pesticide-ban/</guid>
+      <description>Pesticide ban in Ontario, Canada is example of successful local environmental action. Helen Battersby interviewed on Growing Greener by Thomas Christopher.</description>
+    </item>
+    
+    <item>
       <link>http://localhost:1313/status/200926-videos/</link>
       <title>Videos</title>
       <pubDate>Sat, 26 Sep 2020 19:35:39 +0100</pubDate>
