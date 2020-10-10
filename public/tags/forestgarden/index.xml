@@ -9,10 +9,56 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Tue, 06 Oct 2020 09:21:10 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2020 15:39:26 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reservoir</title>
+      <link>http://localhost:1313/reservoir/</link>
+      <pubDate>Sat, 10 Oct 2020 15:39:26 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/reservoir/</guid>
+      <description>Martin Crawford has information about creating a reservoir in Agroforestry News vol 23 no.</description>
+    </item>
+    
+    <item>
+      <title>Conduct</title>
+      <link>http://localhost:1313/conduct/</link>
+      <pubDate>Thu, 08 Oct 2020 10:56:36 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/conduct/</guid>
+      <description>Citizen Code of Conduct 1. Purpose A primary goal of Forest Garden Wales is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible.</description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>http://localhost:1313/gallery/</link>
+      <pubDate>Wed, 07 Oct 2020 11:44:06 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/gallery/</guid>
+      <description>The ForestGardenGallery.uk is a gallery of forest garden photographs of individual plants, examples of individual forest gardens and different polyculture combinations.</description>
+    </item>
+    
+    <item>
+      <title>Almanac</title>
+      <link>http://localhost:1313/almanac/</link>
+      <pubDate>Tue, 06 Oct 2020 20:15:49 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/almanac/</guid>
+      <description>Jobs for the forest garden year, a work in progress 🙂
+Autumn  Plant ground cover  Winter  Prune hedges &amp;amp; lower branches Plant bare root trees Build dead hedges  Spring  Plant ground cover  Summer  Mulch turf with cardboard  </description>
+    </item>
+    
+    <item>
+      <title>Walkthroughs</title>
+      <link>http://localhost:1313/walkthroughs/</link>
+      <pubDate>Tue, 06 Oct 2020 19:22:27 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/walkthroughs/</guid>
+      <description>Here is a list of all the practical walkthrough videos that I have planned for my online course The Backyard Forest.</description>
+    </item>
     
     <item>
       <title>Spreadsheets</title>
