@@ -36,6 +36,7 @@ Also see slideshow definition: [forestgarden.wales/talks/definition](/talks/defi
 * **Perennial veg alternatives**: to annual veg [forestgarden.wales/perennial-veg-alternatives](/perennial-veg-alternatives/)
 * **Protection**: protect & your plants will thrive! [forestgarden.wales/protection](/protection/)
 * **Recommended**: books, suppliers & websites [forestgarden.wales/recommended](/recommended/)
+* **Reservoir**: reference for Martin Crawford’s reservoir [forestgarden.wales/reservoir](/reservoir/)
 * **Rootstock**: fruit tree rootstock reference [forestgarden.wales/rootstock](/rootstock/)
 * **Spacing**: calculating the space between trees [forestgarden.wales/spacing](/spacing/)
 * **Spreadsheets**: Sortable spreadsheets to find plants easily [forestgarden.wales/spreadhseets](/spreadsheets/)

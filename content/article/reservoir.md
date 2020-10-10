@@ -1,7 +1,7 @@
 ---
 title: Reservoir
 date: 2020-10-10T15:39:26+01:00
-description: Reference for constructing Martin Crawford’s reservoir
+description: Reference for constructing Martin Crawford’s gravity filtered reservoir
 tags: 
 - ForestGarden
 images: 
