@@ -18,7 +18,7 @@ Here is a list of all the practical walkthrough videos that I have planned for m
 
 1. [Create a CAD map from satellite photo](https://youtu.be/ACWqtyH84Jw)
 2. Make a paper map from measurements
-3. Make a paper map from satellite photo
+3. [Make a paper map from satellite photo](https://www.youtube.com/watch?v=erTzPDIJeUA)
 4. Create an online map with Scribble Maps
 5. List site observations
 6. List wildlife observations
