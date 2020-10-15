@@ -16,32 +16,33 @@ draft: false
 
 Here is a list of all the practical walkthrough videos that I have planned for my online course [The Backyard Forest](https://www.udemy.com/course/plan-backyard-forest/?referralCode=B0786AC13E84ADE5502B). Recorded videos are linked.
 
-1. [Create a CAD map from satellite photo](https://youtu.be/ACWqtyH84Jw)
-2. Make a paper map from measurements
-3. [Make a paper map from satellite photo](https://www.youtube.com/watch?v=erTzPDIJeUA)
-4. Create an online map with Scribble Maps
-5. List site observations
-6. List wildlife observations
-7. Make a features wishlist
-8. Make a plants wishlist
-9. Use the planning checklist
-10. Use Sun Surveyor to determine aspect
-11. Soil sample sausage test
-12. Soil sample jar test
-13. Add observations to map
-14. Add features wishlist
-15. Add plants wishlist
-16. Mark paths
-17. Make a dead hedge
-18. Plant windbreaks
-19. Plant a tree
-20. Clear ground with cardboard mulch
-21. Clear ground with woven sheet mulch
-22. Clear ground by manual deturfing
-23. Propagate by layering
-24. Propagate hardwood cuttings
-25. Propagate softwood cuttings
-26. Propagate by division
-27. Planting 4-step process
-28. Chop 'n' drop mulching
-29. Scissor weeding
+1. [Create a CAD map from satellite photo]()
+2. [Create a CAD map from online street map](https://youtu.be/ACWqtyH84Jw)
+3. [Print a paper map from online street map](https://www.youtube.com/watch?v=erTzPDIJeUA)
+4. Make a paper map from measurements
+5. Create an online map with Scribble Maps
+6. List site observations
+7. List wildlife observations
+8. Make a features wishlist
+9. Make a plants wishlist
+10. Use the planning checklist
+11. Use Sun Surveyor to determine aspect
+12. Soil sample sausage test
+13. Soil sample jar test
+14. Add observations to map
+15. Add features wishlist
+16. Add plants wishlist
+17. Mark paths
+18. Make a dead hedge
+19. Plant windbreaks
+20. Plant a tree
+21. Clear ground with cardboard mulch
+22. Clear ground with woven sheet mulch
+23. Clear ground by manual deturfing
+24. Propagate by layering
+25. Propagate hardwood cuttings
+26. Propagate softwood cuttings
+27. Propagate by division
+28. Planting 4-step process
+29. Chop 'n' drop mulching
+30. Scissor weeding
