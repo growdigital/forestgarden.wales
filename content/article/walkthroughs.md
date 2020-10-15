@@ -16,9 +16,9 @@ draft: false
 
 Here is a list of all the practical walkthrough videos that I have planned for my online course [The Backyard Forest](https://www.udemy.com/course/plan-backyard-forest/?referralCode=B0786AC13E84ADE5502B). Recorded videos are linked.
 
-1. [Create a CAD map from satellite photo]()
+1. [Create a CAD map from satellite photo](https://youtu.be/wuGNDM-DG8I)
 2. [Create a CAD map from online street map](https://youtu.be/ACWqtyH84Jw)
-3. [Print a paper map from online street map](https://www.youtube.com/watch?v=erTzPDIJeUA)
+3. [Print a paper map from online street map](https://youtu.be/erTzPDIJeUA)
 4. Make a paper map from measurements
 5. Create an online map with Scribble Maps
 6. List site observations
