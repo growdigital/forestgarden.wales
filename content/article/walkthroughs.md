@@ -32,17 +32,18 @@ Here is a list of all the practical walkthrough videos that I have planned for m
 14. Add observations to map
 15. Add features wishlist
 16. Add plants wishlist
-17. Mark paths
-18. Make a dead hedge
-19. Plant windbreaks
-20. Plant a tree
-21. Clear ground with cardboard mulch
-22. Clear ground with woven sheet mulch
-23. Clear ground by manual deturfing
-24. Propagate by layering
-25. Propagate hardwood cuttings
-26. Propagate softwood cuttings
-27. Propagate by division
-28. Planting 4-step process
-29. Chop 'n' drop mulching
-30. Scissor weeding
+17. Designing with layers
+18. Mark paths
+19. Make a dead hedge
+20. Plant windbreaks
+21. Plant a tree
+22. Clear ground with cardboard mulch
+23. Clear ground with woven sheet mulch
+24. Clear ground by manual deturfing
+25. Propagate by layering
+26. Propagate hardwood cuttings
+27. Propagate softwood cuttings
+28. Propagate by division
+29. Planting 4-step process
+30. Chop 'n' drop mulching
+31. Scissor weeding
