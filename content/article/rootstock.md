@@ -42,6 +42,6 @@ This is the best [rootstock diagram](https://res.cloudinary.com/growdigital/imag
   * Apple: **M25**
   * Pear: **Pyrus communis**, **Pyrus Kirchensaller**
   * Cherry: **F.12.1**
-  * Plum: **Brompton**
+  * Plum: **Brompton**, **Myrobolan**
 
 More detailed description on [Orange Pippin Fruit Trees](https://www.orangepippintrees.co.uk/articles/fruit-tree-rootstock-tree-sizes)
