@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/tags/cover/</loc>
+    <lastmod>2020-11-09T12:37:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/livestream-20111-ground-cover/</loc>
+    <lastmod>2020-11-09T12:37:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/newsletter/</loc>
+    <lastmod>2020-11-09T12:37:09+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/201109-mashua/</loc>
     <lastmod>2020-11-09T11:28:10+00:00</lastmod>
   </url>
