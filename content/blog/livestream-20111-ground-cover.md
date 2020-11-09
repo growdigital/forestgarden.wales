@@ -1,7 +1,7 @@
 ---
 title: Livestream — Planting Ground Cover
 date: 2020-11-09T12:37:09Z
-description: Out in the forest garden this week, planting up some ground cover. I’ll show you the steps 🙂
+description: Wed 11 Nov 10am GMT, out in the forest garden this week, planting up some ground cover. I’ll show you the steps 🙂
 tags: 
 - ForestGarden
 - Livestream
@@ -16,10 +16,10 @@ imageCap:
 draft: false
 ---
 
-## Forest Garden Livestream
+## [Forest Garden Livestream](https://www.twitch.tv/forestgardenwales/)
 ### _Wednesday 11th November, 10am GMT_
 
-On [this Wednesday’s livestream](https://www.twitch.tv/forestgardenwales), I’ll be out in the forest garden in the new perennial veg area, planting out some ground cover plants. I’ll show you how to use bark mulch and sow a temporary green manure ground cover of White Mustard. Afterwards, there’ll be an [informal Zoom Q&A](https://us04web.zoom.us/j/78978308941?pwd=N29yVVNhRVJ0Q2sxR2lCVFc4Vng0QT09).
+On [this Wednesday’s livestream](https://www.twitch.tv/forestgardenwales/), I’ll be out in the forest garden in the new perennial veg area, planting out some ground cover plants. I’ll show you how to use bark mulch and sow a temporary green manure ground cover of White Mustard. Afterwards, there’ll be an [informal Zoom Q&A](https://us04web.zoom.us/j/78978308941?pwd=N29yVVNhRVJ0Q2sxR2lCVFc4Vng0QT09).
 
 ### Livestream
 
