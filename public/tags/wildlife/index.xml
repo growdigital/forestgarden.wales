@@ -9,11 +9,7 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Mon, 04 May 2020 20:56:19 +0100</lastBuildDate>
-    
-	<atom:link href="http://localhost:1313/tags/wildlife/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 04 May 2020 20:56:19 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/wildlife/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wildlife Forest Garden May 2020</title>
       <link>http://localhost:1313/blog/wildlife-forest-garden-may-2020/</link>

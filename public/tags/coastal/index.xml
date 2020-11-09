@@ -9,11 +9,7 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Thu, 31 Jan 2019 21:55:08 +0000</lastBuildDate>
-    
-	<atom:link href="http://localhost:1313/tags/coastal/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 31 Jan 2019 21:55:08 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/coastal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windbreak hedges for an exposed coastal site</title>
       <link>http://localhost:1313/blog/windbreak-hedges-exposed-coastal-site/</link>

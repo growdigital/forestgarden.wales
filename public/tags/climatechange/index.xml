@@ -9,11 +9,7 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Fri, 19 Apr 2019 14:42:46 +0100</lastBuildDate>
-    
-	<atom:link href="http://localhost:1313/tags/climatechange/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 19 Apr 2019 14:42:46 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/climatechange/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why a forest garden is good for climate change</title>
       <link>http://localhost:1313/blog/forest-garden-good-for-climate-change/</link>

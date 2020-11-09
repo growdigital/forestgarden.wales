@@ -9,11 +9,7 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Sun, 06 Oct 2019 12:57:49 +0100</lastBuildDate>
-    
-	<atom:link href="http://localhost:1313/tags/gdnbloggers/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 06 Oct 2019 12:57:49 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/gdnbloggers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hawthorn all the way</title>
       <link>http://localhost:1313/blog/hawthorn-all-the-way/</link>

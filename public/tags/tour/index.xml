@@ -9,11 +9,7 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Tue, 05 Mar 2019 20:00:37 +0000</lastBuildDate>
-    
-	<atom:link href="http://localhost:1313/tags/tour/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 05 Mar 2019 20:00:37 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tour/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our forest garden tours &amp; workshops setup</title>
       <link>http://localhost:1313/blog/forest-garden-tours-workshops-setup/</link>

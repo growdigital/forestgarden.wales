@@ -9,11 +9,7 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Mon, 04 Mar 2019 20:09:24 +0000</lastBuildDate>
-    
-	<atom:link href="http://localhost:1313/tags/ofg/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 04 Mar 2019 20:09:24 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ofg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leave space</title>
       <link>http://localhost:1313/blog/leave-space/</link>

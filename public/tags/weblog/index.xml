@@ -9,11 +9,7 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Wed, 03 Apr 2019 21:09:41 +0100</lastBuildDate>
-    
-	<atom:link href="http://localhost:1313/tags/weblog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 03 Apr 2019 21:09:41 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/weblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy graft</title>
       <link>http://localhost:1313/blog/easy-graft/</link>

@@ -98,11 +98,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/plan/</loc>
-    <lastmod>2020-10-06T09:21:10+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/tags/plants/</loc>
     <lastmod>2020-10-06T09:21:10+01:00</lastmod>
   </url>
@@ -403,6 +398,11 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/plan/</loc>
+    <lastmod>2020-05-30T08:49:28+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/200529-symptom/</loc>
     <lastmod>2020-05-29T16:24:52+01:00</lastmod>
   </url>
@@ -524,11 +524,6 @@
   
   <url>
     <loc>http://localhost:1313/tags/native/</loc>
-    <lastmod>2020-05-04T20:56:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/wild/</loc>
     <lastmod>2020-05-04T20:56:19+01:00</lastmod>
   </url>
   
@@ -1388,11 +1383,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/pollinator/</loc>
-    <lastmod>2019-12-17T23:57:30+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/tags/pollinators/</loc>
     <lastmod>2019-12-17T23:57:30+00:00</lastmod>
   </url>
@@ -2053,11 +2043,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/community/</loc>
-    <lastmod>2019-06-18T10:52:21+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/tags/communityfoodforest/</loc>
     <lastmod>2019-06-18T10:52:21+01:00</lastmod>
   </url>
@@ -2170,6 +2155,11 @@
   <url>
     <loc>http://localhost:1313/status/190517-ferns/</loc>
     <lastmod>2019-05-17T13:00:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/community/</loc>
+    <lastmod>2019-05-16T17:56:15+01:00</lastmod>
   </url>
   
   <url>
@@ -2434,6 +2424,11 @@
   
   <url>
     <loc>http://localhost:1313/tags/beefriendly/</loc>
+    <lastmod>2019-04-03T10:17:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/pollinator/</loc>
     <lastmod>2019-04-03T10:17:38+01:00</lastmod>
   </url>
   
@@ -4784,6 +4779,11 @@
   
   <url>
     <loc>http://localhost:1313/blog/the-green-tangle/</loc>
+    <lastmod>2018-06-16T13:07:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/wild/</loc>
     <lastmod>2018-06-16T13:07:48+01:00</lastmod>
   </url>
   

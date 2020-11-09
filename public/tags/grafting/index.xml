@@ -9,11 +9,7 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Sat, 09 Feb 2019 08:37:51 +0000</lastBuildDate>
-    
-	<atom:link href="http://localhost:1313/tags/grafting/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 09 Feb 2019 08:37:51 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/grafting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The People’s Orchard Grafting Workshop with Steve Wilson</title>
       <link>http://localhost:1313/blog/grafting-workshop-feb-2019/</link>

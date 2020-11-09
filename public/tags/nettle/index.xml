@@ -9,11 +9,7 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Sat, 14 Jul 2018 10:45:51 +0100</lastBuildDate>
-    
-	<atom:link href="http://localhost:1313/tags/nettle/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 14 Jul 2018 10:45:51 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/nettle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nettle soup</title>
       <link>http://localhost:1313/blog/nettle-soup/</link>
