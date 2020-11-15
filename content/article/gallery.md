@@ -55,7 +55,9 @@ There are about 3½ thousand photos to research, collect & upload, which is way 
 
 The process of collecting photographs can be divied into 2: the research and the editing.
 
-### 1. Research
+## 1. Research
+
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1602149046/chaenomeles-cathayensis-fruit.jpg" alt="Quince fruit on the branch" caption="Chinese Quince on Wikimedia, photo by Pancrat" >}}
 
 1. Focus on the specific plant you’re looking for in the [Forest Garden Gallery checklist bit.ly/fgg-check](https://bit.ly/fgg-check).
 2. Write a brief description of the plant, giving latin name, features and height & diameter eg for Italian Alder: `Alnus cordata. Handles drier conditions than other alders. Nitrogen fixing. Very upright. 25m x 8m.`
@@ -72,7 +74,9 @@ So, this is an example of the text for the Italian Alder:
 > 1. Description: Fully grown tree. Alt text: Tall tree. Author: AnemoneProjectors. Original file: https://commons.wikimedia.org/wiki/File:Alnus_cordata_alder_tree.jpg
 > 5. Description: The speckledy bark of the Italian Alder. Alt text: Closeup of bark. Author: Jake Rayson. Original file: https://res.cloudinary.com/growdigital/image/upload/v1579861496/trunk-E93CEE1A.jpg
 
-### 2. Editing
+## 2. Editing
+
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1605474571/resize-photoshop.jpg" alt="Screenshot of photo in Photoshop" caption="Resizing in Photoshop to 1400 pixels" >}}
 
 1. Add the brief description to the gallery plant album.
 2. Create a folder on your own computer with the plant name eg `Italian Alder`.
