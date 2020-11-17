@@ -24,7 +24,7 @@ This [Wednesday’s livestream](https://www.twitch.tv/forestgardenwales/), I’m
 
 I’ve been collaborating on a spreadsheet of all the plants in Martin Crawford’s [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/), using data from [Plants For A Future](https://pfaf.org/user/Default.aspx) website.
 
-There are about 435 plants, and the idea is to find 8 different photos of each plant (whole plant, without leaves, in situ, seedling, bark, leaf, flower & fruit/nut/seed). That’s 3,480 photos to find 😲!!! So, I’m looking to build up a network of volunteers for this rather mammoth task 🐘.
+There are about 435 plants, and the idea is to find 8 different photos of each plant (leaf, fruit, seedling etc). That’s 3,480 photos to find 😲!!! So, I’m looking to build up a network of volunteers for this rather mammoth task 🐘.
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1605472927/forest-garden-gallery-checklist.png" alt="Screenshot of spreadsheet" caption="The other spreadsheet, the Forest Garden Gallery checklist" >}}
 
