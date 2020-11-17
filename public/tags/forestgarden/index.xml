@@ -9,7 +9,16 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Sat, 10 Oct 2020 15:39:26 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Nov 2020 12:37:09 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Livestream — Planting Ground Cover</title>
+      <link>http://localhost:1313/blog/livestream-20111-ground-cover/</link>
+      <pubDate>Mon, 09 Nov 2020 12:37:09 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/livestream-20111-ground-cover/</guid>
+      <description>Forest Garden Livestream Wednesday 11th November, 10am GMT On this Wednesday’s livestream, I’ll be out in the forest garden in the new perennial veg area, planting out some ground cover plants.</description>
+    </item>
+    
     <item>
       <title>Reservoir</title>
       <link>http://localhost:1313/reservoir/</link>
@@ -34,7 +43,7 @@
       <pubDate>Wed, 07 Oct 2020 11:44:06 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/gallery/</guid>
-      <description>The ForestGardenGallery.uk is a gallery of forest garden photographs of individual plants, examples of individual forest gardens and different polyculture combinations.</description>
+      <description>The ForestGardenGallery.uk is an image gallery of individual forest garden plants. It is organised along the lines of Martin Crawford’s seminal book Creating a Forest Garden, which mentions over 400 different species:</description>
     </item>
     
     <item>

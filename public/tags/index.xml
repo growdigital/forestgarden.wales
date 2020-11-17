@@ -9,13 +9,40 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Sat, 10 Oct 2020 15:39:26 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Nov 2020 12:37:09 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cover</title>
+      <link>http://localhost:1313/tags/cover/</link>
+      <pubDate>Mon, 09 Nov 2020 12:37:09 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/cover/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ForestGarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Sat, 10 Oct 2020 15:39:26 +0100</pubDate>
+      <pubDate>Mon, 09 Nov 2020 12:37:09 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Livestream</title>
+      <link>http://localhost:1313/tags/livestream/</link>
+      <pubDate>Mon, 09 Nov 2020 12:37:09 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/livestream/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Newsletter</title>
+      <link>http://localhost:1313/tags/newsletter/</link>
+      <pubDate>Mon, 09 Nov 2020 12:37:09 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/newsletter/</guid>
       <description></description>
     </item>
     
@@ -106,15 +133,6 @@
       <pubDate>Wed, 15 Jul 2020 12:21:03 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/free/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Livestream</title>
-      <link>http://localhost:1313/tags/livestream/</link>
-      <pubDate>Wed, 15 Jul 2020 12:21:03 +0100</pubDate>
-      <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/tags/livestream/</guid>
       <description></description>
     </item>
     
