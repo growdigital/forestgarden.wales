@@ -38,16 +38,17 @@ There is a spreadsheet [bit.ly/pfaf-crawford-spreadsheet](https://bit.ly/pfaf-cr
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1605472927/forest-garden-gallery-checklist.png" alt="Screenshot of spreadsheet" caption="The forest garden gallery checklist spreadsheet" >}}
 
-There is another spreadsheet [bit.ly/fgg-check](https://bit.ly/fgg-check) of which plants and photos have been added to the gallery. These are the different types of photographs of each plant:
+There is another spreadsheet [bit.ly/fgg-check](https://bit.ly/fgg-check) of which plants and photos have been added to the gallery. Here’s a list of possible photos:
 
-1. Whole plant
-2. Leafless ie in winter if deciduous
-3. In situ, ie in the plant’s natural setting
-4. Seedling plant
-5. Bark
-6. Leaf
-7. Flower
-8. Fruit, seed &/or tuber
+* Whole plant
+* Close-up
+* Leaf
+* Flower
+* Fruit/nut/seed
+* Leafless ie in winter if deciduous
+* In situ, ie in the plant’s natural setting
+* Seedling plant
+* Bark
 
 ## How you can help
 
@@ -56,6 +57,10 @@ There are about 3½ thousand photos to research, collect & upload, which is way 
 The process of collecting photographs can be divied into 2: the research and the editing.
 
 ## 1. Research
+
+If you are helping out with research, you’ll be given a range of plants to research. For each plant, send an email with the details using this link: <a href="mailto:hi@forestgardengallery.grwd.uk?subject=Plant photo details&amp;body=Plant%20name:%20%0aID:%20%0aPFAF%20link:%20%0aPlant%20description:%20%0a%0a---%0a##%20Photo%201%20of%204%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a---%0a##%20Photo%202%20of%204%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a---%0a##%20Photo%203%20of%204%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a---%0a##%20Photo%204%20of%204%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a">Email plant photo details</a>
+
+When I receive the email, I’ll check it off the checklist.
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1602149046/chaenomeles-cathayensis-fruit.jpg" alt="Quince fruit on the branch" caption="Chinese Quince on Wikimedia, photo by Pancrat" >}}
 
