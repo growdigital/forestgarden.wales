@@ -58,7 +58,9 @@ The process of collecting photographs can be divied into 2: the research and the
 
 ## 1. Research
 
-If you are helping out with research, you’ll be given a range of plants to research. For each plant, send an email with the details using this link: <a href="mailto:hi@forestgardengallery.grwd.uk?subject=Plant photo details&amp;body=Plant%20name:%20%0aID:%20%0aPFAF%20link:%20%0aPlant%20description:%20%0a%0a---%0a##%20Photo%201%20of%204%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a---%0a##%20Photo%202%20of%204%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a---%0a##%20Photo%203%20of%204%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a---%0a##%20Photo%204%20of%204%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a">Email plant photo details</a>
+If you are helping out with research, you’ll be given a range of plants to research. For each plant, send an email with the details using this link: 
+
+# <a class="button" href="mailto:hi@forestgardengallery.grwd.uk?subject=Plant photo details&amp;body=Plant%20name:%20%0aID:%20%0aPFAF%20link:%20%0aPlant%20description:%20%0a%0a---%0a##%20Photo%201%20of%204%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a---%0a##%20Photo%202%20of%204%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a---%0a##%20Photo%203%20of%204%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a---%0a##%20Photo%204%20of%204%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a">Email Jake the plant photo details!</a>
 
 When I receive the email, I’ll check it off the checklist.
 
