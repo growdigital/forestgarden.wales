@@ -42,7 +42,7 @@ We’re aiming for four photos for each plant, including in order of importance:
 
 If you are helping out with research, you’ll be given a range of plants to research. For each plant, send an email with the details using this link: 
 
-# <a class="button" href="mailto:hi@forestgardengallery.grwd.uk?subject=Plant photo details&amp;body=Plant%20name:%20%0aPFAF%20link:%20%0aPlant%20description:%20%0a%0a---%0a##%20Photo%201%20%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a---%0a##%20Photo%202%20%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a---%0a##%20Photo%203%20%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a---%0a##%20Photo%204%20%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a---%0a##%20Photo%205%20%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a---%0a##%20Photo%206%20%0aURL:%20%0aAlt%20text:%20%0aCaption:%20%0aAuthor:%20%0a%0aThank%20you!">Email Jake the plant photo details!</a>
+# <a class="button" href="mailto:hi@forestgardengallery.grwd.uk?subject=Plant photo details&amp;body=Plant%20name:%20%0aPFAF%20link:%20%0aPlant%20description:%20%0a%0a---%0a##%20Photo%201%20%0aAlt%20text:%20%0aAuthor:%20%0aCaption:%20%0aURL:%20%0a---%0a##%20Photo%202%20%0aAlt%20text:%20%0aAuthor:%20%0aCaption:%20%0aURL:%20%0a---%0a##%20Photo%203%20%0aAlt%20text:%20%0aAuthor:%20%0aCaption:%20%0aURL:%20%0a---%0a##%20Photo%204%20%0aAlt%20text:%20%0aAuthor:%20%0aCaption:%20%0aURL:%20%0a---%0a##%20Photo%205%20%0aAlt%20text:%20%0aAuthor:%20%0aCaption:%20%0aURL:%20%0a---%0a##%20Photo%206%20%0aAlt%20text:%20%0aAuthor:%20%0aCaption:%20%0aURL:%20%0a%0aThank%20you!">Email Jake the plant photo details!</a>
 
 <br>
 
