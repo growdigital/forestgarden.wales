@@ -25,6 +25,7 @@ draft: false
 * **[Windbreak species](https://bit.ly/windbreak-spreadsheet)** from [PFAF](https://pfaf.org/user/cmspage.aspx?pageid=248)
 * **[Ground cover species](https://bit.ly/ground-cover-spreadsheet)** from [PFAF](https://pfaf.org/user/cmspage.aspx?pageid=261)
 * **[Native species for a Tapestry Lawn](https://bit.ly/tapestry-lawn-natives)** from the book [Tapestry Lawns](https://www.routledge.com/Tapestry-Lawns-Freed-from-Grass-and-Full-of-Flowers-1st-Edition/Smith/p/book/9780367144036) by [Lionel Smith](https://www.grassfreelawns.co.uk/index.html)
+* **[Apple varieties](https://bit.ly/apple-spreadsheet)** by Chris Day
 
 ## How to sort a spreadsheet
 
