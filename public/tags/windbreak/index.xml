@@ -9,7 +9,16 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Sat, 20 Jun 2020 08:48:10 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/windbreak/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Dec 2020 11:30:17 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/windbreak/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mostly native</title>
+      <link>http://localhost:1313/blog/mostly-native/</link>
+      <pubDate>Thu, 31 Dec 2020 11:30:17 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/mostly-native/</guid>
+      <description>On part of the eco-homes project I’m landscaping, there’s a 2m high clay and shale bank.</description>
+    </item>
+    
     <item>
       <title>Protection</title>
       <link>http://localhost:1313/protection/</link>

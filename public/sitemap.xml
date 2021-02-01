@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2020-12-31T11:30:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/hedge/</loc>
+    <lastmod>2020-12-31T11:30:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/mostly-native/</loc>
+    <lastmod>2020-12-31T11:30:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/native/</loc>
+    <lastmod>2020-12-31T11:30:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2020-12-31T11:30:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/windbreak/</loc>
+    <lastmod>2020-12-31T11:30:17+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/status/201212-language/</loc>
     <lastmod>2020-12-12T15:00:58+00:00</lastmod>
   </url>
@@ -23,22 +53,12 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2020-11-19T14:24:24+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/tags/forestgardengallery/</loc>
     <lastmod>2020-11-19T14:24:24+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/photos/</loc>
-    <lastmod>2020-11-19T14:24:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-11-19T14:24:24+00:00</lastmod>
   </url>
   
@@ -343,11 +363,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/windbreak/</loc>
-    <lastmod>2020-06-20T08:48:10+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/status/200617-propagation/</loc>
     <lastmod>2020-06-17T14:53:11+01:00</lastmod>
   </url>
@@ -565,11 +580,6 @@
   <url>
     <loc>http://localhost:1313/blog/lockdown-livestream-wildlife-may-2020/</loc>
     <lastmod>2020-05-06T12:50:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/native/</loc>
-    <lastmod>2020-05-04T20:56:19+01:00</lastmod>
   </url>
   
   <url>

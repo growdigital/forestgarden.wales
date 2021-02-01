@@ -9,13 +9,40 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Thu, 19 Nov 2020 14:24:24 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Dec 2020 11:30:17 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ForestGarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Thu, 19 Nov 2020 14:24:24 +0000</pubDate>
+      <pubDate>Thu, 31 Dec 2020 11:30:17 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/forestgarden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hedge</title>
+      <link>http://localhost:1313/tags/hedge/</link>
+      <pubDate>Thu, 31 Dec 2020 11:30:17 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/hedge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Native</title>
+      <link>http://localhost:1313/tags/native/</link>
+      <pubDate>Thu, 31 Dec 2020 11:30:17 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/native/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windbreak</title>
+      <link>http://localhost:1313/tags/windbreak/</link>
+      <pubDate>Thu, 31 Dec 2020 11:30:17 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/tags/windbreak/</guid>
       <description></description>
     </item>
     
@@ -155,15 +182,6 @@
     </item>
     
     <item>
-      <title>Windbreak</title>
-      <link>http://localhost:1313/tags/windbreak/</link>
-      <pubDate>Sat, 20 Jun 2020 08:48:10 +0100</pubDate>
-      <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/tags/windbreak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Comfrey</title>
       <link>http://localhost:1313/tags/comfrey/</link>
       <pubDate>Mon, 15 Jun 2020 12:55:40 +0100</pubDate>
@@ -268,15 +286,6 @@
       <pubDate>Mon, 11 May 2020 21:11:42 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
       <guid>http://localhost:1313/tags/survey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Native</title>
-      <link>http://localhost:1313/tags/native/</link>
-      <pubDate>Mon, 04 May 2020 20:56:19 +0100</pubDate>
-      <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/tags/native/</guid>
       <description></description>
     </item>
     

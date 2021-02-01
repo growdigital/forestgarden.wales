@@ -22,8 +22,9 @@ In a forest garden, grow native plants where you can, as they’ve co-evolved wi
 
 Here’s the full list:
 
-* ['Bowles Hybrid' Willow](https://pfaf.org/user/Plant.aspx?LatinName=Salix+%27Bowles+hybrid%27)
-* [Hawthorn](https://pfaf.org/user/plant.aspx?latinname=Crataegus+monogyna)
+* ['Bowles Hybrid' Willow](https://pfaf.org/user/Plant.aspx?LatinName=Salix+%27Bowles+hybrid%27) x20
+* [Holly](https://pfaf.org/user/Plant.aspx?LatinName=Ilex+aquifolium)
+* [Hawthorn](https://pfaf.org/user/plant.aspx?latinname=Crataegus+monogyna) 
 * [Blackthorn](https://pfaf.org/user/Plant.aspx?LatinName=Prunus+spinosa)
 * [Field Maple](https://pfaf.org/user/plant.aspx?latinname=Acer+campestre)
 * [Hazel](https://pfaf.org/user/plant.aspx?latinname=Corylus+avellana)

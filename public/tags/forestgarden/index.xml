@@ -9,7 +9,16 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Thu, 19 Nov 2020 14:24:24 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Dec 2020 11:30:17 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mostly native</title>
+      <link>http://localhost:1313/blog/mostly-native/</link>
+      <pubDate>Thu, 31 Dec 2020 11:30:17 +0000</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/blog/mostly-native/</guid>
+      <description>On part of the eco-homes project I’m landscaping, there’s a 2m high clay and shale bank.</description>
+    </item>
+    
     <item>
       <title>Photos</title>
       <link>http://localhost:1313/photos/</link>
