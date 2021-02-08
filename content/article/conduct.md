@@ -1,7 +1,7 @@
 ---
 title: Conduct
 date: 2020-10-08T10:56:36+01:00
-description: Code of Conduct for all Forest Garden Wales courses and WhatsApp groups
+description: Code of Conduct for all Forest Garden Wales courses and social media groups
 tags: 
 - ForestGarden
 images: 
