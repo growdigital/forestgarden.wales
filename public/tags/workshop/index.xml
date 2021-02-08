@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshop on Forest Garden Wales</title>
-    <link>http://localhost:1313/tags/workshop/</link>
+    <link>http://localhost:61541/tags/workshop/</link>
     <description>Recent content in Workshop on Forest Garden Wales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Sat, 02 May 2020 09:32:31 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 May 2020 09:32:31 +0100</lastBuildDate><atom:link href="http://localhost:61541/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perennial Veg workshop April 2020</title>
-      <link>http://localhost:1313/blog/perennial-veg-workshop-april-2020/</link>
+      <link>http://localhost:61541/blog/perennial-veg-workshop-april-2020/</link>
       <pubDate>Sat, 02 May 2020 09:32:31 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/blog/perennial-veg-workshop-april-2020/</guid>
+      <guid>http://localhost:61541/blog/perennial-veg-workshop-april-2020/</guid>
       <description>As part of my weekly, free, lockdown special livestreams, last Wednesday 29th April, I talked about perennial vegetables and their place in the forest garden.</description>
     </item>
     
     <item>
       <title>Forest Garden Design Workshop April 2020</title>
-      <link>http://localhost:1313/blog/forest-garden-design-workshop-april-2020/</link>
+      <link>http://localhost:61541/blog/forest-garden-design-workshop-april-2020/</link>
       <pubDate>Wed, 22 Apr 2020 13:37:27 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/blog/forest-garden-design-workshop-april-2020/</guid>
+      <guid>http://localhost:61541/blog/forest-garden-design-workshop-april-2020/</guid>
       <description>Today’s livestream workshop on Forest Garden Design seemed to go okay. I kind of miss people; next week I’ll be chatting with Martin Hayes, Orchardist to the stars, which will be fun.</description>
     </item>
     
     <item>
       <title>Free Online Workshops</title>
-      <link>http://localhost:1313/blog/free-workshops/</link>
+      <link>http://localhost:61541/blog/free-workshops/</link>
       <pubDate>Mon, 30 Mar 2020 09:31:06 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/blog/free-workshops/</guid>
+      <guid>http://localhost:61541/blog/free-workshops/</guid>
       <description>Doing my very small bit from a remote hillside in West Wales, I’ve started livestreaming a free online workshop on Wednesdays, at 10am.</description>
     </item>
     
     <item>
       <title>Recording Online Course</title>
-      <link>http://localhost:1313/blog/recording-online-course/</link>
+      <link>http://localhost:61541/blog/recording-online-course/</link>
       <pubDate>Mon, 18 Nov 2019 10:44:07 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/blog/recording-online-course/</guid>
+      <guid>http://localhost:61541/blog/recording-online-course/</guid>
       <description>I’m in the middle of writing the slideshow script for the forest garden online course, and I thought somebody might be interested in my recording setup, particularly if you’d like to create a course yourself.</description>
     </item>
     
     <item>
       <title>Our forest garden tours &amp; workshops setup</title>
-      <link>http://localhost:1313/blog/forest-garden-tours-workshops-setup/</link>
+      <link>http://localhost:61541/blog/forest-garden-tours-workshops-setup/</link>
       <pubDate>Tue, 05 Mar 2019 20:00:37 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/blog/forest-garden-tours-workshops-setup/</guid>
+      <guid>http://localhost:61541/blog/forest-garden-tours-workshops-setup/</guid>
       <description>I’ve organised the forest garden tours and workshops for 2019. I decided to market them as Airbnb holiday Experiences because it is a vast amount of work to manage an online shop, calendar and publicity.</description>
     </item>
     
     <item>
       <title>Now taking bookings for forest garden tours and workshops</title>
-      <link>http://localhost:1313/blog/forest-garden-experience/</link>
+      <link>http://localhost:61541/blog/forest-garden-experience/</link>
       <pubDate>Thu, 10 Jan 2019 18:20:18 +0000</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:1313/blog/forest-garden-experience/</guid>
+      <guid>http://localhost:61541/blog/forest-garden-experience/</guid>
       <description>Our 2019 workshops and tours are now available to book on Airbnb:
  Forest garden workshop Forest garden tour Both available from April through to September 2019 The tour is 2 hours, available in two slots 10am-12pm &amp;amp; 2pm-4pm The workshop is 6 hours, 10am-4pm  It has been an interesting experience (ahem) to go through the Airbnb application process.</description>
     </item>
