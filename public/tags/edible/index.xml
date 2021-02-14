@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Edible on Forest Garden Wales</title>
-    <link>http://localhost:61541/tags/edible/</link>
+    <link>http://localhost:1313/tags/edible/</link>
     <description>Recent content in Edible on Forest Garden Wales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Fri, 13 Jul 2018 16:09:44 +0100</lastBuildDate><atom:link href="http://localhost:61541/tags/edible/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jul 2018 16:09:44 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/edible/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Lure of the Stinging-less Nettle</title>
-      <link>http://localhost:61541/blog/the-lure-of-the-stinging-less-nettle/</link>
+      <link>http://localhost:1313/blog/the-lure-of-the-stinging-less-nettle/</link>
       <pubDate>Fri, 13 Jul 2018 16:09:44 +0100</pubDate>
       <author>hello@growdigital.org (Jake Rayson)</author>
-      <guid>http://localhost:61541/blog/the-lure-of-the-stinging-less-nettle/</guid>
+      <guid>http://localhost:1313/blog/the-lure-of-the-stinging-less-nettle/</guid>
       <description>The stinging nettle Urtica dioica is an excellent forest garden plant. Before it flowers*, it makes a fantastic soup, an excellent if strong-tasting spinach replacement, it makes a nice beer, it contains buckets of iron, oodles of nitrogen, it can be used as a nutritious chop ‘n’ drop mulching material or made into a fertiliser tea, it’s the main food for many butterflies and a host of other wildlife, it’s easy to grow.</description>
     </item>
     
