@@ -12,10 +12,10 @@ draft: false
 
 # Newsletter
 
-Sign up to the Forest Garden Wales newsletter for these amazing benefits:
+Sign up to the Backyard Forest newsletter for these amazing benefits:
 
 * Weekly forest garden news
-* Details of Wednesday’s Forest Garden Livestream
+* Details of Wednesday’s Backyard Forest Livestream
 * Sneak access to upcoming projects & random giveaways
 
 No name required, just pop your email in the box and click Subscribe.
