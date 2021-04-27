@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/article/</loc>
+    <lastmod>2021-04-27T11:41:50+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2020-12-31T11:30:17+00:00</lastmod>
+    <lastmod>2021-04-27T11:41:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/guard/</loc>
+    <lastmod>2021-04-27T11:41:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guard/</loc>
+    <lastmod>2021-04-27T11:41:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2021-04-27T11:41:50+01:00</lastmod>
   </url>
   
   <url>
@@ -19,11 +39,6 @@
   
   <url>
     <loc>http://localhost:1313/tags/native/</loc>
-    <lastmod>2020-12-31T11:30:17+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-12-31T11:30:17+00:00</lastmod>
   </url>
   
@@ -45,11 +60,6 @@
   <url>
     <loc>http://localhost:1313/status/201120-grey/</loc>
     <lastmod>2020-11-20T10:30:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/article/</loc>
-    <lastmod>2020-11-19T14:24:24+00:00</lastmod>
   </url>
   
   <url>
