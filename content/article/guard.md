@@ -19,7 +19,7 @@ If you have deer, wild boar, wild goats or rabbits, then you’ll need to protec
 
 This is a cheap method of creating a substantial tree guard, a big thank you to orchardist [Martin Hayes](https://www.theapplemancan.uk/) for sharing his knowledge.
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1619520826/stock-fencing.jpg" alt="Stock fencing on coastal farm landscape" caption="Standar UK stock fencing, shown beneath the barbed wire" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1619520826/stock-fencing.jpg" alt="Stock fencing on coastal farm landscape" caption="Standard UK stock fencing, shown beneath the barbed wire" >}}
 
 Things to note:
 
