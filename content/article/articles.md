@@ -27,6 +27,7 @@ Also see slideshow definition: [forestgarden.wales/talks/definition](/talks/defi
 * **Emergency**: a forest garden is good for climate emergency [forestgarden.wales/emergency](/emergency/)
 * **Estimate**: approximate time & money estimates [forestgarden.wales/estimate](/estimate/) 
 * **Ground cover**: preparation guide [forestgarden.wales/ground-cover](/ground-cover/)
+* **Guard**: cheap, robust tree guard [forestgarden.wales/guard](/guard)
 * **Hosta**: best species for eating [forestgarden.wales/hostas](/hostas/)
 * **Label**: Recycled ever-expanding plant labels [forestgarden.wales/label](/label/)
 * **Layers**: the 7 layers of a forest garden [forestgarden.wales/layers](/layers/)
