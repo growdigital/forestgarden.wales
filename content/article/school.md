@@ -29,6 +29,8 @@ Notes relating to setting up a forest garden in a school.
 * Nature study
 * Food
 
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1620161756/ddwylan/john-little-brownfield.jpg" alt="Closeup circular crushed chalk bed" caption="Brownfield materials make excellent low-fertility beds. Photo by John Little" >}}
+
 ## List ideas!
 
 eg
