@@ -9,7 +9,17 @@
     <managingEditor>hello@growdigital.org (Jake Rayson)</managingEditor>
     <webMaster>hello@growdigital.org (Jake Rayson)</webMaster>
     <copyright>This work is dual-licensed under MIT &amp; GPL v3</copyright>
-    <lastBuildDate>Tue, 27 Apr 2021 11:41:50 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 May 2021 13:24:09 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/forestgarden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>School</title>
+      <link>http://localhost:1313/school/</link>
+      <pubDate>Mon, 24 May 2021 13:24:09 +0100</pubDate>
+      <author>hello@growdigital.org (Jake Rayson)</author>
+      <guid>http://localhost:1313/school/</guid>
+      <description>Notes relating to setting up a forest garden in a school.
+ Arrange meeting with outdoor learning teacher Visit potential site With school Eco Council, teacher organises pupil questionnaire.</description>
+    </item>
+    
     <item>
       <title>Guard</title>
       <link>http://localhost:1313/guard/</link>
