@@ -38,4 +38,5 @@ Spring onion | [Everlasting Onion (Allium cepa perutile)](https://pfaf.org/user/
 Spring Greens | [Bistort](https://pfaf.org/user/Plant.aspx?LatinName=Polygonum+bistorta)
 
 <br>
-Note: many of these are from suggestions via that there internet, I can’t vouch for their alternativeness! Do check Alison Tindale’s web site [Backyard Larder](https://backyardlarder.co.uk) for more info & a shop
+
+Note: many of these are from suggestions via that there internet, I can’t vouch for their alternativeness! Do check Alison Tindale’s web site [Backyard Larder](https://backyardlarder.co.uk) for information and shop.
