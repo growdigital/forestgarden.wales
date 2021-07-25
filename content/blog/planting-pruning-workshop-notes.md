@@ -46,4 +46,4 @@ The biggest takeaway from the day is to **think of the pressure of the sap risin
 
 What you don’t want is **lollipopped tree**. This is where pruning done in a circle around the _edge_ of the tree. This encourages shoots at the end of the branches.
 
-Omissions, opinions, outrage? Tweet me [@ForestGdnWales](https://twitter.com/forestgdnwales) 🙂
+Omissions, opinions, outrage? Tweet me [@NatureWorksGdn](https://twitter.com/NatureWorksGdn) 🙂

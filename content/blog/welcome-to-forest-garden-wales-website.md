@@ -19,6 +19,6 @@ In 2018, you should be able to buy our video forest garden courses online as wel
 
 You can find us on social media in these different places:
 
-* Twitter [@ForestGdnWales](https://twitter.com/ForestGdnWales)
+* Twitter [@NatureWorksGdn](https://twitter.com/NatureWorksGdn)
 * Facebook [www.facebook.com/Forest-Garden-Wales](https://www.facebook.com/Forest-Garden-Wales/)
 * [Google+](https://plus.google.com/111290684473488016210)

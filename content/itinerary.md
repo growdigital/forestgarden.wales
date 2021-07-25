@@ -133,7 +133,7 @@ Wood chip, spacing, shade, temporary ground cover
 ### Contact  
 
 * Forest Garden Wales
-* [www.forestgarden.wales](https://www.forestgarden.wales/), email <jake@forestgarden.wales>, Twitter [@ForestGdnWales](https://twitter.com/ForestGdnWales)
-* Please leave a review on [Airbnb](https://www.airbnb.co.uk/users/show/233536194), [Tripadvisor](https://www.tripadvisor.co.uk/Attraction_Review-g580438-d13991813-Reviews-Forest_Garden_Wales-Newcastle_Emlyn_Carmarthenshire_Wales.html) or Facebook [@ForestGardenWales](https://www.facebook.com/forestgardenwales/), thank you 🙂
+* [www.forestgarden.wales](https://www.forestgarden.wales/), email <jake@forestgarden.wales>, Twitter [@NatureWorksGdn](https://twitter.com/NatureWorksGdn)
+* Please leave a review on [Airbnb](https://www.airbnb.co.uk/users/show/233536194), [Tripadvisor](https://www.tripadvisor.co.uk/Attraction_Review-g580438-d13991813-Reviews-Forest_Garden_Wales-Newcastle_Emlyn_Carmarthenshire_Wales.html) or Facebook [@NatureWorksGarden](https://www.facebook.com/forestgardenwales/), thank you 🙂
 
 This page online: <http://simp.ly/publish/wj614M>

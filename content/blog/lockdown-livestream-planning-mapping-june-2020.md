@@ -33,7 +33,7 @@ I haven’t managed to launch my free mini-course yet, I hope to get the script 
 
 Website [www.forestgarden.wales](https://www.forestgarden.wales/)
 [YouTube Channel](https://studio.youtube.com/channel/UCKXKUlYUniJwEy1Lkvs78qw)
-[Twitter](https://twitter.com/ForestGdnWales)
+[Twitter](https://twitter.com/NatureWorksGdn)
 
 ## Planning & map resources
 

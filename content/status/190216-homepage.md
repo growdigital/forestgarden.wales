@@ -7,4 +7,4 @@ imageAlt:
 - Screenshot of new Forest Garden Wales home page
 ---
 
-Finally put #ForestGarden tours & workshops on [@ForestGdnWales](https://mobile.twitter.com/ForestGdnWales) home page. It ain’t particularly pretty but it does the job, with buttons and everything.
+Finally put #ForestGarden tours & workshops on [@NatureWorksGdn](https://mobile.twitter.com/NatureWorksGdn) home page. It ain’t particularly pretty but it does the job, with buttons and everything.

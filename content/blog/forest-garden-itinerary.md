@@ -136,8 +136,8 @@ Wood chip, spacing, shade, temporary ground cover
 * Forest Garden Wales  
 * [www.forestgarden.wales](https://www.forestgarden.wales/)
 * <hello@forestgarden.wales>  
-* Twitter [@ForestGdnWales](https://twitter.com/ForestGdnWales)  
-* Facebook [@ForestGardenWales](https://facebook.com/ForestGardenWales)  
+* Twitter [@NatureWorksGdn](https://twitter.com/NatureWorksGdn)  
+* Facebook [@NatureWorksGarden](https://facebook.com/NatureWorksGarden)  
 * Please leave a review on Airbnb, Tripadvisor or Facebook, thank you 🙂
 
 This page online: <http://simp.ly/publish/wj614M>

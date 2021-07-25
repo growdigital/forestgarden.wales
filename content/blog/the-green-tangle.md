@@ -20,7 +20,7 @@ The Fruit Triangle at Forest Garden Wales (so called because it’s a triangle a
 
 This post itself is a bit of a ramble, as I will unpick the green tangle plant by plant.
 
-Do remember, **flowers are allowed**, nay, _encouraged_. Often edible and pollinator friendly, they also jolly the place up, and lest we forget [gardens are for people](https://mobile.twitter.com/ForestGdnWales/status/1008341790204841984). The more you enjoy a space, the more you want to be in that space, the more you will care for that space.
+Do remember, **flowers are allowed**, nay, _encouraged_. Often edible and pollinator friendly, they also jolly the place up, and lest we forget [gardens are for people](https://mobile.twitter.com/NatureWorksGdn/status/1008341790204841984). The more you enjoy a space, the more you want to be in that space, the more you will care for that space.
 
 So, first and in the foreground, I give you the glorious mallow:
 
