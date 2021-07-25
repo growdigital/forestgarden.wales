@@ -61,16 +61,16 @@ On my [favourite gardening podcast](https://rootsandall.co.uk/thepodcast/), [Gra
 
 I have a rather splendid online course, 3.5 hours of concentrated forest garden knowledge. It’s organised around my practical experience of creating a forest garden, to save you time and energy in the creation of your own green space. **Only £99 on Udemy** (although probably less if you time it right).
 
-The slides are freely available online at [alpha.backyardforest.uk](https://alpha.backyardforest.uk/)
+The slides are freely available online at [alpha.backyardforest.uk](https://www.forestgarden.wales/course/)
 
-1. **[Intro](https://alpha.backyardforest.uk/intro/)** Why growing edible crops with nature is so important
-2. **[Plan](https://alpha.backyardforest.uk/plan/)** Observations to make, wishes to list & mapping your patch
-3. **[Design](https://alpha.backyardforest.uk/design/)** How to put things in the right place
-4. **[Protect](https://alpha.backyardforest.uk/protect/)** Windbreaks & other tricks to protect your precious plants
-5. **[Perennial](https://alpha.backyardforest.uk/perennial/)** Veg Resilient & low maintenance veg are on the menu
-6. **[Canopy](https://alpha.backyardforest.uk/canopy/)** Plant the big trees, the canopy layer
-7. **[Ground](https://alpha.backyardforest.uk/ground/)** Prep Ways to clear the ground, so as to plant your plants
-8. **[Shrubs](https://alpha.backyardforest.uk/shrubs/)** & Cover Shrubs away & keep the ground covered
+1. **[Intro](https://www.forestgarden.wales/course/intro/)** Why growing edible crops with nature is so important
+2. **[Plan](https://www.forestgarden.wales/course/plan/)** Observations to make, wishes to list & mapping your patch
+3. **[Design](https://www.forestgarden.wales/course/design/)** How to put things in the right place
+4. **[Protect](https://www.forestgarden.wales/course/protect/)** Windbreaks & other tricks to protect your precious plants
+5. **[Perennial](https://www.forestgarden.wales/course/perennial/)** Veg Resilient & low maintenance veg are on the menu
+6. **[Canopy](https://www.forestgarden.wales/course/canopy/)** Plant the big trees, the canopy layer
+7. **[Ground](https://www.forestgarden.wales/course/ground/)** Prep Ways to clear the ground, so as to plant your plants
+8. **[Shrubs](https://www.forestgarden.wales/course/shrubs/)** & Cover Shrubs away & keep the ground covered
 
 [**Sign up now!**](https://www.udemy.com/course/the-backyard-forest/learn/?referralCode=CE87DB2FC1CA1B28807F)
 
