@@ -30,4 +30,4 @@ No name required, just pop your email in the box and click Subscribe.
   <input type="hidden" name="mc_signupsource" value="hosted">
 </form>
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1544305937/bunias-orientalis-44382668732.jpg" alt="Greenish bobbly seeds in envelope" caption="Turkish Rocket seeds" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1565295179/hoverfly-25218545.jpg" alt="Hoverfly on small flowers" caption="Natural predators in your forest garden" >}}
