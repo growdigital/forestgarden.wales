@@ -12,13 +12,13 @@ draft: false
 
 # Newsletter
 
-Sign up to the Backyard Forest newsletter for these amazing benefits:
+Sign up to the Forest Garden Livestream newsletter because:
 
-* Weekly forest garden news
-* Details of Wednesday’s Backyard Forest Livestream
-* Sneak access to upcoming projects & random giveaways
+* Get a heads-up of [Wednesday’s livestream](https://twitch.tv/natureworks)
+* Last week’s [livestream on YouTube](https://bit.ly/forest-garden-livestream)
+* Useful links to assorted forest garden ephemera & trinkets
 
-No name required, just pop your email in the box and click Subscribe.
+No name required, just pop your email in the box and click **Subscribe**.
 
 <form class="subscribe" action="https://wales.us17.list-manage.com/subscribe/post" method="POST">
   <input type="hidden" name="u" value="bef914615b5448ad5636c38fb">
