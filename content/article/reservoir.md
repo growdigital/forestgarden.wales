@@ -80,6 +80,6 @@ Martin Crawford has information about creating a reservoir in Agroforestry News 
 * Filter £200
 * Installation £500
 
-**£2,900**
+**Grand total about £2,900**
 
 Obviously, cheaper per reservoir for more reservoirs. Cheaper than a borehole (£10-15k)! Can use cheaper liner.
