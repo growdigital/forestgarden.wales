@@ -59,7 +59,7 @@ Martin Crawford has information about creating a reservoir in Agroforestry News 
 * Includes solar panels
 * _Subtotal £800_
 
-### Filter
+### Filter
 
 * 1000 litrew water tank IBC £70
 * Stones, gravel & grit £100?
