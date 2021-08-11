@@ -82,4 +82,4 @@ Martin Crawford has information about creating a reservoir in Agroforestry News 
 
 **Grand total about £2,900**
 
-Obviously, cheaper per reservoir for more reservoirs. Cheaper than a borehole (£10-15k)! Can use cheaper liner.
+Obviously, cheaper per reservoir for more reservoirs. Cheaper than a borehole (£10-15k)! Can also use cheaper liner and do some of the installation yourself.
